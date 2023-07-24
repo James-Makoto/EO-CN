@@ -1,0 +1,142 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</source>
+    <target>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>選択した迷宮へ行きます{f801}</source>
+    <target>選択した迷宮へ行きます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>グラズヘイムへ行きます{f801}</source>
+    <target>グラズヘイムへ行きます{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>第一階層 翠緑ノ樹海に移動します{f801}</source>
+    <target>第一階層 翠緑ノ樹海に移動します{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>第二階層 原始ノ大密林に移動します{f801}</source>
+    <target>第二階層 原始ノ大密林に移動します{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>第三階層 千年ノ蒼樹海に移動します{f801}</source>
+    <target>第三階層 千年ノ蒼樹海に移動します{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>第四階層 枯レ森に移動します{f801}</source>
+    <target>第四階層 枯レ森に移動します{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>第五階層 遺都シンジュクに移動します{f801}</source>
+    <target>第五階層 遺都シンジュクに移動します{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>第六階層 真朱ノ窟に移動します{f801}</source>
+    <target>第六階層 真朱ノ窟に移動します{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>第五階層 王ノ間に移動します{f801}</source>
+    <target>第五階層 王ノ間に移動します{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>第1迷宮 碧照ノ樹海{f801}</source>
+    <target>第1迷宮 碧照ノ樹海{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>第2迷宮 深霧ノ幽谷{f801}</source>
+    <target>第2迷宮 深霧ノ幽谷{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>第3迷宮 金剛獣ノ岩窟{f801}</source>
+    <target>第3迷宮 金剛獣ノ岩窟{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>第4迷宮 木偶ノ文庫{f801}</source>
+    <target>第4迷宮 木偶ノ文庫{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>第5迷宮 煌天破ノ都{f801}</source>
+    <target>第5迷宮 煌天破ノ都{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>第6迷宮 暗国ノ殿{f801}</source>
+    <target>第6迷宮 暗国ノ殿{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>第2階層最後{f801}</source>
+    <target>第2階層最後{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>選択した大地へ行きます{f801}</source>
+    <target>選択した大地へ行きます{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>選択した小迷宮の上空へ行きます{f801}</source>
+    <target>選択した小迷宮の上空へ行きます{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>気球艇の装備を変更します{f801}</source>
+    <target>気球艇の装備を変更します{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>第1大地 風馳ノ草原{f801}</source>
+    <target>第1大地 風馳ノ草原{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>第2大地 丹紅ノ石林{f801}</source>
+    <target>第2大地 丹紅ノ石林{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>第3大地 銀嵐ノ霊峰{f801}</source>
+    <target>第3大地 銀嵐ノ霊峰{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>第4大地 絶界雲上域{f801}</source>
+    <target>第4大地 絶界雲上域{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>第5大地 虚ノ空域{f801}</source>
+    <target>第5大地 虚ノ空域{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>携帯磁軸を使用する{f801}</source>
+    <target>携帯磁軸を使用する{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>グラズヘイム エリア{8754}に移動します{f801}</source>
+    <target>グラズヘイム エリア{8754}に移動します{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>グラズヘイム エリア{8755}に移動します{f801}</source>
+    <target>グラズヘイム エリア{8755}に移動します{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>グラズヘイム エリア{8756}に移動します{f801}</source>
+    <target>グラズヘイム エリア{8756}に移動します{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>グラズヘイム エリア{8757}に移動します{f801}</source>
+    <target>グラズヘイム エリア{8757}に移動します{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>グラズヘイム エリア{8758}に移動します{f801}</source>
+    <target>グラズヘイム エリア{8758}に移動します{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</source>
+    <target>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</source>
+    <target>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</target>
+  </entry>
+</mbm>

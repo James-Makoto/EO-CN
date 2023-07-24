@@ -1,0 +1,770 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{8001}</source>
+    <target>ダミー{8001}</target>
+  </entry>
+  <entry id="1">
+    <source>とても足が長いタコ{8001}ゆでて食べるのが基本である{8001}</source>
+    <target>とても足が長いタコ{8001}ゆでて食べるのが基本である{8001}</target>
+  </entry>
+  <entry id="2">
+    <source>春に産卵の為、沿岸に出没し{8001}八つの羽で空を舞う魚{8001}</source>
+    <target>春に産卵の為、沿岸に出没し{8001}八つの羽で空を舞う魚{8001}</target>
+  </entry>
+  <entry id="3">
+    <source>暗闇でランタンのように{8001}光る体長7cmほどのイカ{8001}</source>
+    <target>暗闇でランタンのように{8001}光る体長7cmほどのイカ{8001}</target>
+  </entry>
+  <entry id="4">
+    <source>岩陰から敵を襲う獰猛な魚{8001}見た目は悪いが意外に美味{8001}</source>
+    <target>岩陰から敵を襲う獰猛な魚{8001}見た目は悪いが意外に美味{8001}</target>
+  </entry>
+  <entry id="5">
+    <source>背ビレに毒を持つ恐ろしい魚{8001}だが、その身は美味で高価{8001}</source>
+    <target>背ビレに毒を持つ恐ろしい魚{8001}だが、その身は美味で高価{8001}</target>
+  </entry>
+  <entry id="6">
+    <source>全長20cmほどの小型の魚{8001}で体側に七つの斑点がある{8001}</source>
+    <target>全長20cmほどの小型の魚{8001}で体側に七つの斑点がある{8001}</target>
+  </entry>
+  <entry id="7">
+    <source>シルバーソードと呼ばれる魚{8001}丸ごと焼いて食すのが一般的{8001}</source>
+    <target>シルバーソードと呼ばれる魚{8001}丸ごと焼いて食すのが一般的{8001}</target>
+  </entry>
+  <entry id="8">
+    <source>体は石のように固く前頭部が{8001}こぶのように突き出ている{8001}</source>
+    <target>体は石のように固く前頭部が{8001}こぶのように突き出ている{8001}</target>
+  </entry>
+  <entry id="9">
+    <source>アーモロード北の海域に住む{8001}1m程の大きなカレイ{8001}</source>
+    <target>アーモロード北の海域に住む{8001}1m程の大きなカレイ{8001}</target>
+  </entry>
+  <entry id="10">
+    <source>砂泥に住む細長い体型の魚{8001}身は淡白で美味しいと評判{8001}</source>
+    <target>砂泥に住む細長い体型の魚{8001}身は淡白で美味しいと評判{8001}</target>
+  </entry>
+  <entry id="11">
+    <source>体長は1mを超える肉食魚{8001}クセがない白身は美味{8001}</source>
+    <target>体長は1mを超える肉食魚{8001}クセがない白身は美味{8001}</target>
+  </entry>
+  <entry id="12">
+    <source>高い栄養価を誇り、薬用と{8001}しても重宝される二枚貝{8001}</source>
+    <target>高い栄養価を誇り、薬用と{8001}しても重宝される二枚貝{8001}</target>
+  </entry>
+  <entry id="13">
+    <source>クエの一種でその巨大な口で{8001}イカや魚を丸呑みにする{8001}</source>
+    <target>クエの一種でその巨大な口で{8001}イカや魚を丸呑みにする{8001}</target>
+  </entry>
+  <entry id="14">
+    <source>全身にトゲを持つ棘皮動物{8001}海都でも大人気の食材である{8001}</source>
+    <target>全身にトゲを持つ棘皮動物{8001}海都でも大人気の食材である{8001}</target>
+  </entry>
+  <entry id="15">
+    <source>幅広な葉を持つ海草{8001}食用以外に肥料にもなる{8001}</source>
+    <target>幅広な葉を持つ海草{8001}食用以外に肥料にもなる{8001}</target>
+  </entry>
+  <entry id="16">
+    <source>海底に生息するスッポン{8001}攻撃的で噛み付くと放さない{8001}</source>
+    <target>海底に生息するスッポン{8001}攻撃的で噛み付くと放さない{8001}</target>
+  </entry>
+  <entry id="17">
+    <source>南国に住むエビの一種{8001}具足の様な外殻で身を守る{8001}</source>
+    <target>南国に住むエビの一種{8001}具足の様な外殻で身を守る{8001}</target>
+  </entry>
+  <entry id="18">
+    <source>大変美味だが、卵巣、肝臓に{8001}猛毒を持つ危険な高級魚{8001}</source>
+    <target>大変美味だが、卵巣、肝臓に{8001}猛毒を持つ危険な高級魚{8001}</target>
+  </entry>
+  <entry id="19">
+    <source>砂泥底に生息する大型のカニ{8001}カニ味噌と卵が重宝される{8001}</source>
+    <target>砂泥底に生息する大型のカニ{8001}カニ味噌と卵が重宝される{8001}</target>
+  </entry>
+  <entry id="20">
+    <source>黒いダイヤの別名を持つ大型{8001}の魚で大物は3mを越える{8001}</source>
+    <target>黒いダイヤの別名を持つ大型{8001}の魚で大物は3mを越える{8001}</target>
+  </entry>
+  <entry id="21">
+    <source>なめしたものは鞄から防具{8001}まで様々な製品に使われる{8001}</source>
+    <target>なめしたものは鞄から防具{8001}まで様々な製品に使われる{8001}</target>
+  </entry>
+  <entry id="22">
+    <source>海都では海の神からの恵みと{8001}して祝いの日に食べられる{8001}</source>
+    <target>海都では海の神からの恵みと{8001}して祝いの日に食べられる{8001}</target>
+  </entry>
+  <entry id="23">
+    <source>加工がしやすい為、海都の{8001}工芸品職人に重宝される{8001}</source>
+    <target>加工がしやすい為、海都の{8001}工芸品職人に重宝される{8001}</target>
+  </entry>
+  <entry id="24">
+    <source>皮膚から抽出される油{8001}主な用途は燃料や食用油{8001}</source>
+    <target>皮膚から抽出される油{8001}主な用途は燃料や食用油{8001}</target>
+  </entry>
+  <entry id="25">
+    <source>燻製にして臼で挽いた物は{8001}長寿の妙薬で、とても高価{8001}</source>
+    <target>燻製にして臼で挽いた物は{8001}長寿の妙薬で、とても高価{8001}</target>
+  </entry>
+  <entry id="26">
+    <source>程よいしなやかさを持つ{8001}弩の弦などに使用される{8001}</source>
+    <target>程よいしなやかさを持つ{8001}弩の弦などに使用される{8001}</target>
+  </entry>
+  <entry id="27">
+    <source>海都沿岸に群生する針葉樹{8001}精密な木工品に重宝される{8001}</source>
+    <target>海都沿岸に群生する針葉樹{8001}精密な木工品に重宝される{8001}</target>
+  </entry>
+  <entry id="28">
+    <source>煉瓦の原料、工芸品と様々な{8001}用途を持つ粘土質の赤土{8001}</source>
+    <target>煉瓦の原料、工芸品と様々な{8001}用途を持つ粘土質の赤土{8001}</target>
+  </entry>
+  <entry id="29">
+    <source>人間一人くらいは容易く{8001}両断出来そうな程巨大な鋏{8001}</source>
+    <target>人間一人くらいは容易く{8001}両断出来そうな程巨大な鋏{8001}</target>
+  </entry>
+  <entry id="30">
+    <source>百年以上前の時代に作られた{8001}100エンの価値がある銅貨{8001}</source>
+    <target>百年以上前の時代に作られた{8001}100エンの価値がある銅貨{8001}</target>
+  </entry>
+  <entry id="31">
+    <source>部族の巫女が噛み砕いた実を{8001}発酵させた物で霊薬とされる{8001}</source>
+    <target>部族の巫女が噛み砕いた実を{8001}発酵させた物で霊薬とされる{8001}</target>
+  </entry>
+  <entry id="32">
+    <source>棘のあるオレンジ色の果実{8001}果肉が少なく食用に向かない{8001}</source>
+    <target>棘のあるオレンジ色の果実{8001}果肉が少なく食用に向かない{8001}</target>
+  </entry>
+  <entry id="33">
+    <source>南国の果実で、デンプン質の{8001}果肉には様々な食べ方がある{8001}</source>
+    <target>南国の果実で、デンプン質の{8001}果肉には様々な食べ方がある{8001}</target>
+  </entry>
+  <entry id="34">
+    <source>港アイテム34解説文{8001}</source>
+    <target>港アイテム34解説文{8001}</target>
+  </entry>
+  <entry id="35">
+    <source>港アイテム35解説文{8001}</source>
+    <target>港アイテム35解説文{8001}</target>
+  </entry>
+  <entry id="36">
+    <source>お腹に蜜を集めて貯蔵する{8001}アリでとても甘く美味{8001}</source>
+    <target>お腹に蜜を集めて貯蔵する{8001}アリでとても甘く美味{8001}</target>
+  </entry>
+  <entry id="37">
+    <source>港アイテム37解説文{8001}</source>
+    <target>港アイテム37解説文{8001}</target>
+  </entry>
+  <entry id="38">
+    <source>個体が鎖状に連結する習性{8001}を持つ珍しい無脊椎動物{8001}</source>
+    <target>個体が鎖状に連結する習性{8001}を持つ珍しい無脊椎動物{8001}</target>
+  </entry>
+  <entry id="39">
+    <source>巨大な赤い体のアリで{8001}噛まれると非常に痛む{8001}</source>
+    <target>巨大な赤い体のアリで{8001}噛まれると非常に痛む{8001}</target>
+  </entry>
+  <entry id="40">
+    <source>食物の殺菌作用に優れる{8001}通常は実の状態で取引される{8001}</source>
+    <target>食物の殺菌作用に優れる{8001}通常は実の状態で取引される{8001}</target>
+  </entry>
+  <entry id="41">
+    <source>火薬の原料とされる結晶{8001}天然の物と人工の物がある{8001}</source>
+    <target>火薬の原料とされる結晶{8001}天然の物と人工の物がある{8001}</target>
+  </entry>
+  <entry id="42">
+    <source>東国の銀山で産出される{8001}良質な銀で高値で取引される{8001}</source>
+    <target>東国の銀山で産出される{8001}良質な銀で高値で取引される{8001}</target>
+  </entry>
+  <entry id="43">
+    <source>百年以上前の時代に作られた{8001}500エンの価値がある銀貨{8001}</source>
+    <target>百年以上前の時代に作られた{8001}500エンの価値がある銀貨{8001}</target>
+  </entry>
+  <entry id="44">
+    <source>禍々しい外見をした巻貝{8001}吐き出す液は紫の染料になる{8001}</source>
+    <target>禍々しい外見をした巻貝{8001}吐き出す液は紫の染料になる{8001}</target>
+  </entry>
+  <entry id="45">
+    <source>温暖な海で異常成長した海草{8001}食用ではなく肥料に使われる{8001}</source>
+    <target>温暖な海で異常成長した海草{8001}食用ではなく肥料に使われる{8001}</target>
+  </entry>
+  <entry id="46">
+    <source>無数の触手を持つヒトデ{8001}網に絡むため漁師に嫌われる{8001}</source>
+    <target>無数の触手を持つヒトデ{8001}網に絡むため漁師に嫌われる{8001}</target>
+  </entry>
+  <entry id="47">
+    <source>木の脂が年月をかけ固まった{8001}宝石で、虫の入った物は高価{8001}</source>
+    <target>木の脂が年月をかけ固まった{8001}宝石で、虫の入った物は高価{8001}</target>
+  </entry>
+  <entry id="48">
+    <source>赤鉄鉱とも呼ばれる鉱石で{8001}製鉄を行うことで資源となる{8001}</source>
+    <target>赤鉄鉱とも呼ばれる鉱石で{8001}製鉄を行うことで資源となる{8001}</target>
+  </entry>
+  <entry id="49">
+    <source>船乗りたちの海難避けの御守{8001}海都中の土産物屋で買える{8001}</source>
+    <target>船乗りたちの海難避けの御守{8001}海都中の土産物屋で買える{8001}</target>
+  </entry>
+  <entry id="50">
+    <source>博物全誌にのみ存在が示唆{8001}された紫色のウリの一種{8001}</source>
+    <target>博物全誌にのみ存在が示唆{8001}された紫色のウリの一種{8001}</target>
+  </entry>
+  <entry id="51">
+    <source>木の幹から採取される樹脂{8001}香料や軟膏の原料に使われる{8001}</source>
+    <target>木の幹から採取される樹脂{8001}香料や軟膏の原料に使われる{8001}</target>
+  </entry>
+  <entry id="52">
+    <source>木綿を文様染めした工芸品{8001}柄からその国の文化が見える{8001}</source>
+    <target>木綿を文様染めした工芸品{8001}柄からその国の文化が見える{8001}</target>
+  </entry>
+  <entry id="53">
+    <source>高い糖度を誇り独特の甘い{8001}香りを放つサトウキビの一種{8001}</source>
+    <target>高い糖度を誇り独特の甘い{8001}香りを放つサトウキビの一種{8001}</target>
+  </entry>
+  <entry id="54">
+    <source>美しく加工も容易なゾウの牙{8001}工芸品素材として珍重される{8001}</source>
+    <target>美しく加工も容易なゾウの牙{8001}工芸品素材として珍重される{8001}</target>
+  </entry>
+  <entry id="55">
+    <source>大きな卵型の果実で種子は{8001}チョコレートの原料となる{8001}</source>
+    <target>大きな卵型の果実で種子は{8001}チョコレートの原料となる{8001}</target>
+  </entry>
+  <entry id="56">
+    <source>塩漬けの小魚を発酵させた{8001}調味料で独特の香りを持つ{8001}</source>
+    <target>塩漬けの小魚を発酵させた{8001}調味料で独特の香りを持つ{8001}</target>
+  </entry>
+  <entry id="57">
+    <source>カカオの実から作られた菓子{8001}滋養強壮作用に優れる{8001}</source>
+    <target>カカオの実から作られた菓子{8001}滋養強壮作用に優れる{8001}</target>
+  </entry>
+  <entry id="58">
+    <source>恰幅のいい裸の老人を象った{8001}象牙製の小さな留め具{8001}</source>
+    <target>恰幅のいい裸の老人を象った{8001}象牙製の小さな留め具{8001}</target>
+  </entry>
+  <entry id="59">
+    <source>百年以上前の時代に作られた{8001}1000エンで売れる金貨{8001}</source>
+    <target>百年以上前の時代に作られた{8001}1000エンで売れる金貨{8001}</target>
+  </entry>
+  <entry id="60">
+    <source>10000エンの価値がある{8001}プラチナ製の貨幣{8001}</source>
+    <target>10000エンの価値がある{8001}プラチナ製の貨幣{8001}</target>
+  </entry>
+  <entry id="61">
+    <source>海都近海で流通する交易品{8001}海賊が商船から略奪したもの{8001}</source>
+    <target>海都近海で流通する交易品{8001}海賊が商船から略奪したもの{8001}</target>
+  </entry>
+  <entry id="62">
+    <source>遥か異国との珍しい交易品{8001}海賊が商船から略奪したもの{8001}</source>
+    <target>遥か異国との珍しい交易品{8001}海賊が商船から略奪したもの{8001}</target>
+  </entry>
+  <entry id="63">
+    <source>討伐した海賊船の旗{8001}海賊旗と引換に賞金が出る{8001}</source>
+    <target>討伐した海賊船の旗{8001}海賊旗と引換に賞金が出る{8001}</target>
+  </entry>
+  <entry id="64">
+    <source>討伐した海賊船の旗{8001}激戦の為血塗れている{8001}</source>
+    <target>討伐した海賊船の旗{8001}激戦の為血塗れている{8001}</target>
+  </entry>
+  <entry id="65">
+    <source>港アイテム65解説文{8001}</source>
+    <target>港アイテム65解説文{8001}</target>
+  </entry>
+  <entry id="66">
+    <source>港アイテム66解説文{8001}</source>
+    <target>港アイテム66解説文{8001}</target>
+  </entry>
+  <entry id="67">
+    <source>港アイテム67解説文{8001}</source>
+    <target>港アイテム67解説文{8001}</target>
+  </entry>
+  <entry id="68">
+    <source>港アイテム68解説文{8001}</source>
+    <target>港アイテム68解説文{8001}</target>
+  </entry>
+  <entry id="69">
+    <source>港アイテム69解説文{8001}</source>
+    <target>港アイテム69解説文{8001}</target>
+  </entry>
+  <entry id="70">
+    <source>港アイテム70解説文{8001}</source>
+    <target>港アイテム70解説文{8001}</target>
+  </entry>
+  <entry id="71">
+    <source>港アイテム71解説文{8001}</source>
+    <target>港アイテム71解説文{8001}</target>
+  </entry>
+  <entry id="72">
+    <source>菱形で平たい形をした魚{8001}見た目に反して獰猛{8001}</source>
+    <target>菱形で平たい形をした魚{8001}見た目に反して獰猛{8001}</target>
+  </entry>
+  <entry id="73">
+    <source>全体的な姿が槍の穂先に似た{8001}50cm程度のイカの一種{8001}</source>
+    <target>全体的な姿が槍の穂先に似た{8001}50cm程度のイカの一種{8001}</target>
+  </entry>
+  <entry id="74">
+    <source>北の大陸近くの海溝で獲れる{8001}円盤型で平たい独特な体の魚{8001}</source>
+    <target>北の大陸近くの海溝で獲れる{8001}円盤型で平たい独特な体の魚{8001}</target>
+  </entry>
+  <entry id="75">
+    <source>南海に生息する超巨大なイカ{8001}伝説に残るほど稀な存在{8001}</source>
+    <target>南海に生息する超巨大なイカ{8001}伝説に残るほど稀な存在{8001}</target>
+  </entry>
+  <entry id="76">
+    <source>港アイテム76解説文{8001}</source>
+    <target>港アイテム76解説文{8001}</target>
+  </entry>
+  <entry id="77">
+    <source>港アイテム77解説文{8001}</source>
+    <target>港アイテム77解説文{8001}</target>
+  </entry>
+  <entry id="78">
+    <source>港アイテム78解説文{8001}</source>
+    <target>港アイテム78解説文{8001}</target>
+  </entry>
+  <entry id="79">
+    <source>港アイテム79解説文{8001}</source>
+    <target>港アイテム79解説文{8001}</target>
+  </entry>
+  <entry id="80">
+    <source>港アイテム80解説文{8001}</source>
+    <target>港アイテム80解説文{8001}</target>
+  </entry>
+  <entry id="81">
+    <source>港アイテム81解説文{8001}</source>
+    <target>港アイテム81解説文{8001}</target>
+  </entry>
+  <entry id="82">
+    <source>港アイテム82解説文{8001}</source>
+    <target>港アイテム82解説文{8001}</target>
+  </entry>
+  <entry id="83">
+    <source>港アイテム83解説文{8001}</source>
+    <target>港アイテム83解説文{8001}</target>
+  </entry>
+  <entry id="84">
+    <source>港アイテム84解説文{8001}</source>
+    <target>港アイテム84解説文{8001}</target>
+  </entry>
+  <entry id="85">
+    <source>港アイテム85解説文{8001}</source>
+    <target>港アイテム85解説文{8001}</target>
+  </entry>
+  <entry id="86">
+    <source>港アイテム86解説文{8001}</source>
+    <target>港アイテム86解説文{8001}</target>
+  </entry>
+  <entry id="87">
+    <source>港アイテム87解説文{8001}</source>
+    <target>港アイテム87解説文{8001}</target>
+  </entry>
+  <entry id="88">
+    <source>港アイテム88解説文{8001}</source>
+    <target>港アイテム88解説文{8001}</target>
+  </entry>
+  <entry id="89">
+    <source>港アイテム89解説文{8001}</source>
+    <target>港アイテム89解説文{8001}</target>
+  </entry>
+  <entry id="90">
+    <source>港アイテム90解説文{8001}</source>
+    <target>港アイテム90解説文{8001}</target>
+  </entry>
+  <entry id="91">
+    <source>港アイテム91解説文{8001}</source>
+    <target>港アイテム91解説文{8001}</target>
+  </entry>
+  <entry id="92">
+    <source>港アイテム92解説文{8001}</source>
+    <target>港アイテム92解説文{8001}</target>
+  </entry>
+  <entry id="93">
+    <source>港アイテム93解説文{8001}</source>
+    <target>港アイテム93解説文{8001}</target>
+  </entry>
+  <entry id="94">
+    <source>港アイテム94解説文{8001}</source>
+    <target>港アイテム94解説文{8001}</target>
+  </entry>
+  <entry id="95">
+    <source>港アイテム95解説文{8001}</source>
+    <target>港アイテム95解説文{8001}</target>
+  </entry>
+  <entry id="96">
+    <source>港アイテム96解説文{8001}</source>
+    <target>港アイテム96解説文{8001}</target>
+  </entry>
+  <entry id="97">
+    <source>港アイテム97解説文{8001}</source>
+    <target>港アイテム97解説文{8001}</target>
+  </entry>
+  <entry id="98">
+    <source>港アイテム98解説文{8001}</source>
+    <target>港アイテム98解説文{8001}</target>
+  </entry>
+  <entry id="99">
+    <source>港アイテム99解説文{8001}</source>
+    <target>港アイテム99解説文{8001}</target>
+  </entry>
+  <entry id="100">
+    <source>港アイテム100解説文{8001}</source>
+    <target>港アイテム100解説文{8001}</target>
+  </entry>
+  <entry id="101">
+    <source>港アイテム101解説文{8001}</source>
+    <target>港アイテム101解説文{8001}</target>
+  </entry>
+  <entry id="102">
+    <source>港アイテム102解説文{8001}</source>
+    <target>港アイテム102解説文{8001}</target>
+  </entry>
+  <entry id="103">
+    <source>港アイテム103解説文{8001}</source>
+    <target>港アイテム103解説文{8001}</target>
+  </entry>
+  <entry id="104">
+    <source>港アイテム104解説文{8001}</source>
+    <target>港アイテム104解説文{8001}</target>
+  </entry>
+  <entry id="105">
+    <source>港アイテム105解説文{8001}</source>
+    <target>港アイテム105解説文{8001}</target>
+  </entry>
+  <entry id="106">
+    <source>港アイテム106解説文{8001}</source>
+    <target>港アイテム106解説文{8001}</target>
+  </entry>
+  <entry id="107">
+    <source>港アイテム107解説文{8001}</source>
+    <target>港アイテム107解説文{8001}</target>
+  </entry>
+  <entry id="108">
+    <source>港アイテム108解説文{8001}</source>
+    <target>港アイテム108解説文{8001}</target>
+  </entry>
+  <entry id="109">
+    <source>港アイテム109解説文{8001}</source>
+    <target>港アイテム109解説文{8001}</target>
+  </entry>
+  <entry id="110">
+    <source>港アイテム110解説文{8001}</source>
+    <target>港アイテム110解説文{8001}</target>
+  </entry>
+  <entry id="111">
+    <source>港アイテム111解説文{8001}</source>
+    <target>港アイテム111解説文{8001}</target>
+  </entry>
+  <entry id="112">
+    <source>港アイテム112解説文{8001}</source>
+    <target>港アイテム112解説文{8001}</target>
+  </entry>
+  <entry id="113">
+    <source>港アイテム113解説文{8001}</source>
+    <target>港アイテム113解説文{8001}</target>
+  </entry>
+  <entry id="114">
+    <source>港アイテム114解説文{8001}</source>
+    <target>港アイテム114解説文{8001}</target>
+  </entry>
+  <entry id="115">
+    <source>港アイテム115解説文{8001}</source>
+    <target>港アイテム115解説文{8001}</target>
+  </entry>
+  <entry id="116">
+    <source>港アイテム116解説文{8001}</source>
+    <target>港アイテム116解説文{8001}</target>
+  </entry>
+  <entry id="117">
+    <source>港アイテム117解説文{8001}</source>
+    <target>港アイテム117解説文{8001}</target>
+  </entry>
+  <entry id="118">
+    <source>港アイテム118解説文{8001}</source>
+    <target>港アイテム118解説文{8001}</target>
+  </entry>
+  <entry id="119">
+    <source>港アイテム119解説文{8001}</source>
+    <target>港アイテム119解説文{8001}</target>
+  </entry>
+  <entry id="120">
+    <source>港アイテム120解説文{8001}</source>
+    <target>港アイテム120解説文{8001}</target>
+  </entry>
+  <entry id="121">
+    <source>港アイテム121解説文{8001}</source>
+    <target>港アイテム121解説文{8001}</target>
+  </entry>
+  <entry id="122">
+    <source>港アイテム122解説文{8001}</source>
+    <target>港アイテム122解説文{8001}</target>
+  </entry>
+  <entry id="123">
+    <source>港アイテム123解説文{8001}</source>
+    <target>港アイテム123解説文{8001}</target>
+  </entry>
+  <entry id="124">
+    <source>港アイテム124解説文{8001}</source>
+    <target>港アイテム124解説文{8001}</target>
+  </entry>
+  <entry id="125">
+    <source>港アイテム125解説文{8001}</source>
+    <target>港アイテム125解説文{8001}</target>
+  </entry>
+  <entry id="126">
+    <source>港アイテム126解説文{8001}</source>
+    <target>港アイテム126解説文{8001}</target>
+  </entry>
+  <entry id="127">
+    <source>港アイテム127解説文{8001}</source>
+    <target>港アイテム127解説文{8001}</target>
+  </entry>
+  <entry id="128">
+    <source>港アイテム128解説文{8001}</source>
+    <target>港アイテム128解説文{8001}</target>
+  </entry>
+  <entry id="129">
+    <source>航海の為の伝統的な食料品{8001}鉄の板と呼ばれるほど堅い{8001}</source>
+    <target>航海の為の伝統的な食料品{8001}鉄の板と呼ばれるほど堅い{8001}</target>
+  </entry>
+  <entry id="130">
+    <source>海都産の豆類の種子を{8001}乾燥させた安価な食料品{8001}</source>
+    <target>海都産の豆類の種子を{8001}乾燥させた安価な食料品{8001}</target>
+  </entry>
+  <entry id="131">
+    <source>海都に住む羊の乳から作った{8001}チーズで栄養価が高い{8001}</source>
+    <target>海都に住む羊の乳から作った{8001}チーズで栄養価が高い{8001}</target>
+  </entry>
+  <entry id="132">
+    <source>ビタミンを多分に含んだ{8001}木の実で遠洋航海には必須{8001}</source>
+    <target>ビタミンを多分に含んだ{8001}木の実で遠洋航海には必須{8001}</target>
+  </entry>
+  <entry id="133">
+    <source>遠洋航海における貴重な糖分{8001}摂取源である干しぶどう{8001}</source>
+    <target>遠洋航海における貴重な糖分{8001}摂取源である干しぶどう{8001}</target>
+  </entry>
+  <entry id="134">
+    <source>塩漬けし発酵させた野菜{8001}ビタミンが非常に豊富{8001}</source>
+    <target>塩漬けし発酵させた野菜{8001}ビタミンが非常に豊富{8001}</target>
+  </entry>
+  <entry id="135">
+    <source>タラを塩漬けにし干したもの{8001}塩抜きを行う必要がある{8001}</source>
+    <target>タラを塩漬けにし干したもの{8001}塩抜きを行う必要がある{8001}</target>
+  </entry>
+  <entry id="136">
+    <source>イシモチを発酵させたもの{8001}保存が効くが臭いが強い{8001}</source>
+    <target>イシモチを発酵させたもの{8001}保存が効くが臭いが強い{8001}</target>
+  </entry>
+  <entry id="137">
+    <source>塩漬けにした後干した牛肉{8001}様々な用途に用いられる{8001}</source>
+    <target>塩漬けにした後干した牛肉{8001}様々な用途に用いられる{8001}</target>
+  </entry>
+  <entry id="138">
+    <source>勇魚肉を燻製にしたベーコン{8001}船員たちの貴重な蛋白源{8001}</source>
+    <target>勇魚肉を燻製にしたベーコン{8001}船員たちの貴重な蛋白源{8001}</target>
+  </entry>
+  <entry id="139">
+    <source>一匹で船員たちの夕食を全て{8001}賄えるほど巨大なゾウガメ{8001}</source>
+    <target>一匹で船員たちの夕食を全て{8001}賄えるほど巨大なゾウガメ{8001}</target>
+  </entry>
+  <entry id="140">
+    <source>港アイテム140解説文{8001}</source>
+    <target>港アイテム140解説文{8001}</target>
+  </entry>
+  <entry id="141">
+    <source>港アイテム141解説文{8001}</source>
+    <target>港アイテム141解説文{8001}</target>
+  </entry>
+  <entry id="142">
+    <source>古き言葉でヘビを意味する{8001}砲身が非常に長い砲{8001}</source>
+    <target>古き言葉でヘビを意味する{8001}砲身が非常に長い砲{8001}</target>
+  </entry>
+  <entry id="143">
+    <source>粉砕者の異名を持つ{8001}海都最新最強の滑腔砲{8001}</source>
+    <target>粉砕者の異名を持つ{8001}海都最新最強の滑腔砲{8001}</target>
+  </entry>
+  <entry id="144">
+    <source>メインマストの前に設置{8001}される補助用のマスト{8001}</source>
+    <target>メインマストの前に設置{8001}される補助用のマスト{8001}</target>
+  </entry>
+  <entry id="145">
+    <source>船の最後尾に艤装する{8001}大型の補助マスト{8001}</source>
+    <target>船の最後尾に艤装する{8001}大型の補助マスト{8001}</target>
+  </entry>
+  <entry id="146">
+    <source>大漁を祈るためのイルカを{8001}象った船首像{8001}</source>
+    <target>大漁を祈るためのイルカを{8001}象った船首像{8001}</target>
+  </entry>
+  <entry id="147">
+    <source>漁の成功を祈願して作られた{8001}海洋の女神を象った船首像{8001}</source>
+    <target>漁の成功を祈願して作られた{8001}海洋の女神を象った船首像{8001}</target>
+  </entry>
+  <entry id="148">
+    <source>掲げると大漁が約束されると{8001}言われる伝統工芸の大漁旗{8001}</source>
+    <target>掲げると大漁が約束されると{8001}言われる伝統工芸の大漁旗{8001}</target>
+  </entry>
+  <entry id="149">
+    <source>より大きく派手になった{8001}大漁祈願の大旗{8001}</source>
+    <target>より大きく派手になった{8001}大漁祈願の大旗{8001}</target>
+  </entry>
+  <entry id="150">
+    <source>麻や綿糸で編まれた投げ網{8001}海都の漁師の一般的な漁具{8001}</source>
+    <target>麻や綿糸で編まれた投げ網{8001}海都の漁師の一般的な漁具{8001}</target>
+  </entry>
+  <entry id="151">
+    <source>水面からつるして使う網{8001}投網以上の効果を発揮する{8001}</source>
+    <target>水面からつるして使う網{8001}投網以上の効果を発揮する{8001}</target>
+  </entry>
+  <entry id="152">
+    <source>名人ネッドの巨大銛{8001}威力が高く勇魚狩りに有効{8001}</source>
+    <target>名人ネッドの巨大銛{8001}威力が高く勇魚狩りに有効{8001}</target>
+  </entry>
+  <entry id="153">
+    <source>勇魚を狙い撃つ為の銛砲{8001}火薬の力で銛を打ち出す{8001}</source>
+    <target>勇魚を狙い撃つ為の銛砲{8001}火薬の力で銛を打ち出す{8001}</target>
+  </entry>
+  <entry id="154">
+    <source>船首水線下に取り付ける{8001}海藻を切り裂くための武装{8001}</source>
+    <target>船首水線下に取り付ける{8001}海藻を切り裂くための武装{8001}</target>
+  </entry>
+  <entry id="155">
+    <source>船底の耐久性を高める装甲{8001}危険な暗礁を航海可能になる{8001}</source>
+    <target>船底の耐久性を高める装甲{8001}危険な暗礁を航海可能になる{8001}</target>
+  </entry>
+  <entry id="156">
+    <source>大漁の祈願と航海の安全を{8001}祈り掲げる小さな旗{8001}</source>
+    <target>大漁の祈願と航海の安全を{8001}祈り掲げる小さな旗{8001}</target>
+  </entry>
+  <entry id="157">
+    <source>移動をしながら道中の魚を{8001}獲ることが出来る底引き網{8001}</source>
+    <target>移動をしながら道中の魚を{8001}獲ることが出来る底引き網{8001}</target>
+  </entry>
+  <entry id="158">
+    <source>南海の海賊船討伐を{8001}認可された証の旗{8001}</source>
+    <target>南海の海賊船討伐を{8001}認可された証の旗{8001}</target>
+  </entry>
+  <entry id="159">
+    <source>北海の海賊船討伐を{8001}認可された証の旗{8001}</source>
+    <target>北海の海賊船討伐を{8001}認可された証の旗{8001}</target>
+  </entry>
+  <entry id="160">
+    <source>港アイテム160解説文{8001}</source>
+    <target>港アイテム160解説文{8001}</target>
+  </entry>
+  <entry id="161">
+    <source>極めて硬質な黒石の表面に{8001}螺旋状に文字が彫られた石板{8001}</source>
+    <target>極めて硬質な黒石の表面に{8001}螺旋状に文字が彫られた石板{8001}</target>
+  </entry>
+  <entry id="162">
+    <source>かのプリニウスが書き残した{8001}有名な博物全誌原書の切れ端{8001}</source>
+    <target>かのプリニウスが書き残した{8001}有名な博物全誌原書の切れ端{8001}</target>
+  </entry>
+  <entry id="163">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第1巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第1巻{8001}</target>
+  </entry>
+  <entry id="164">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第2巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第2巻{8001}</target>
+  </entry>
+  <entry id="165">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第3巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第3巻{8001}</target>
+  </entry>
+  <entry id="166">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第4巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第4巻{8001}</target>
+  </entry>
+  <entry id="167">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第5巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第5巻{8001}</target>
+  </entry>
+  <entry id="168">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第6巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第6巻{8001}</target>
+  </entry>
+  <entry id="169">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第7巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第7巻{8001}</target>
+  </entry>
+  <entry id="170">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第8巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第8巻{8001}</target>
+  </entry>
+  <entry id="171">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第9巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第9巻{8001}</target>
+  </entry>
+  <entry id="172">
+    <source>かのプリニウスが書き残した{8001}博物全誌の武具編第10巻{8001}</source>
+    <target>かのプリニウスが書き残した{8001}博物全誌の武具編第10巻{8001}</target>
+  </entry>
+  <entry id="173">
+    <source>港アイテム173解説文{8001}</source>
+    <target>港アイテム173解説文{8001}</target>
+  </entry>
+  <entry id="174">
+    <source>港アイテム174解説文{8001}</source>
+    <target>港アイテム174解説文{8001}</target>
+  </entry>
+  <entry id="175">
+    <source>港アイテム175解説文{8001}</source>
+    <target>港アイテム175解説文{8001}</target>
+  </entry>
+  <entry id="176">
+    <source>港アイテム176解説文{8001}</source>
+    <target>港アイテム176解説文{8001}</target>
+  </entry>
+  <entry id="177">
+    <source>港アイテム177解説文{8001}</source>
+    <target>港アイテム177解説文{8001}</target>
+  </entry>
+  <entry id="178">
+    <source>港アイテム178解説文{8001}</source>
+    <target>港アイテム178解説文{8001}</target>
+  </entry>
+  <entry id="179">
+    <source>港アイテム179解説文{8001}</source>
+    <target>港アイテム179解説文{8001}</target>
+  </entry>
+  <entry id="180">
+    <source>港アイテム180解説文{8001}</source>
+    <target>港アイテム180解説文{8001}</target>
+  </entry>
+  <entry id="181">
+    <source>港アイテム181解説文{8001}</source>
+    <target>港アイテム181解説文{8001}</target>
+  </entry>
+  <entry id="182">
+    <source>港アイテム182解説文{8001}</source>
+    <target>港アイテム182解説文{8001}</target>
+  </entry>
+  <entry id="183">
+    <source>港アイテム183解説文{8001}</source>
+    <target>港アイテム183解説文{8001}</target>
+  </entry>
+  <entry id="184">
+    <source>港アイテム184解説文{8001}</source>
+    <target>港アイテム184解説文{8001}</target>
+  </entry>
+  <entry id="185">
+    <source>港アイテム185解説文{8001}</source>
+    <target>港アイテム185解説文{8001}</target>
+  </entry>
+  <entry id="186">
+    <source>港アイテム186解説文{8001}</source>
+    <target>港アイテム186解説文{8001}</target>
+  </entry>
+  <entry id="187">
+    <source>港アイテム187解説文{8001}</source>
+    <target>港アイテム187解説文{8001}</target>
+  </entry>
+  <entry id="188">
+    <source>港アイテム188解説文{8001}</source>
+    <target>港アイテム188解説文{8001}</target>
+  </entry>
+  <entry id="189">
+    <source>港アイテム189解説文{8001}</source>
+    <target>港アイテム189解説文{8001}</target>
+  </entry>
+  <entry id="190">
+    <source>港アイテム190解説文{8001}</source>
+    <target>港アイテム190解説文{8001}</target>
+  </entry>
+  <entry id="191">
+    <source>港アイテム191解説文{8001}</source>
+    <target>港アイテム191解説文{8001}</target>
+  </entry>
+</mbm>

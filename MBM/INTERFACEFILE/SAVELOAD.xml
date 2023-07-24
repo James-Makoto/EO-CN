@@ -1,0 +1,346 @@
+<mbm>
+  <entry id="1">
+    <source>オプションデータをセーブしています{f801}</source>
+    <target>オプションデータをセーブしています{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>オプションデータの読み込みに失敗しました{f801}オプションデータを初期化します{f801}難易度はSTANDARDに設定されます{f801}</source>
+    <target>オプションデータの読み込みに失敗しました{f801}オプションデータを初期化します{f801}難易度はSTANDARDに設定されます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>オプションデータのセーブに{f801}失敗しました{f801}</source>
+    <target>オプションデータのセーブに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>ゲームデータをセーブしています{f801}</source>
+    <target>ゲームデータをセーブしています{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>ゲームデータのセーブに{f801}失敗しました{f801}</source>
+    <target>ゲームデータのセーブに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>ゲームデータをバックアップしています{f801}</source>
+    <target>ゲームデータをバックアップしています{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>ゲームデータのバックアップ{f801}データのセーブに失敗しました{f801}</source>
+    <target>ゲームデータのバックアップ{f801}データのセーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>地図データの読み込みに{f801}失敗しました{f801}地図データを初期化しました{f801}</source>
+    <target>地図データの読み込みに{f801}失敗しました{f801}地図データを初期化しました{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>バックアップデータの{f801}復帰をしています{f801}</source>
+    <target>バックアップデータの{f801}復帰をしています{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>全てのゲームデータが{f801}破損しています{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</source>
+    <target>全てのゲームデータが{f801}破損しています{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>ゲームデータがありません{f801}</source>
+    <target>ゲームデータがありません{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>ゲームデータをセーブしています{f801}</source>
+    <target>ゲームデータをセーブしています{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>セーブに失敗しました{f801}</source>
+    <target>セーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>マップデータをセーブしています{f801}</source>
+    <target>マップデータをセーブしています{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>マップデータをセーブに失敗しました{f801}</source>
+    <target>マップデータをセーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>集めたギルドカードのセーブに失敗しました{f801}</source>
+    <target>集めたギルドカードのセーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>中断データが破損しています{f801}ロードに失敗しました{f801}データを初期化します{f801}</source>
+    <target>中断データが破損しています{f801}ロードに失敗しました{f801}データを初期化します{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>中断データのセーブに失敗しました{f801}</source>
+    <target>中断データのセーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>中断データがありません{f801}</source>
+    <target>中断データがありません{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>中断データのクリアに失敗しました{f801}</source>
+    <target>中断データのクリアに失敗しました{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>集めたギルドカードのデータが{f801}初期化されました{f801}</source>
+    <target>集めたギルドカードのデータが{f801}初期化されました{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>集めたギルドカードをセーブしています{f801}</source>
+    <target>集めたギルドカードをセーブしています{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>地図データをセーブしています{f801}</source>
+    <target>地図データをセーブしています{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>中断データをセーブしています{f801}</source>
+    <target>中断データをセーブしています{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>中断データをロードしています{f801}</source>
+    <target>中断データをロードしています{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>セーブデータをロードしています{f801}</source>
+    <target>セーブデータをロードしています{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>セーブデータを初期化しています{f801}</source>
+    <target>セーブデータを初期化しています{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>ゲームデータの読み込みに{f801}失敗しました。バックアップデータ{f801}から復帰します{f801}</source>
+    <target>ゲームデータの読み込みに{f801}失敗しました。バックアップデータ{f801}から復帰します{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>中断データを削除しています{f801}</source>
+    <target>中断データを削除しています{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>セーブデータにアクセスできません{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</source>
+    <target>セーブデータにアクセスできません{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>集めたギルドカードの{f801}読み込みに失敗しました{f801}集めたカードを初期化します{f801}</source>
+    <target>集めたギルドカードの{f801}読み込みに失敗しました{f801}集めたカードを初期化します{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>セーブデータが破損しているため{f801}初期化します{f801}</source>
+    <target>セーブデータが破損しているため{f801}初期化します{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>セーブデータを初期化します{f801}</source>
+    <target>セーブデータを初期化します{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>セーブデータを初期化しました{f801}</source>
+    <target>セーブデータを初期化しました{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>セーブデータを初期化できませんでした{f801}</source>
+    <target>セーブデータを初期化できませんでした{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>このまま電源をOFFにするか、{f801}HOMEメニューから{f801}ゲームを終了してください。{f801}{f802}あるいは、中断データを削除して、{f801}ゲームを再開しますか?{f801}</source>
+    <target>このまま電源をOFFにするか、{f801}HOMEメニューから{f801}ゲームを終了してください。{f801}{f802}あるいは、中断データを削除して、{f801}ゲームを再開しますか?{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>中断データを消して、再開しますか?{f801}</source>
+    <target>中断データを消して、再開しますか?{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>中断データを削除しました{f801}</source>
+    <target>中断データを削除しました{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>オプションデータを新規作成します{f801}</source>
+    <target>オプションデータを新規作成します{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>漢字変換学習辞書をセーブしています{f801}</source>
+    <target>漢字変換学習辞書をセーブしています{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>漢字変換学習辞書のセーブに{f801}失敗しました{f801}</source>
+    <target>漢字変換学習辞書のセーブに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>漢字変換学習辞書の読み込みに失敗しました{f801}漢字変換学習辞書を初期化しました{f801}</source>
+    <target>漢字変換学習辞書の読み込みに失敗しました{f801}漢字変換学習辞書を初期化しました{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>漢字変換学習辞書が破損しています{f801}漢字変換学習辞書を初期化しました{f801}</source>
+    <target>漢字変換学習辞書が破損しています{f801}漢字変換学習辞書を初期化しました{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>SDカードを認識できませんでした{f801}</source>
+    <target>SDカードを認識できませんでした{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>追加データが破損しています{f801}追加データを作成し直します{f801}</source>
+    <target>追加データが破損しています{f801}追加データを作成し直します{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>SDカードを認識できませんでした{f801}</source>
+    <target>SDカードを認識できませんでした{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>追加データが破損しています{f801}追加データを作成し直します{f801}</source>
+    <target>追加データが破損しています{f801}追加データを作成し直します{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>SDカードを認識できませんでした{f801}</source>
+    <target>SDカードを認識できませんでした{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>SDカードを認識できませんでした{f801}</source>
+    <target>SDカードを認識できませんでした{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>セーブデータが見つかりません{f801}追加データとして新規に作成します{f801}</source>
+    <target>セーブデータが見つかりません{f801}追加データとして新規に作成します{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>追加データを作成しています{f801}※この処理には時間がかかる{f801}場合があります{f801}</source>
+    <target>追加データを作成しています{f801}※この処理には時間がかかる{f801}場合があります{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>追加データを作成しました{f801}</source>
+    <target>追加データを作成しました{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>SDカードに必要な空き容量が{f801}ありません{f801}追加データの作成に失敗しました{f801}</source>
+    <target>SDカードに必要な空き容量が{f801}ありません{f801}追加データの作成に失敗しました{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>エラーが発生し、作成が途中で{f801}中断されました{f801}追加データの作成に失敗しました{f801}</source>
+    <target>エラーが発生し、作成が途中で{f801}中断されました{f801}追加データの作成に失敗しました{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}追加データの作成に失敗しました{f801}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}追加データの作成に失敗しました{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>SDカードアクセス中にエラーが{f801}発生しました{f801}追加データの作成に失敗しました{f801}</source>
+    <target>SDカードアクセス中にエラーが{f801}発生しました{f801}追加データの作成に失敗しました{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>SDカードの処理に失敗しました{f801}</source>
+    <target>SDカードの処理に失敗しました{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>SDカードを認識できませんでした{f801}追加データの作成に失敗しました{f801}</source>
+    <target>SDカードを認識できませんでした{f801}追加データの作成に失敗しました{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>SDカードへの書き込みに{f801}失敗しました{f801}</source>
+    <target>SDカードへの書き込みに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>SDカードへの書き込みに{f801}成功しました{f801}</source>
+    <target>SDカードへの書き込みに{f801}成功しました{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>データが破損していたため{f801}削除しました{f801}もう一度セーブしてください{f801}</source>
+    <target>データが破損していたため{f801}削除しました{f801}もう一度セーブしてください{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>SDカードへの書き込みに{f801}失敗しました{f801}もう一度セーブしてください{f801}</source>
+    <target>SDカードへの書き込みに{f801}失敗しました{f801}もう一度セーブしてください{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>SDカードを認識できませんでした{f801}SDカードへの書き込みに{f801}失敗しました{f801}</source>
+    <target>SDカードを認識できませんでした{f801}SDカードへの書き込みに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>SDカードに必要な空き容量が{f801}ありません。SDカードへの{f801}書き込みに失敗しました{f801}</source>
+    <target>SDカードに必要な空き容量が{f801}ありません。SDカードへの{f801}書き込みに失敗しました{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>データがありません{f801}</source>
+    <target>データがありません{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>データが破損しています{f801}読み込みに失敗しました{f801}</source>
+    <target>データが破損しています{f801}読み込みに失敗しました{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>SDカードに書き込んでいます{f801}</source>
+    <target>SDカードに書き込んでいます{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>private/Nintendo 3DS{f801}/app/BSKJ/{f801}にQRコードと画像データを出力しました{f801}</source>
+    <target>private/Nintendo 3DS{f801}/app/BSKJ/{f801}にQRコードと画像データを出力しました{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>SDカードを認識できませんでした{f801}</source>
+    <target>SDカードを認識できませんでした{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>SDカードが書き込み禁止に{f801}なっています{f801}</source>
+    <target>SDカードが書き込み禁止に{f801}なっています{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>SDカードに必要な空き容量がありません{f801}SDカードへの書き込みに失敗しました{f801}</source>
+    <target>SDカードに必要な空き容量がありません{f801}SDカードへの書き込みに失敗しました{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>すれちがい通信にデータを反映しています{f801}</source>
+    <target>すれちがい通信にデータを反映しています{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>体験版のセーブデータが{f801}破損しています{f801}{f802}体験版タイトル画面のオプションで{f801}DATA INITIALIZEを{f801}選択しデータを削除して下さい{f801}</source>
+    <target>体験版のセーブデータが{f801}破損しています{f801}{f802}体験版タイトル画面のオプションで{f801}DATA INITIALIZEを{f801}選択しデータを削除して下さい{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>体験版のデータがありません{f801}</source>
+    <target>体験版のデータがありません{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>地図データの読み込みに{f801}失敗しました{f801}</source>
+    <target>地図データの読み込みに{f801}失敗しました{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>追加データが壊れています{f801}壊れた追加データはニンテンドー{f801}3DS本体設定で削除できます{f801}</source>
+    <target>追加データが壊れています{f801}壊れた追加データはニンテンドー{f801}3DS本体設定で削除できます{f801}</target>
+  </entry>
+  <entry id="184">
+    <source>体験版のオプションデータを{f801}読み込めませんでした{f801}</source>
+    <target>体験版のオプションデータを{f801}読み込めませんでした{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>セーブデータの初期化に失敗しました{f801}</source>
+    <target>セーブデータの初期化に失敗しました{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>追加データが破損しています{f801}ニンテンドー3DSの本体設定から{f801}追加データを削除してください{f801}</source>
+    <target>追加データが破損しています{f801}ニンテンドー3DSの本体設定から{f801}追加データを削除してください{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>ギルドカードの変更内容をセーブしています{f801}</source>
+    <target>ギルドカードの変更内容をセーブしています{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>ギルドカードのセーブに失敗しました{f801}</source>
+    <target>ギルドカードのセーブに失敗しました{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>ゲームデータをバックアップ{f801}しています{f801}</source>
+    <target>ゲームデータをバックアップ{f801}しています{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>オプションデータを{f801}セーブしています{f801}</source>
+    <target>オプションデータを{f801}セーブしています{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>漢字変換学習辞書を{f801}セーブしています{f801}</source>
+    <target>漢字変換学習辞書を{f801}セーブしています{f801}</target>
+  </entry>
+</mbm>

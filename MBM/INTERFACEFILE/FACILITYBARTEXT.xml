@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="1">
+    <source>この街のさまざまな人の依頼を見て{f801}引き受けることができます{f801}</source>
+    <target>この街のさまざまな人の依頼を見て{f801}引き受けることができます{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>クエストの結果を報告したり{f801}依頼を破棄することができます{f801}</source>
+    <target>クエストの結果を報告したり{f801}依頼を破棄することができます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>酒場にやってくる冒険者と話し{f801}さまざまな情報を得られます{f801}</source>
+    <target>酒場にやってくる冒険者と話し{f801}さまざまな情報を得られます{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>店の女店主と話します{f801}</source>
+    <target>店の女店主と話します{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>誰と会話しますか?{f801}</source>
+    <target>誰と会話しますか?{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>依頼はありません{f801}</source>
+    <target>依頼はありません{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>この依頼を引き受けますか?{f801}</source>
+    <target>この依頼を引き受けますか?{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>依頼を引き受けました{f801}</source>
+    <target>依頼を引き受けました{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>引き受けている依頼がありません{f801}</source>
+    <target>引き受けている依頼がありません{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>この依頼を破棄しますか?{f801}</source>
+    <target>この依頼を破棄しますか?{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>依頼を破棄しました{f801}</source>
+    <target>依頼を破棄しました{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>誰もいません{f801}</source>
+    <target>誰もいません{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>これ以上受けられません!{f801}</source>
+    <target>これ以上受けられません!{f801}</target>
+  </entry>
+</mbm>

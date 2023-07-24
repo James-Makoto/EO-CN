@@ -1,0 +1,186 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>MOVIE{f801}</source>
+    <target>MOVIE{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>BGM{f801}</source>
+    <target>BGM{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>VOICE{f801}</source>
+    <target>VOICE{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>ムービーを再生します{f801}</source>
+    <target>ムービーを再生します{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>BGMを再生します{f801}</source>
+    <target>BGMを再生します{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>キャラクターボイスを再生します{f801}</source>
+    <target>キャラクターボイスを再生します{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>選択してください{f801}</source>
+    <target>選択してください{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>体験版ではアルバムモードを{f801}使用することはできません{f801}</source>
+    <target>体験版ではアルバムモードを{f801}使用することはできません{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>見たいムービーを選択してください{f801}</source>
+    <target>見たいムービーを選択してください{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>???{f801}</source>
+    <target>???{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>L・Rでキャラクターの切り替えができます{f801}</source>
+    <target>L・Rでキャラクターの切り替えができます{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>欠番{f801}</source>
+    <target>欠番{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>オープニング{f801}</source>
+    <target>オープニング{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>冒険者の街へ{f801}</source>
+    <target>冒険者の街へ{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>すべての始まり{f801}</source>
+    <target>すべての始まり{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>世界樹の迷宮へ{f801}</source>
+    <target>世界樹の迷宮へ{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>欠番{f801}</source>
+    <target>欠番{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>欠番{f801}</source>
+    <target>欠番{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>グングニルの真実{f801}</source>
+    <target>グングニルの真実{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>過去との邂逅{f801}</source>
+    <target>過去との邂逅{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>異変の兆候{f801}</source>
+    <target>異変の兆候{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>少女の意思{f801}</source>
+    <target>少女の意思{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>仲間たちの絆{f801}</source>
+    <target>仲間たちの絆{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>エンディング{f801}</source>
+    <target>エンディング{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>BGM00{f801}</source>
+    <target>BGM00{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>BGM01{f801}</source>
+    <target>BGM01{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>BGM02{f801}</source>
+    <target>BGM02{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>主人公{f801}</source>
+    <target>主人公{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>リッキィ{f801}</source>
+    <target>リッキィ{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>サイモン{f801}</source>
+    <target>サイモン{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>アーサー{f801}</source>
+    <target>アーサー{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>ラクーナ{f801}</source>
+    <target>ラクーナ{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>レン{f801}</source>
+    <target>レン{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>ツスクル{f801}</source>
+    <target>ツスクル{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>ローザ{f801}</source>
+    <target>ローザ{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>オースティン{f801}</source>
+    <target>オースティン{f801}</target>
+  </entry>
+  <entry id="209">
+    <source>シララ{f801}</source>
+    <target>シララ{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>長鳴鶏の宿{f801}</source>
+    <target>長鳴鶏の宿{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>シリカ商店{f801}</source>
+    <target>シリカ商店{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>金鹿の酒場{f801}</source>
+    <target>金鹿の酒場{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>冒険者ギルド{f801}</source>
+    <target>冒険者ギルド{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>ラーダ執政院{f801}</source>
+    <target>ラーダ執政院{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>ヴィズル{f801}</source>
+    <target>ヴィズル{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>マイク{f801}</source>
+    <target>マイク{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>酒場の人々{f801}</source>
+    <target>酒場の人々{f801}</target>
+  </entry>
+</mbm>

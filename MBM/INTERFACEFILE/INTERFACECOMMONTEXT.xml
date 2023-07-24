@@ -1,0 +1,430 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}を手に入れた{f801}</source>
+    <target>{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}を手に入れた{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}を{f811}{0100}個手に入れた{f801}</source>
+    <target>{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}を{f811}{0100}個手に入れた{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>{f804}{0500}{f811}{0000}{f804}{0000}エンを手に入れた{f801}</source>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}エンを手に入れた{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>選択したアイテムを破棄しますが、{f801}よろしいですか?{f801}</source>
+    <target>選択したアイテムを破棄しますが、{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>アイテムが持ちきれません{f801}捨てるアイテムを選択してください{f801}</source>
+    <target>アイテムが持ちきれません{f801}捨てるアイテムを選択してください{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>メインクラス:{f811}{0000}{f801}</source>
+    <target>メインクラス:{f811}{0000}{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>サブクラス :{f811}{0100}{f801}</source>
+    <target>サブクラス :{f811}{0100}{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>クラス:{f811}{0000}{f801}</source>
+    <target>クラス:{f811}{0000}{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>ギルドカードを持ちきれません{f801}削除するカードを選択してください{f801}</source>
+    <target>ギルドカードを持ちきれません{f801}削除するカードを選択してください{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>選択したギルドカードを削除します{f801}よろしいですか?{f801}</source>
+    <target>選択したギルドカードを削除します{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>新たにモンスターを発見しました!{f801}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</source>
+    <target>新たにモンスターを発見しました!{f801}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>新たにアイテムを発見しました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</source>
+    <target>新たにアイテムを発見しました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>新たにアイテムを発見しました!{f801}{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}{f801}</source>
+    <target>新たにアイテムを発見しました!{f801}{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>新たに食材を発見しました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</source>
+    <target>新たに食材を発見しました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>新たに食材を発見しました!{f801}{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}{f801}</source>
+    <target>新たに食材を発見しました!{f801}{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>クリアデータをセーブしますか?{f801}</source>
+    <target>クリアデータをセーブしますか?{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>全てのデータを消去します{f801}よろしいですか?{f801}</source>
+    <target>全てのデータを消去します{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
+    <target>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>ゲームデータの初期化に成功しました{f801}</source>
+    <target>ゲームデータの初期化に成功しました{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>ゲームデータの初期化に失敗しました{f801}</source>
+    <target>ゲームデータの初期化に失敗しました{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>データをロードしますか?{f801}中断データは削除されます{f801}</source>
+    <target>データをロードしますか?{f801}中断データは削除されます{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>ニューゲームで始めますか?{f801}中断データは削除されます{f801}</source>
+    <target>ニューゲームで始めますか?{f801}中断データは削除されます{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>{f804}{0500}ニューゲーム{f804}{0000}で始めますか?{f801}中断データは削除されます{f801}</source>
+    <target>{f804}{0500}ニューゲーム{f804}{0000}で始めますか?{f801}中断データは削除されます{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>持ち帰った食材を{f801}{f811}{0000}エンで売却しました{f801}</source>
+    <target>持ち帰った食材を{f801}{f811}{0000}エンで売却しました{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>幸運にも一生を得た君たちだが{f801}食材は失われ、パーティは壊滅的な有様だ。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</source>
+    <target>幸運にも一生を得た君たちだが{f801}食材は失われ、パーティは壊滅的な有様だ。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>帝国船の攻撃により、君たちは重傷を負い{f801}食材は全て失われてしまった…。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</source>
+    <target>帝国船の攻撃により、君たちは重傷を負い{f801}食材は全て失われてしまった…。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>竜巻により、君たちは重傷を負い{f801}食材は全て失われてしまった…。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</source>
+    <target>竜巻により、君たちは重傷を負い{f801}食材は全て失われてしまった…。{f801}{f804}{0500}まずは傷を癒し、態勢を立て直そう。{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>{f811}{0000}{f801}</source>
+    <target>{f811}{0000}{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>迷宮{f801}</source>
+    <target>迷宮{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>選択したい座標をタッチしてください。{f801}</source>
+    <target>選択したい座標をタッチしてください。{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>この座標でよろしいですか。{f801}</source>
+    <target>この座標でよろしいですか。{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>難易度は「PICNIC」と{f801}「STANDARD」と「EXPERT」の{f801}三種類あります{f801}{f802}「PICNIC」では戦闘の難易度は低く、{f801}パーティが全滅しても「ゲームオーバー」{f801}ではなくその場から再開できます{f801}{f802}また、一部のアイテムが使っても{f801}減らないなど、より、気軽に楽しめる{f801}設定となっています{f801}{f802}「STANDARD」では{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけその場から再開できます{f801}{f802}「EXPERT」ではより高い難易度のため{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}</source>
+    <target>難易度は「PICNIC」と{f801}「STANDARD」と「EXPERT」の{f801}三種類あります{f801}{f802}「PICNIC」では戦闘の難易度は低く、{f801}パーティが全滅しても「ゲームオーバー」{f801}ではなくその場から再開できます{f801}{f802}また、一部のアイテムが使っても{f801}減らないなど、より、気軽に楽しめる{f801}設定となっています{f801}{f802}「STANDARD」では{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけその場から再開できます{f801}{f802}「EXPERT」ではより高い難易度のため{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>この秘宝でよろしいですか?{f801}</source>
+    <target>この秘宝でよろしいですか?{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>その名前は使えません{f801}</source>
+    <target>その名前は使えません{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>LV20に到達したことで、{f801}{f804}{0300}ベテランランク{f804}{0000}になりました!{f801}{f802}以降、LV20になったキャラは{f801}ベテランのスキルが習得{f801}できるようになります{f801}</source>
+    <target>LV20に到達したことで、{f801}{f804}{0300}ベテランランク{f804}{0000}になりました!{f801}{f802}以降、LV20になったキャラは{f801}ベテランのスキルが習得{f801}できるようになります{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>LV40に到達したことで、{f801}{f804}{0300}マスターランク{f804}{0000}になりました!{f801}{f802}以降、LV40になったキャラは{f801}マスターのスキルが習得{f801}できるようになります{f801}</source>
+    <target>LV40に到達したことで、{f801}{f804}{0300}マスターランク{f804}{0000}になりました!{f801}{f802}以降、LV40になったキャラは{f801}マスターのスキルが習得{f801}できるようになります{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>経験値入手可能なキャラはいません!{f801}</source>
+    <target>経験値入手可能なキャラはいません!{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}を手に入れた!!!{f801}</source>
+    <target>{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}を手に入れた!!!{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}を{f811}{0100}個手に入れた!!!{f801}</source>
+    <target>{f815}{0000}{f804}{0900}{f811}{0000}{f804}{0000}を{f811}{0100}個手に入れた!!!{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>{f811}{0000}は{f801}{f815}{0000}{f804}{0900}{f811}{0100}{f804}{0000}を手に入れた!{f801}</source>
+    <target>{f811}{0000}は{f801}{f815}{0000}{f804}{0900}{f811}{0100}{f804}{0000}を手に入れた!{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>グリモア石が倉庫に入りきりません{f801}捨てるグリモア石を選択してください{f801}</source>
+    <target>グリモア石が倉庫に入りきりません{f801}捨てるグリモア石を選択してください{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>選択したグリモア石を破棄しますが、{f801}よろしいですか?{f801}</source>
+    <target>選択したグリモア石を破棄しますが、{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>装備が外れてしまいますが{f801}よろしいですか?{f801}</source>
+    <target>装備が外れてしまいますが{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>{f804}{0500}{f811}{0000}{f804}{0000}から{f801}{f804}{0500}{f811}{0100}{f804}{0000}を依頼されました!{f801}</source>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}から{f801}{f804}{0500}{f811}{0100}{f804}{0000}を依頼されました!{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>{f811}{0000}エンですが{f801}よろしいですか?{f801}</source>
+    <target>{f811}{0000}エンですが{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>これでよろしいですか?{f801}</source>
+    <target>これでよろしいですか?{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>{f843}{0000}の{f801}HPが{f811}{0000}回復した!{f801}</source>
+    <target>{f843}{0000}の{f801}HPが{f811}{0000}回復した!{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>{f843}{0000}の{f801}HPが{f811}{0000}減少した!{f801}</source>
+    <target>{f843}{0000}の{f801}HPが{f811}{0000}減少した!{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>{f843}{0000}の{f801}TPが{f811}{0000}回復した!{f801}</source>
+    <target>{f843}{0000}の{f801}TPが{f811}{0000}回復した!{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>{f843}{0000}の{f801}TPが{f811}{0000}減少した!{f801}</source>
+    <target>{f843}{0000}の{f801}TPが{f811}{0000}減少した!{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</source>
+    <target>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</source>
+    <target>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>全員のHPが{f811}{0000}回復した!{f801}</source>
+    <target>全員のHPが{f811}{0000}回復した!{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>全員のHPが{f811}{0000}減少した!{f801}</source>
+    <target>全員のHPが{f811}{0000}減少した!{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>全員のTPが{f811}{0000}回復した!{f801}</source>
+    <target>全員のTPが{f811}{0000}回復した!{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>全員のTPが{f811}{0000}減少した!{f801}</source>
+    <target>全員のTPが{f811}{0000}減少した!{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</source>
+    <target>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</source>
+    <target>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>フロアジャンプが解禁されました!{f801}</source>
+    <target>フロアジャンプが解禁されました!{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>BGMの音量を調整します{f801}</source>
+    <target>BGMの音量を調整します{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>SEの音量を調整します{f801}</source>
+    <target>SEの音量を調整します{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>VOICEの音量を調整します{f801}</source>
+    <target>VOICEの音量を調整します{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>メッセージ速度を調整します{f801}</source>
+    <target>メッセージ速度を調整します{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>戦闘中のメッセージ速度を調整します{f801}</source>
+    <target>戦闘中のメッセージ速度を調整します{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>戦闘中のアニメーション速度を調整します{f801}</source>
+    <target>戦闘中のアニメーション速度を調整します{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>戦闘中のオートバトル速度を調整します{f801}</source>
+    <target>戦闘中のオートバトル速度を調整します{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>戦闘中のスキップ速度を調整します{f801}</source>
+    <target>戦闘中のスキップ速度を調整します{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>左右のカメラ操作を設定します{f801}</source>
+    <target>左右のカメラ操作を設定します{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>上下のカメラ操作を設定します{f801}</source>
+    <target>上下のカメラ操作を設定します{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>マップの自動書き込みを設定します{f801}</source>
+    <target>マップの自動書き込みを設定します{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>マップの移動速度を設定します{f801}</source>
+    <target>マップの移動速度を設定します{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>宿屋宿泊時の自動セーブを設定します{f801}</source>
+    <target>宿屋宿泊時の自動セーブを設定します{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>Lボタン決定機能を設定します{f801}</source>
+    <target>Lボタン決定機能を設定します{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>難易度を設定します{f801}</source>
+    <target>難易度を設定します{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>BGMを確認する事が出来ます{f801}</source>
+    <target>BGMを確認する事が出来ます{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>セーブデータを削除します{f801}</source>
+    <target>セーブデータを削除します{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>タイトル画面に戻ります{f801}</source>
+    <target>タイトル画面に戻ります{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>オプション画面を抜けます{f801}</source>
+    <target>オプション画面を抜けます{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>BGMの音量を調整します{f801}</source>
+    <target>BGMの音量を調整します{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>SEの音量を調整します{f801}</source>
+    <target>SEの音量を調整します{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>VOICEの音量を調整します{f801}</source>
+    <target>VOICEの音量を調整します{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>メッセージ速度を調整します{f801}</source>
+    <target>メッセージ速度を調整します{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>戦闘中のメッセージ速度を調整します{f801}</source>
+    <target>戦闘中のメッセージ速度を調整します{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>戦闘中のアニメーション速度を調整します{f801}</source>
+    <target>戦闘中のアニメーション速度を調整します{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>戦闘中のオートバトル速度を調整します{f801}</source>
+    <target>戦闘中のオートバトル速度を調整します{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>戦闘中のスキップ速度を調整します{f801}</source>
+    <target>戦闘中のスキップ速度を調整します{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>左右のカメラ操作を設定します{f801}</source>
+    <target>左右のカメラ操作を設定します{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>上下のカメラ操作を設定します{f801}</source>
+    <target>上下のカメラ操作を設定します{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>マップの自動書き込みを設定します{f801}</source>
+    <target>マップの自動書き込みを設定します{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>マップの移動速度を設定します{f801}</source>
+    <target>マップの移動速度を設定します{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>宿屋宿泊時の自動セーブを設定します{f801}</source>
+    <target>宿屋宿泊時の自動セーブを設定します{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>Lボタン決定機能を設定します{f801}</source>
+    <target>Lボタン決定機能を設定します{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>難易度を設定します{f801}</source>
+    <target>難易度を設定します{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>BGMを確認する事が出来ます{f801}</source>
+    <target>BGMを確認する事が出来ます{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>セーブデータを削除します{f801}</source>
+    <target>セーブデータを削除します{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>タイトル画面に戻ります{f801}</source>
+    <target>タイトル画面に戻ります{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>オプション画面を抜けます{f801}</source>
+    <target>オプション画面を抜けます{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</source>
+    <target>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>{f815}{0000}{f804}{0900}{f811}{0100}{f804}{0000}を手に入れた!{f801}</source>
+    <target>{f815}{0000}{f804}{0900}{f811}{0100}{f804}{0000}を手に入れた!{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>これ以上グリモアを捨てると{f801}グリモアが作れなくなってしまいます!{f801}</source>
+    <target>これ以上グリモアを捨てると{f801}グリモアが作れなくなってしまいます!{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>ムービーをスキップしますが{f801}よろしいですか?{f801}</source>
+    <target>ムービーをスキップしますが{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>数字は5文字までしか入力できません{f801}</source>
+    <target>数字は5文字までしか入力できません{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>マップデータと漢字変換学習辞書を{f801}保存しますがよろしいですか?{f801}</source>
+    <target>マップデータと漢字変換学習辞書を{f801}保存しますがよろしいですか?{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>探索中一度だけリトライできます{f801}戦闘前の状態からリトライしますか?{f801}</source>
+    <target>探索中一度だけリトライできます{f801}戦闘前の状態からリトライしますか?{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>すでにリトライしているので{f801}リトライできません{f801}</source>
+    <target>すでにリトライしているので{f801}リトライできません{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>ピクニックモードは何度でもリトライできます{f801}戦闘前の状態からリトライしますか?{f801}</source>
+    <target>ピクニックモードは何度でもリトライできます{f801}戦闘前の状態からリトライしますか?{f801}</target>
+  </entry>
+</mbm>

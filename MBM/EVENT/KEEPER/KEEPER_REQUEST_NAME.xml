@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>メイドからの討伐依頼{f801}</source>
+    <target>メイドからの討伐依頼{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>探偵からの討伐依頼{f801}</source>
+    <target>探偵からの討伐依頼{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>モリビトからの討伐依頼{f801}</source>
+    <target>モリビトからの討伐依頼{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>メイドからの納品依頼{f801}</source>
+    <target>メイドからの納品依頼{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>探偵からの納品依頼{f801}</source>
+    <target>探偵からの納品依頼{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>モリビトからの納品依頼{f801}</source>
+    <target>モリビトからの納品依頼{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>メイドからの採集依頼{f801}</source>
+    <target>メイドからの採集依頼{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>探偵からの採集依頼{f801}</source>
+    <target>探偵からの採集依頼{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>モリビトからの採集依頼{f801}</source>
+    <target>モリビトからの採集依頼{f801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,134 @@
+<mbm>
+  <entry id="0">
+    <source>パーティ0(デフォルト){f801}第一階層クリア想定パーティ1{f801}スキルLv1{f801}</source>
+    <target>パーティ0(デフォルト){f801}第一階層クリア想定パーティ1{f801}スキルLv1{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>パーティ1{f801}第一階層クリア想定パーティ2{f801}スキルLv10{f801}</source>
+    <target>パーティ1{f801}第一階層クリア想定パーティ2{f801}スキルLv10{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>パーティ2{f801}B01Fクリア想定パーティ{f801}</source>
+    <target>パーティ2{f801}B01Fクリア想定パーティ{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>パーティ3{f801}第二階層クリア時想定パーティ{f801}スキルLv2{f801}</source>
+    <target>パーティ3{f801}第二階層クリア時想定パーティ{f801}スキルLv2{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>パーティ4{f801}第三階層クリア時想定パーティー{f801}スキルLv3{f801}</source>
+    <target>パーティ4{f801}第三階層クリア時想定パーティー{f801}スキルLv3{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>パーティ5{f801}第四階層クリア時想定パーティー{f801}スキルLv4{f801}</source>
+    <target>パーティ5{f801}第四階層クリア時想定パーティー{f801}スキルLv4{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>パーティ6{f801}第五階層クリア時想定パーティー{f801}スキルLv5{f801}</source>
+    <target>パーティ6{f801}第五階層クリア時想定パーティー{f801}スキルLv5{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>パーティ7{f801}第六階層クリア時想定パーティー{f801}スキルLv6{f801}</source>
+    <target>パーティ7{f801}第六階層クリア時想定パーティー{f801}スキルLv6{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>パーティー8{f801}LV85パーティー{f801}スキルLv8{f801}</source>
+    <target>パーティー8{f801}LV85パーティー{f801}スキルLv8{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>パーティ9{f801}最強パーティー{f801}スキルLv10{f801}</source>
+    <target>パーティ9{f801}最強パーティー{f801}スキルLv10{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>ゲスト入りサンプル{f801}</source>
+    <target>ゲスト入りサンプル{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>非ストーリーメインパーティ11{f801}第一階層クリア想定パーティ{f801}スキルLv1{f801}</source>
+    <target>非ストーリーメインパーティ11{f801}第一階層クリア想定パーティ{f801}スキルLv1{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>非ストーリーメインパーティ12{f801}B01Fクリア想定パーティ{f801}</source>
+    <target>非ストーリーメインパーティ12{f801}B01Fクリア想定パーティ{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>非ストーリーメインパーティ13{f801}第二階層クリア時想定パーティ{f801}スキルLv2{f801}</source>
+    <target>非ストーリーメインパーティ13{f801}第二階層クリア時想定パーティ{f801}スキルLv2{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>非ストーリーメインパーティ14{f801}第三階層クリア時想定パーティー{f801}スキルLv3{f801}</source>
+    <target>非ストーリーメインパーティ14{f801}第三階層クリア時想定パーティー{f801}スキルLv3{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>非ストーリーメインパーティ15{f801}第四階層クリア時想定パーティー{f801}スキルLv4{f801}</source>
+    <target>非ストーリーメインパーティ15{f801}第四階層クリア時想定パーティー{f801}スキルLv4{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>非ストーリーメインパーティ16{f801}第五階層クリア時想定パーティー{f801}スキルLv5{f801}</source>
+    <target>非ストーリーメインパーティ16{f801}第五階層クリア時想定パーティー{f801}スキルLv5{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>非ストーリーメインパーティ17{f801}第六階層クリア時想定パーティー{f801}スキルLv6{f801}</source>
+    <target>非ストーリーメインパーティ17{f801}第六階層クリア時想定パーティー{f801}スキルLv6{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>非ストーリーメインパーティ18{f801}LV85パーティー{f801}スキルLv8{f801}</source>
+    <target>非ストーリーメインパーティ18{f801}LV85パーティー{f801}スキルLv8{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>非ストーリーメインパーティ19{f801}最強パーティー{f801}スキルLv10{f801}</source>
+    <target>非ストーリーメインパーティ19{f801}最強パーティー{f801}スキルLv10{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>パーティ20{f801}ダミー{f801}</source>
+    <target>パーティ20{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>パーティ21{f801}ダミー{f801}</source>
+    <target>パーティ21{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>パーティ22{f801}ダミー{f801}</source>
+    <target>パーティ22{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>パーティ23{f801}ダミー{f801}</source>
+    <target>パーティ23{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>パーティ24{f801}ダミー{f801}</source>
+    <target>パーティ24{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>パーティ25{f801}ダミー{f801}</source>
+    <target>パーティ25{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>パーティ26{f801}ダミー{f801}</source>
+    <target>パーティ26{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>パーティ27{f801}ダミー{f801}</source>
+    <target>パーティ27{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>パーティ28{f801}ダミー{f801}</source>
+    <target>パーティ28{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>パーティ29{f801}ダミー{f801}</source>
+    <target>パーティ29{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>パーティ30{f801}ダミー{f801}</source>
+    <target>パーティ30{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>パーティ31{f801}ダミー{f801}</source>
+    <target>パーティ31{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>パーティ32{f801}ダミー{f801}</source>
+    <target>パーティ32{f801}ダミー{f801}</target>
+  </entry>
+</mbm>

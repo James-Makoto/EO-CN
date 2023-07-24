@@ -1,0 +1,190 @@
+<mbm>
+  <entry id="1">
+    <source>攻撃力アップ{f801}</source>
+    <target>攻撃力アップ{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>命中率アップ{f801}</source>
+    <target>命中率アップ{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>クリティカル率アップ{f801}</source>
+    <target>クリティカル率アップ{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>STRアップ{f801}</source>
+    <target>STRアップ{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>TECアップ{f801}</source>
+    <target>TECアップ{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>VITアップ{f801}</source>
+    <target>VITアップ{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>AGIアップ{f801}</source>
+    <target>AGIアップ{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>LUCアップ{f801}</source>
+    <target>LUCアップ{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>炎属性効果付与{f801}</source>
+    <target>炎属性効果付与{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>氷属性効果付与{f801}</source>
+    <target>氷属性効果付与{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>雷属性効果付与{f801}</source>
+    <target>雷属性効果付与{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>頭封じ効果付与{f801}</source>
+    <target>頭封じ効果付与{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>腕封じ効果付与{f801}</source>
+    <target>腕封じ効果付与{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>脚封じ効果付与{f801}</source>
+    <target>脚封じ効果付与{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>スタン効果付与{f801}</source>
+    <target>スタン効果付与{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>盲目効果付与{f801}</source>
+    <target>盲目効果付与{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>催眠効果付与{f801}</source>
+    <target>催眠効果付与{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>毒効果付与{f801}</source>
+    <target>毒効果付与{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>疫病効果付与{f801}</source>
+    <target>疫病効果付与{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>混乱効果付与{f801}</source>
+    <target>混乱効果付与{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>麻痺効果付与{f801}</source>
+    <target>麻痺効果付与{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>呪い効果付与{f801}</source>
+    <target>呪い効果付与{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>石化効果付与{f801}</source>
+    <target>石化効果付与{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>即死効果付与{f801}</source>
+    <target>即死効果付与{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>属性攻撃力アップ{f801}</source>
+    <target>属性攻撃力アップ{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>貫通効果付与{f801}</source>
+    <target>貫通効果付与{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>拡散効果付与{f801}</source>
+    <target>拡散効果付与{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>最大HPアップ{f801}</source>
+    <target>最大HPアップ{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>最大TPアップ{f801}</source>
+    <target>最大TPアップ{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>斬耐性アップ{f801}</source>
+    <target>斬耐性アップ{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>壊耐性アップ{f801}</source>
+    <target>壊耐性アップ{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>突耐性アップ{f801}</source>
+    <target>突耐性アップ{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>スピードアップ{f801}</source>
+    <target>スピードアップ{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>バーストゲージ上昇量アップ{f801}</source>
+    <target>バーストゲージ上昇量アップ{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>新しい効果を付与できます{f801}</source>
+    <target>新しい効果を付与できます{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>{f811}{0000}が装備中です{f801}</source>
+    <target>{f811}{0000}が装備中です{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>スロットに効果を付与しますか?{f801}</source>
+    <target>スロットに効果を付与しますか?{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>異なる属性は上書きされます{f801}スロットに効果を付与しますか?{f801}</source>
+    <target>異なる属性は上書きされます{f801}スロットに効果を付与しますか?{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>{f811}{0000}{f801}を強化しました!{f801}</source>
+    <target>{f811}{0000}{f801}を強化しました!{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>武器を所持していません!{f801}</source>
+    <target>武器を所持していません!{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>TPが足りません!{f801}</source>
+    <target>TPが足りません!{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>鍛冶不可{f801}</source>
+    <target>鍛冶不可{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>下画面で強化する武器を選択してください{f801}</source>
+    <target>下画面で強化する武器を選択してください{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>下画面で付与する効果を選択してください{f801}</source>
+    <target>下画面で付与する効果を選択してください{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>下画面で効果を付与するスロットを{f801}選択してください{f801}</source>
+    <target>下画面で効果を付与するスロットを{f801}選択してください{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>異なる範囲攻撃は上書きされます{f801}スロットに効果を付与しますか?{f801}</source>
+    <target>異なる範囲攻撃は上書きされます{f801}スロットに効果を付与しますか?{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>このスロットには{f801}既に同じ効果が付与されています{f801}</source>
+    <target>このスロットには{f801}既に同じ効果が付与されています{f801}</target>
+  </entry>
+</mbm>
