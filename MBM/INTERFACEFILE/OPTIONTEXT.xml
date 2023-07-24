@@ -5,139 +5,139 @@
   </entry>
   <entry id="1">
     <source>BGMの音量が変更できます{f801}</source>
-    <target>BGMの音量が変更できます{f801}</target>
+    <target>可更改BGM的音量。{f801}</target>
   </entry>
   <entry id="2">
     <source>SEの音量が変更できます{f801}</source>
-    <target>SEの音量が変更できます{f801}</target>
+    <target>可更改效果音的音量。{f801}</target>
   </entry>
   <entry id="3">
     <source>VOICEの音量が変更できます{f801}</source>
-    <target>VOICEの音量が変更できます{f801}</target>
+    <target>可更改台词语音的音量。{f801}</target>
   </entry>
   <entry id="4">
     <source>イベント中のメッセージ速度が変更できます{f801}</source>
-    <target>イベント中のメッセージ速度が変更できます{f801}</target>
+    <target>可更改事件的文本显示速度。{f801}</target>
   </entry>
   <entry id="5">
     <source>戦闘中のメッセージウェイトが変更できます{f801}</source>
-    <target>戦闘中のメッセージウェイトが変更できます{f801}</target>
+    <target>可更改战斗中的文本间隔时间。{f801}</target>
   </entry>
   <entry id="6">
     <source>戦闘中のアニメーション速度が変更できます{f801}</source>
-    <target>戦闘中のアニメーション速度が変更できます{f801}</target>
+    <target>可更改战斗中的动画播放速度。{f801}</target>
   </entry>
   <entry id="7">
     <source>戦闘中のオートバトル時の速度が変更できます{f801}</source>
-    <target>戦闘中のオートバトル時の速度が変更できます{f801}</target>
+    <target>可更改战斗中的自动战斗速度。{f801}</target>
   </entry>
   <entry id="8">
     <source>戦闘中にAボタンを押した際の速度が変更できます{f801}</source>
-    <target>戦闘中にAボタンを押した際の速度が変更できます{f801}</target>
+    <target>可更改战斗中按A键后的速度。{f801}</target>
   </entry>
   <entry id="9">
     <source>左右のカメラ操作が変更できます{f801}</source>
-    <target>左右のカメラ操作が変更できます{f801}</target>
+    <target>设置镜头的左右操作。{f801}</target>
   </entry>
   <entry id="10">
     <source>上下のカメラ操作が変更できます{f801}</source>
-    <target>上下のカメラ操作が変更できます{f801}</target>
+    <target>设置镜头的上下操作。{f801}</target>
   </entry>
   <entry id="11">
     <source>踏破した床や周囲の壁が自動的に塗られる機能を変更できます{f801}</source>
-    <target>踏破した床や周囲の壁が自動的に塗られる機能を変更できます{f801}</target>
+    <target>可更改自动涂画经过的地面和周围墙壁的功能。{f801}</target>
   </entry>
   <entry id="12">
     <source>ダンジョン内での移動速度が変更できます{f801}</source>
-    <target>ダンジョン内での移動速度が変更できます{f801}</target>
+    <target>可更改在迷宫内的移动速度。{f801}</target>
   </entry>
   <entry id="13">
     <source>宿屋宿泊時の自動セーブが変更できます{f801}</source>
-    <target>宿屋宿泊時の自動セーブが変更できます{f801}</target>
+    <target>可更改在旅馆住宿时自动保存的方式。{f801}</target>
   </entry>
   <entry id="14">
     <source>LボタンをAボタンに変更できます{f801}</source>
-    <target>LボタンをAボタンに変更できます{f801}</target>
+    <target>可更改L键和A键的功能。{f801}</target>
   </entry>
   <entry id="15">
     <source>難易度が変更できます{f801}</source>
-    <target>難易度が変更できます{f801}</target>
+    <target>可更改难度。{f801}</target>
   </entry>
   <entry id="16">
     <source>BGM音源を変更できます{f801}</source>
-    <target>BGM音源を変更できます{f801}</target>
+    <target>可更改使用的BGM音源版本{f801}</target>
   </entry>
   <entry id="17">
     <source>セーブデータが削除できます{f801}</source>
-    <target>セーブデータが削除できます{f801}</target>
+    <target>删除存档数据。{f801}</target>
   </entry>
   <entry id="18">
     <source>タイトル画面へ戻れます{f801}</source>
-    <target>タイトル画面へ戻れます{f801}</target>
+    <target>返回标题画面。{f801}</target>
   </entry>
   <entry id="19">
-    <source>オプション画面を終了してゲームへ戻ります{f801}</source>
-    <target>オプション画面を終了してゲームへ戻ります{f801}</target>
+    <source>オプション画面を終瞭してゲームへ戻ります{f801}</source>
+    <target>将关闭选项画面，并返回标题画面。{f801}</target>
   </entry>
   <entry id="20">
     <source>ゲーム中の流れているBGMの音量を{f801}変更することができます{f801}</source>
-    <target>ゲーム中の流れているBGMの音量を{f801}変更することができます{f801}</target>
+    <target>可更改游戏中播放的BGM的音量大小。{f801}</target>
   </entry>
   <entry id="21">
     <source>ゲーム中のSEの音量を{f801}変更することができます{f801}</source>
-    <target>ゲーム中のSEの音量を{f801}変更することができます{f801}</target>
+    <target>可更改游戏中播放的效果音的音量。{f801}</target>
   </entry>
   <entry id="22">
     <source>ゲーム中のVOICEの音量を{f801}変更することができます{f801}</source>
-    <target>ゲーム中のVOICEの音量を{f801}変更することができます{f801}</target>
+    <target>可更改游戏中播放的台词语音的音量。{f801}</target>
   </entry>
   <entry id="23">
     <source>イベント中に表示されるメッセージの速度を{f801}変更することができます{f801}</source>
-    <target>イベント中に表示されるメッセージの速度を{f801}変更することができます{f801}</target>
+    <target>可更改事件的文本显示速度。{f801}</target>
   </entry>
   <entry id="24">
     <source>戦闘中に表示されるメッセージウェイトを{f801}変更することができます{f801}{f802}PAUSEにすると{f801}ボタンを押さないとメッセージが送られず{f801}戦闘が先に進まなくなります{f801}</source>
-    <target>戦闘中に表示されるメッセージウェイトを{f801}変更することができます{f801}{f802}PAUSEにすると{f801}ボタンを押さないとメッセージが送られず{f801}戦闘が先に進まなくなります{f801}</target>
+    <target>可更改战斗中显示的{f801}文本信息的间隔时间。{f801}{f802}如果选择PAUSE{f801}则不按下按键就不会显示下一条信息。{f801}战斗进程将因此无法推进。{f801}</target>
   </entry>
   <entry id="25">
     <source>戦闘中のアニメーションの速度を{f801}変更することができます{f801}</source>
-    <target>戦闘中のアニメーションの速度を{f801}変更することができます{f801}</target>
+    <target>可更改战斗中的动画播放速度。{f801}</target>
   </entry>
   <entry id="26">
     <source>戦闘中にオートバトルを行った際の{f801}アニメーションの速度を{f801}変更することができます{f801}</source>
-    <target>戦闘中にオートバトルを行った際の{f801}アニメーションの速度を{f801}変更することができます{f801}</target>
+    <target>可更改战斗中启用自动战斗时{f801}动画的播放速度。</target>
   </entry>
   <entry id="27">
     <source>戦闘中にAボタンを押した際の{f801}アニメーションの速度を{f801}変更することができます{f801}{f802}コマンド入力後から次のコマンド入力の{f801}間までにAボタンを押すことで{f801}アニメーション速度を変更できる機能です{f801}</source>
-    <target>戦闘中にAボタンを押した際の{f801}アニメーションの速度を{f801}変更することができます{f801}{f802}コマンド入力後から次のコマンド入力の{f801}間までにAボタンを押すことで{f801}アニメーション速度を変更できる機能です{f801}</target>
+    <target>可更改战斗中按下A键时{f801}动画的播放速度。{f801}{f802}可以在执行指令后{f801}到下一次指令执行前{f801}按下A键改变动画播放速度。{f801}</target>
   </entry>
   <entry id="28">
     <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの左右入力の挙動を{f801}変更することができます{f801}</source>
-    <target>ダンジョン内でカメラを操作する際{f801}スライドパッドの左右入力の挙動を{f801}変更することができます{f801}</target>
+    <target>可更改在迷宫内控制镜头时{f801}滑控钮左右操控的方式。</target>
   </entry>
   <entry id="29">
     <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</source>
-    <target>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</target>
+    <target>可更改在迷宫内控制镜头时{f801}滑控钮上下操控的方式{f801}</target>
   </entry>
   <entry id="30">
     <source>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</source>
-    <target>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</target>
+    <target>可更改自动涂画经过的地面{f801}和周围墙壁的功能。{f801}{f802}选择ON则只会自动涂画经过的地面，{f801}选择OFF则不会自动进行涂画。{f801}{f802}选择FULL时会自动涂画经过的地面{f801}以及周围墙壁。</target>
   </entry>
   <entry id="31">
     <source>ダンジョン内での移動速度の操作を{f801}変更することができます{f801}{f802}NORMALにすると{f801}Bボタンを押しながら移動すると{f801}高速移動となり{f801}{f802}REVERSEにすると{f801}Bボタンを押さなくても{f801}高速移動となります{f801}</source>
-    <target>ダンジョン内での移動速度の操作を{f801}変更することができます{f801}{f802}NORMALにすると{f801}Bボタンを押しながら移動すると{f801}高速移動となり{f801}{f802}REVERSEにすると{f801}Bボタンを押さなくても{f801}高速移動となります{f801}</target>
+    <target>可更改在迷宫内的移动速度。{f801}{f802}选择NORMAL则按住B键时高速移动。{f801}{f802}选择REVERSE则不按下B键时高速移动。{f801}</target>
   </entry>
   <entry id="32">
     <source>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊時に自動でセーブが行われ{f801}OFFにすると宿泊しても{f801}自動でセーブは行われないようになります{f801}</source>
-    <target>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊時に自動でセーブが行われ{f801}OFFにすると宿泊しても{f801}自動でセーブは行われないようになります{f801}</target>
+    <target>可更改为旅馆住宿时可以自动保存。{f801}{f802}选择ON则在旅店住宿时将会自动保存。{f801}选择OFF则在旅店住宿时不会进行自动保存。{f801}</target>
   </entry>
   <entry id="33">
     <source>LボタンをAボタンに{f801}変更することができます{f801}{f802}ONにするとAボタンとして扱われるため{f801}左へのスライド移動やオートバトルが{f801}行えなくなります{f801}{f802}DOUBLEにすると{f801}短く押すとAボタンとなり{f801}長く押すとLボタンとして扱われます{f801}</source>
-    <target>LボタンをAボタンに{f801}変更することができます{f801}{f802}ONにするとAボタンとして扱われるため{f801}左へのスライド移動やオートバトルが{f801}行えなくなります{f801}{f802}DOUBLEにすると{f801}短く押すとAボタンとなり{f801}長く押すとLボタンとして扱われます{f801}</target>
+    <target>可更改L键和A键的功能。{f801}{f802}选择ON则无法向左平移移动{f801}或是使用自动战斗。{f801}{f802}选择DOUBLE则{f801}短按L键为A键，长按L键为L键。{f801}</target>
   </entry>
   <entry id="34">
     <source>難易度は「PICNIC」と{f801}「STANDARD」と「EXPERT」の{f801}三種類あります{f801}{f802}「PICNIC」では戦闘の難易度は低く、{f801}パーティが全滅しても「ゲームオーバー」{f801}ではなくその場から再開できます{f801}{f802}また、一部のアイテムが使っても{f801}減らないなど、より、気軽に楽しめる{f801}設定となっています{f801}{f802}「STANDARD」では{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけその場から再開できます{f801}{f802}「EXPERT」ではより高い難易度のため{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}{f802}また難易度の変更は{f801}街の中でだけしか変更できません{f801}</source>
-    <target>難易度は「PICNIC」と{f801}「STANDARD」と「EXPERT」の{f801}三種類あります{f801}{f802}「PICNIC」では戦闘の難易度は低く、{f801}パーティが全滅しても「ゲームオーバー」{f801}ではなくその場から再開できます{f801}{f802}また、一部のアイテムが使っても{f801}減らないなど、より、気軽に楽しめる{f801}設定となっています{f801}{f802}「STANDARD」では{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけその場から再開できます{f801}{f802}「EXPERT」ではより高い難易度のため{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}{f802}また難易度の変更は{f801}街の中でだけしか変更できません{f801}</target>
+    <target>可选择「PICNIC」、{f801}「STANDARD」和「EXPERT」{f801}三种难度。{f801}{f802}「PICNIC」的战斗难度较低，{f801}队伍全灭时不会「GAME OVER」{f801}并可以继续游戏。{f801}{f802}不仅如此，使用一部分道具时{f801}其数量不会减少。{f801}有许多帮助玩家轻松体验游戏的设置。{f801}{f802}「STANDARD」{f801}则适合想要好好游玩RPG的玩家。{f801}{f802}在该难度下{f801}队伍全灭时有一次机会可以继续游戏，{f801}而不会「GAME OVER」。{f801}{f802}「EXPERT」的难度更高，{f801}适合征服过历代世界树，{f801}或喜欢有挑战性RPG的玩家。{f801}{f802}故事不会因难度变化而变化。{f801}但设定「PICNIC」时可能会出现{f801}一部分勋章无法获得的情况。{f801}{f802}同时，难度只能在城里中进行更改。{f801}</target>
   </entry>
   <entry id="35">
     <source>BGMの音源を変更できます{f801}{f802}OLDはFM音源でBGM再生を行い{f801}NEWは新規音源でBGM再生を行います{f801}</source>
@@ -145,234 +145,234 @@
   </entry>
   <entry id="36">
     <source>セーブデータの削除を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</source>
-    <target>セーブデータの削除を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</target>
+    <target>删除存档数据。{f801}{f802}一旦删除存档数据将无法复原。{f801}选择此选项时请注意。{f801}</target>
   </entry>
   <entry id="37">
     <source>タイトル画面へ戻ることができます{f801}プレイした内容は保存されませんので{f801}ご注意ください{f801}</source>
-    <target>タイトル画面へ戻ることができます{f801}プレイした内容は保存されませんので{f801}ご注意ください{f801}</target>
+    <target>返回到标题画面。{f801}请注意确认是否有尚未保存的内容。{f801}</target>
   </entry>
   <entry id="38">
     <source>設定した変更内容を保存し{f801}ゲームへ戻ります{f801}</source>
-    <target>設定した変更内容を保存し{f801}ゲームへ戻ります{f801}</target>
+    <target>保存设定更改{f801}并返回游戏。{f801}</target>
   </entry>
   <entry id="39">
     <source>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</source>
-    <target>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</target>
+    <target>要放弃当前游玩的内容{f801}返回标题画面吗?{f801}</target>
   </entry>
   <entry id="40">
     <source>全てのデータを消去します{f801}よろしいですか?{f801}</source>
-    <target>全てのデータを消去します{f801}よろしいですか?{f801}</target>
+    <target>要将删除全部的存档数据吗?{f801}</target>
   </entry>
   <entry id="41">
     <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
-    <target>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</target>
+    <target>删除后存档数据将无法复原，{f801}确定要这么做吗?{f801}</target>
   </entry>
   <entry id="42">
     <source>ゲームデータの初期化に成功しました{f801}</source>
-    <target>ゲームデータの初期化に成功しました{f801}</target>
+    <target>存档数据初始化成功。{f801}</target>
   </entry>
   <entry id="43">
     <source>ゲームデータの初期化に失敗しました{f801}</source>
-    <target>ゲームデータの初期化に失敗しました{f801}</target>
+    <target>存档数据初始化失败。{f801}</target>
   </entry>
   <entry id="44">
     <source>BGMを無音にします{f801}</source>
-    <target>BGMを無音にします{f801}</target>
+    <target>将BGM设置为静音。{f801}</target>
   </entry>
   <entry id="45">
     <source>BGMの音量を小にします{f801}</source>
-    <target>BGMの音量を小にします{f801}</target>
+    <target>将BGM的音量设置为小。{f801}</target>
   </entry>
   <entry id="46">
     <source>BGMの音量を中にします{f801}</source>
-    <target>BGMの音量を中にします{f801}</target>
+    <target>将BGM的音量设置为中。{f801}</target>
   </entry>
   <entry id="47">
     <source>BGMの音量を大にします{f801}</source>
-    <target>BGMの音量を大にします{f801}</target>
+    <target>将BGM的音量设置为大。{f801}</target>
   </entry>
   <entry id="48">
     <source>SEを無音にします{f801}</source>
-    <target>SEを無音にします{f801}</target>
+    <target>将效果音设置为静音。{f801}</target>
   </entry>
   <entry id="49">
     <source>SEの音量を小にします{f801}</source>
-    <target>SEの音量を小にします{f801}</target>
+    <target>将效果音的音量设置为小。{f801}</target>
   </entry>
   <entry id="50">
     <source>SEの音量を中にします{f801}</source>
-    <target>SEの音量を中にします{f801}</target>
+    <target>将效果音的音量设置为中。{f801}</target>
   </entry>
   <entry id="51">
     <source>SEの音量を大にします{f801}</source>
-    <target>SEの音量を大にします{f801}</target>
+    <target>将效果音的音量设置为大。{f801}</target>
   </entry>
   <entry id="52">
     <source>VOICEを無音にします{f801}</source>
-    <target>VOICEを無音にします{f801}</target>
+    <target>将台词语音设置为静音。{f801}</target>
   </entry>
   <entry id="53">
     <source>VOICEの音量を小にします{f801}</source>
-    <target>VOICEの音量を小にします{f801}</target>
+    <target>将台词语音的音量设置为小。{f801}</target>
   </entry>
   <entry id="54">
     <source>VOICEの音量を中にします{f801}</source>
-    <target>VOICEの音量を中にします{f801}</target>
+    <target>将台词语音的音量设置为中。{f801}</target>
   </entry>
   <entry id="55">
     <source>VOICEの音量を大にします{f801}</source>
-    <target>VOICEの音量を大にします{f801}</target>
+    <target>将台词语音的音量设置为大。{f801}</target>
   </entry>
   <entry id="56">
     <source>イベント中のメッセージ速度を遅いにします{f801}</source>
-    <target>イベント中のメッセージ速度を遅いにします{f801}</target>
+    <target>将事件的文本显示速度设置为慢速。{f801}</target>
   </entry>
   <entry id="57">
     <source>イベント中のメッセージ速度を標準にします{f801}</source>
-    <target>イベント中のメッセージ速度を標準にします{f801}</target>
+    <target>将事件的文本显示速度设置为标准。{f801}</target>
   </entry>
   <entry id="58">
     <source>イベント中のメッセージ速度を速いにします{f801}</source>
-    <target>イベント中のメッセージ速度を速いにします{f801}</target>
+    <target>将事件的文本显示速度设置为快速。{f801}</target>
   </entry>
   <entry id="59">
     <source>イベント中のメッセージ速度を高速にします{f801}</source>
-    <target>イベント中のメッセージ速度を高速にします{f801}</target>
+    <target>将事件的文本显示速度设置为高速。{f801}</target>
   </entry>
   <entry id="60">
-    <source>戦闘中のメッセージウェイトを一時停止にします{f801}</source>
-    <target>戦闘中のメッセージウェイトを一時停止にします{f801}</target>
+    <source>戦闘中のメッセージウェイトを弌時停止にします{f801}</source>
+    <target>将战斗中的文本间隔时间设置为暂停。{f801}</target>
   </entry>
   <entry id="61">
     <source>戦闘中のメッセージウェイトを遅いにします{f801}</source>
-    <target>戦闘中のメッセージウェイトを遅いにします{f801}</target>
+    <target>将战斗中的文本间隔时间设置为慢速。{f801}</target>
   </entry>
   <entry id="62">
     <source>戦闘中のメッセージウェイトを標準にします{f801}</source>
-    <target>戦闘中のメッセージウェイトを標準にします{f801}</target>
+    <target>将战斗中的文本间隔时间设置为标准。{f801}</target>
   </entry>
   <entry id="63">
     <source>戦闘中のメッセージウェイトを速いにします{f801}</source>
-    <target>戦闘中のメッセージウェイトを速いにします{f801}</target>
+    <target>将战斗中的文本间隔时间设置为快速。{f801}</target>
   </entry>
   <entry id="65">
     <source>戦闘中のアニメーション速度を標準にします{f801}</source>
-    <target>戦闘中のアニメーション速度を標準にします{f801}</target>
+    <target>将战斗中的动画播放速度设置为标准。{f801}</target>
   </entry>
   <entry id="66">
     <source>戦闘中のアニメーション速度を速いにします{f801}</source>
-    <target>戦闘中のアニメーション速度を速いにします{f801}</target>
+    <target>将战斗中的动画播放速度设置为快速。{f801}</target>
   </entry>
   <entry id="67">
     <source>戦闘中のアニメーション速度を高速にします{f801}</source>
-    <target>戦闘中のアニメーション速度を高速にします{f801}</target>
+    <target>将战斗中的动画播放速度设置为高速。{f801}</target>
   </entry>
   <entry id="68">
     <source>戦闘中のオートバトル時の速度を標準にします{f801}</source>
-    <target>戦闘中のオートバトル時の速度を標準にします{f801}</target>
+    <target>将战斗中的自动战斗速度设置为标准。{f801}</target>
   </entry>
   <entry id="69">
     <source>戦闘中のオートバトル時の速度を速いにします{f801}</source>
-    <target>戦闘中のオートバトル時の速度を速いにします{f801}</target>
+    <target>将战斗中的自动战斗速度设置为快速。{f801}</target>
   </entry>
   <entry id="70">
     <source>戦闘中のオートバトル時の速度を高速にします{f801}</source>
-    <target>戦闘中のオートバトル時の速度を高速にします{f801}</target>
+    <target>将战斗中的自动战斗速度设置为高速。{f801}</target>
   </entry>
   <entry id="71">
     <source>戦闘中にAボタンを押しても速度は変化しなくなります{f801}</source>
-    <target>戦闘中にAボタンを押しても速度は変化しなくなります{f801}</target>
+    <target>将在战斗中按A键后的速度设置为不变。{f801}</target>
   </entry>
   <entry id="72">
     <source>戦闘中にAボタンを押した際の速度を標準にします{f801}</source>
-    <target>戦闘中にAボタンを押した際の速度を標準にします{f801}</target>
+    <target>将在战斗中按A键后的速度设置为标准。{f801}</target>
   </entry>
   <entry id="73">
     <source>戦闘中にAボタンを押した際の速度を速いにします{f801}</source>
-    <target>戦闘中にAボタンを押した際の速度を速いにします{f801}</target>
+    <target>将在战斗中按A键后的速度设置为快速。{f801}</target>
   </entry>
   <entry id="74">
     <source>戦闘中にAボタンを押した際の速度を高速にします{f801}</source>
-    <target>戦闘中にAボタンを押した際の速度を高速にします{f801}</target>
+    <target>将在战斗中按A键后的速度设置为高速。{f801}</target>
   </entry>
   <entry id="75">
     <source>操作と順方向にカメラを回転させます{f801}</source>
-    <target>操作と順方向にカメラを回転させます{f801}</target>
+    <target>将按操作的正方向转动镜头。{f801}</target>
   </entry>
   <entry id="76">
     <source>操作と逆方向にカメラを回転させます{f801}</source>
-    <target>操作と逆方向にカメラを回転させます{f801}</target>
+    <target>将按操作的反方向转动镜头。{f801}</target>
   </entry>
   <entry id="77">
     <source>操作と順方向にカメラを回転させます{f801}</source>
-    <target>操作と順方向にカメラを回転させます{f801}</target>
+    <target>将按操作的正方向转动镜头。{f801}</target>
   </entry>
   <entry id="78">
     <source>操作と逆方向にカメラを回転させます{f801}</source>
-    <target>操作と逆方向にカメラを回転させます{f801}</target>
+    <target>将按操作的正方向转动镜头。{f801}</target>
   </entry>
   <entry id="79">
     <source>踏破した床のみが自動的に塗られます{f801}</source>
-    <target>踏破した床のみが自動的に塗られます{f801}</target>
+    <target>仅自动填充经过的地面。{f801}</target>
   </entry>
   <entry id="80">
     <source>踏破しても自動的に塗られないようにします{f801}</source>
-    <target>踏破しても自動的に塗られないようにします{f801}</target>
+    <target>经过后也不进行自动填充。{f801}</target>
   </entry>
   <entry id="81">
     <source>踏破した床と周囲の壁が自動的に塗られます{f801}</source>
-    <target>踏破した床と周囲の壁が自動的に塗られます{f801}</target>
+    <target>自动填充经过的地面和周围的墙壁。{f801}</target>
   </entry>
   <entry id="82">
     <source>ダンジョン内の移動速度を通常操作にします{f801}</source>
-    <target>ダンジョン内の移動速度を通常操作にします{f801}</target>
+    <target>将在迷宫内的移动速度设置为普通。{f801}</target>
   </entry>
   <entry id="83">
     <source>ダンジョン内の移動速度を反転操作にします{f801}</source>
-    <target>ダンジョン内の移動速度を反転操作にします{f801}</target>
+    <target>将在迷宫内的移动速度设置为高速。{f801}</target>
   </entry>
   <entry id="84">
     <source>宿屋宿泊時にセーブを行います{f801}</source>
-    <target>宿屋宿泊時にセーブを行います{f801}</target>
+    <target>在旅馆住宿时进行保存。{f801}</target>
   </entry>
   <entry id="85">
     <source>宿屋宿泊時にセーブを行いません{f801}</source>
-    <target>宿屋宿泊時にセーブを行いません{f801}</target>
+    <target>在旅馆住宿时不进行保存。{f801}</target>
   </entry>
   <entry id="86">
     <source>LボタンをAボタンに変更します{f801}</source>
-    <target>LボタンをAボタンに変更します{f801}</target>
+    <target>将L键映射为A键。{f801}</target>
   </entry>
   <entry id="87">
     <source>Lボタンの機能はそのままです{f801}</source>
-    <target>Lボタンの機能はそのままです{f801}</target>
+    <target>L键功能保持不变。{f801}</target>
   </entry>
   <entry id="88">
     <source>短く押すとAボタンとなり長く押すとLボタンとして扱われます{f801}</source>
-    <target>短く押すとAボタンとなり長く押すとLボタンとして扱われます{f801}</target>
+    <target>短按时映射为A键，长按时映射为B键。{f801}</target>
   </entry>
   <entry id="89">
     <source>難易度を「PICNIC」にします{f801}</source>
-    <target>難易度を「PICNIC」にします{f801}</target>
+    <target>将难度设置为「PICNIC」。{f801}</target>
   </entry>
   <entry id="90">
     <source>難易度を「STANDARD」にします{f801}</source>
-    <target>難易度を「STANDARD」にします{f801}</target>
+    <target>将难度设置为「STANDARD」。{f801}</target>
   </entry>
   <entry id="91">
     <source>難易度を「EXPERT」にします{f801}</source>
-    <target>難易度を「EXPERT」にします{f801}</target>
+    <target>将难度设置为「EXPERT」。{f801}</target>
   </entry>
   <entry id="92">
     <source>FM音源でBGM再生を行います{f801}</source>
-    <target>FM音源でBGM再生を行います{f801}</target>
+    <target>播放原版FM音源BGM。{f801}</target>
   </entry>
   <entry id="93">
     <source>新規音源でBGM再生を行います{f801}</source>
-    <target>新規音源でBGM再生を行います{f801}</target>
+    <target>播放新编音源BGM。{f801}</target>
   </entry>
   <entry id="100">
     <source>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</source>
-    <target>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</target>
+    <target>体验版无法进行{f801}BGM音源切换{f801}</target>
   </entry>
 </mbm>
