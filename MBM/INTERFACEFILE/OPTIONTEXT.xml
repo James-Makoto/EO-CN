@@ -141,7 +141,7 @@
   </entry>
   <entry id="35">
     <source>BGMの音源を変更できます{f801}{f802}OLDはFM音源でBGM再生を行い{f801}NEWは新規音源でBGM再生を行います{f801}</source>
-    <target>BGMの音源を変更できます{f801}{f802}OLDはFM音源でBGM再生を行い{f801}NEWは新規音源でBGM再生を行います{f801}</target>
+    <target>可更改BGM音源版本。{f801}{f802}选择OLD则播放原版的FM音源BGM。{f801}选择NEW则播放新编音源BGM。{f801}</target>
   </entry>
   <entry id="36">
     <source>セーブデータの削除を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</source>
