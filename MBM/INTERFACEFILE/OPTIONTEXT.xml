@@ -349,7 +349,7 @@
   </entry>
   <entry id="88">
     <source>短く押すとAボタンとなり長く押すとLボタンとして扱われます{f801}</source>
-    <target>短按时映射为A键，长按时映射为B键。{f801}</target>
+    <target>短按时映射为A键，长按时映射为L键。{f801}</target>
   </entry>
   <entry id="89">
     <source>難易度を「PICNIC」にします{f801}</source>
