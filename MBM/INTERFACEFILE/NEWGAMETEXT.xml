@@ -41,7 +41,7 @@
   </entry>
   <entry id="10">
     <source>地図のメモ情報を引き継ぐか選択できます{f801}</source>
-    <target>可以选择是否继承地图中的笔记。{f801}</target>
+    <target>可以选择是否继承地图中的贴签。{f801}</target>
   </entry>
   <entry id="11">
     <source>地図のオートパイロット情報を引き継ぐか選択できます{f801}</source>
@@ -89,7 +89,7 @@
   </entry>
   <entry id="22">
     <source>地図のメモ記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承{f801}地图中的笔记。{f801}</target>
+    <target>选择是否继承{f801}地图中的贴签。{f801}</target>
   </entry>
   <entry id="23">
     <source>地図のオートパイロット記載状態を{f801}引き継ぐか選択できます{f801}</source>
@@ -173,11 +173,11 @@
   </entry>
   <entry id="43">
     <source>地図のメモ情報を引き継ぎます{f801}</source>
-    <target>继承地图中的笔记{f801}</target>
+    <target>继承地图中的贴签{f801}</target>
   </entry>
   <entry id="44">
     <source>地図のメモ情報を引き継ぎません{f801}</source>
-    <target>不继承地图中的笔记{f801}</target>
+    <target>不继承地图中的贴签{f801}</target>
   </entry>
   <entry id="45">
     <source>地図のオートパイロット情報を引き継ぎます{f801}</source>
