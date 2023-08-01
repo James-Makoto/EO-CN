@@ -1,30 +1,30 @@
 <mbm>
   <entry id="1">
     <source>翠緑ノ樹海{f801}</source>
-    <target>翠緑ノ樹海{f801}</target>
+    <target>翠绿树海{f801}</target>
   </entry>
   <entry id="2">
     <source>原始ノ大密林{f801}</source>
-    <target>原始ノ大密林{f801}</target>
+    <target>原始大密林{f801}</target>
   </entry>
   <entry id="3">
     <source>千年ノ蒼樹海{f801}</source>
-    <target>千年ノ蒼樹海{f801}</target>
+    <target>千年苍树海{f801}</target>
   </entry>
   <entry id="4">
     <source>枯レ森{f801}</source>
-    <target>枯レ森{f801}</target>
+    <target>枯萎之森{f801}</target>
   </entry>
   <entry id="5">
     <source>遺都シンジュク{f801}</source>
-    <target>遺都シンジュク{f801}</target>
+    <target>遗迹之都新宿{f801}</target>
   </entry>
   <entry id="6">
     <source>真朱ノ窟{f801}</source>
-    <target>真朱ノ窟{f801}</target>
+    <target>真红岩窟{f801}</target>
   </entry>
   <entry id="7">
     <source>グラズヘイム{f801}</source>
-    <target>グラズヘイム{f801}</target>
+    <target>格拉兹海姆{f801}</target>
   </entry>
 </mbm>

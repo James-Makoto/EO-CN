@@ -5,194 +5,194 @@
   </entry>
   <entry id="1">
     <source>ギルドメンバーを引き継ぐか選択できます{f801}</source>
-    <target>ギルドメンバーを引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承公会成员。{f801}</target>
   </entry>
   <entry id="2">
     <source>グリモアを引き継ぐか選択できます{f801}</source>
-    <target>グリモアを引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承魔石。{f801}</target>
   </entry>
   <entry id="3">
     <source>所持金を引き継ぐか選択できます{f801}</source>
-    <target>所持金を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承持有金额。{f801}</target>
   </entry>
   <entry id="4">
     <source>アイテムを引き継ぐか選択できます{f801}</source>
-    <target>アイテムを引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承持有物品。{f801}</target>
   </entry>
   <entry id="5">
     <source>商店の在庫を引き継ぐか選択できます{f801}</source>
-    <target>商店の在庫を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承商店库存。{f801}</target>
   </entry>
   <entry id="6">
     <source>図鑑を引き継ぐか選択できます{f801}</source>
-    <target>図鑑を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承图鉴。{f801}</target>
   </entry>
   <entry id="7">
     <source>地図の床記載情報を引き継ぐか選択できます{f801}</source>
-    <target>地図の床記載情報を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承地图中的地面涂画数据。{f801}</target>
   </entry>
   <entry id="8">
     <source>地図の壁記載情報を引き継ぐか選択できます{f801}</source>
-    <target>地図の壁記載情報を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承地图中的墙壁涂画数据。{f801}</target>
   </entry>
   <entry id="9">
     <source>地図のアイコン配置情報を引き継ぐか選択できます{f801}</source>
-    <target>地図のアイコン配置情報を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承地图中的放置图标数据。{f801}</target>
   </entry>
   <entry id="10">
     <source>地図のメモ情報を引き継ぐか選択できます{f801}</source>
-    <target>地図のメモ情報を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承地图中的便签。{f801}</target>
   </entry>
   <entry id="11">
     <source>地図のオートパイロット情報を引き継ぐか選択できます{f801}</source>
-    <target>地図のオートパイロット情報を引き継ぐか選択できます{f801}</target>
+    <target>可以选择是否继承地图中的自动导航数据。{f801}</target>
   </entry>
   <entry id="12">
     <source>設定した状態でゲームを開始します{f801}</source>
-    <target>設定した状態でゲームを開始します{f801}</target>
+    <target>将以该设定状态开始游戏。{f801}</target>
   </entry>
   <entry id="13">
     <source>冒険者ギルドのキャラクターを{f801}引き継ぐか選択できます{f801}</source>
-    <target>冒険者ギルドのキャラクターを{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}冒险者公会的角色数据。{f801}</target>
   </entry>
   <entry id="14">
     <source>生成したグリモアを{f801}引き継ぐか選択できます{f801}</source>
-    <target>生成したグリモアを{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}已合成的魔石。{f801}</target>
   </entry>
   <entry id="15">
     <source>所持金を引き継ぐか選択できます{f801}</source>
-    <target>所持金を引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承持有金额。{f801}</target>
   </entry>
   <entry id="16">
     <source>所持アイテムを引き継ぐか選択できます{f801}</source>
-    <target>所持アイテムを引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承持有金额。{f801}</target>
   </entry>
   <entry id="17">
     <source>商店の在庫を引き継ぐか選択できます{f801}</source>
-    <target>商店の在庫を引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承商店库存。{f801}</target>
   </entry>
   <entry id="18">
     <source>図鑑の状態を引き継ぐか選択できます{f801}</source>
-    <target>図鑑の状態を引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承图鉴。{f801}</target>
   </entry>
   <entry id="19">
     <source>地図の床記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>地図の床記載状態を{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}地图中的地面涂画数据。{f801}</target>
   </entry>
   <entry id="20">
     <source>地図の壁記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>地図の壁記載状態を{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}地图中的墙壁涂画数据。{f801}</target>
   </entry>
   <entry id="21">
     <source>地図のアイコン配置状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>地図のアイコン配置状態を{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}地图中的放置图标数据。{f801}</target>
   </entry>
   <entry id="22">
     <source>地図のメモ記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>地図のメモ記載状態を{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}地图中的便签。{f801}</target>
   </entry>
   <entry id="23">
     <source>地図のオートパイロット記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>地図のオートパイロット記載状態を{f801}引き継ぐか選択できます{f801}</target>
+    <target>选择是否继承{f801}地图中的自动导航记载数据。{f801}</target>
   </entry>
   <entry id="24">
     <source>設定された状態でゲームを開始します{f801}</source>
-    <target>設定された状態でゲームを開始します{f801}</target>
+    <target>将以该设定状态开始游戏。{f801}</target>
   </entry>
   <entry id="25">
     <source>ギルドメンバーを引き継ぎます{f801}</source>
-    <target>ギルドメンバーを引き継ぎます{f801}</target>
+    <target>继承公会成员{f801}</target>
   </entry>
   <entry id="26">
     <source>ギルドメンバーを引き継ぎません{f801}</source>
-    <target>ギルドメンバーを引き継ぎません{f801}</target>
+    <target>不继承公会成员{f801}</target>
   </entry>
   <entry id="27">
     <source>グリモアを引き継ぎます{f801}</source>
-    <target>グリモアを引き継ぎます{f801}</target>
+    <target>继承魔石{f801}</target>
   </entry>
   <entry id="28">
     <source>グリモアを引き継ぎません{f801}</source>
-    <target>グリモアを引き継ぎません{f801}</target>
+    <target>不继承魔石{f801}</target>
   </entry>
   <entry id="29">
     <source>所持金を引き継ぎます{f801}</source>
-    <target>所持金を引き継ぎます{f801}</target>
+    <target>继承持有金额{f801}</target>
   </entry>
   <entry id="30">
     <source>所持金を引き継ぎません{f801}</source>
-    <target>所持金を引き継ぎません{f801}</target>
+    <target>不继承持有金额{f801}</target>
   </entry>
   <entry id="31">
     <source>アイテムを引き継ぎます{f801}</source>
-    <target>アイテムを引き継ぎます{f801}</target>
+    <target>继承持有物品{f801}</target>
   </entry>
   <entry id="32">
     <source>アイテムを引き継ぎません{f801}</source>
-    <target>アイテムを引き継ぎません{f801}</target>
+    <target>不继承持有物品{f801}</target>
   </entry>
   <entry id="33">
     <source>商店の在庫を引き継ぎます{f801}</source>
-    <target>商店の在庫を引き継ぎます{f801}</target>
+    <target>继承商店库存{f801}</target>
   </entry>
   <entry id="34">
     <source>商店の在庫を引き継ぎません{f801}</source>
-    <target>商店の在庫を引き継ぎません{f801}</target>
+    <target>不继承商店库存{f801}</target>
   </entry>
   <entry id="35">
     <source>図鑑を引き継ぎます{f801}</source>
-    <target>図鑑を引き継ぎます{f801}</target>
+    <target>继承图鉴数据{f801}</target>
   </entry>
   <entry id="36">
     <source>図鑑を引き継ぎません{f801}</source>
-    <target>図鑑を引き継ぎません{f801}</target>
+    <target>不继承图鉴数据{f801}</target>
   </entry>
   <entry id="37">
     <source>地図の床情報を引き継ぎます{f801}</source>
-    <target>地図の床情報を引き継ぎます{f801}</target>
+    <target>继承地图中的地面涂画数据{f801}</target>
   </entry>
   <entry id="38">
     <source>地図の床情報を引き継ぎません{f801}</source>
-    <target>地図の床情報を引き継ぎません{f801}</target>
+    <target>不继承地图中的地面涂画数据{f801}</target>
   </entry>
   <entry id="39">
     <source>地図の壁情報を引き継ぎます{f801}</source>
-    <target>地図の壁情報を引き継ぎます{f801}</target>
+    <target>继承地图中的墙壁涂画数据{f801}</target>
   </entry>
   <entry id="40">
     <source>地図の壁情報を引き継ぎません{f801}</source>
-    <target>地図の壁情報を引き継ぎません{f801}</target>
+    <target>不继承地图中的墙壁涂画数据{f801}</target>
   </entry>
   <entry id="41">
     <source>地図のアイコン情報を引き継ぎます{f801}</source>
-    <target>地図のアイコン情報を引き継ぎます{f801}</target>
+    <target>继承地图中的图标放置数据{f801}</target>
   </entry>
   <entry id="42">
     <source>地図のアイコン情報を引き継ぎません{f801}</source>
-    <target>地図のアイコン情報を引き継ぎません{f801}</target>
+    <target>不继承地图中的图标放置数据{f801}</target>
   </entry>
   <entry id="43">
     <source>地図のメモ情報を引き継ぎます{f801}</source>
-    <target>地図のメモ情報を引き継ぎます{f801}</target>
+    <target>继承地图中的便签{f801}</target>
   </entry>
   <entry id="44">
     <source>地図のメモ情報を引き継ぎません{f801}</source>
-    <target>地図のメモ情報を引き継ぎません{f801}</target>
+    <target>不继承地图中的便签{f801}</target>
   </entry>
   <entry id="45">
     <source>地図のオートパイロット情報を引き継ぎます{f801}</source>
-    <target>地図のオートパイロット情報を引き継ぎます{f801}</target>
+    <target>继承地图中的自动导航数据{f801}</target>
   </entry>
   <entry id="46">
     <source>地図のオートパイロット情報を引き継ぎません{f801}</source>
-    <target>地図のオートパイロット情報を引き継ぎません{f801}</target>
+    <target>不继承地图中的自动导航数据{f801}</target>
   </entry>
   <entry id="47">
     <source>初期設定に戻しますが{f801}よろしいですか?{f801}</source>
-    <target>初期設定に戻しますが{f801}よろしいですか?{f801}</target>
+    <target>将设置为默认设定，{f801}这样可以吗?{f801}</target>
   </entry>
   <entry id="48">
     <source>設定した状態で開始します{f801}よろしいですか?{f801}</source>
-    <target>設定した状態で開始します{f801}よろしいですか?{f801}</target>
+    <target>将以设定的状态开始游戏，{f801}这样可以吗?{f801}</target>
   </entry>
 </mbm>
