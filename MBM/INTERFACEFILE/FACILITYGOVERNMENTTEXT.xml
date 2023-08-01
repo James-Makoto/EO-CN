@@ -1,47 +1,47 @@
 <mbm>
   <entry id="0">
     <source>発動したミッションを{f801}引き受けることができます{f801}</source>
-    <target>発動したミッションを{f801}引き受けることができます{f801}</target>
+    <target>接受已发布的委托。{f801}</target>
   </entry>
   <entry id="1">
     <source>ミッションの結果を報告します{f801}</source>
-    <target>ミッションの結果を報告します{f801}</target>
+    <target>汇报委托结果。{f801}</target>
   </entry>
   <entry id="2">
     <source>執政院のメンバーと話します{f801}</source>
-    <target>執政院のメンバーと話します{f801}</target>
+    <target>和执政院的成员对话。{f801}</target>
   </entry>
   <entry id="3">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="4">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="5">
     <source>依頼はありません{f801}</source>
-    <target>依頼はありません{f801}</target>
+    <target>没有委托。{f801}</target>
   </entry>
   <entry id="6">
     <source>この依頼を引き受けますか?{f801}</source>
-    <target>この依頼を引き受けますか?{f801}</target>
+    <target>要接受这个委托吗?{f801}</target>
   </entry>
   <entry id="7">
     <source>依頼を引き受けました{f801}</source>
-    <target>依頼を引き受けました{f801}</target>
+    <target>已接受委托。{f801}</target>
   </entry>
   <entry id="8">
     <source>引き受けている依頼がありません{f801}</source>
-    <target>引き受けている依頼がありません{f801}</target>
+    <target>没有接受的委托。{f801}</target>
   </entry>
   <entry id="9">
     <source>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</source>
-    <target>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</target>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}已汇报!{f801}</target>
   </entry>
   <entry id="10">
     <source>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</source>
-    <target>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</target>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}已汇报!{f801}</target>
   </entry>
   <entry id="11">
     <source>サブクラスを選択してください{f801}</source>

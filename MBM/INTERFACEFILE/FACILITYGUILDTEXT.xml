@@ -1,198 +1,198 @@
 <mbm>
   <entry id="1">
     <source>{f840}に{f801}新しい冒険者を登録します{f801}</source>
-    <target>{f840}に{f801}新しい冒険者を登録します{f801}</target>
+    <target>为{f840}{f801}登录新的冒险者。{f801}</target>
   </entry>
   <entry id="2">
     <source>{f840}メンバーの{f801}転職や引退、休養、抹消、名前変更ができます{f801}</source>
-    <target>{f840}メンバーの{f801}転職や引退、休養、抹消、名前変更ができます{f801}</target>
+    <target>可对{f840}成员{f801}进行除名、退役、休养以及修改名称的操作。{f801}</target>
   </entry>
   <entry id="3">
     <source>{f840}のパーティ編成と{f801}登録順番の入れ替えをします{f801}</source>
-    <target>{f840}のパーティ編成と{f801}登録順番の入れ替えをします{f801}</target>
+    <target>可唤出{f840}的{f801}队伍编组和队伍登记。{f801}</target>
   </entry>
   <entry id="4">
     <source>ギルド長と話します{f801}</source>
-    <target>ギルド長と話します{f801}</target>
+    <target>和公会会长对话。{f801}</target>
   </entry>
   <entry id="5">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="6">
     <source>誰を管理しますか?{f801}登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</source>
-    <target>誰を管理しますか?{f801}登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</target>
+    <target>要管理哪位成员呢?{f801}登记人数{f811}{0000}人:剩余位{f811}{0100}人{f801}</target>
   </entry>
   <entry id="7">
     <source>冒険者がギルドを去り、{f801}少し優秀な新人を連れて来ます{f801}</source>
-    <target>冒険者がギルドを去り、{f801}少し優秀な新人を連れて来ます{f801}</target>
+    <target>冒险者将离开公会，{f801}并带来较为优秀的新人。{f801}</target>
   </entry>
   <entry id="8">
     <source>スキルポイントを振り直します{f801}代償としてLVが2下がります{f801}</source>
-    <target>スキルポイントを振り直します{f801}代償としてLVが2下がります{f801}</target>
+    <target>以LV下降2为代价{f801}重置技能点。{f801}</target>
   </entry>
   <entry id="9">
     <source>冒険者の情報を完全に消去します{f801}</source>
-    <target>冒険者の情報を完全に消去します{f801}</target>
+    <target>完全清除冒险者的信息。{f801}</target>
   </entry>
   <entry id="10">
     <source>冒険者の名前を、{f801}つけ直すことができます{f801}</source>
-    <target>冒険者の名前を、{f801}つけ直すことができます{f801}</target>
+    <target>可为冒险者{f801}重新取名。{f801}</target>
   </entry>
   <entry id="11">
     <source>『{f811}{0000}』を休養させますか?{f801}</source>
-    <target>『{f811}{0000}』を休養させますか?{f801}</target>
+    <target>要让『{f811}{0000}』修养吗?{f801}</target>
   </entry>
   <entry id="12">
     <source>本当に休養させてもいいですか?{f801}</source>
-    <target>本当に休養させてもいいですか?{f801}</target>
+    <target>确定要让该成员休养吗?{f801}</target>
   </entry>
   <entry id="13">
     <source>『{f811}{0000}』を引退させますか?{f801}</source>
-    <target>『{f811}{0000}』を引退させますか?{f801}</target>
+    <target>要让『{f811}{0000}』退役吗?{f801}</target>
   </entry>
   <entry id="14">
     <source>本当に引退させてもいいですか?{f801}</source>
-    <target>本当に引退させてもいいですか?{f801}</target>
+    <target>确定要让该成员退役吗?{f801}</target>
   </entry>
   <entry id="15">
     <source>同時に現在の装備品も消去されます{f801}</source>
-    <target>同時に現在の装備品も消去されます{f801}</target>
+    <target>目前身上的裝備也會一同消失!{f801}</target>
   </entry>
   <entry id="16">
     <source>『{f811}{0000}』を抹消しますか?{f801}</source>
-    <target>『{f811}{0000}』を抹消しますか?{f801}</target>
+    <target>要抹去『{f811}{0000}』的信息吗?{f801}</target>
   </entry>
   <entry id="17">
     <source>本当に抹消してもいいですか?{f801}</source>
-    <target>本当に抹消してもいいですか?{f801}</target>
+    <target>确定要抹去该成员的信息吗?{f801}</target>
   </entry>
   <entry id="18">
     <source>名前変更に1000エン{f801}かかりますが、よろしいですか?{f801}</source>
-    <target>名前変更に1000エン{f801}かかりますが、よろしいですか?{f801}</target>
+    <target>变更姓名要花费1000元。{f801}这样可以吗?{f801}</target>
   </entry>
   <entry id="19">
     <source>お金が足りません!{f801}</source>
-    <target>お金が足りません!{f801}</target>
+    <target>钱不够!{f801}</target>
   </entry>
   <entry id="20">
     <source>{f840}のパーティの編成と、{f801}登録順番の入れ替えをします{f801}</source>
-    <target>{f840}のパーティの編成と、{f801}登録順番の入れ替えをします{f801}</target>
+    <target>进行{f840}的队伍编组以及{f801}更改登记顺序的操作。{f801}</target>
   </entry>
   <entry id="21">
     <source>『{f811}{0000}』は引退し{f801}後継の新人がやってきました{f801}</source>
-    <target>『{f811}{0000}』は引退し{f801}後継の新人がやってきました{f801}</target>
+    <target>『{f811}{0000}』已退役，{f801}并迎来了新的继任者。{f801}</target>
   </entry>
   <entry id="22">
     <source>『{f811}{0000}』は{f801}休養しました{f801}</source>
-    <target>『{f811}{0000}』は{f801}休養しました{f801}</target>
+    <target>『{f811}{0000}』已修养。{f801}</target>
   </entry>
   <entry id="23">
     <source>『{f811}{0000}』を{f801}抹消しました{f801}</source>
-    <target>『{f811}{0000}』を{f801}抹消しました{f801}</target>
+    <target>『{f811}{0000}』的{f801}信息已被抹去。{f801}</target>
   </entry>
   <entry id="24">
     <source>『{f811}{0000}』の育てた{f801}若き冒険者、その名は・・・{f801}</source>
-    <target>『{f811}{0000}』の育てた{f801}若き冒険者、その名は・・・{f801}</target>
+    <target>『{f811}{0000}』培养的{f801}年轻冒险者，其名为……{f801}</target>
   </entry>
   <entry id="25">
     <source>この編成に決定しますか?{f801}</source>
-    <target>この編成に決定しますか?{f801}</target>
+    <target>确定是这个编组吗?{f801}</target>
   </entry>
   <entry id="26">
     <source>登録者がいません!{f801}</source>
-    <target>登録者がいません!{f801}</target>
+    <target>没有以登录的冒险者!{f801}</target>
   </entry>
   <entry id="27">
     <source>『{f811}{0000}』にこれ以上{f801}冒険者を登録できません!{f801}</source>
-    <target>『{f811}{0000}』にこれ以上{f801}冒険者を登録できません!{f801}</target>
+    <target>『{f811}{0000}』中{f801}无法登记更多冒险者!{f801}</target>
   </entry>
   <entry id="28">
     <source>装備を外せません!{f801}持ち物を捨ててください{f801}</source>
-    <target>装備を外せません!{f801}持ち物を捨ててください{f801}</target>
+    <target>无法解除装备!{f801}请丢弃持有物品。{f801}</target>
   </entry>
   <entry id="29">
     <source>全員が死亡か石化になるため、{f801}引退/抹消することができません!{f801}</source>
-    <target>全員が死亡か石化になるため、{f801}引退/抹消することができません!{f801}</target>
+    <target>其余成员已死亡或陷入石化状态，{f801}无法退役/除名!{f801}</target>
   </entry>
   <entry id="30">
     <source>サブクラスを習得します{f801}</source>
-    <target>サブクラスを習得します{f801}</target>
+    <target>学习第二职业。{f801}</target>
   </entry>
   <entry id="31">
     <source>{f840}のパーティを編成します{f801}</source>
-    <target>{f840}のパーティを編成します{f801}</target>
+    <target>对{f840}的队伍进行编组。{f801}</target>
   </entry>
   <entry id="32">
     <source>{f840}のメンバーを並べ替えます{f801}</source>
-    <target>{f840}のメンバーを並べ替えます{f801}</target>
+    <target>对{f840}的成员进行排序。{f801}</target>
   </entry>
   <entry id="33">
     <source>{f840}のパーティを{f801}お気に入り登録します{f801}</source>
-    <target>{f840}のパーティを{f801}お気に入り登録します{f801}</target>
+    <target>登记喜欢的{f840}队伍编组。{f801}</target>
   </entry>
   <entry id="34">
     <source>{f840}のお気に入りパーティを{f801}呼び出します{f801}</source>
-    <target>{f840}のお気に入りパーティを{f801}呼び出します{f801}</target>
+    <target>呼出喜欢的{f840}队伍编组。{f801}</target>
   </entry>
   <entry id="35">
     <source>この冒険者が去り、代わりにステータスと{f801}スキルポイントにボーナスの付いた{f801}レベル{f811}{0100}の冒険者が登録できます{f801}</source>
-    <target>この冒険者が去り、代わりにステータスと{f801}スキルポイントにボーナスの付いた{f801}レベル{f811}{0100}の冒険者が登録できます{f801}</target>
+    <target>这个冒险者离开了公会，随后取而代之登录了{f801}有技能点数加成的{f801}等级为{f811}{0100}的冒险者。{f801}</target>
   </entry>
   <entry id="40">
     <source>有効なパーティがありません!{f801}パーティの登録を確認してください{f801}</source>
-    <target>有効なパーティがありません!{f801}パーティの登録を確認してください{f801}</target>
+    <target>没有有效的队伍!{f801}请查看登记的队伍。{f801}</target>
   </entry>
   <entry id="41">
     <source>このパーティを呼び出しますか?{f801}</source>
-    <target>このパーティを呼び出しますか?{f801}</target>
+    <target>要呼出这个队伍编组吗?{f801}</target>
   </entry>
   <entry id="42">
     <source>パーティにキャラクターを設定してください!{f801}</source>
-    <target>パーティにキャラクターを設定してください!{f801}</target>
+    <target>请设置队伍的成员!{f801}</target>
   </entry>
   <entry id="43">
     <source>このキャラクターは{f801}既にサブクラスを習得しています{f801}</source>
-    <target>このキャラクターは{f801}既にサブクラスを習得しています{f801}</target>
+    <target>这个成员{f801}已经学会了第二职业。{f801}</target>
   </entry>
   <entry id="44">
     <source>このキャラクターは{f840}の{f801}正式なメンバーではないため{f801}サブクラスを習得させることはできません{f801}</source>
-    <target>このキャラクターは{f840}の{f801}正式なメンバーではないため{f801}サブクラスを習得させることはできません{f801}</target>
+    <target>这个成员不是{f840}的{f801}正式成员，{f801}无法习得第二职业。{f801}</target>
   </entry>
   <entry id="45">
     <source>現在のパーティをセット{f811}{0000}に登録します{f801}よろしいですか?{f801}</source>
-    <target>現在のパーティをセット{f811}{0000}に登録します{f801}よろしいですか?{f801}</target>
+    <target>现在的队伍编组{f811}{0000}将被登录。{f801}这样可以吗?{f801}</target>
   </entry>
   <entry id="46">
     <source>パーティを登録しました{f801}</source>
-    <target>パーティを登録しました{f801}</target>
+    <target>已登录队伍编组。{f801}</target>
   </entry>
   <entry id="47">
     <source>外見とパラメータは現在の職業のまま{f801}新たな職業のスキルが使用できます{f801}</source>
-    <target>外見とパラメータは現在の職業のまま{f801}新たな職業のスキルが使用できます{f801}</target>
+    <target>可以在保持当前职业的外貌和状态的{f801}情况下使用新职业的技能。{f801}</target>
   </entry>
   <entry id="48">
     <source>『{f811}{0000}』のレベルが{f811}{0100}になる{f801}代わりにステータスとスキルポイントに{f801}ボーナスが付いた状態で新たな職に付けます{f801}</source>
-    <target>『{f811}{0000}』のレベルが{f811}{0100}になる{f801}代わりにステータスとスキルポイントに{f801}ボーナスが付いた状態で新たな職に付けます{f801}</target>
+    <target>以『{f811}{0000}』的等级{f811}{0100}为代价，{f801}向有技能点数加成的新职业转职。{f801}</target>
   </entry>
   <entry id="49">
     <source>『{f811}{0000}』を転職させますか?{f801}</source>
-    <target>『{f811}{0000}』を転職させますか?{f801}</target>
+    <target>要让『{f811}{0000}』转职吗?{f801}</target>
   </entry>
   <entry id="50">
     <source>本当に転職させてもいいですか?{f801}</source>
-    <target>本当に転職させてもいいですか?{f801}</target>
+    <target>确定要让该成员转职吗?{f801}</target>
   </entry>
   <entry id="51">
     <source>『{f811}{0000}』は転職し{f801}新たな道を歩み始めます{f801}</source>
-    <target>『{f811}{0000}』は転職し{f801}新たな道を歩み始めます{f801}</target>
+    <target>『{f811}{0000}』已转职。{f801}走上了崭新的道路。{f801}</target>
   </entry>
   <entry id="52">
     <source>『{f811}{0000}』の新たなる道{f801}その職業名は・・・{f801}</source>
-    <target>『{f811}{0000}』の新たなる道{f801}その職業名は・・・{f801}</target>
+    <target>『{f811}{0000}』的崭新道路，{f801}其职业名为……{f801}</target>
   </entry>
   <entry id="53">
     <source>{f840}メンバーの{f801}転職・休養ができます{f801}</source>
-    <target>{f840}メンバーの{f801}転職・休養ができます{f801}</target>
+    <target>可对{f840}成员{f801}进行转职、修养的操作。</target>
   </entry>
 </mbm>
