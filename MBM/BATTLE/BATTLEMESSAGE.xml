@@ -345,7 +345,7 @@
   </entry>
   <entry id="87">
     <source>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</source>
-    <target>但是，{f811}{0100}对{f801}没有效果。{f801}</target>
+    <target>但是，{f811}对{0100}{f801}没有效果。{f801}</target>
   </entry>
   <entry id="88">
     <source>{f811}{0100}は{f801}攻撃をかわした!{f801}</source>
@@ -1625,7 +1625,7 @@
   </entry>
   <entry id="478">
     <source>{f811}{0100}の状態異常と封じ付着は{f801}無効化された!{f801}</source>
-    <target>{f811}{0100}对异常状态和封印的附着{f801}无效了!{f801}</target>
+    <target>{f811}{0100}的异常状态和封印的附着{f801}无效了!{f801}</target>
   </entry>
   <entry id="479">
     <source>{f811}{0300}発動!{f801}</source>
@@ -1665,7 +1665,7 @@
   </entry>
   <entry id="488">
     <source>{f811}{0100}の{f801}状態異常に対する耐性が上昇した!{f801}</source>
-    <target>{f811}{0100}对{f801}异常状态和耐性上升了!{f801}</target>
+    <target>{f811}{0100}的{f801}异常状态和耐性上升了!{f801}</target>
   </entry>
   <entry id="489">
     <source>{f811}{0100}は{f801}状態異常が付着しなくなった!{f801}</source>
