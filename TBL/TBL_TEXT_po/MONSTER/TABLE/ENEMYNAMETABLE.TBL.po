@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "森ネズミ"
+msgstr ""
+
+msgctxt "2"
+msgid "シンリンチョウ"
+msgstr ""
+
+msgctxt "3"
+msgid "ひっかきモグラ"
+msgstr ""
+
+msgctxt "4"
+msgid "はさみカブト"
+msgstr ""
+
+msgctxt "5"
+msgid "毒吹きアゲハ"
+msgstr ""
+
+msgctxt "6"
+msgid "森ウサギ"
+msgstr ""
+
+msgctxt "7"
+msgid "フィンドホーン"
+msgstr ""
+
+msgctxt "8"
+msgid "ボールアニマル"
+msgstr ""
+
+msgctxt "9"
+msgid "マンドレイク"
+msgstr ""
+
+msgctxt "10"
+msgid "羽ばたきカブト"
+msgstr ""
+
+msgctxt "11"
+msgid "暴れ野牛"
+msgstr ""
+
+msgctxt "12"
+msgid "スリーパーウーズ"
+msgstr ""
+
+msgctxt "13"
+msgid "ポイズンウーズ"
+msgstr ""
+
+msgctxt "14"
+msgid "軍隊バチ"
+msgstr ""
+
+msgctxt "15"
+msgid "ベノムスパイダー"
+msgstr ""
+
+msgctxt "16"
+msgid "大ナマケモノ"
+msgstr ""
+
+msgctxt "17"
+msgid "かみつき草"
+msgstr ""
+
+msgctxt "18"
+msgid "人喰い草"
+msgstr ""
+
+msgctxt "19"
+msgid "火喰い鳥"
+msgstr ""
+
+msgctxt "20"
+msgid "危険な花びら"
+msgstr ""
+
+msgctxt "21"
+msgid "デススコーピオン"
+msgstr ""
+
+msgctxt "22"
+msgid "邪悪な花びら"
+msgstr ""
+
+msgctxt "23"
+msgid "シャインバード"
+msgstr ""
+
+msgctxt "24"
+msgid "ニードルタイガー"
+msgstr ""
+
+msgctxt "25"
+msgid "マッドワーム"
+msgstr ""
+
+msgctxt "26"
+msgid "森林ガエル"
+msgstr ""
+
+msgctxt "27"
+msgid "キラーアント"
+msgstr ""
+
+msgctxt "28"
+msgid "ガードアント"
+msgstr ""
+
+msgctxt "29"
+msgid "呪いガエル"
+msgstr ""
+
+msgctxt "30"
+msgid "フォレストバット"
+msgstr ""
+
+msgctxt "31"
+msgid "メルトワーム"
+msgstr ""
+
+msgctxt "32"
+msgid "モリヤンマ"
+msgstr ""
+
+msgctxt "33"
+msgid "クリムゾンネイル"
+msgstr ""
+
+msgctxt "34"
+msgid "バンパイアバット"
+msgstr ""
+
+msgctxt "35"
+msgid "シザースクラブ"
+msgstr ""
+
+msgctxt "36"
+msgid "ソードフィッシュ"
+msgstr ""
+
+msgctxt "37"
+msgid "火炎ネズミ"
+msgstr ""
+
+msgctxt "38"
+msgid "ゴールドホーン"
+msgstr ""
+
+msgctxt "39"
+msgid "デスマンティス"
+msgstr ""
+
+msgctxt "40"
+msgid "サーベルタイガー"
+msgstr ""
+
+msgctxt "41"
+msgid "ヒュージモア"
+msgstr ""
+
+msgctxt "42"
+msgid "災厄の木の根"
+msgstr ""
+
+msgctxt "43"
+msgid "グリンソルジャー"
+msgstr ""
+
+msgctxt "44"
+msgid "グリンウォリアー"
+msgstr ""
+
+msgctxt "45"
+msgid "グリンヴァルド"
+msgstr ""
+
+msgctxt "46"
+msgid "グリンドルイド"
+msgstr ""
+
+msgctxt "47"
+msgid "ピクシー"
+msgstr ""
+
+msgctxt "48"
+msgid "アークピクシー"
+msgstr ""
+
+msgctxt "49"
+msgid "カーマインビーク"
+msgstr ""
+
+msgctxt "50"
+msgid "首狩りウサギ"
+msgstr ""
+
+msgctxt "51"
+msgid "かぎづめモグラ"
+msgstr ""
+
+msgctxt "52"
+msgid "バーストウーズ"
+msgstr ""
+
+msgctxt "53"
+msgid "大王ガエル"
+msgstr ""
+
+msgctxt "54"
+msgid "バインドスレッド"
+msgstr ""
+
+msgctxt "55"
+msgid "ビートルロード"
+msgstr ""
+
+msgctxt "56"
+msgid "ダイアーウルフ"
+msgstr ""
+
+msgctxt "57"
+msgid "ドゥームバイソン"
+msgstr ""
+
+msgctxt "58"
+msgid "破滅の花びら"
+msgstr ""
+
+msgctxt "59"
+msgid "グリンブルスティ"
+msgstr ""
+
+msgctxt "60"
+msgid "アーマービースト"
+msgstr ""
+
+msgctxt "61"
+msgid "神蜂"
+msgstr ""
+
+msgctxt "62"
+msgid "大王ヤンマ"
+msgstr ""
+
+msgctxt "63"
+msgid "ヘルパピヨン"
+msgstr ""
+
+msgctxt "64"
+msgid "ルーカサイト"
+msgstr ""
+
+msgctxt "65"
+msgid "メデューサツリー"
+msgstr ""
+
+msgctxt "66"
+msgid "メタルシザース"
+msgstr ""
+
+msgctxt "67"
+msgid "切り裂きトビウオ"
+msgstr ""
+
+msgctxt "68"
+msgid "ヒュージアント"
+msgstr ""
+
+msgctxt "69"
+msgid "アヤカシアゲハ"
+msgstr ""
+
+msgctxt "70"
+msgid "ルシファーホーク"
+msgstr ""
+
+msgctxt "71"
+msgid "フレイムウーズ"
+msgstr ""
+
+msgctxt "72"
+msgid "デモンドレイク"
+msgstr ""
+
+msgctxt "73"
+msgid "レッドコーパスル"
+msgstr ""
+
+msgctxt "74"
+msgid "メタルニードル"
+msgstr ""
+
+msgctxt "75"
+msgid "ギラファビートル"
+msgstr ""
+
+msgctxt "76"
+msgid "彷徨いし駱駝"
+msgstr ""
+
+msgctxt "77"
+msgid "ヤシの木お化け"
+msgstr ""
+
+msgctxt "78"
+msgid "ロンギスクアマ"
+msgstr ""
+
+msgctxt "79"
+msgid "ビッグウーズ"
+msgstr ""
+
+msgctxt "80"
+msgid "ハニーアント"
+msgstr ""
+
+msgctxt "81"
+msgid "リュウノオトシゴ"
+msgstr ""
+
+msgctxt "82"
+msgid "ヘルアングラー"
+msgstr ""
+
+msgctxt "83"
+msgid "ブラックボア"
+msgstr ""
+
+msgctxt "84"
+msgid "スナトビデメキン"
+msgstr ""
+
+msgctxt "85"
+msgid "パイロンヤドカリ"
+msgstr ""
+
+msgctxt "86"
+msgid "惨禍の宿刈り"
+msgstr ""
+
+msgctxt "87"
+msgid "ノコギリ魚"
+msgstr ""
+
+msgctxt "88"
+msgid "アタックビースト"
+msgstr ""
+
+msgctxt "89"
+msgid "バビルサ"
+msgstr ""
+
+msgctxt "90"
+msgid "泉の魔物"
+msgstr ""
+
+msgctxt "91"
+msgid "森林の巨大蝶"
+msgstr ""
+
+msgctxt "92"
+msgid "花求める蜂"
+msgstr ""
+
+msgctxt "93"
+msgid "怒りの火喰い鳥"
+msgstr ""
+
+msgctxt "94"
+msgid "猛毒アゲハ"
+msgstr ""
+
+msgctxt "95"
+msgid "殺人草"
+msgstr ""
+
+msgctxt "96"
+msgid "誘われし水亀"
+msgstr ""
+
+msgctxt "97"
+msgid "夢より出でし者"
+msgstr ""
+
+msgctxt "98"
+msgid "スラストバインド"
+msgstr ""
+
+msgctxt "99"
+msgid "グランバインド"
+msgstr ""
+
+msgctxt "100"
+msgid "毒吐きミミズ"
+msgstr ""
+
+msgctxt "101"
+msgid "フランソワマウス"
+msgstr ""
+
+msgctxt "102"
+msgid "NONE"
+msgstr ""
+
+msgctxt "103"
+msgid "NONE"
+msgstr ""
+
+msgctxt "104"
+msgid "NONE"
+msgstr ""
+
+msgctxt "105"
+msgid "NONE"
+msgstr ""
+
+msgctxt "106"
+msgid "NONE"
+msgstr ""
+
+msgctxt "107"
+msgid "NONE"
+msgstr ""
+
+msgctxt "108"
+msgid "NONE"
+msgstr ""
+
+msgctxt "109"
+msgid "NONE"
+msgstr ""
+
+msgctxt "110"
+msgid "NONE"
+msgstr ""
+
+msgctxt "111"
+msgid "NONE"
+msgstr ""
+
+msgctxt "112"
+msgid "NONE"
+msgstr ""
+
+msgctxt "113"
+msgid "NONE"
+msgstr ""
+
+msgctxt "114"
+msgid "NONE"
+msgstr ""
+
+msgctxt "115"
+msgid "NONE"
+msgstr ""
+
+msgctxt "116"
+msgid "NONE"
+msgstr ""
+
+msgctxt "117"
+msgid "NONE"
+msgstr ""
+
+msgctxt "118"
+msgid "NONE"
+msgstr ""
+
+msgctxt "119"
+msgid "NONE"
+msgstr ""
+
+msgctxt "120"
+msgid "NONE"
+msgstr ""
+
+msgctxt "121"
+msgid "NONE"
+msgstr ""
+
+msgctxt "122"
+msgid "NONE"
+msgstr ""
+
+msgctxt "123"
+msgid "NONE"
+msgstr ""
+
+msgctxt "124"
+msgid "NONE"
+msgstr ""
+
+msgctxt "125"
+msgid "NONE"
+msgstr ""
+
+msgctxt "126"
+msgid "NONE"
+msgstr ""
+
+msgctxt "127"
+msgid "NONE"
+msgstr ""
+
+msgctxt "128"
+msgid "NONE"
+msgstr ""
+
+msgctxt "129"
+msgid "NONE"
+msgstr ""
+
+msgctxt "130"
+msgid "NONE"
+msgstr ""
+
+msgctxt "131"
+msgid "NONE"
+msgstr ""
+
+msgctxt "132"
+msgid "NONE"
+msgstr ""
+
+msgctxt "133"
+msgid "NONE"
+msgstr ""
+
+msgctxt "134"
+msgid "NONE"
+msgstr ""
+
+msgctxt "135"
+msgid "NONE"
+msgstr ""
+
+msgctxt "136"
+msgid "NONE"
+msgstr ""
+
+msgctxt "137"
+msgid "NONE"
+msgstr ""
+
+msgctxt "138"
+msgid "NONE"
+msgstr ""
+
+msgctxt "139"
+msgid "NONE"
+msgstr ""
+
+msgctxt "140"
+msgid "NONE"
+msgstr ""
+
+msgctxt "141"
+msgid "NONE"
+msgstr ""
+
+msgctxt "142"
+msgid "NONE"
+msgstr ""
+
+msgctxt "143"
+msgid "NONE"
+msgstr ""
+
+msgctxt "144"
+msgid "NONE"
+msgstr ""
+
+msgctxt "145"
+msgid "NONE"
+msgstr ""
+
+msgctxt "146"
+msgid "NONE"
+msgstr ""
+
+msgctxt "147"
+msgid "NONE"
+msgstr ""
+
+msgctxt "148"
+msgid "NONE"
+msgstr ""
+
+msgctxt "149"
+msgid "NONE"
+msgstr ""
+
+msgctxt "150"
+msgid "NONE"
+msgstr ""
+
+msgctxt "151"
+msgid "狂える角鹿"
+msgstr ""
+
+msgctxt "152"
+msgid "岩イノシシ"
+msgstr ""
+
+msgctxt "153"
+msgid "フォレストウルフ"
+msgstr ""
+
+msgctxt "154"
+msgid "スノーウルフ"
+msgstr ""
+
+msgctxt "155"
+msgid "全てを刈る影"
+msgstr ""
+
+msgctxt "156"
+msgid "森の破壊者"
+msgstr ""
+
+msgctxt "157"
+msgid "ジャイアントモア"
+msgstr ""
+
+msgctxt "158"
+msgid "密林の殺し屋"
+msgstr ""
+
+msgctxt "159"
+msgid "災いの巨神"
+msgstr ""
+
+msgctxt "160"
+msgid "ヒーラーボール"
+msgstr ""
+
+msgctxt "161"
+msgid "ハイキラーアント"
+msgstr ""
+
+msgctxt "162"
+msgid "ハイガードアント"
+msgstr ""
+
+msgctxt "163"
+msgid "水辺の処刑者"
+msgstr ""
+
+msgctxt "164"
+msgid "アイアンタートル"
+msgstr ""
+
+msgctxt "165"
+msgid "這いよりし暗殺者"
+msgstr ""
+
+msgctxt "166"
+msgid "うごめく毒樹"
+msgstr ""
+
+msgctxt "167"
+msgid "冷酷なる貴婦人"
+msgstr ""
+
+msgctxt "168"
+msgid "禍乱の姫君"
+msgstr ""
+
+msgctxt "169"
+msgid "フォレストオウガ"
+msgstr ""
+
+msgctxt "170"
+msgid "フォレストデモン"
+msgstr ""
+
+msgctxt "171"
+msgid "魂の裁断者"
+msgstr ""
+
+msgctxt "172"
+msgid "貪食の王者"
+msgstr ""
+
+msgctxt "173"
+msgid "死を呼ぶ骨竜"
+msgstr ""
+
+msgctxt "174"
+msgid "樹の下の大王"
+msgstr ""
+
+msgctxt "175"
+msgid "鮮血の担い手"
+msgstr ""
+
+msgctxt "176"
+msgid "深淵を舞う者"
+msgstr ""
+
+msgctxt "177"
+msgid "魔界の武王"
+msgstr ""
+
+msgctxt "178"
+msgid "とこしえの魔竜"
+msgstr ""
+
+msgctxt "179"
+msgid "世界樹の芽"
+msgstr ""
+
+msgctxt "180"
+msgid "世界樹の双葉"
+msgstr ""
+
+msgctxt "181"
+msgid "世界樹の四つ葉"
+msgstr ""
+
+msgctxt "182"
+msgid "血塗られた隻腕"
+msgstr ""
+
+msgctxt "183"
+msgid "ノーブルビー"
+msgstr ""
+
+msgctxt "184"
+msgid "ゼブラテリウム"
+msgstr ""
+
+msgctxt "185"
+msgid "アイスシザーズ"
+msgstr ""
+
+msgctxt "186"
+msgid "吸い尽くすもの"
+msgstr ""
+
+msgctxt "187"
+msgid "荒ぶる駝獣"
+msgstr ""
+
+msgctxt "188"
+msgid "巡回する青蜂"
+msgstr ""
+
+msgctxt "189"
+msgid "NONE"
+msgstr ""
+
+msgctxt "190"
+msgid "NONE"
+msgstr ""
+
+msgctxt "191"
+msgid "NONE"
+msgstr ""
+
+msgctxt "192"
+msgid "NONE"
+msgstr ""
+
+msgctxt "193"
+msgid "NONE"
+msgstr ""
+
+msgctxt "194"
+msgid "NONE"
+msgstr ""
+
+msgctxt "195"
+msgid "NONE"
+msgstr ""
+
+msgctxt "196"
+msgid "NONE"
+msgstr ""
+
+msgctxt "197"
+msgid "NONE"
+msgstr ""
+
+msgctxt "198"
+msgid "NONE"
+msgstr ""
+
+msgctxt "199"
+msgid "NONE"
+msgstr ""
+
+msgctxt "200"
+msgid "フォレスト・セル"
+msgstr ""
+
+msgctxt "201"
+msgid "スノードリフト"
+msgstr ""
+
+msgctxt "202"
+msgid "ケルヌンノス"
+msgstr ""
+
+msgctxt "203"
+msgid "クイーンアント"
+msgstr ""
+
+msgctxt "204"
+msgid "コロトラングル"
+msgstr ""
+
+msgctxt "205"
+msgid "イワオロペネレプ"
+msgstr ""
+
+msgctxt "206"
+msgid "氷の剣士 レン"
+msgstr ""
+
+msgctxt "207"
+msgid "呪い師 ツスクル"
+msgstr ""
+
+msgctxt "208"
+msgid "世界樹の王"
+msgstr ""
+
+msgctxt "209"
+msgid "ゴーレム"
+msgstr ""
+
+msgctxt "210"
+msgid "ワイバーン"
+msgstr ""
+
+msgctxt "211"
+msgid "マンティコア"
+msgstr ""
+
+msgctxt "212"
+msgid "アルルーナ"
+msgstr ""
+
+msgctxt "213"
+msgid "偉大なる赤竜"
+msgstr ""
+
+msgctxt "214"
+msgid "氷嵐の支配者"
+msgstr ""
+
+msgctxt "215"
+msgid "雷鳴と共に現る者"
+msgstr ""
+
+msgctxt "216"
+msgid "炎竜クローン"
+msgstr ""
+
+msgctxt "217"
+msgid "氷竜クローン"
+msgstr ""
+
+msgctxt "218"
+msgid "雷竜クローン"
+msgstr ""
+
+msgctxt "219"
+msgid "フォレスト・セル"
+msgstr ""
+
+msgctxt "220"
+msgid "クァール"
+msgstr ""
+
+msgctxt "221"
+msgid "クイーンビー"
+msgstr ""
+
+msgctxt "222"
+msgid "グアンナ"
+msgstr ""
+
+msgctxt "223"
+msgid "ギムレー"
+msgstr ""
+
+msgctxt "224"
+msgid "M.I.K.E."
+msgstr ""
+
+msgctxt "225"
+msgid "NONE"
+msgstr ""
+
+msgctxt "226"
+msgid "NONE"
+msgstr ""
+
+msgctxt "227"
+msgid "NONE"
+msgstr ""
+
+msgctxt "228"
+msgid "NONE"
+msgstr ""
+
+msgctxt "229"
+msgid "NONE"
+msgstr ""
+
+msgctxt "230"
+msgid "NONE"
+msgstr ""
+
+msgctxt "231"
+msgid "NONE"
+msgstr ""
+
+msgctxt "232"
+msgid "NONE"
+msgstr ""
+
+msgctxt "233"
+msgid "NONE"
+msgstr ""
+
+msgctxt "234"
+msgid "NONE"
+msgstr ""
+
+msgctxt "235"
+msgid "NONE"
+msgstr ""
+
+msgctxt "236"
+msgid "NONE"
+msgstr ""
+
+msgctxt "237"
+msgid "NONE"
+msgstr ""
+
+msgctxt "238"
+msgid "NONE"
+msgstr ""
+
+msgctxt "239"
+msgid "NONE"
+msgstr ""
+
+msgctxt "240"
+msgid "NONE"
+msgstr ""
+
+msgctxt "241"
+msgid "NONE"
+msgstr ""
+
+msgctxt "242"
+msgid "NONE"
+msgstr ""
+
+msgctxt "243"
+msgid "NONE"
+msgstr ""
+
+msgctxt "244"
+msgid "NONE"
+msgstr ""
+
+msgctxt "245"
+msgid "NONE"
+msgstr ""
+
+msgctxt "246"
+msgid "NONE"
+msgstr ""
+
+msgctxt "247"
+msgid "NONE"
+msgstr ""
+
+msgctxt "248"
+msgid "NONE"
+msgstr ""
+
+msgctxt "249"
+msgid "NONE"
+msgstr ""
+
+msgctxt "250"
+msgid "NONE"
+msgstr ""
+
+msgctxt "251"
+msgid "NONE"
+msgstr ""
+
+msgctxt "252"
+msgid "NONE"
+msgstr ""
+
+msgctxt "253"
+msgid "NONE"
+msgstr ""
+
+msgctxt "254"
+msgid "NONE"
+msgstr ""
+
+msgctxt "255"
+msgid "NONE"
+msgstr ""

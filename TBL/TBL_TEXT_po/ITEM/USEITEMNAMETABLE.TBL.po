@@ -1,0 +1,3016 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "小さな牙"
+msgstr ""
+
+msgctxt "2"
+msgid "蝶のリンプン"
+msgstr ""
+
+msgctxt "3"
+msgid "鋼質の口吻"
+msgstr ""
+
+msgctxt "4"
+msgid "複眼"
+msgstr ""
+
+msgctxt "5"
+msgid "柔らかい皮"
+msgstr ""
+
+msgctxt "6"
+msgid "小動物の骨"
+msgstr ""
+
+msgctxt "7"
+msgid "甲虫の大顎"
+msgstr ""
+
+msgctxt "8"
+msgid "毒蝶の翅"
+msgstr ""
+
+msgctxt "9"
+msgid "エナメル質の後肢"
+msgstr ""
+
+msgctxt "10"
+msgid "森兎の前歯"
+msgstr ""
+
+msgctxt "11"
+msgid "縞猿の骨"
+msgstr ""
+
+msgctxt "12"
+msgid "伸縮する皮"
+msgstr ""
+
+msgctxt "13"
+msgid "マンドレイクの根"
+msgstr ""
+
+msgctxt "14"
+msgid "植物のツル"
+msgstr ""
+
+msgctxt "15"
+msgid "カブトのひげ"
+msgstr ""
+
+msgctxt "16"
+msgid "硬質の殻"
+msgstr ""
+
+msgctxt "17"
+msgid "硬質のトゲ"
+msgstr ""
+
+msgctxt "18"
+msgid "金属質の突角"
+msgstr ""
+
+msgctxt "19"
+msgid "狼王のたてがみ"
+msgstr ""
+
+msgctxt "20"
+msgid "純白の虎牙"
+msgstr ""
+
+msgctxt "21"
+msgid "大鹿の角"
+msgstr ""
+
+msgctxt "22"
+msgid "欠けた猪牙"
+msgstr ""
+
+msgctxt "23"
+msgid "血塗られた甲殻"
+msgstr ""
+
+msgctxt "24"
+msgid "やわらかな大鎌"
+msgstr ""
+
+msgctxt "25"
+msgid "森狼の牙"
+msgstr ""
+
+msgctxt "26"
+msgid "雪狼の毛皮"
+msgstr ""
+
+msgctxt "27"
+msgid "硬質の出糸突起"
+msgstr ""
+
+msgctxt "28"
+msgid "コウモリの赤膜"
+msgstr ""
+
+msgctxt "29"
+msgid "湾曲した爪"
+msgstr ""
+
+msgctxt "30"
+msgid "赤鳥の羽毛"
+msgstr ""
+
+msgctxt "31"
+msgid "ラクダの毛皮"
+msgstr ""
+
+msgctxt "32"
+msgid "ねばつく液体"
+msgstr ""
+
+msgctxt "33"
+msgid "緋鉱の小塊"
+msgstr ""
+
+msgctxt "34"
+msgid "菫鉱の小塊"
+msgstr ""
+
+msgctxt "35"
+msgid "鋭い尾針"
+msgstr ""
+
+msgctxt "36"
+msgid "弾力のある背羽"
+msgstr ""
+
+msgctxt "37"
+msgid "曲がった大爪"
+msgstr ""
+
+msgctxt "38"
+msgid "葉付きの太枝"
+msgstr ""
+
+msgctxt "39"
+msgid "鮮やかな花ビラ"
+msgstr ""
+
+msgctxt "40"
+msgid "炎鳥の飾り羽"
+msgstr ""
+
+msgctxt "41"
+msgid "折れた翼骨"
+msgstr ""
+
+msgctxt "42"
+msgid "しなやかなツル"
+msgstr ""
+
+msgctxt "43"
+msgid "真鉄の殻"
+msgstr ""
+
+msgctxt "44"
+msgid "堅紫の太尾針"
+msgstr ""
+
+msgctxt "45"
+msgid "来光鳥の輝嘴"
+msgstr ""
+
+msgctxt "46"
+msgid "来光鳥の光爪"
+msgstr ""
+
+msgctxt "47"
+msgid "虹色ゼラチン"
+msgstr ""
+
+msgctxt "48"
+msgid "虎の毛皮"
+msgstr ""
+
+msgctxt "49"
+msgid "虎の鉄牙"
+msgstr ""
+
+msgctxt "50"
+msgid "ヤシ木材"
+msgstr ""
+
+msgctxt "51"
+msgid "星型の種子"
+msgstr ""
+
+msgctxt "52"
+msgid "締め付けるツタ"
+msgstr ""
+
+msgctxt "53"
+msgid "熊の毛皮"
+msgstr ""
+
+msgctxt "54"
+msgid "巨駝鳥のしなる足"
+msgstr ""
+
+msgctxt "55"
+msgid "濃紫の尾針"
+msgstr ""
+
+msgctxt "56"
+msgid "大王の牙"
+msgstr ""
+
+msgctxt "57"
+msgid "朱色の剛毛"
+msgstr ""
+
+msgctxt "58"
+msgid "朱色野牛の巨角"
+msgstr ""
+
+msgctxt "59"
+msgid "撫子色の膜翅"
+msgstr ""
+
+msgctxt "60"
+msgid "漆黒の刺針"
+msgstr ""
+
+msgctxt "61"
+msgid "森王の角"
+msgstr ""
+
+msgctxt "62"
+msgid "女王蜂の甲腹盤"
+msgstr ""
+
+msgctxt "63"
+msgid "弾力のある皮"
+msgstr ""
+
+msgctxt "64"
+msgid "蛙のホホ皮"
+msgstr ""
+
+msgctxt "65"
+msgid "鋼鉄の小骨片"
+msgstr ""
+
+msgctxt "66"
+msgid "鋼鉄の薄骨殻"
+msgstr ""
+
+msgctxt "67"
+msgid "琥珀色の蜜結晶"
+msgstr ""
+
+msgctxt "68"
+msgid "コウモリの翼"
+msgstr ""
+
+msgctxt "69"
+msgid "鋼鉄の骨片"
+msgstr ""
+
+msgctxt "70"
+msgid "豪血熊の鉤爪"
+msgstr ""
+
+msgctxt "71"
+msgid "濃赤の毛皮"
+msgstr ""
+
+msgctxt "72"
+msgid "頑強な胸殻"
+msgstr ""
+
+msgctxt "73"
+msgid "大トンボの巣材"
+msgstr ""
+
+msgctxt "74"
+msgid "黄鱗の甲板"
+msgstr ""
+
+msgctxt "75"
+msgid "竜宮の真珠"
+msgstr ""
+
+msgctxt "76"
+msgid "鋼鉄の甲殻"
+msgstr ""
+
+msgctxt "77"
+msgid "大カニの曲肢"
+msgstr ""
+
+msgctxt "78"
+msgid "剣魚のウロコ"
+msgstr ""
+
+msgctxt "79"
+msgid "発達したアギト"
+msgstr ""
+
+msgctxt "80"
+msgid "煌めく灯影石"
+msgstr ""
+
+msgctxt "81"
+msgid "伸縮性の強い皮"
+msgstr ""
+
+msgctxt "82"
+msgid "百年甲羅"
+msgstr ""
+
+msgctxt "83"
+msgid "鋼鉄の黒骨片"
+msgstr ""
+
+msgctxt "84"
+msgid "鋼鉄の赤骨片"
+msgstr ""
+
+msgctxt "85"
+msgid "血塗れの大刃"
+msgstr ""
+
+msgctxt "86"
+msgid "硬質のワニ皮"
+msgstr ""
+
+msgctxt "87"
+msgid "処刑者のカギ爪"
+msgstr ""
+
+msgctxt "88"
+msgid "巨大な水ヒレ"
+msgstr ""
+
+msgctxt "89"
+msgid "巨魔牛の豪角"
+msgstr ""
+
+msgctxt "90"
+msgid "邪悪な香花"
+msgstr ""
+
+msgctxt "91"
+msgid "王者のワニ皮"
+msgstr ""
+
+msgctxt "92"
+msgid "火鼠の頭蓋"
+msgstr ""
+
+msgctxt "93"
+msgid "樹液の滴るツル"
+msgstr ""
+
+msgctxt "94"
+msgid "変種祓い根"
+msgstr ""
+
+msgctxt "95"
+msgid "黄金鹿の毛皮"
+msgstr ""
+
+msgctxt "96"
+msgid "黄金鹿の角"
+msgstr ""
+
+msgctxt "97"
+msgid "獰黒獣の突牙"
+msgstr ""
+
+msgctxt "98"
+msgid "砂目魚の水晶体"
+msgstr ""
+
+msgctxt "99"
+msgid "砂目魚の眼球"
+msgstr ""
+
+msgctxt "100"
+msgid "大鳥の足腱"
+msgstr ""
+
+msgctxt "101"
+msgid "堅石の石材"
+msgstr ""
+
+msgctxt "102"
+msgid "ダマスカス鋳塊"
+msgstr ""
+
+msgctxt "103"
+msgid "枯森の布材"
+msgstr ""
+
+msgctxt "104"
+msgid "深緑輝石の勾玉"
+msgstr ""
+
+msgctxt "105"
+msgid "妖精の羽"
+msgstr ""
+
+msgctxt "106"
+msgid "妖精の漆蜜"
+msgstr ""
+
+msgctxt "107"
+msgid "死神の大鎌"
+msgstr ""
+
+msgctxt "108"
+msgid "白銀色の甲皮"
+msgstr ""
+
+msgctxt "109"
+msgid "硬化した樹皮"
+msgstr ""
+
+msgctxt "110"
+msgid "危険な樹目"
+msgstr ""
+
+msgctxt "111"
+msgid "森鬼の腕甲"
+msgstr ""
+
+msgctxt "112"
+msgid "コウモリの耳"
+msgstr ""
+
+msgctxt "113"
+msgid "森鬼の腕羽"
+msgstr ""
+
+msgctxt "114"
+msgid "森鬼の頭葉"
+msgstr ""
+
+msgctxt "115"
+msgid "女王の赤糸"
+msgstr ""
+
+msgctxt "116"
+msgid "女王の紫糸"
+msgstr ""
+
+msgctxt "117"
+msgid "世界樹の中葉"
+msgstr ""
+
+msgctxt "118"
+msgid "ダマスカスの大爪"
+msgstr ""
+
+msgctxt "119"
+msgid "焼けた砲身"
+msgstr ""
+
+msgctxt "120"
+msgid "大王蛙の皮"
+msgstr ""
+
+msgctxt "121"
+msgid "人工の宿殻片"
+msgstr ""
+
+msgctxt "122"
+msgid "深青の分泌液"
+msgstr ""
+
+msgctxt "123"
+msgid "極小の鋭歯"
+msgstr ""
+
+msgctxt "124"
+msgid "悪魔の毛皮"
+msgstr ""
+
+msgctxt "125"
+msgid "輝く紅玉眼"
+msgstr ""
+
+msgctxt "126"
+msgid "強靭な蜘糸"
+msgstr ""
+
+msgctxt "127"
+msgid "黄金の甲殻"
+msgstr ""
+
+msgctxt "128"
+msgid "黄金の突牙"
+msgstr ""
+
+msgctxt "129"
+msgid "黄金の毛皮"
+msgstr ""
+
+msgctxt "130"
+msgid "嘆きの棘茎"
+msgstr ""
+
+msgctxt "131"
+msgid "天鉄の甲殻"
+msgstr ""
+
+msgctxt "132"
+msgid "ウーズの水晶核"
+msgstr ""
+
+msgctxt "133"
+msgid "真紅の毛皮"
+msgstr ""
+
+msgctxt "134"
+msgid "真紅の鮮血"
+msgstr ""
+
+msgctxt "135"
+msgid "エンゼルウィング"
+msgstr ""
+
+msgctxt "136"
+msgid "天鉄の大爪"
+msgstr ""
+
+msgctxt "137"
+msgid "澄んだ巨翅"
+msgstr ""
+
+msgctxt "138"
+msgid "黒耀の巨牙"
+msgstr ""
+
+msgctxt "139"
+msgid "緋色のたてがみ"
+msgstr ""
+
+msgctxt "140"
+msgid "裁断者の剛爪"
+msgstr ""
+
+msgctxt "141"
+msgid "妖精の精髪"
+msgstr ""
+
+msgctxt "142"
+msgid "骨竜の胸殻"
+msgstr ""
+
+msgctxt "143"
+msgid "骨竜の尾"
+msgstr ""
+
+msgctxt "144"
+msgid "呪いのまだら牙"
+msgstr ""
+
+msgctxt "145"
+msgid "凍てつく大鎌"
+msgstr ""
+
+msgctxt "146"
+msgid "剣士の具足袖"
+msgstr ""
+
+msgctxt "147"
+msgid "呪われた鎖"
+msgstr ""
+
+msgctxt "148"
+msgid "世界樹の聖骸"
+msgstr ""
+
+msgctxt "149"
+msgid "機械の装甲片"
+msgstr ""
+
+msgctxt "150"
+msgid "未知なる宿殻片"
+msgstr ""
+
+msgctxt "151"
+msgid "鋸魚の楯鱗"
+msgstr ""
+
+msgctxt "152"
+msgid "鋸歯状の刃ヒレ"
+msgstr ""
+
+msgctxt "153"
+msgid "鱗翅虫のリンプン"
+msgstr ""
+
+msgctxt "154"
+msgid "煉氷蝶の翅"
+msgstr ""
+
+msgctxt "155"
+msgid "白の結晶"
+msgstr ""
+
+msgctxt "156"
+msgid "うごめく樹材"
+msgstr ""
+
+msgctxt "157"
+msgid "戦慄の尾針"
+msgstr ""
+
+msgctxt "158"
+msgid "紅蓮の鉱晶"
+msgstr ""
+
+msgctxt "159"
+msgid "煉眩蝶の翅"
+msgstr ""
+
+msgctxt "160"
+msgid "蒼の結晶"
+msgstr ""
+
+msgctxt "161"
+msgid "切裂魚の螺旋角"
+msgstr ""
+
+msgctxt "162"
+msgid "赤の結晶"
+msgstr ""
+
+msgctxt "163"
+msgid "悪魔の黒根"
+msgstr ""
+
+msgctxt "164"
+msgid "巨蟻の極爪"
+msgstr ""
+
+msgctxt "165"
+msgid "黄金炭の骨殻"
+msgstr ""
+
+msgctxt "166"
+msgid "戦鎧鼠の尾甲"
+msgstr ""
+
+msgctxt "167"
+msgid "戦鎧鼠の突付甲殻"
+msgstr ""
+
+msgctxt "168"
+msgid "黒銀の蟹甲羅"
+msgstr ""
+
+msgctxt "169"
+msgid "黒銀の断頭鋏"
+msgstr ""
+
+msgctxt "170"
+msgid "世界樹の大葉"
+msgstr ""
+
+msgctxt "171"
+msgid "結晶状の飾り羽"
+msgstr ""
+
+msgctxt "172"
+msgid "禍鳥の嘴"
+msgstr ""
+
+msgctxt "173"
+msgid "千年甲羅"
+msgstr ""
+
+msgctxt "174"
+msgid "青生生魂の胸骨"
+msgstr ""
+
+msgctxt "175"
+msgid "青生生魂の血晶"
+msgstr ""
+
+msgctxt "176"
+msgid "切断した炎竜の首"
+msgstr ""
+
+msgctxt "177"
+msgid "竜の玉礎"
+msgstr ""
+
+msgctxt "178"
+msgid "貫かれた氷竜の眼"
+msgstr ""
+
+msgctxt "179"
+msgid "砕かれた雷竜の角"
+msgstr ""
+
+msgctxt "180"
+msgid "魔神の礎"
+msgstr ""
+
+msgctxt "181"
+msgid "石像の胸板"
+msgstr ""
+
+msgctxt "182"
+msgid "飛竜の翼"
+msgstr ""
+
+msgctxt "183"
+msgid "猛毒の手革"
+msgstr ""
+
+msgctxt "184"
+msgid "華王の蔓草"
+msgstr ""
+
+msgctxt "185"
+msgid "火竜の牙"
+msgstr ""
+
+msgctxt "186"
+msgid "火竜の逆鱗"
+msgstr ""
+
+msgctxt "187"
+msgid "氷竜の翼骨"
+msgstr ""
+
+msgctxt "188"
+msgid "氷竜の逆鱗"
+msgstr ""
+
+msgctxt "189"
+msgid "雷竜のヒゲ"
+msgstr ""
+
+msgctxt "190"
+msgid "雷竜の逆鱗"
+msgstr ""
+
+msgctxt "191"
+msgid "穿通した牛皮"
+msgstr ""
+
+msgctxt "192"
+msgid "縛られた大鎌"
+msgstr ""
+
+msgctxt "193"
+msgid "赤玉石"
+msgstr ""
+
+msgctxt "194"
+msgid "澄んだ水晶核"
+msgstr ""
+
+msgctxt "195"
+msgid "氷漬けの象牙"
+msgstr ""
+
+msgctxt "196"
+msgid "斬られた背羽"
+msgstr ""
+
+msgctxt "197"
+msgid "痺れた前脚"
+msgstr ""
+
+msgctxt "198"
+msgid "雷光放つ蟹甲羅"
+msgstr ""
+
+msgctxt "199"
+msgid "傷ついた百年甲羅"
+msgstr ""
+
+msgctxt "200"
+msgid "石化した蟻巣材"
+msgstr ""
+
+msgctxt "201"
+msgid "圧した黒毛皮"
+msgstr ""
+
+msgctxt "202"
+msgid "濡れた赤糸"
+msgstr ""
+
+msgctxt "203"
+msgid "濡れた紫糸"
+msgstr ""
+
+msgctxt "204"
+msgid "終焉の森鬼ベルト"
+msgstr ""
+
+msgctxt "205"
+msgid "戦慄の頭飾り"
+msgstr ""
+
+msgctxt "206"
+msgid "封じられた俊足"
+msgstr ""
+
+msgctxt "207"
+msgid "まどろみの蜘糸"
+msgstr ""
+
+msgctxt "208"
+msgid "混沌の大複眼"
+msgstr ""
+
+msgctxt "209"
+msgid "呪言を宿す牙"
+msgstr ""
+
+msgctxt "210"
+msgid "掻きむしった心臓"
+msgstr ""
+
+msgctxt "211"
+msgid "破滅の花弁"
+msgstr ""
+
+msgctxt "212"
+msgid "呪われた根"
+msgstr ""
+
+msgctxt "213"
+msgid "金縛りの禍羽"
+msgstr ""
+
+msgctxt "214"
+msgid "石化した心臓"
+msgstr ""
+
+msgctxt "215"
+msgid "練磨された甲羅"
+msgstr ""
+
+msgctxt "216"
+msgid "乱れた尾羽"
+msgstr ""
+
+msgctxt "217"
+msgid "縮こまる稀少細胞"
+msgstr ""
+
+msgctxt "218"
+msgid "狼王の尻尾"
+msgstr ""
+
+msgctxt "219"
+msgid "呪われた森王腕"
+msgstr ""
+
+msgctxt "220"
+msgid "処刑者のアギト"
+msgstr ""
+
+msgctxt "221"
+msgid "海王の毒漬骨"
+msgstr ""
+
+msgctxt "222"
+msgid "黄金の風切り羽"
+msgstr ""
+
+msgctxt "223"
+msgid "石像の豪腕"
+msgstr ""
+
+msgctxt "224"
+msgid "縛られた飛竜の脚"
+msgstr ""
+
+msgctxt "225"
+msgid "魔獣の瞳"
+msgstr ""
+
+msgctxt "226"
+msgid "華王のビロード"
+msgstr ""
+
+msgctxt "227"
+msgid "灼熱の竜角"
+msgstr ""
+
+msgctxt "228"
+msgid "凍てつく竜翼"
+msgstr ""
+
+msgctxt "229"
+msgid "霹靂の竜眼"
+msgstr ""
+
+msgctxt "230"
+msgid "世界樹の小葉"
+msgstr ""
+
+msgctxt "231"
+msgid "濃蜂毒の膠化体"
+msgstr ""
+
+msgctxt "232"
+msgid "蛙の凍った汗"
+msgstr ""
+
+msgctxt "233"
+msgid "破壊者の拘束腕"
+msgstr ""
+
+msgctxt "234"
+msgid "毒果ての樹心"
+msgstr ""
+
+msgctxt "235"
+msgid "焼け焦げた血液塊"
+msgstr ""
+
+msgctxt "236"
+msgid "呪い蛙の喉皮"
+msgstr ""
+
+msgctxt "237"
+msgid "切断された植物"
+msgstr ""
+
+msgctxt "238"
+msgid "氷河の卵鞘"
+msgstr ""
+
+msgctxt "239"
+msgid "先の分かれた尻尾"
+msgstr ""
+
+msgctxt "240"
+msgid "真・魔神の礎"
+msgstr ""
+
+msgctxt "241"
+msgid "ダミー238"
+msgstr ""
+
+msgctxt "242"
+msgid "ダミー239"
+msgstr ""
+
+msgctxt "243"
+msgid "ダミー240"
+msgstr ""
+
+msgctxt "244"
+msgid "ダミー241"
+msgstr ""
+
+msgctxt "245"
+msgid "ダミー242"
+msgstr ""
+
+msgctxt "246"
+msgid "ダミー243"
+msgstr ""
+
+msgctxt "247"
+msgid "輝石"
+msgstr ""
+
+msgctxt "248"
+msgid "古銅石"
+msgstr ""
+
+msgctxt "249"
+msgid "灰鉄柘榴石"
+msgstr ""
+
+msgctxt "250"
+msgid "クズ真鉄"
+msgstr ""
+
+msgctxt "251"
+msgid "ラテライト"
+msgstr ""
+
+msgctxt "252"
+msgid "砕けた化石"
+msgstr ""
+
+msgctxt "253"
+msgid "深海の輝石"
+msgstr ""
+
+msgctxt "254"
+msgid "沈殿層の欠片"
+msgstr ""
+
+msgctxt "255"
+msgid "コランダム原石"
+msgstr ""
+
+msgctxt "256"
+msgid "ダマスカス鋼片"
+msgstr ""
+
+msgctxt "257"
+msgid "堅石のかけら"
+msgstr ""
+
+msgctxt "258"
+msgid "カリナン"
+msgstr ""
+
+msgctxt "259"
+msgid "謎の壁材"
+msgstr ""
+
+msgctxt "260"
+msgid "水晶の壁材"
+msgstr ""
+
+msgctxt "261"
+msgid "水晶花"
+msgstr ""
+
+msgctxt "262"
+msgid "三色混石"
+msgstr ""
+
+msgctxt "263"
+msgid "カルキュラス"
+msgstr ""
+
+msgctxt "264"
+msgid "足状の世界樹根"
+msgstr ""
+
+msgctxt "265"
+msgid "小さい花"
+msgstr ""
+
+msgctxt "266"
+msgid "姫リンゴ"
+msgstr ""
+
+msgctxt "267"
+msgid "蜜のかけら"
+msgstr ""
+
+msgctxt "268"
+msgid "ミント草"
+msgstr ""
+
+msgctxt "269"
+msgid "樹液の塊"
+msgstr ""
+
+msgctxt "270"
+msgid "十字の種子"
+msgstr ""
+
+msgctxt "271"
+msgid "ウミユリの葉"
+msgstr ""
+
+msgctxt "272"
+msgid "トゲ巻貝"
+msgstr ""
+
+msgctxt "273"
+msgid "瑠璃イチゴ"
+msgstr ""
+
+msgctxt "274"
+msgid "ロサカニナ"
+msgstr ""
+
+msgctxt "275"
+msgid "樹蜜酒"
+msgstr ""
+
+msgctxt "276"
+msgid "冬虫夏草"
+msgstr ""
+
+msgctxt "277"
+msgid "コケイチゴ"
+msgstr ""
+
+msgctxt "278"
+msgid "苦ヨモギ"
+msgstr ""
+
+msgctxt "279"
+msgid "螺旋状の種子"
+msgstr ""
+
+msgctxt "280"
+msgid "アンブロシア"
+msgstr ""
+
+msgctxt "281"
+msgid "銀竜草"
+msgstr ""
+
+msgctxt "282"
+msgid "頭状の世界樹根"
+msgstr ""
+
+msgctxt "283"
+msgid "丈夫な木片"
+msgstr ""
+
+msgctxt "284"
+msgid "巻きつくツタ"
+msgstr ""
+
+msgctxt "285"
+msgid "朱色の木の実"
+msgstr ""
+
+msgctxt "286"
+msgid "軽量の堅木"
+msgstr ""
+
+msgctxt "287"
+msgid "絡まるツタ"
+msgstr ""
+
+msgctxt "288"
+msgid "縄文樫"
+msgstr ""
+
+msgctxt "289"
+msgid "岩サンゴ"
+msgstr ""
+
+msgctxt "290"
+msgid "深海樹の枝"
+msgstr ""
+
+msgctxt "291"
+msgid "水仙人掌"
+msgstr ""
+
+msgctxt "292"
+msgid "枯森の枝材"
+msgstr ""
+
+msgctxt "293"
+msgid "乾いた木桃"
+msgstr ""
+
+msgctxt "294"
+msgid "手鞠片檜葉"
+msgstr ""
+
+msgctxt "295"
+msgid "死色の細茎"
+msgstr ""
+
+msgctxt "296"
+msgid "水晶のツル"
+msgstr ""
+
+msgctxt "297"
+msgid "金属糸"
+msgstr ""
+
+msgctxt "298"
+msgid "霧仙人掌"
+msgstr ""
+
+msgctxt "299"
+msgid "観音竹"
+msgstr ""
+
+msgctxt "300"
+msgid "腕状の世界樹根"
+msgstr ""
+
+msgctxt "301"
+msgid "凝縮された粘液"
+msgstr ""
+
+msgctxt "302"
+msgid "呪われた後足"
+msgstr ""
+
+msgctxt "303"
+msgid "痺れた尻尾"
+msgstr ""
+
+msgctxt "304"
+msgid "まどろむ眼球"
+msgstr ""
+
+msgctxt "305"
+msgid "切断された大針"
+msgstr ""
+
+msgctxt "306"
+msgid "封じられた腕蔓"
+msgstr ""
+
+msgctxt "307"
+msgid "氷漬けの皮膚"
+msgstr ""
+
+msgctxt "308"
+msgid "石化した花服"
+msgstr ""
+
+msgctxt "309"
+msgid "封じられた大顎"
+msgstr ""
+
+msgctxt "310"
+msgid "毒化した大牙"
+msgstr ""
+
+msgctxt "311"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "312"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "313"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "314"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "315"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "316"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "317"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "318"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "319"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "320"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "321"
+msgid "まどろみのナイフ"
+msgstr ""
+
+msgctxt "322"
+msgid "ブラインドダガー"
+msgstr ""
+
+msgctxt "323"
+msgid "慈悲の短剣"
+msgstr ""
+
+msgctxt "324"
+msgid "スタンナイフ"
+msgstr ""
+
+msgctxt "325"
+msgid "ソニックダガー"
+msgstr ""
+
+msgctxt "326"
+msgid "戦慄の斧"
+msgstr ""
+
+msgctxt "327"
+msgid "封頭の玄能"
+msgstr ""
+
+msgctxt "328"
+msgid "呪言の杖"
+msgstr ""
+
+msgctxt "329"
+msgid "小手切り"
+msgstr ""
+
+msgctxt "330"
+msgid "パニックボウ"
+msgstr ""
+
+msgctxt "331"
+msgid "パライズウイップ"
+msgstr ""
+
+msgctxt "332"
+msgid "ロックキャノン"
+msgstr ""
+
+msgctxt "333"
+msgid "脚削ぎの槍"
+msgstr ""
+
+msgctxt "334"
+msgid "黄金の鎧"
+msgstr ""
+
+msgctxt "335"
+msgid "黄金の兜"
+msgstr ""
+
+msgctxt "336"
+msgid "黄金の靴"
+msgstr ""
+
+msgctxt "337"
+msgid "古びた盾"
+msgstr ""
+
+msgctxt "338"
+msgid "素材バッファ38"
+msgstr ""
+
+msgctxt "339"
+msgid "素材バッファ39"
+msgstr ""
+
+msgctxt "340"
+msgid "素材バッファ40"
+msgstr ""
+
+msgctxt "341"
+msgid "素材バッファ41"
+msgstr ""
+
+msgctxt "342"
+msgid "素材バッファ42"
+msgstr ""
+
+msgctxt "343"
+msgid "素材バッファ43"
+msgstr ""
+
+msgctxt "344"
+msgid "素材バッファ44"
+msgstr ""
+
+msgctxt "345"
+msgid "素材バッファ45"
+msgstr ""
+
+msgctxt "346"
+msgid "素材バッファ46"
+msgstr ""
+
+msgctxt "347"
+msgid "素材バッファ47"
+msgstr ""
+
+msgctxt "348"
+msgid "素材バッファ48"
+msgstr ""
+
+msgctxt "349"
+msgid "素材バッファ49"
+msgstr ""
+
+msgctxt "350"
+msgid "素材バッファ50"
+msgstr ""
+
+msgctxt "351"
+msgid "素材バッファ51"
+msgstr ""
+
+msgctxt "352"
+msgid "素材バッファ52"
+msgstr ""
+
+msgctxt "353"
+msgid "素材バッファ53"
+msgstr ""
+
+msgctxt "354"
+msgid "素材バッファ54"
+msgstr ""
+
+msgctxt "355"
+msgid "素材バッファ55"
+msgstr ""
+
+msgctxt "356"
+msgid "素材バッファ56"
+msgstr ""
+
+msgctxt "357"
+msgid "素材バッファ57"
+msgstr ""
+
+msgctxt "358"
+msgid "素材バッファ58"
+msgstr ""
+
+msgctxt "359"
+msgid "素材バッファ59"
+msgstr ""
+
+msgctxt "360"
+msgid "素材バッファ60"
+msgstr ""
+
+msgctxt "361"
+msgid "素材バッファ61"
+msgstr ""
+
+msgctxt "362"
+msgid "素材バッファ62"
+msgstr ""
+
+msgctxt "363"
+msgid "素材バッファ63"
+msgstr ""
+
+msgctxt "364"
+msgid "素材バッファ64"
+msgstr ""
+
+msgctxt "365"
+msgid "素材バッファ65"
+msgstr ""
+
+msgctxt "366"
+msgid "素材バッファ66"
+msgstr ""
+
+msgctxt "367"
+msgid "素材バッファ67"
+msgstr ""
+
+msgctxt "368"
+msgid "素材バッファ68"
+msgstr ""
+
+msgctxt "369"
+msgid "素材バッファ69"
+msgstr ""
+
+msgctxt "370"
+msgid "素材バッファ70"
+msgstr ""
+
+msgctxt "371"
+msgid "素材バッファ71"
+msgstr ""
+
+msgctxt "372"
+msgid "素材バッファ72"
+msgstr ""
+
+msgctxt "373"
+msgid "素材バッファ73"
+msgstr ""
+
+msgctxt "374"
+msgid "素材バッファ74"
+msgstr ""
+
+msgctxt "375"
+msgid "素材バッファ75"
+msgstr ""
+
+msgctxt "376"
+msgid "素材バッファ76"
+msgstr ""
+
+msgctxt "377"
+msgid "素材バッファ77"
+msgstr ""
+
+msgctxt "378"
+msgid "素材バッファ78"
+msgstr ""
+
+msgctxt "379"
+msgid "素材バッファ79"
+msgstr ""
+
+msgctxt "380"
+msgid "素材バッファ80"
+msgstr ""
+
+msgctxt "381"
+msgid "素材バッファ81"
+msgstr ""
+
+msgctxt "382"
+msgid "素材バッファ82"
+msgstr ""
+
+msgctxt "383"
+msgid "素材バッファ83"
+msgstr ""
+
+msgctxt "384"
+msgid "素材バッファ84"
+msgstr ""
+
+msgctxt "385"
+msgid "素材バッファ85"
+msgstr ""
+
+msgctxt "386"
+msgid "素材バッファ86"
+msgstr ""
+
+msgctxt "387"
+msgid "素材バッファ87"
+msgstr ""
+
+msgctxt "388"
+msgid "素材バッファ88"
+msgstr ""
+
+msgctxt "389"
+msgid "素材バッファ89"
+msgstr ""
+
+msgctxt "390"
+msgid "素材バッファ90"
+msgstr ""
+
+msgctxt "391"
+msgid "素材バッファ91"
+msgstr ""
+
+msgctxt "392"
+msgid "素材バッファ92"
+msgstr ""
+
+msgctxt "393"
+msgid "素材バッファ93"
+msgstr ""
+
+msgctxt "394"
+msgid "素材バッファ94"
+msgstr ""
+
+msgctxt "395"
+msgid "素材バッファ95"
+msgstr ""
+
+msgctxt "396"
+msgid "素材バッファ96"
+msgstr ""
+
+msgctxt "397"
+msgid "素材バッファ97"
+msgstr ""
+
+msgctxt "398"
+msgid "素材バッファ98"
+msgstr ""
+
+msgctxt "399"
+msgid "素材バッファ99"
+msgstr ""
+
+msgctxt "400"
+msgid "素材バッファ百"
+msgstr ""
+
+msgctxt "401"
+msgid "メディカ"
+msgstr ""
+
+msgctxt "402"
+msgid "メディカⅡ"
+msgstr ""
+
+msgctxt "403"
+msgid "メディカⅢ"
+msgstr ""
+
+msgctxt "404"
+msgid "メディカⅣ"
+msgstr ""
+
+msgctxt "405"
+msgid "アムリタ"
+msgstr ""
+
+msgctxt "406"
+msgid "アムリタⅡ"
+msgstr ""
+
+msgctxt "407"
+msgid "ハマオ"
+msgstr ""
+
+msgctxt "408"
+msgid "ハマオプライム"
+msgstr ""
+
+msgctxt "409"
+msgid "ソーマ"
+msgstr ""
+
+msgctxt "410"
+msgid "ソーマプライム"
+msgstr ""
+
+msgctxt "411"
+msgid "ネクタル"
+msgstr ""
+
+msgctxt "412"
+msgid "ネクタルⅡ"
+msgstr ""
+
+msgctxt "413"
+msgid "テリアカα"
+msgstr ""
+
+msgctxt "414"
+msgid "テリアカβ"
+msgstr ""
+
+msgctxt "415"
+msgid "アクセラ"
+msgstr ""
+
+msgctxt "416"
+msgid "耐熱ミスト"
+msgstr ""
+
+msgctxt "417"
+msgid "耐氷ミスト"
+msgstr ""
+
+msgctxt "418"
+msgid "耐雷ミスト"
+msgstr ""
+
+msgctxt "419"
+msgid "絶耐ミスト"
+msgstr ""
+
+msgctxt "420"
+msgid "ブレイバント"
+msgstr ""
+
+msgctxt "421"
+msgid "ストナード"
+msgstr ""
+
+msgctxt "422"
+msgid "ファイアオイル"
+msgstr ""
+
+msgctxt "423"
+msgid "フリーズオイル"
+msgstr ""
+
+msgctxt "424"
+msgid "ショックオイル"
+msgstr ""
+
+msgctxt "425"
+msgid "ラウダナム"
+msgstr ""
+
+msgctxt "426"
+msgid "ウニコウル"
+msgstr ""
+
+msgctxt "427"
+msgid "聖なる贈り物"
+msgstr ""
+
+msgctxt "428"
+msgid "解析グラス"
+msgstr ""
+
+msgctxt "429"
+msgid "獣避けの鈴"
+msgstr ""
+
+msgctxt "430"
+msgid "獣寄せの鈴"
+msgstr ""
+
+msgctxt "431"
+msgid "アリアドネの糸"
+msgstr ""
+
+msgctxt "432"
+msgid "変位磁石"
+msgstr ""
+
+msgctxt "433"
+msgid "斥候の長靴"
+msgstr ""
+
+msgctxt "434"
+msgid "解剖用水溶液"
+msgstr ""
+
+msgctxt "435"
+msgid "明滅弾"
+msgstr ""
+
+msgctxt "436"
+msgid "轟音弾"
+msgstr ""
+
+msgctxt "437"
+msgid "好機のスカラベ"
+msgstr ""
+
+msgctxt "438"
+msgid "戦功の角笛"
+msgstr ""
+
+msgctxt "439"
+msgid "四つ葉のクローバー"
+msgstr ""
+
+msgctxt "440"
+msgid "火術の起動符"
+msgstr ""
+
+msgctxt "441"
+msgid "氷術の起動符"
+msgstr ""
+
+msgctxt "442"
+msgid "雷術の起動符"
+msgstr ""
+
+msgctxt "443"
+msgid "火炎術の起動符"
+msgstr ""
+
+msgctxt "444"
+msgid "氷結術の起動符"
+msgstr ""
+
+msgctxt "445"
+msgid "雷電術の起動符"
+msgstr ""
+
+msgctxt "446"
+msgid "盲目の香"
+msgstr ""
+
+msgctxt "447"
+msgid "毒の香"
+msgstr ""
+
+msgctxt "448"
+msgid "麻痺の香"
+msgstr ""
+
+msgctxt "449"
+msgid "混乱の香"
+msgstr ""
+
+msgctxt "450"
+msgid "呪いの香"
+msgstr ""
+
+msgctxt "451"
+msgid "睡眠の香"
+msgstr ""
+
+msgctxt "452"
+msgid "縺れ糸:頭"
+msgstr ""
+
+msgctxt "453"
+msgid "縺れ糸:腕"
+msgstr ""
+
+msgctxt "454"
+msgid "縺れ糸:脚"
+msgstr ""
+
+msgctxt "455"
+msgid "輪廻の護符"
+msgstr ""
+
+msgctxt "456"
+msgid "シリカ商店特製の薬"
+msgstr ""
+
+msgctxt "457"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "458"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "459"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "460"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "461"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "462"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "463"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "464"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "465"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "466"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "467"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "468"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "469"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "470"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "471"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "472"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "473"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "474"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "475"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "476"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "477"
+msgid "ユグドラウィルス"
+msgstr ""
+
+msgctxt "478"
+msgid "アイテム78"
+msgstr ""
+
+msgctxt "479"
+msgid "アイテム79"
+msgstr ""
+
+msgctxt "480"
+msgid "アイテム80"
+msgstr ""
+
+msgctxt "481"
+msgid "アイテム81"
+msgstr ""
+
+msgctxt "482"
+msgid "アイテム82"
+msgstr ""
+
+msgctxt "483"
+msgid "アイテム83"
+msgstr ""
+
+msgctxt "484"
+msgid "アイテム84"
+msgstr ""
+
+msgctxt "485"
+msgid "アイテム85"
+msgstr ""
+
+msgctxt "486"
+msgid "アイテム86"
+msgstr ""
+
+msgctxt "487"
+msgid "アイテム87"
+msgstr ""
+
+msgctxt "488"
+msgid "アイテム88"
+msgstr ""
+
+msgctxt "489"
+msgid "アイテム89"
+msgstr ""
+
+msgctxt "490"
+msgid "アイテム90"
+msgstr ""
+
+msgctxt "491"
+msgid "アイテム91"
+msgstr ""
+
+msgctxt "492"
+msgid "アイテム92"
+msgstr ""
+
+msgctxt "493"
+msgid "アイテム93"
+msgstr ""
+
+msgctxt "494"
+msgid "アイテム94"
+msgstr ""
+
+msgctxt "495"
+msgid "アイテム95"
+msgstr ""
+
+msgctxt "496"
+msgid "アイテム96"
+msgstr ""
+
+msgctxt "497"
+msgid "アイテム97"
+msgstr ""
+
+msgctxt "498"
+msgid "アイテム98"
+msgstr ""
+
+msgctxt "499"
+msgid "アイテム99"
+msgstr ""
+
+msgctxt "500"
+msgid "アイテム100"
+msgstr ""
+
+msgctxt "501"
+msgid "迷宮の地図"
+msgstr ""
+
+msgctxt "502"
+msgid "執政院からの親書"
+msgstr ""
+
+msgctxt "503"
+msgid "白水晶のカケラ"
+msgstr ""
+
+msgctxt "504"
+msgid "紫水晶のカケラ"
+msgstr ""
+
+msgctxt "505"
+msgid "竜のタマゴ"
+msgstr ""
+
+msgctxt "506"
+msgid "カードキー"
+msgstr ""
+
+msgctxt "507"
+msgid "秘伝の書"
+msgstr ""
+
+msgctxt "508"
+msgid "呪いの鈴"
+msgstr ""
+
+msgctxt "509"
+msgid "神秘の水"
+msgstr ""
+
+msgctxt "510"
+msgid "怪しいピンクのお香"
+msgstr ""
+
+msgctxt "511"
+msgid "幸運のコイン"
+msgstr ""
+
+msgctxt "512"
+msgid "折れた剣"
+msgstr ""
+
+msgctxt "513"
+msgid "欠けたオノ"
+msgstr ""
+
+msgctxt "514"
+msgid "割れたワンド"
+msgstr ""
+
+msgctxt "515"
+msgid "最高の薬"
+msgstr ""
+
+msgctxt "516"
+msgid "ただ一つの花"
+msgstr ""
+
+msgctxt "517"
+msgid "お花の種"
+msgstr ""
+
+msgctxt "518"
+msgid "磁空石"
+msgstr ""
+
+msgctxt "519"
+msgid "小さな金属の筒"
+msgstr ""
+
+msgctxt "520"
+msgid "虹色に輝く円盤"
+msgstr ""
+
+msgctxt "521"
+msgid "柔らかいビン"
+msgstr ""
+
+msgctxt "522"
+msgid "穴の空いたコイン"
+msgstr ""
+
+msgctxt "523"
+msgid "二つ折りの機械"
+msgstr ""
+
+msgctxt "524"
+msgid "伝説の鳥の羽根"
+msgstr ""
+
+msgctxt "525"
+msgid "氷づけの腕"
+msgstr ""
+
+msgctxt "526"
+msgid "アンク型のパーツA"
+msgstr ""
+
+msgctxt "527"
+msgid "アンク型のパーツB"
+msgstr ""
+
+msgctxt "528"
+msgid "アンク型のパーツC"
+msgstr ""
+
+msgctxt "529"
+msgid "アンク型のパーツD"
+msgstr ""
+
+msgctxt "530"
+msgid "アンク型のパーツE"
+msgstr ""
+
+msgctxt "531"
+msgid "収束装置"
+msgstr ""
+
+msgctxt "532"
+msgid "七色のバンダナ"
+msgstr ""
+
+msgctxt "533"
+msgid "真珠の石"
+msgstr ""
+
+msgctxt "534"
+msgid "謎の石板"
+msgstr ""
+
+msgctxt "535"
+msgid "深紅の鎌"
+msgstr ""
+
+msgctxt "536"
+msgid "モリビトへの手紙"
+msgstr ""
+
+msgctxt "537"
+msgid "熊への贈り物"
+msgstr ""
+
+msgctxt "538"
+msgid "巨大なカニの抜け殻"
+msgstr ""
+
+msgctxt "539"
+msgid "錆びた短剣"
+msgstr ""
+
+msgctxt "540"
+msgid "釣り道具一式"
+msgstr ""
+
+msgctxt "541"
+msgid "星色錦鯉"
+msgstr ""
+
+msgctxt "542"
+msgid "ヒカリニジマス"
+msgstr ""
+
+msgctxt "543"
+msgid "夜闇ブナ"
+msgstr ""
+
+msgctxt "544"
+msgid "アブラウナギ"
+msgstr ""
+
+msgctxt "545"
+msgid "樹海アロワナ"
+msgstr ""
+
+msgctxt "546"
+msgid "紅ドジョウ"
+msgstr ""
+
+msgctxt "547"
+msgid "トラアユ"
+msgstr ""
+
+msgctxt "548"
+msgid "フラワーサーモン"
+msgstr ""
+
+msgctxt "549"
+msgid "キノボリウオ"
+msgstr ""
+
+msgctxt "550"
+msgid "ハーブのリース"
+msgstr ""
+
+msgctxt "551"
+msgid "堅焼きの特製パン"
+msgstr ""
+
+msgctxt "552"
+msgid "小さなアロマ"
+msgstr ""
+
+msgctxt "553"
+msgid "上質のパイプ草"
+msgstr ""
+
+msgctxt "554"
+msgid "祈りの笛"
+msgstr ""
+
+msgctxt "555"
+msgid "獣が描かれた石"
+msgstr ""
+
+msgctxt "556"
+msgid "深き眠りへ誘う秘薬"
+msgstr ""
+
+msgctxt "557"
+msgid "ユグドラウィルス"
+msgstr ""
+
+msgctxt "558"
+msgid "亀の甲羅"
+msgstr ""
+
+msgctxt "559"
+msgid "亀の肉"
+msgstr ""
+
+msgctxt "560"
+msgid "亀のエサ"
+msgstr ""
+
+msgctxt "561"
+msgid "思い出のバスケット"
+msgstr ""
+
+msgctxt "562"
+msgid "商人の採集物"
+msgstr ""
+
+msgctxt "563"
+msgid "飛竜の牙笛"
+msgstr ""
+
+msgctxt "564"
+msgid "伝説の肉"
+msgstr ""
+
+msgctxt "565"
+msgid "手作りチーズ"
+msgstr ""
+
+msgctxt "566"
+msgid "探偵の残したメモ1"
+msgstr ""
+
+msgctxt "567"
+msgid "探偵の残したメモ2"
+msgstr ""
+
+msgctxt "568"
+msgid "探偵の残した暗号1"
+msgstr ""
+
+msgctxt "569"
+msgid "探偵の残した暗号2"
+msgstr ""
+
+msgctxt "570"
+msgid "特濃砂糖水"
+msgstr ""
+
+msgctxt "571"
+msgid "黄金鳥の羽"
+msgstr ""
+
+msgctxt "572"
+msgid "卵の在り処のメモ"
+msgstr ""
+
+msgctxt "573"
+msgid "お礼の手紙"
+msgstr ""
+
+msgctxt "574"
+msgid "貴重品バッファ24"
+msgstr ""
+
+msgctxt "575"
+msgid "貴重品バッファ25"
+msgstr ""
+
+msgctxt "576"
+msgid "貴重品バッファ26"
+msgstr ""
+
+msgctxt "577"
+msgid "貴重品バッファ27"
+msgstr ""
+
+msgctxt "578"
+msgid "貴重品バッファ28"
+msgstr ""
+
+msgctxt "579"
+msgid "貴重品バッファ29"
+msgstr ""
+
+msgctxt "580"
+msgid "貴重品バッファ30"
+msgstr ""
+
+msgctxt "581"
+msgid "貴重品バッファ31"
+msgstr ""
+
+msgctxt "582"
+msgid "貴重品バッファ32"
+msgstr ""
+
+msgctxt "583"
+msgid "貴重品バッファ33"
+msgstr ""
+
+msgctxt "584"
+msgid "貴重品バッファ34"
+msgstr ""
+
+msgctxt "585"
+msgid "貴重品バッファ35"
+msgstr ""
+
+msgctxt "586"
+msgid "貴重品バッファ36"
+msgstr ""
+
+msgctxt "587"
+msgid "貴重品バッファ37"
+msgstr ""
+
+msgctxt "588"
+msgid "貴重品バッファ38"
+msgstr ""
+
+msgctxt "589"
+msgid "貴重品バッファ39"
+msgstr ""
+
+msgctxt "590"
+msgid "貴重品バッファ40"
+msgstr ""
+
+msgctxt "591"
+msgid "貴重品バッファ41"
+msgstr ""
+
+msgctxt "592"
+msgid "貴重品バッファ42"
+msgstr ""
+
+msgctxt "593"
+msgid "貴重品バッファ43"
+msgstr ""
+
+msgctxt "594"
+msgid "貴重品バッファ44"
+msgstr ""
+
+msgctxt "595"
+msgid "貴重品バッファ45"
+msgstr ""
+
+msgctxt "596"
+msgid "貴重品バッファ46"
+msgstr ""
+
+msgctxt "597"
+msgid "貴重品バッファ47"
+msgstr ""
+
+msgctxt "598"
+msgid "貴重品バッファ48"
+msgstr ""
+
+msgctxt "599"
+msgid "貴重品バッファ49"
+msgstr ""
+
+msgctxt "600"
+msgid "貴重品バッファ50"
+msgstr ""
+
+msgctxt "601"
+msgid "物攻のハンマー"
+msgstr ""
+
+msgctxt "602"
+msgid "命中のハンマー"
+msgstr ""
+
+msgctxt "603"
+msgid "会心のハンマー"
+msgstr ""
+
+msgctxt "604"
+msgid "力のハンマー"
+msgstr ""
+
+msgctxt "605"
+msgid "知識のハンマー"
+msgstr ""
+
+msgctxt "606"
+msgid "守りのハンマー"
+msgstr ""
+
+msgctxt "607"
+msgid "速さのハンマー"
+msgstr ""
+
+msgctxt "608"
+msgid "運のハンマー"
+msgstr ""
+
+msgctxt "609"
+msgid "火炎のハンマー"
+msgstr ""
+
+msgctxt "610"
+msgid "氷結のハンマー"
+msgstr ""
+
+msgctxt "611"
+msgid "電撃のハンマー"
+msgstr ""
+
+msgctxt "612"
+msgid "頭封じのハンマー"
+msgstr ""
+
+msgctxt "613"
+msgid "腕封じのハンマー"
+msgstr ""
+
+msgctxt "614"
+msgid "脚封じのハンマー"
+msgstr ""
+
+msgctxt "615"
+msgid "スタンハンマー"
+msgstr ""
+
+msgctxt "616"
+msgid "盲目のハンマー"
+msgstr ""
+
+msgctxt "617"
+msgid "睡眠のハンマー"
+msgstr ""
+
+msgctxt "618"
+msgid "毒のハンマー"
+msgstr ""
+
+msgctxt "619"
+msgid "腐敗のハンマー"
+msgstr ""
+
+msgctxt "620"
+msgid "混乱のハンマー"
+msgstr ""
+
+msgctxt "621"
+msgid "麻痺のハンマー"
+msgstr ""
+
+msgctxt "622"
+msgid "呪いのハンマー"
+msgstr ""
+
+msgctxt "623"
+msgid "石化のハンマー"
+msgstr ""
+
+msgctxt "624"
+msgid "死のハンマー"
+msgstr ""
+
+msgctxt "625"
+msgid "属攻のハンマー"
+msgstr ""
+
+msgctxt "626"
+msgid "貫通のハンマー"
+msgstr ""
+
+msgctxt "627"
+msgid "拡散のハンマー"
+msgstr ""
+
+msgctxt "628"
+msgid "アザー478"
+msgstr ""
+
+msgctxt "629"
+msgid "アザー479"
+msgstr ""
+
+msgctxt "630"
+msgid "アザー480"
+msgstr ""
+
+msgctxt "631"
+msgid "アザー481"
+msgstr ""
+
+msgctxt "632"
+msgid "アザー482"
+msgstr ""
+
+msgctxt "633"
+msgid "アザー483"
+msgstr ""
+
+msgctxt "634"
+msgid "アザー484"
+msgstr ""
+
+msgctxt "635"
+msgid "アザー485"
+msgstr ""
+
+msgctxt "636"
+msgid "アザー486"
+msgstr ""
+
+msgctxt "637"
+msgid "アザー487"
+msgstr ""
+
+msgctxt "638"
+msgid "アザー488"
+msgstr ""
+
+msgctxt "639"
+msgid "アザー489"
+msgstr ""
+
+msgctxt "640"
+msgid "アザー490"
+msgstr ""
+
+msgctxt "641"
+msgid "アザー491"
+msgstr ""
+
+msgctxt "642"
+msgid "アザー492"
+msgstr ""
+
+msgctxt "643"
+msgid "アザー493"
+msgstr ""
+
+msgctxt "644"
+msgid "アザー494"
+msgstr ""
+
+msgctxt "645"
+msgid "アザー495"
+msgstr ""
+
+msgctxt "646"
+msgid "アザー496"
+msgstr ""
+
+msgctxt "647"
+msgid "アザー497"
+msgstr ""
+
+msgctxt "648"
+msgid "アザー498"
+msgstr ""
+
+msgctxt "649"
+msgid "アザー499"
+msgstr ""
+
+msgctxt "650"
+msgid "アザー500"
+msgstr ""
+
+msgctxt "651"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "652"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "653"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "654"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "655"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "656"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "657"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "658"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "659"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "660"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "661"
+msgid "銀のグリモアI"
+msgstr ""
+
+msgctxt "662"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "663"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "664"
+msgid "銀のグリモアI"
+msgstr ""
+
+msgctxt "665"
+msgid "金のグリモアI"
+msgstr ""
+
+msgctxt "666"
+msgid "闇のグリモアI"
+msgstr ""
+
+msgctxt "667"
+msgid "銀のグリモアI"
+msgstr ""
+
+msgctxt "668"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "669"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "670"
+msgid "グリモア020"
+msgstr ""
+
+msgctxt "671"
+msgid "グリモア021"
+msgstr ""
+
+msgctxt "672"
+msgid "銅のグリモアI"
+msgstr ""
+
+msgctxt "673"
+msgid "グリモア023"
+msgstr ""
+
+msgctxt "674"
+msgid "グリモア024"
+msgstr ""
+
+msgctxt "675"
+msgid "グリモア025"
+msgstr ""
+
+msgctxt "676"
+msgid "グリモア026"
+msgstr ""
+
+msgctxt "677"
+msgid "グリモア027"
+msgstr ""
+
+msgctxt "678"
+msgid "グリモア028"
+msgstr ""
+
+msgctxt "679"
+msgid "グリモア029"
+msgstr ""
+
+msgctxt "680"
+msgid "グリモア030"
+msgstr ""
+
+msgctxt "681"
+msgid "グリモア031"
+msgstr ""
+
+msgctxt "682"
+msgid "グリモア032"
+msgstr ""
+
+msgctxt "683"
+msgid "グリモア033"
+msgstr ""
+
+msgctxt "684"
+msgid "グリモア034"
+msgstr ""
+
+msgctxt "685"
+msgid "グリモア035"
+msgstr ""
+
+msgctxt "686"
+msgid "グリモア036"
+msgstr ""
+
+msgctxt "687"
+msgid "グリモア037"
+msgstr ""
+
+msgctxt "688"
+msgid "グリモア038"
+msgstr ""
+
+msgctxt "689"
+msgid "グリモア039"
+msgstr ""
+
+msgctxt "690"
+msgid "グリモア040"
+msgstr ""
+
+msgctxt "691"
+msgid "グリモア041"
+msgstr ""
+
+msgctxt "692"
+msgid "グリモア042"
+msgstr ""
+
+msgctxt "693"
+msgid "グリモア043"
+msgstr ""
+
+msgctxt "694"
+msgid "グリモア044"
+msgstr ""
+
+msgctxt "695"
+msgid "グリモア045"
+msgstr ""
+
+msgctxt "696"
+msgid "グリモア046"
+msgstr ""
+
+msgctxt "697"
+msgid "グリモア047"
+msgstr ""
+
+msgctxt "698"
+msgid "グリモア048"
+msgstr ""
+
+msgctxt "699"
+msgid "グリモア049"
+msgstr ""
+
+msgctxt "700"
+msgid "グリモア050"
+msgstr ""
+
+msgctxt "701"
+msgid "グリモア051"
+msgstr ""
+
+msgctxt "702"
+msgid "グリモア052"
+msgstr ""
+
+msgctxt "703"
+msgid "グリモア053"
+msgstr ""
+
+msgctxt "704"
+msgid "グリモア054"
+msgstr ""
+
+msgctxt "705"
+msgid "グリモア055"
+msgstr ""
+
+msgctxt "706"
+msgid "グリモア056"
+msgstr ""
+
+msgctxt "707"
+msgid "グリモア057"
+msgstr ""
+
+msgctxt "708"
+msgid "グリモア058"
+msgstr ""
+
+msgctxt "709"
+msgid "グリモア059"
+msgstr ""
+
+msgctxt "710"
+msgid "グリモア060"
+msgstr ""
+
+msgctxt "711"
+msgid "グリモア061"
+msgstr ""
+
+msgctxt "712"
+msgid "グリモア062"
+msgstr ""
+
+msgctxt "713"
+msgid "グリモア063"
+msgstr ""
+
+msgctxt "714"
+msgid "グリモア064"
+msgstr ""
+
+msgctxt "715"
+msgid "グリモア065"
+msgstr ""
+
+msgctxt "716"
+msgid "グリモア066"
+msgstr ""
+
+msgctxt "717"
+msgid "グリモア067"
+msgstr ""
+
+msgctxt "718"
+msgid "グリモア068"
+msgstr ""
+
+msgctxt "719"
+msgid "グリモア069"
+msgstr ""
+
+msgctxt "720"
+msgid "グリモア070"
+msgstr ""
+
+msgctxt "721"
+msgid "グリモア071"
+msgstr ""
+
+msgctxt "722"
+msgid "グリモア072"
+msgstr ""
+
+msgctxt "723"
+msgid "グリモア073"
+msgstr ""
+
+msgctxt "724"
+msgid "グリモア074"
+msgstr ""
+
+msgctxt "725"
+msgid "グリモア075"
+msgstr ""
+
+msgctxt "726"
+msgid "グリモア076"
+msgstr ""
+
+msgctxt "727"
+msgid "グリモア077"
+msgstr ""
+
+msgctxt "728"
+msgid "グリモア078"
+msgstr ""
+
+msgctxt "729"
+msgid "グリモア079"
+msgstr ""
+
+msgctxt "730"
+msgid "グリモア080"
+msgstr ""
+
+msgctxt "731"
+msgid "グリモア081"
+msgstr ""
+
+msgctxt "732"
+msgid "グリモア082"
+msgstr ""
+
+msgctxt "733"
+msgid "グリモア083"
+msgstr ""
+
+msgctxt "734"
+msgid "グリモア084"
+msgstr ""
+
+msgctxt "735"
+msgid "グリモア085"
+msgstr ""
+
+msgctxt "736"
+msgid "グリモア086"
+msgstr ""
+
+msgctxt "737"
+msgid "グリモア087"
+msgstr ""
+
+msgctxt "738"
+msgid "グリモア088"
+msgstr ""
+
+msgctxt "739"
+msgid "グリモア089"
+msgstr ""
+
+msgctxt "740"
+msgid "グリモア090"
+msgstr ""
+
+msgctxt "741"
+msgid "狼王のグリモア"
+msgstr ""
+
+msgctxt "742"
+msgid "森王のグリモア"
+msgstr ""
+
+msgctxt "743"
+msgid "女王のグリモア"
+msgstr ""
+
+msgctxt "744"
+msgid "海王のグリモア"
+msgstr ""
+
+msgctxt "745"
+msgid "鳥王のグリモア"
+msgstr ""
+
+msgctxt "746"
+msgid "毒王のグリモア"
+msgstr ""
+
+msgctxt "747"
+msgid "華王のグリモア"
+msgstr ""
+
+msgctxt "748"
+msgid "グリモア098"
+msgstr ""
+
+msgctxt "749"
+msgid "グリモア099"
+msgstr ""
+
+msgctxt "750"
+msgid "グリモア100"
+msgstr ""

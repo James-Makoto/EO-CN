@@ -1,0 +1,3640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "ブランク"
+msgstr ""
+
+msgctxt "1"
+msgid "ATTACK"
+msgstr ""
+
+msgctxt "2"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "3"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "4"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "5"
+msgid "DEFブースト"
+msgstr ""
+
+msgctxt "6"
+msgid "斧マスタリー"
+msgstr ""
+
+msgctxt "7"
+msgid "剣マスタリー"
+msgstr ""
+
+msgctxt "8"
+msgid "ダブルアタック"
+msgstr ""
+
+msgctxt "9"
+msgid "ウォークライ"
+msgstr ""
+
+msgctxt "10"
+msgid "追撃の号令"
+msgstr ""
+
+msgctxt "11"
+msgid "リカバー"
+msgstr ""
+
+msgctxt "12"
+msgid "ブーメランアクス"
+msgstr ""
+
+msgctxt "13"
+msgid "レイジングエッジ"
+msgstr ""
+
+msgctxt "14"
+msgid "トルネード"
+msgstr ""
+
+msgctxt "15"
+msgid "ハヤブサ駆け"
+msgstr ""
+
+msgctxt "16"
+msgid "チェイスファイア"
+msgstr ""
+
+msgctxt "17"
+msgid "チェイスフリーズ"
+msgstr ""
+
+msgctxt "18"
+msgid "チェイスショック"
+msgstr ""
+
+msgctxt "19"
+msgid "パワークラッシュ"
+msgstr ""
+
+msgctxt "20"
+msgid "スタンスマッシュ"
+msgstr ""
+
+msgctxt "21"
+msgid "ヘッドバッシュ"
+msgstr ""
+
+msgctxt "22"
+msgid "採掘"
+msgstr ""
+
+msgctxt "23"
+msgid "パワースラップ"
+msgstr ""
+
+msgctxt "24"
+msgid "サベージクライ"
+msgstr ""
+
+msgctxt "25"
+msgid "トライチャージ"
+msgstr ""
+
+msgctxt "26"
+msgid "チェイスファイア"
+msgstr ""
+
+msgctxt "27"
+msgid "チェイスフリーズ"
+msgstr ""
+
+msgctxt "28"
+msgid "チェイスショック"
+msgstr ""
+
+msgctxt "29"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "30"
+msgid "サベージクライ"
+msgstr ""
+
+msgctxt "31"
+msgid "追撃の号令"
+msgstr ""
+
+msgctxt "32"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "33"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "34"
+msgid "AGIブースト"
+msgstr ""
+
+msgctxt "35"
+msgid "弓マスタリー"
+msgstr ""
+
+msgctxt "36"
+msgid "先制ブースト"
+msgstr ""
+
+msgctxt "37"
+msgid "先制ブロック"
+msgstr ""
+
+msgctxt "38"
+msgid "アクトファースト"
+msgstr ""
+
+msgctxt "39"
+msgid "トリックステップ"
+msgstr ""
+
+msgctxt "40"
+msgid "ファストステップ"
+msgstr ""
+
+msgctxt "41"
+msgid "チェインダンス"
+msgstr ""
+
+msgctxt "42"
+msgid "エンドルフィン"
+msgstr ""
+
+msgctxt "43"
+msgid "アザーズステップ"
+msgstr ""
+
+msgctxt "44"
+msgid "パワーショット"
+msgstr ""
+
+msgctxt "45"
+msgid "ダブルショット"
+msgstr ""
+
+msgctxt "46"
+msgid "エイミングフット"
+msgstr ""
+
+msgctxt "47"
+msgid "サジタリウスの矢"
+msgstr ""
+
+msgctxt "48"
+msgid "オウルアイ"
+msgstr ""
+
+msgctxt "49"
+msgid "警戒歩行"
+msgstr ""
+
+msgctxt "50"
+msgid "伐採"
+msgstr ""
+
+msgctxt "51"
+msgid "採掘"
+msgstr ""
+
+msgctxt "52"
+msgid "採取"
+msgstr ""
+
+msgctxt "53"
+msgid "エフィシエント"
+msgstr ""
+
+msgctxt "54"
+msgid "シュアヒット"
+msgstr ""
+
+msgctxt "55"
+msgid "簡易蘇生"
+msgstr ""
+
+msgctxt "56"
+msgid "サジタリウスの矢"
+msgstr ""
+
+msgctxt "57"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "58"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "59"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "60"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "61"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "62"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "63"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "64"
+msgid "DEFブースト"
+msgstr ""
+
+msgctxt "65"
+msgid "盾マスタリー"
+msgstr ""
+
+msgctxt "66"
+msgid "決死の覚悟"
+msgstr ""
+
+msgctxt "67"
+msgid "オートガード"
+msgstr ""
+
+msgctxt "68"
+msgid "挑発"
+msgstr ""
+
+msgctxt "69"
+msgid "猛進逃走"
+msgstr ""
+
+msgctxt "70"
+msgid "パリング"
+msgstr ""
+
+msgctxt "71"
+msgid "渾身ディフェンス"
+msgstr ""
+
+msgctxt "72"
+msgid "防御陣形"
+msgstr ""
+
+msgctxt "73"
+msgid "フロントガード"
+msgstr ""
+
+msgctxt "74"
+msgid "バックガード"
+msgstr ""
+
+msgctxt "75"
+msgid "ファイアガード"
+msgstr ""
+
+msgctxt "76"
+msgid "ショックガード"
+msgstr ""
+
+msgctxt "77"
+msgid "フリーズガード"
+msgstr ""
+
+msgctxt "78"
+msgid "シールドスマイト"
+msgstr ""
+
+msgctxt "79"
+msgid "キュア"
+msgstr ""
+
+msgctxt "80"
+msgid "エリアキュア"
+msgstr ""
+
+msgctxt "81"
+msgid "安息の祈り"
+msgstr ""
+
+msgctxt "82"
+msgid "採掘"
+msgstr ""
+
+msgctxt "83"
+msgid "シールドラッシュ"
+msgstr ""
+
+msgctxt "84"
+msgid "警戒斥候"
+msgstr ""
+
+msgctxt "85"
+msgid "パワーディバイド"
+msgstr ""
+
+msgctxt "86"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "87"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "88"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "89"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "90"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "91"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "92"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "93"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "94"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "95"
+msgid "鞭マスタリー"
+msgstr ""
+
+msgctxt "96"
+msgid "剣マスタリー"
+msgstr ""
+
+msgctxt "97"
+msgid "ブーストアップ"
+msgstr ""
+
+msgctxt "98"
+msgid "憤怒の力"
+msgstr ""
+
+msgctxt "99"
+msgid "シャドウエントリ"
+msgstr ""
+
+msgctxt "100"
+msgid "アナコンダ"
+msgstr ""
+
+msgctxt "101"
+msgid "ヘッドボンデージ"
+msgstr ""
+
+msgctxt "102"
+msgid "レッグボンデージ"
+msgstr ""
+
+msgctxt "103"
+msgid "アームボンデージ"
+msgstr ""
+
+msgctxt "104"
+msgid "エクスタシー"
+msgstr ""
+
+msgctxt "105"
+msgid "ジエンド"
+msgstr ""
+
+msgctxt "106"
+msgid "ヒュプノバイト"
+msgstr ""
+
+msgctxt "107"
+msgid "ショックバイト"
+msgstr ""
+
+msgctxt "108"
+msgid "ミラージュバイト"
+msgstr ""
+
+msgctxt "109"
+msgid "ドレインバイト"
+msgstr ""
+
+msgctxt "110"
+msgid "トラッピング"
+msgstr ""
+
+msgctxt "111"
+msgid "カタストロフ"
+msgstr ""
+
+msgctxt "112"
+msgid "採取"
+msgstr ""
+
+msgctxt "113"
+msgid "ダークカース"
+msgstr ""
+
+msgctxt "114"
+msgid "ハートバインド"
+msgstr ""
+
+msgctxt "115"
+msgid "ソウルリベレイト"
+msgstr ""
+
+msgctxt "116"
+msgid "トラッピング"
+msgstr ""
+
+msgctxt "117"
+msgid "トラッピング"
+msgstr ""
+
+msgctxt "118"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "119"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "120"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "121"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "122"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "123"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "124"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "125"
+msgid "回復マスタリー"
+msgstr ""
+
+msgctxt "126"
+msgid "パライズドラッグ"
+msgstr ""
+
+msgctxt "127"
+msgid "博識"
+msgstr ""
+
+msgctxt "128"
+msgid "精神集中"
+msgstr ""
+
+msgctxt "129"
+msgid "キュア"
+msgstr ""
+
+msgctxt "130"
+msgid "ヒーリング"
+msgstr ""
+
+msgctxt "131"
+msgid "医師の瞳"
+msgstr ""
+
+msgctxt "132"
+msgid "エリアキュア"
+msgstr ""
+
+msgctxt "133"
+msgid "スリープドラッグ"
+msgstr ""
+
+msgctxt "134"
+msgid "リザレクション"
+msgstr ""
+
+msgctxt "135"
+msgid "バインドリカバリ"
+msgstr ""
+
+msgctxt "136"
+msgid "リフレッシュ"
+msgstr ""
+
+msgctxt "137"
+msgid "医術防御"
+msgstr ""
+
+msgctxt "138"
+msgid "医術防御II"
+msgstr ""
+
+msgctxt "139"
+msgid "リジェネレート"
+msgstr ""
+
+msgctxt "140"
+msgid "へヴィストライク"
+msgstr ""
+
+msgctxt "141"
+msgid "ポイズンドラッグ"
+msgstr ""
+
+msgctxt "142"
+msgid "伐採"
+msgstr ""
+
+msgctxt "143"
+msgid "警戒斥候"
+msgstr ""
+
+msgctxt "144"
+msgid "ディレイヒール"
+msgstr ""
+
+msgctxt "145"
+msgid "クリアストライク"
+msgstr ""
+
+msgctxt "146"
+msgid "リジェネレート"
+msgstr ""
+
+msgctxt "147"
+msgid "ディレイヒール"
+msgstr ""
+
+msgctxt "148"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "149"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "150"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "151"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "152"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "153"
+msgid "術式マスタリー"
+msgstr ""
+
+msgctxt "154"
+msgid "光掌の術式"
+msgstr ""
+
+msgctxt "155"
+msgid "握壊の術式"
+msgstr ""
+
+msgctxt "156"
+msgid "光撃の術式"
+msgstr ""
+
+msgctxt "157"
+msgid "博識"
+msgstr ""
+
+msgctxt "158"
+msgid "精神集中"
+msgstr ""
+
+msgctxt "159"
+msgid "火の術式"
+msgstr ""
+
+msgctxt "160"
+msgid "火炎の術式"
+msgstr ""
+
+msgctxt "161"
+msgid "大爆炎の術式"
+msgstr ""
+
+msgctxt "162"
+msgid "氷の術式"
+msgstr ""
+
+msgctxt "163"
+msgid "氷結の術式"
+msgstr ""
+
+msgctxt "164"
+msgid "大氷嵐の術式"
+msgstr ""
+
+msgctxt "165"
+msgid "雷の術式"
+msgstr ""
+
+msgctxt "166"
+msgid "電撃の術式"
+msgstr ""
+
+msgctxt "167"
+msgid "大雷嵐の術式"
+msgstr ""
+
+msgctxt "168"
+msgid "猛進逃走"
+msgstr ""
+
+msgctxt "169"
+msgid "光掌の術式II"
+msgstr ""
+
+msgctxt "170"
+msgid "千里眼の術式"
+msgstr ""
+
+msgctxt "171"
+msgid "帰還の術式"
+msgstr ""
+
+msgctxt "172"
+msgid "伐採"
+msgstr ""
+
+msgctxt "173"
+msgid "定量分析"
+msgstr ""
+
+msgctxt "174"
+msgid "樹海錬金の知識"
+msgstr ""
+
+msgctxt "175"
+msgid "変性の術式"
+msgstr ""
+
+msgctxt "176"
+msgid "光撃の術式"
+msgstr ""
+
+msgctxt "177"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "178"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "179"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "180"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "181"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "182"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "183"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "184"
+msgid "歌マスタリー"
+msgstr ""
+
+msgctxt "185"
+msgid "ホーリーギフト"
+msgstr ""
+
+msgctxt "186"
+msgid "猛き戦いの舞曲"
+msgstr ""
+
+msgctxt "187"
+msgid "聖なる守護の舞曲"
+msgstr ""
+
+msgctxt "188"
+msgid "韋駄天の舞曲"
+msgstr ""
+
+msgctxt "189"
+msgid "沈静なる奇想曲"
+msgstr ""
+
+msgctxt "190"
+msgid "破邪の鎮魂歌"
+msgstr ""
+
+msgctxt "191"
+msgid "蛮族の行進曲"
+msgstr ""
+
+msgctxt "192"
+msgid "火劇の序曲"
+msgstr ""
+
+msgctxt "193"
+msgid "氷劇の序曲"
+msgstr ""
+
+msgctxt "194"
+msgid "雷劇の序曲"
+msgstr ""
+
+msgctxt "195"
+msgid "火幕の幻想曲"
+msgstr ""
+
+msgctxt "196"
+msgid "氷幕の幻想曲"
+msgstr ""
+
+msgctxt "197"
+msgid "雷幕の幻想曲"
+msgstr ""
+
+msgctxt "198"
+msgid "癒しの子守唄"
+msgstr ""
+
+msgctxt "199"
+msgid "安らぎの子守唄"
+msgstr ""
+
+msgctxt "200"
+msgid "警戒歩行"
+msgstr ""
+
+msgctxt "201"
+msgid "キャンプ処置"
+msgstr ""
+
+msgctxt "202"
+msgid "採取"
+msgstr ""
+
+msgctxt "203"
+msgid "慧眼の旋律"
+msgstr ""
+
+msgctxt "204"
+msgid "山彦の輪唱曲"
+msgstr ""
+
+msgctxt "205"
+msgid "禁忌の輪舞曲"
+msgstr ""
+
+msgctxt "206"
+msgid "癒しの子守唄"
+msgstr ""
+
+msgctxt "207"
+msgid "安らぎの子守唄"
+msgstr ""
+
+msgctxt "208"
+msgid "山彦の輪唱曲"
+msgstr ""
+
+msgctxt "209"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "210"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "211"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "212"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "213"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "214"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "215"
+msgid "刀マスタリー"
+msgstr ""
+
+msgctxt "216"
+msgid "一刀両断"
+msgstr ""
+
+msgctxt "217"
+msgid "一閃ブースト"
+msgstr ""
+
+msgctxt "218"
+msgid "息吹"
+msgstr ""
+
+msgctxt "219"
+msgid "踏み袈裟"
+msgstr ""
+
+msgctxt "220"
+msgid "上段の構え"
+msgstr ""
+
+msgctxt "221"
+msgid "斬馬"
+msgstr ""
+
+msgctxt "222"
+msgid "ツバメがえし"
+msgstr ""
+
+msgctxt "223"
+msgid "卸し焔"
+msgstr ""
+
+msgctxt "224"
+msgid "青眼の構え"
+msgstr ""
+
+msgctxt "225"
+msgid "一寸の見切り"
+msgstr ""
+
+msgctxt "226"
+msgid "小手討ち"
+msgstr ""
+
+msgctxt "227"
+msgid "雷耀突き"
+msgstr ""
+
+msgctxt "228"
+msgid "居合いの構え"
+msgstr ""
+
+msgctxt "229"
+msgid "首討ち"
+msgstr ""
+
+msgctxt "230"
+msgid "貫突"
+msgstr ""
+
+msgctxt "231"
+msgid "抜刀氷雪"
+msgstr ""
+
+msgctxt "232"
+msgid "採掘"
+msgstr ""
+
+msgctxt "233"
+msgid "傲骨不敵"
+msgstr ""
+
+msgctxt "234"
+msgid "無双の構え"
+msgstr ""
+
+msgctxt "235"
+msgid "阿吽の尾撃"
+msgstr ""
+
+msgctxt "236"
+msgid "阿吽の尾撃"
+msgstr ""
+
+msgctxt "237"
+msgid "一刀両断"
+msgstr ""
+
+msgctxt "238"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "239"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "240"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "241"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "242"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "243"
+msgid "TPブースト"
+msgstr ""
+
+msgctxt "244"
+msgid "呪言マスタリー"
+msgstr ""
+
+msgctxt "245"
+msgid "先制スタナー"
+msgstr ""
+
+msgctxt "246"
+msgid "力祓いの呪言"
+msgstr ""
+
+msgctxt "247"
+msgid "軟身の呪言"
+msgstr ""
+
+msgctxt "248"
+msgid "足違えの呪言"
+msgstr ""
+
+msgctxt "249"
+msgid "幻惑の呪言"
+msgstr ""
+
+msgctxt "250"
+msgid "重苦の呪言"
+msgstr ""
+
+msgctxt "251"
+msgid "封の呪言:頭首"
+msgstr ""
+
+msgctxt "252"
+msgid "封の呪言:上肢"
+msgstr ""
+
+msgctxt "253"
+msgid "封の呪言:下肢"
+msgstr ""
+
+msgctxt "254"
+msgid "昏睡の呪言"
+msgstr ""
+
+msgctxt "255"
+msgid "罪咎の呪言"
+msgstr ""
+
+msgctxt "256"
+msgid "ペイントレード"
+msgstr ""
+
+msgctxt "257"
+msgid "畏れよ、我を"
+msgstr ""
+
+msgctxt "258"
+msgid "命ず、言動能わず"
+msgstr ""
+
+msgctxt "259"
+msgid "命ず、輩を喰らえ"
+msgstr ""
+
+msgctxt "260"
+msgid "命ず、自ら裁せよ"
+msgstr ""
+
+msgctxt "261"
+msgid "殺気解放"
+msgstr ""
+
+msgctxt "262"
+msgid "伐採"
+msgstr ""
+
+msgctxt "263"
+msgid "狂乱の呪言"
+msgstr ""
+
+msgctxt "264"
+msgid "虚像の呪言"
+msgstr ""
+
+msgctxt "265"
+msgid "石化の呪言"
+msgstr ""
+
+msgctxt "266"
+msgid "先制スタナー"
+msgstr ""
+
+msgctxt "267"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "268"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "269"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "270"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "271"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "272"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "273"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "274"
+msgid "DEFブースト"
+msgstr ""
+
+msgctxt "275"
+msgid "槍マスタリー"
+msgstr ""
+
+msgctxt "276"
+msgid "血の暴走"
+msgstr ""
+
+msgctxt "277"
+msgid "ハーベスト"
+msgstr ""
+
+msgctxt "278"
+msgid "防衛本能"
+msgstr ""
+
+msgctxt "279"
+msgid "シングルスラスト"
+msgstr ""
+
+msgctxt "280"
+msgid "シングルバースト"
+msgstr ""
+
+msgctxt "281"
+msgid "レギオンスラスト"
+msgstr ""
+
+msgctxt "282"
+msgid "レギオンバースト"
+msgstr ""
+
+msgctxt "283"
+msgid "ディレイチャージ"
+msgstr ""
+
+msgctxt "284"
+msgid "クロスチャージ"
+msgstr ""
+
+msgctxt "285"
+msgid "ロングスラスト"
+msgstr ""
+
+msgctxt "286"
+msgid "ブレインレンド"
+msgstr ""
+
+msgctxt "287"
+msgid "スピアインボルブ"
+msgstr ""
+
+msgctxt "288"
+msgid "リミットレス"
+msgstr ""
+
+msgctxt "289"
+msgid "スティグマ"
+msgstr ""
+
+msgctxt "290"
+msgid "ブラックサバス"
+msgstr ""
+
+msgctxt "291"
+msgid "グッドラック"
+msgstr ""
+
+msgctxt "292"
+msgid "採掘"
+msgstr ""
+
+msgctxt "293"
+msgid "絆の恩恵"
+msgstr ""
+
+msgctxt "294"
+msgid "不可視の霊盾"
+msgstr ""
+
+msgctxt "295"
+msgid "ブラッドウェポン"
+msgstr ""
+
+msgctxt "296"
+msgid "血の暴走"
+msgstr ""
+
+msgctxt "297"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "298"
+msgid "ディレイチャージ"
+msgstr ""
+
+msgctxt "299"
+msgid "クロスチャージ"
+msgstr ""
+
+msgctxt "300"
+msgid "防衛本能"
+msgstr ""
+
+msgctxt "301"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "302"
+msgid "HPブースト"
+msgstr ""
+
+msgctxt "303"
+msgid "ATKブースト"
+msgstr ""
+
+msgctxt "304"
+msgid "銃マスタリー"
+msgstr ""
+
+msgctxt "305"
+msgid "ダブルアタック"
+msgstr ""
+
+msgctxt "306"
+msgid "ウィークショット"
+msgstr ""
+
+msgctxt "307"
+msgid "ペネトレイター"
+msgstr ""
+
+msgctxt "308"
+msgid "リチャージ"
+msgstr ""
+
+msgctxt "309"
+msgid "ドラッグバレット"
+msgstr ""
+
+msgctxt "310"
+msgid "ヘッドスナイプ"
+msgstr ""
+
+msgctxt "311"
+msgid "アームスナイプ"
+msgstr ""
+
+msgctxt "312"
+msgid "レッグスナイプ"
+msgstr ""
+
+msgctxt "313"
+msgid "フレイムショット"
+msgstr ""
+
+msgctxt "314"
+msgid "チャージフレイム"
+msgstr ""
+
+msgctxt "315"
+msgid "アイスショット"
+msgstr ""
+
+msgctxt "316"
+msgid "チャージアイス"
+msgstr ""
+
+msgctxt "317"
+msgid "サンダーショット"
+msgstr ""
+
+msgctxt "318"
+msgid "チャージサンダー"
+msgstr ""
+
+msgctxt "319"
+msgid "後方支援"
+msgstr ""
+
+msgctxt "320"
+msgid "後方撹乱"
+msgstr ""
+
+msgctxt "321"
+msgid "跳弾"
+msgstr ""
+
+msgctxt "322"
+msgid "採取"
+msgstr ""
+
+msgctxt "323"
+msgid "バルカンフォーム"
+msgstr ""
+
+msgctxt "324"
+msgid "チャージショット"
+msgstr ""
+
+msgctxt "325"
+msgid "アクトブースト"
+msgstr ""
+
+msgctxt "326"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "327"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "328"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "329"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "330"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "331"
+msgid "DUMMY"
+msgstr ""
+
+msgctxt "332"
+msgid "群狼の襲撃"
+msgstr ""
+
+msgctxt "333"
+msgid "深森の守り"
+msgstr ""
+
+msgctxt "334"
+msgid "女王の先触れ"
+msgstr ""
+
+msgctxt "335"
+msgid "深海の祈り"
+msgstr ""
+
+msgctxt "336"
+msgid "黄金鳥の翼"
+msgstr ""
+
+msgctxt "337"
+msgid "大蛇の痘苗"
+msgstr ""
+
+msgctxt "338"
+msgid "香華の衣"
+msgstr ""
+
+msgctxt "339"
+msgid "NONE"
+msgstr ""
+
+msgctxt "340"
+msgid "NONE"
+msgstr ""
+
+msgctxt "341"
+msgid "NONE"
+msgstr ""
+
+msgctxt "342"
+msgid "NONE"
+msgstr ""
+
+msgctxt "343"
+msgid "NONE"
+msgstr ""
+
+msgctxt "344"
+msgid "NONE"
+msgstr ""
+
+msgctxt "345"
+msgid "NONE"
+msgstr ""
+
+msgctxt "346"
+msgid "メディカ系"
+msgstr ""
+
+msgctxt "347"
+msgid "アムリタ系"
+msgstr ""
+
+msgctxt "348"
+msgid "ハマオ系"
+msgstr ""
+
+msgctxt "349"
+msgid "ネクタル系"
+msgstr ""
+
+msgctxt "350"
+msgid "ネクタル系"
+msgstr ""
+
+msgctxt "351"
+msgid "ソーマ系"
+msgstr ""
+
+msgctxt "352"
+msgid "ソーマ系"
+msgstr ""
+
+msgctxt "353"
+msgid "テアリカα"
+msgstr ""
+
+msgctxt "354"
+msgid "テアリカα"
+msgstr ""
+
+msgctxt "355"
+msgid "テアリカβ"
+msgstr ""
+
+msgctxt "356"
+msgid "テアリカβ"
+msgstr ""
+
+msgctxt "357"
+msgid "ラストチェイス"
+msgstr ""
+
+msgctxt "358"
+msgid "ラウダナム"
+msgstr ""
+
+msgctxt "359"
+msgid "ウニコウル"
+msgstr ""
+
+msgctxt "360"
+msgid "ブレイバント"
+msgstr ""
+
+msgctxt "361"
+msgid "ストナード"
+msgstr ""
+
+msgctxt "362"
+msgid "耐熱ミスト"
+msgstr ""
+
+msgctxt "363"
+msgid "耐氷ミスト"
+msgstr ""
+
+msgctxt "364"
+msgid "耐雷ミスト"
+msgstr ""
+
+msgctxt "365"
+msgid "耐斬ミスト"
+msgstr ""
+
+msgctxt "366"
+msgid "耐壊ミスト"
+msgstr ""
+
+msgctxt "367"
+msgid "耐突ミスト"
+msgstr ""
+
+msgctxt "368"
+msgid "絶耐ミスト"
+msgstr ""
+
+msgctxt "369"
+msgid "ファイアオイル"
+msgstr ""
+
+msgctxt "370"
+msgid "フリーズオイル"
+msgstr ""
+
+msgctxt "371"
+msgid "ショックオイル"
+msgstr ""
+
+msgctxt "372"
+msgid "ブースト値上昇"
+msgstr ""
+
+msgctxt "373"
+msgid "閃光弾"
+msgstr ""
+
+msgctxt "374"
+msgid "音爆弾"
+msgstr ""
+
+msgctxt "375"
+msgid "経験値アップ"
+msgstr ""
+
+msgctxt "376"
+msgid "図鑑登録"
+msgstr ""
+
+msgctxt "377"
+msgid "好機のスカラベ"
+msgstr ""
+
+msgctxt "378"
+msgid "戦功の角笛"
+msgstr ""
+
+msgctxt "379"
+msgid "四つ葉のクローバー"
+msgstr ""
+
+msgctxt "380"
+msgid "火術の起動符"
+msgstr ""
+
+msgctxt "381"
+msgid "氷術の起動符"
+msgstr ""
+
+msgctxt "382"
+msgid "雷術の起動符"
+msgstr ""
+
+msgctxt "383"
+msgid "火炎術の起動符"
+msgstr ""
+
+msgctxt "384"
+msgid "氷結術の起動符"
+msgstr ""
+
+msgctxt "385"
+msgid "雷電術の起動符"
+msgstr ""
+
+msgctxt "386"
+msgid "盲目の香"
+msgstr ""
+
+msgctxt "387"
+msgid "毒の香"
+msgstr ""
+
+msgctxt "388"
+msgid "麻痺の香"
+msgstr ""
+
+msgctxt "389"
+msgid "混乱の香"
+msgstr ""
+
+msgctxt "390"
+msgid "呪いの香"
+msgstr ""
+
+msgctxt "391"
+msgid "睡眠の香"
+msgstr ""
+
+msgctxt "392"
+msgid "縺れ糸:頭"
+msgstr ""
+
+msgctxt "393"
+msgid "縺れ糸:腕"
+msgstr ""
+
+msgctxt "394"
+msgid "縺れ糸:脚"
+msgstr ""
+
+msgctxt "395"
+msgid "輪廻の護符"
+msgstr ""
+
+msgctxt "396"
+msgid "ユグドラウィルス"
+msgstr ""
+
+msgctxt "397"
+msgid "GOOD追加強化2"
+msgstr ""
+
+msgctxt "398"
+msgid "GOOD追加強化5"
+msgstr ""
+
+msgctxt "399"
+msgid "BAD追加強化1"
+msgstr ""
+
+msgctxt "400"
+msgid "BAD追加強化4"
+msgstr ""
+
+msgctxt "401"
+msgid "BAD追加強化6"
+msgstr ""
+
+msgctxt "402"
+msgid "リジェネトル"
+msgstr ""
+
+msgctxt "403"
+msgid "ジンジャーライフ"
+msgstr ""
+
+msgctxt "404"
+msgid "エキナケアップ"
+msgstr ""
+
+msgctxt "405"
+msgid "アムラアウェイク"
+msgstr ""
+
+msgctxt "406"
+msgid "エルダーフラワー"
+msgstr ""
+
+msgctxt "407"
+msgid "管理人強化6"
+msgstr ""
+
+msgctxt "408"
+msgid "管理人強化7"
+msgstr ""
+
+msgctxt "409"
+msgid "管理人強化8"
+msgstr ""
+
+msgctxt "410"
+msgid "管理人強化9"
+msgstr ""
+
+msgctxt "411"
+msgid "管理人強化10"
+msgstr ""
+
+msgctxt "412"
+msgid "管理人強化13"
+msgstr ""
+
+msgctxt "413"
+msgid "管理人強化14"
+msgstr ""
+
+msgctxt "414"
+msgid "管理人強化15"
+msgstr ""
+
+msgctxt "415"
+msgid "奇禍への手筈"
+msgstr ""
+
+msgctxt "416"
+msgid "固縛への手筈"
+msgstr ""
+
+msgctxt "417"
+msgid "逆襲の手筈"
+msgstr ""
+
+msgctxt "418"
+msgid "賦活の手筈"
+msgstr ""
+
+msgctxt "419"
+msgid "起死回生の手筈"
+msgstr ""
+
+msgctxt "420"
+msgid "炎の渦"
+msgstr ""
+
+msgctxt "421"
+msgid "石化の輝き"
+msgstr ""
+
+msgctxt "422"
+msgid "混乱の歌声"
+msgstr ""
+
+msgctxt "423"
+msgid "大海原の浸食"
+msgstr ""
+
+msgctxt "424"
+msgid "サンダーウィング"
+msgstr ""
+
+msgctxt "425"
+msgid "逆襲の手筈"
+msgstr ""
+
+msgctxt "426"
+msgid "NONE"
+msgstr ""
+
+msgctxt "427"
+msgid "アタック"
+msgstr ""
+
+msgctxt "428"
+msgid "いらつく羽音"
+msgstr ""
+
+msgctxt "429"
+msgid "毒の粉"
+msgstr ""
+
+msgctxt "430"
+msgid "音速のリズム"
+msgstr ""
+
+msgctxt "431"
+msgid "甲羅の守り"
+msgstr ""
+
+msgctxt "432"
+msgid "コロシッブオーラ"
+msgstr ""
+
+msgctxt "433"
+msgid "かばう"
+msgstr ""
+
+msgctxt "434"
+msgid "踏みつぶし"
+msgstr ""
+
+msgctxt "435"
+msgid "雪化粧"
+msgstr ""
+
+msgctxt "436"
+msgid "アームハンマー"
+msgstr ""
+
+msgctxt "437"
+msgid "突き上げ"
+msgstr ""
+
+msgctxt "438"
+msgid "困惑のステップ"
+msgstr ""
+
+msgctxt "439"
+msgid "力溜め"
+msgstr ""
+
+msgctxt "440"
+msgid "突進"
+msgstr ""
+
+msgctxt "441"
+msgid "大鎌斬"
+msgstr ""
+
+msgctxt "442"
+msgid "デビルクライ"
+msgstr ""
+
+msgctxt "443"
+msgid "シルバーファング"
+msgstr ""
+
+msgctxt "444"
+msgid "バインドハウル"
+msgstr ""
+
+msgctxt "445"
+msgid "スリープブレス"
+msgstr ""
+
+msgctxt "446"
+msgid "毒の息"
+msgstr ""
+
+msgctxt "447"
+msgid "毒針"
+msgstr ""
+
+msgctxt "448"
+msgid "ひきさく剛腕"
+msgstr ""
+
+msgctxt "449"
+msgid "手かせのツタ"
+msgstr ""
+
+msgctxt "450"
+msgid "盲目のトゲ"
+msgstr ""
+
+msgctxt "451"
+msgid "火炎弾"
+msgstr ""
+
+msgctxt "452"
+msgid "眠りの花粉"
+msgstr ""
+
+msgctxt "453"
+msgid "麻痺毒針"
+msgstr ""
+
+msgctxt "454"
+msgid "ヤシの実アタック"
+msgstr ""
+
+msgctxt "455"
+msgid "衰弱の尾"
+msgstr ""
+
+msgctxt "456"
+msgid "吸収"
+msgstr ""
+
+msgctxt "457"
+msgid "甘美な痺れ"
+msgstr ""
+
+msgctxt "458"
+msgid "巻きつくツタ"
+msgstr ""
+
+msgctxt "459"
+msgid "耳鳴りのトゲ"
+msgstr ""
+
+msgctxt "460"
+msgid "ひきさく大爪"
+msgstr ""
+
+msgctxt "461"
+msgid "恐怖の咆哮"
+msgstr ""
+
+msgctxt "462"
+msgid "突撃"
+msgstr ""
+
+msgctxt "463"
+msgid "猪突猛進"
+msgstr ""
+
+msgctxt "464"
+msgid "ライザーファング"
+msgstr ""
+
+msgctxt "466"
+msgid "からみつき"
+msgstr ""
+
+msgctxt "467"
+msgid "ジャンピング"
+msgstr ""
+
+msgctxt "468"
+msgid "攻撃隊列"
+msgstr ""
+
+msgctxt "469"
+msgid "癒しの蜜"
+msgstr ""
+
+msgctxt "470"
+msgid "超音波"
+msgstr ""
+
+msgctxt "471"
+msgid "防御隊列"
+msgstr ""
+
+msgctxt "472"
+msgid "鮮血の大爪"
+msgstr ""
+
+msgctxt "473"
+msgid "強襲"
+msgstr ""
+
+msgctxt "474"
+msgid "水鉄砲"
+msgstr ""
+
+msgctxt "475"
+msgid "疾風切り"
+msgstr ""
+
+msgctxt "476"
+msgid "水乱射"
+msgstr ""
+
+msgctxt "477"
+msgid "死神の爪"
+msgstr ""
+
+msgctxt "478"
+msgid "乱れ咬み"
+msgstr ""
+
+msgctxt "479"
+msgid "たたきつけ"
+msgstr ""
+
+msgctxt "480"
+msgid "吹雪の息"
+msgstr ""
+
+msgctxt "481"
+msgid "灼熱前歯"
+msgstr ""
+
+msgctxt "482"
+msgid "混乱の叫び"
+msgstr ""
+
+msgctxt "483"
+msgid "かちあげ"
+msgstr ""
+
+msgctxt "484"
+msgid "激突"
+msgstr ""
+
+msgctxt "485"
+msgid "刃のヒレ"
+msgstr ""
+
+msgctxt "486"
+msgid "しびれるキック"
+msgstr ""
+
+msgctxt "487"
+msgid "パワーレイジ"
+msgstr ""
+
+msgctxt "488"
+msgid "恐怖の眼光"
+msgstr ""
+
+msgctxt "489"
+msgid "雷の矢"
+msgstr ""
+
+msgctxt "490"
+msgid "森の侵食"
+msgstr ""
+
+msgctxt "491"
+msgid "炎の渦"
+msgstr ""
+
+msgctxt "492"
+msgid "森の結界"
+msgstr ""
+
+msgctxt "493"
+msgid "腕封の輝き"
+msgstr ""
+
+msgctxt "494"
+msgid "睡眠の輝き"
+msgstr ""
+
+msgctxt "495"
+msgid "頭封の輝き"
+msgstr ""
+
+msgctxt "496"
+msgid "石化の輝き"
+msgstr ""
+
+msgctxt "497"
+msgid "大鎌斬首"
+msgstr ""
+
+msgctxt "498"
+msgid "沈黙の爪"
+msgstr ""
+
+msgctxt "499"
+msgid "ヘヴィショルダー"
+msgstr ""
+
+msgctxt "500"
+msgid "死の眼光"
+msgstr ""
+
+msgctxt "501"
+msgid "アームボンテージ"
+msgstr ""
+
+msgctxt "502"
+msgid "混乱の歌声"
+msgstr ""
+
+msgctxt "503"
+msgid "ヘッドボンテージ"
+msgstr ""
+
+msgctxt "504"
+msgid "呪いの声"
+msgstr ""
+
+msgctxt "505"
+msgid "煉獄の鎌"
+msgstr ""
+
+msgctxt "506"
+msgid "ローリング"
+msgstr ""
+
+msgctxt "507"
+msgid "首刈る風"
+msgstr ""
+
+msgctxt "508"
+msgid "呪いの舌"
+msgstr ""
+
+msgctxt "509"
+msgid "捕縛の糸"
+msgstr ""
+
+msgctxt "510"
+msgid "解除の光"
+msgstr ""
+
+msgctxt "511"
+msgid "フレイムハウル"
+msgstr ""
+
+msgctxt "512"
+msgid "怒涛の牙"
+msgstr ""
+
+msgctxt "513"
+msgid "舞い散る花びら"
+msgstr ""
+
+msgctxt "514"
+msgid "炸裂液"
+msgstr ""
+
+msgctxt "515"
+msgid "鋼の守り"
+msgstr ""
+
+msgctxt "516"
+msgid "乱れる荒刃"
+msgstr ""
+
+msgctxt "517"
+msgid "猛進連牙"
+msgstr ""
+
+msgctxt "518"
+msgid "荒れ狂う爪牙"
+msgstr ""
+
+msgctxt "519"
+msgid "まるかじり"
+msgstr ""
+
+msgctxt "520"
+msgid "呪いの眼光"
+msgstr ""
+
+msgctxt "521"
+msgid "凍土の大鎌"
+msgstr ""
+
+msgctxt "522"
+msgid "氷鎌乱舞"
+msgstr ""
+
+msgctxt "523"
+msgid "ブラインブレード"
+msgstr ""
+
+msgctxt "524"
+msgid "鋸刃薙ぎ"
+msgstr ""
+
+msgctxt "525"
+msgid "フリーズ"
+msgstr ""
+
+msgctxt "526"
+msgid "白いプラズマ"
+msgstr ""
+
+msgctxt "527"
+msgid "猛毒の息"
+msgstr ""
+
+msgctxt "528"
+msgid "うごめく枝葉"
+msgstr ""
+
+msgctxt "529"
+msgid "恐怖の大針"
+msgstr ""
+
+msgctxt "530"
+msgid "大爆炎"
+msgstr ""
+
+msgctxt "531"
+msgid "スパーク"
+msgstr ""
+
+msgctxt "532"
+msgid "音速切り"
+msgstr ""
+
+msgctxt "533"
+msgid "赤いプラズマ"
+msgstr ""
+
+msgctxt "534"
+msgid "断末魔の叫び"
+msgstr ""
+
+msgctxt "535"
+msgid "地震"
+msgstr ""
+
+msgctxt "536"
+msgid "ぶちかまし"
+msgstr ""
+
+msgctxt "537"
+msgid "激怒のはさみ"
+msgstr ""
+
+msgctxt "538"
+msgid "雷走り"
+msgstr ""
+
+msgctxt "539"
+msgid "悪魔のクチバシ"
+msgstr ""
+
+msgctxt "540"
+msgid "火炎の息"
+msgstr ""
+
+msgctxt "541"
+msgid "恐怖の竜牙"
+msgstr ""
+
+msgctxt "542"
+msgid "身構え"
+msgstr ""
+
+msgctxt "543"
+msgid "死滅の眼光"
+msgstr ""
+
+msgctxt "544"
+msgid "巻きつく糸"
+msgstr ""
+
+msgctxt "545"
+msgid "ブラッドサック"
+msgstr ""
+
+msgctxt "546"
+msgid "ブルスタンプ"
+msgstr ""
+
+msgctxt "547"
+msgid "昏睡の花粉"
+msgstr ""
+
+msgctxt "548"
+msgid "毒の舌"
+msgstr ""
+
+msgctxt "549"
+msgid "鉤爪乱舞"
+msgstr ""
+
+msgctxt "550"
+msgid "必中の刃"
+msgstr ""
+
+msgctxt "551"
+msgid "インザダーク"
+msgstr ""
+
+msgctxt "552"
+msgid "麻痺針"
+msgstr ""
+
+msgctxt "553"
+msgid "風の瞬き"
+msgstr ""
+
+msgctxt "554"
+msgid "切断咬"
+msgstr ""
+
+msgctxt "555"
+msgid "大車輪"
+msgstr ""
+
+msgctxt "556"
+msgid "グラインダー"
+msgstr ""
+
+msgctxt "557"
+msgid "ブレイクスピン"
+msgstr ""
+
+msgctxt "558"
+msgid "昏睡への誘い"
+msgstr ""
+
+msgctxt "559"
+msgid "ダブルスラスト"
+msgstr ""
+
+msgctxt "560"
+msgid "貫く牙"
+msgstr ""
+
+msgctxt "561"
+msgid "NONE"
+msgstr ""
+
+msgctxt "562"
+msgid "NONE"
+msgstr ""
+
+msgctxt "563"
+msgid "NONE"
+msgstr ""
+
+msgctxt "564"
+msgid "NONE"
+msgstr ""
+
+msgctxt "565"
+msgid "NONE"
+msgstr ""
+
+msgctxt "566"
+msgid "NONE"
+msgstr ""
+
+msgctxt "567"
+msgid "NONE"
+msgstr ""
+
+msgctxt "568"
+msgid "NONE"
+msgstr ""
+
+msgctxt "569"
+msgid "NONE"
+msgstr ""
+
+msgctxt "570"
+msgid "NONE"
+msgstr ""
+
+msgctxt "571"
+msgid "NONE"
+msgstr ""
+
+msgctxt "572"
+msgid "NONE"
+msgstr ""
+
+msgctxt "573"
+msgid "NONE"
+msgstr ""
+
+msgctxt "574"
+msgid "NONE"
+msgstr ""
+
+msgctxt "575"
+msgid "NONE"
+msgstr ""
+
+msgctxt "576"
+msgid "NONE"
+msgstr ""
+
+msgctxt "577"
+msgid "NONE"
+msgstr ""
+
+msgctxt "578"
+msgid "NONE"
+msgstr ""
+
+msgctxt "579"
+msgid "NONE"
+msgstr ""
+
+msgctxt "580"
+msgid "NONE"
+msgstr ""
+
+msgctxt "581"
+msgid "NONE"
+msgstr ""
+
+msgctxt "582"
+msgid "NONE"
+msgstr ""
+
+msgctxt "583"
+msgid "NONE"
+msgstr ""
+
+msgctxt "584"
+msgid "NONE"
+msgstr ""
+
+msgctxt "585"
+msgid "NONE"
+msgstr ""
+
+msgctxt "586"
+msgid "NONE"
+msgstr ""
+
+msgctxt "587"
+msgid "NONE"
+msgstr ""
+
+msgctxt "588"
+msgid "NONE"
+msgstr ""
+
+msgctxt "589"
+msgid "NONE"
+msgstr ""
+
+msgctxt "590"
+msgid "NONE"
+msgstr ""
+
+msgctxt "591"
+msgid "NONE"
+msgstr ""
+
+msgctxt "592"
+msgid "NONE"
+msgstr ""
+
+msgctxt "593"
+msgid "NONE"
+msgstr ""
+
+msgctxt "594"
+msgid "NONE"
+msgstr ""
+
+msgctxt "595"
+msgid "NONE"
+msgstr ""
+
+msgctxt "596"
+msgid "NONE"
+msgstr ""
+
+msgctxt "597"
+msgid "NONE"
+msgstr ""
+
+msgctxt "598"
+msgid "NONE"
+msgstr ""
+
+msgctxt "599"
+msgid "NONE"
+msgstr ""
+
+msgctxt "600"
+msgid "NONE"
+msgstr ""
+
+msgctxt "601"
+msgid "NONE"
+msgstr ""
+
+msgctxt "602"
+msgid "NONE"
+msgstr ""
+
+msgctxt "603"
+msgid "NONE"
+msgstr ""
+
+msgctxt "604"
+msgid "NONE"
+msgstr ""
+
+msgctxt "605"
+msgid "NONE"
+msgstr ""
+
+msgctxt "606"
+msgid "NONE"
+msgstr ""
+
+msgctxt "607"
+msgid "NONE"
+msgstr ""
+
+msgctxt "608"
+msgid "NONE"
+msgstr ""
+
+msgctxt "609"
+msgid "NONE"
+msgstr ""
+
+msgctxt "610"
+msgid "NONE"
+msgstr ""
+
+msgctxt "611"
+msgid "NONE"
+msgstr ""
+
+msgctxt "612"
+msgid "NONE"
+msgstr ""
+
+msgctxt "613"
+msgid "NONE"
+msgstr ""
+
+msgctxt "614"
+msgid "NONE"
+msgstr ""
+
+msgctxt "615"
+msgid "NONE"
+msgstr ""
+
+msgctxt "616"
+msgid "NONE"
+msgstr ""
+
+msgctxt "617"
+msgid "NONE"
+msgstr ""
+
+msgctxt "618"
+msgid "NONE"
+msgstr ""
+
+msgctxt "619"
+msgid "NONE"
+msgstr ""
+
+msgctxt "620"
+msgid "NONE"
+msgstr ""
+
+msgctxt "621"
+msgid "NONE"
+msgstr ""
+
+msgctxt "622"
+msgid "NONE"
+msgstr ""
+
+msgctxt "623"
+msgid "NONE"
+msgstr ""
+
+msgctxt "624"
+msgid "NONE"
+msgstr ""
+
+msgctxt "625"
+msgid "クロスカウンター"
+msgstr ""
+
+msgctxt "626"
+msgid "テラーハウル"
+msgstr ""
+
+msgctxt "627"
+msgid "凍てつく牙"
+msgstr ""
+
+msgctxt "628"
+msgid "沈黙の瞳"
+msgstr ""
+
+msgctxt "629"
+msgid "クロスカウンター"
+msgstr ""
+
+msgctxt "630"
+msgid "ホーンラッシュ"
+msgstr ""
+
+msgctxt "631"
+msgid "スマッシュコンボ"
+msgstr ""
+
+msgctxt "632"
+msgid "ハリケーンパンチ"
+msgstr ""
+
+msgctxt "633"
+msgid "特殊待機スタン"
+msgstr ""
+
+msgctxt "634"
+msgid "キュア"
+msgstr ""
+
+msgctxt "635"
+msgid "神秘のヴェール"
+msgstr ""
+
+msgctxt "636"
+msgid "かみくだき"
+msgstr ""
+
+msgctxt "637"
+msgid "女王の鉄槌"
+msgstr ""
+
+msgctxt "638"
+msgid "土けむり"
+msgstr ""
+
+msgctxt "639"
+msgid "支配の眼光"
+msgstr ""
+
+msgctxt "640"
+msgid "アイスブレス"
+msgstr ""
+
+msgctxt "641"
+msgid "大海原の浸食"
+msgstr ""
+
+msgctxt "642"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "643"
+msgid "テイルコイル"
+msgstr ""
+
+msgctxt "644"
+msgid "フリーズオーラ"
+msgstr ""
+
+msgctxt "645"
+msgid "水のヴェール"
+msgstr ""
+
+msgctxt "646"
+msgid "ウィングクロー"
+msgstr ""
+
+msgctxt "647"
+msgid "テイルストライク"
+msgstr ""
+
+msgctxt "648"
+msgid "大翼の旋風"
+msgstr ""
+
+msgctxt "649"
+msgid "閃光の烈線"
+msgstr ""
+
+msgctxt "650"
+msgid "サンダーウィング"
+msgstr ""
+
+msgctxt "651"
+msgid "フェザースピアー"
+msgstr ""
+
+msgctxt "652"
+msgid "デスブリンガー"
+msgstr ""
+
+msgctxt "653"
+msgid "カオスブリンガー"
+msgstr ""
+
+msgctxt "654"
+msgid "鷲づかみ"
+msgstr ""
+
+msgctxt "655"
+msgid "ウインドプレス"
+msgstr ""
+
+msgctxt "656"
+msgid "踏み袈裟改"
+msgstr ""
+
+msgctxt "657"
+msgid "息吹改"
+msgstr ""
+
+msgctxt "658"
+msgid "居合の構え"
+msgstr ""
+
+msgctxt "659"
+msgid "首討ち改"
+msgstr ""
+
+msgctxt "660"
+msgid "抜刀氷雪改"
+msgstr ""
+
+msgctxt "661"
+msgid "弱法師の呪言"
+msgstr ""
+
+msgctxt "662"
+msgid "封の呪言:頭首"
+msgstr ""
+
+msgctxt "663"
+msgid "封の呪言:上肢"
+msgstr ""
+
+msgctxt "664"
+msgid "禍神の呪言"
+msgstr ""
+
+msgctxt "665"
+msgid "ペイントレード"
+msgstr ""
+
+msgctxt "666"
+msgid "サウザンドネイル"
+msgstr ""
+
+msgctxt "667"
+msgid "テンペスト"
+msgstr ""
+
+msgctxt "668"
+msgid "ヘルドレイン"
+msgstr ""
+
+msgctxt "669"
+msgid "王の威厳"
+msgstr ""
+
+msgctxt "670"
+msgid "エタニティツリー"
+msgstr ""
+
+msgctxt "671"
+msgid "王の誇り"
+msgstr ""
+
+msgctxt "672"
+msgid "サイクロンルーツ"
+msgstr ""
+
+msgctxt "673"
+msgid "ランドスラッシュ"
+msgstr ""
+
+msgctxt "674"
+msgid "デモンズラッシュ"
+msgstr ""
+
+msgctxt "675"
+msgid "アクティベイト"
+msgstr ""
+
+msgctxt "676"
+msgid "ネクローシス"
+msgstr ""
+
+msgctxt "677"
+msgid "ハルマゲドン"
+msgstr ""
+
+msgctxt "678"
+msgid "セルメンブレン"
+msgstr ""
+
+msgctxt "679"
+msgid "セグメント"
+msgstr ""
+
+msgctxt "680"
+msgid "エクスプロウド"
+msgstr ""
+
+msgctxt "681"
+msgid "連携用待機"
+msgstr ""
+
+msgctxt "682"
+msgid "フリージング"
+msgstr ""
+
+msgctxt "683"
+msgid "サンダーストーム"
+msgstr ""
+
+msgctxt "684"
+msgid "エンタングルレイ"
+msgstr ""
+
+msgctxt "685"
+msgid "ファイアブレス"
+msgstr ""
+
+msgctxt "686"
+msgid "とどろく咆哮"
+msgstr ""
+
+msgctxt "687"
+msgid "ドラゴンビート"
+msgstr ""
+
+msgctxt "688"
+msgid "火竜の猛攻"
+msgstr ""
+
+msgctxt "689"
+msgid "ドラゴンクロー"
+msgstr ""
+
+msgctxt "690"
+msgid "メッセージ付待機"
+msgstr ""
+
+msgctxt "691"
+msgid "火竜の激震"
+msgstr ""
+
+msgctxt "692"
+msgid "アイスブレス"
+msgstr ""
+
+msgctxt "693"
+msgid "ミラーシールド"
+msgstr ""
+
+msgctxt "694"
+msgid "クラッシュアーム"
+msgstr ""
+
+msgctxt "695"
+msgid "氷河の再生"
+msgstr ""
+
+msgctxt "696"
+msgid "劈く叫び"
+msgstr ""
+
+msgctxt "697"
+msgid "三連牙"
+msgstr ""
+
+msgctxt "698"
+msgid "サンダーブレス"
+msgstr ""
+
+msgctxt "699"
+msgid "古竜の呪撃"
+msgstr ""
+
+msgctxt "700"
+msgid "竜の鉄槌"
+msgstr ""
+
+msgctxt "701"
+msgid "呪われし遠吠え"
+msgstr ""
+
+msgctxt "702"
+msgid "呪縛の円舞"
+msgstr ""
+
+msgctxt "703"
+msgid "フレイムサイ"
+msgstr ""
+
+msgctxt "704"
+msgid "フロストスマイル"
+msgstr ""
+
+msgctxt "705"
+msgid "ライトニング"
+msgstr ""
+
+msgctxt "706"
+msgid "テンタクルビート"
+msgstr ""
+
+msgctxt "707"
+msgid "ヴァンパイアキス"
+msgstr ""
+
+msgctxt "708"
+msgid "太古の呪粉"
+msgstr ""
+
+msgctxt "709"
+msgid "スパイダーリリィ"
+msgstr ""
+
+msgctxt "710"
+msgid "魔の子守唄"
+msgstr ""
+
+msgctxt "711"
+msgid "ダークネイル"
+msgstr ""
+
+msgctxt "712"
+msgid "ポイズンテイル"
+msgstr ""
+
+msgctxt "713"
+msgid "ペトロボイス"
+msgstr ""
+
+msgctxt "714"
+msgid "フラッシュ"
+msgstr ""
+
+msgctxt "715"
+msgid "ロックハンマー"
+msgstr ""
+
+msgctxt "716"
+msgid "トリプルハンマー"
+msgstr ""
+
+msgctxt "717"
+msgid "リジェネ"
+msgstr ""
+
+msgctxt "718"
+msgid "フォースウォール"
+msgstr ""
+
+msgctxt "719"
+msgid "パワーウォール"
+msgstr ""
+
+msgctxt "720"
+msgid "猛突進"
+msgstr ""
+
+msgctxt "721"
+msgid "ハンマーヘッド"
+msgstr ""
+
+msgctxt "722"
+msgid "パワーレイジ"
+msgstr ""
+
+msgctxt "723"
+msgid "闇にまぎれて逃走"
+msgstr ""
+
+msgctxt "724"
+msgid "常闇のゆりかご"
+msgstr ""
+
+msgctxt "725"
+msgid "這い寄る悪夢"
+msgstr ""
+
+msgctxt "726"
+msgid "鬱屈した黒塊"
+msgstr ""
+
+msgctxt "727"
+msgid "インビジブル"
+msgstr ""
+
+msgctxt "728"
+msgid "無明の使者"
+msgstr ""
+
+msgctxt "729"
+msgid "無明の使者"
+msgstr ""
+
+msgctxt "730"
+msgid "ローヤルゼリー"
+msgstr ""
+
+msgctxt "731"
+msgid "幻惑の花粉"
+msgstr ""
+
+msgctxt "732"
+msgid "もどかしい激昂"
+msgstr ""
+
+msgctxt "733"
+msgid "破砕する顎"
+msgstr ""
+
+msgctxt "734"
+msgid "飛散する毒針"
+msgstr ""
+
+msgctxt "735"
+msgid "逆巻く怨嗟"
+msgstr ""
+
+msgctxt "736"
+msgid "荒れ狂う鼻息"
+msgstr ""
+
+msgctxt "737"
+msgid "かち上げ"
+msgstr ""
+
+msgctxt "738"
+msgid "刹那の刺突"
+msgstr ""
+
+msgctxt "739"
+msgid "稲妻の突撃"
+msgstr ""
+
+msgctxt "740"
+msgid "踏みにじり"
+msgstr ""
+
+msgctxt "741"
+msgid "多砲乱射"
+msgstr ""
+
+msgctxt "742"
+msgid "天空曲射"
+msgstr ""
+
+msgctxt "743"
+msgid "フレイムスロワー"
+msgstr ""
+
+msgctxt "744"
+msgid "キャタピラプレス"
+msgstr ""
+
+msgctxt "745"
+msgid "ブースト走行"
+msgstr ""
+
+msgctxt "746"
+msgid "発煙弾"
+msgstr ""
+
+msgctxt "747"
+msgid "マスタードガス"
+msgstr ""
+
+msgctxt "748"
+msgid "最終兵器(仮)"
+msgstr ""
+
+msgctxt "749"
+msgid "電磁投射砲"
+msgstr ""
+
+msgctxt "750"
+msgid "重機関砲"
+msgstr ""
+
+msgctxt "751"
+msgid "荷電粒子砲"
+msgstr ""
+
+msgctxt "752"
+msgid "物理障壁"
+msgstr ""
+
+msgctxt "753"
+msgid "属性障壁"
+msgstr ""
+
+msgctxt "754"
+msgid "絶対障壁"
+msgstr ""
+
+msgctxt "755"
+msgid "瞬く閃光"
+msgstr ""
+
+msgctxt "756"
+msgid "オーバーフロー"
+msgstr ""
+
+msgctxt "757"
+msgid "オールデリート"
+msgstr ""
+
+msgctxt "758"
+msgid "NONE"
+msgstr ""
+
+msgctxt "759"
+msgid "NONE"
+msgstr ""
+
+msgctxt "760"
+msgid "NONE"
+msgstr ""
+
+msgctxt "761"
+msgid "NONE"
+msgstr ""
+
+msgctxt "762"
+msgid "NONE"
+msgstr ""
+
+msgctxt "763"
+msgid "NONE"
+msgstr ""
+
+msgctxt "764"
+msgid "NONE"
+msgstr ""
+
+msgctxt "765"
+msgid "NONE"
+msgstr ""
+
+msgctxt "766"
+msgid "NONE"
+msgstr ""
+
+msgctxt "767"
+msgid "NONE"
+msgstr ""
+
+msgctxt "768"
+msgid "NONE"
+msgstr ""
+
+msgctxt "769"
+msgid "NONE"
+msgstr ""
+
+msgctxt "770"
+msgid "NONE"
+msgstr ""
+
+msgctxt "771"
+msgid "NONE"
+msgstr ""
+
+msgctxt "772"
+msgid "NONE"
+msgstr ""
+
+msgctxt "773"
+msgid "NONE"
+msgstr ""
+
+msgctxt "774"
+msgid "NONE"
+msgstr ""
+
+msgctxt "775"
+msgid "NONE"
+msgstr ""
+
+msgctxt "776"
+msgid "NONE"
+msgstr ""
+
+msgctxt "777"
+msgid "NONE"
+msgstr ""
+
+msgctxt "778"
+msgid "NONE"
+msgstr ""
+
+msgctxt "779"
+msgid "NONE"
+msgstr ""
+
+msgctxt "780"
+msgid "NONE"
+msgstr ""
+
+msgctxt "781"
+msgid "NONE"
+msgstr ""
+
+msgctxt "782"
+msgid "NONE"
+msgstr ""
+
+msgctxt "783"
+msgid "NONE"
+msgstr ""
+
+msgctxt "784"
+msgid "NONE"
+msgstr ""
+
+msgctxt "785"
+msgid "NONE"
+msgstr ""
+
+msgctxt "786"
+msgid "NONE"
+msgstr ""
+
+msgctxt "787"
+msgid "NONE"
+msgstr ""
+
+msgctxt "788"
+msgid "NONE"
+msgstr ""
+
+msgctxt "789"
+msgid "NONE"
+msgstr ""
+
+msgctxt "790"
+msgid "NONE"
+msgstr ""
+
+msgctxt "791"
+msgid "NONE"
+msgstr ""
+
+msgctxt "792"
+msgid "NONE"
+msgstr ""
+
+msgctxt "793"
+msgid "NONE"
+msgstr ""
+
+msgctxt "794"
+msgid "NONE"
+msgstr ""
+
+msgctxt "795"
+msgid "NONE"
+msgstr ""
+
+msgctxt "796"
+msgid "NONE"
+msgstr ""
+
+msgctxt "797"
+msgid "NONE"
+msgstr ""
+
+msgctxt "798"
+msgid "NONE"
+msgstr ""
+
+msgctxt "799"
+msgid "NONE"
+msgstr ""
+
+msgctxt "800"
+msgid "NONE"
+msgstr ""
+
+msgctxt "801"
+msgid "NONE"
+msgstr ""
+
+msgctxt "802"
+msgid "NONE"
+msgstr ""
+
+msgctxt "803"
+msgid "NONE"
+msgstr ""
+
+msgctxt "804"
+msgid "NONE"
+msgstr ""
+
+msgctxt "805"
+msgid "NONE"
+msgstr ""
+
+msgctxt "806"
+msgid "オートガード"
+msgstr ""
+
+msgctxt "807"
+msgid "食いしばり"
+msgstr ""
+
+msgctxt "808"
+msgid "激怒のはさみ"
+msgstr ""
+
+msgctxt "809"
+msgid "激怒のはさみ"
+msgstr ""
+
+msgctxt "810"
+msgid "先制仲間呼び"
+msgstr ""
+
+msgctxt "811"
+msgid "NONE"
+msgstr ""
+
+msgctxt "812"
+msgid "NONE"
+msgstr ""
+
+msgctxt "813"
+msgid "NONE"
+msgstr ""
+
+msgctxt "814"
+msgid "NONE"
+msgstr ""
+
+msgctxt "815"
+msgid "NONE"
+msgstr ""
+
+msgctxt "816"
+msgid "NONE"
+msgstr ""
+
+msgctxt "817"
+msgid "NONE"
+msgstr ""
+
+msgctxt "818"
+msgid "NONE"
+msgstr ""
+
+msgctxt "819"
+msgid "NONE"
+msgstr ""
+
+msgctxt "820"
+msgid "NONE"
+msgstr ""
+
+msgctxt "821"
+msgid "NONE"
+msgstr ""
+
+msgctxt "822"
+msgid "NONE"
+msgstr ""
+
+msgctxt "823"
+msgid "NONE"
+msgstr ""
+
+msgctxt "824"
+msgid "NONE"
+msgstr ""
+
+msgctxt "825"
+msgid "NONE"
+msgstr ""
+
+msgctxt "826"
+msgid "NONE"
+msgstr ""
+
+msgctxt "827"
+msgid "天空曲射"
+msgstr ""
+
+msgctxt "828"
+msgid "セルメンブレン"
+msgstr ""
+
+msgctxt "829"
+msgid "ミラーシールド"
+msgstr ""
+
+msgctxt "830"
+msgid "物理障壁"
+msgstr ""
+
+msgctxt "831"
+msgid "属性障壁"
+msgstr ""
+
+msgctxt "832"
+msgid "絶対障壁"
+msgstr ""
+
+msgctxt "833"
+msgid "王の威厳"
+msgstr ""
+
+msgctxt "834"
+msgid "サイクロンルーツ"
+msgstr ""
+
+msgctxt "835"
+msgid "太古の呪粉"
+msgstr ""
+
+msgctxt "836"
+msgid "NONE"
+msgstr ""
+
+msgctxt "837"
+msgid "NONE"
+msgstr ""
+
+msgctxt "838"
+msgid "NONE"
+msgstr ""
+
+msgctxt "839"
+msgid "NONE"
+msgstr ""
+
+msgctxt "840"
+msgid "NONE"
+msgstr ""
+
+msgctxt "841"
+msgid "NONE"
+msgstr ""
+
+msgctxt "842"
+msgid "NONE"
+msgstr ""
+
+msgctxt "843"
+msgid "NONE"
+msgstr ""
+
+msgctxt "844"
+msgid "NONE"
+msgstr ""
+
+msgctxt "845"
+msgid "NONE"
+msgstr ""
+
+msgctxt "846"
+msgid "NONE"
+msgstr ""
+
+msgctxt "847"
+msgid "NONE"
+msgstr ""
+
+msgctxt "848"
+msgid "NONE"
+msgstr ""
+
+msgctxt "849"
+msgid "NONE"
+msgstr ""
+
+msgctxt "850"
+msgid "NONE"
+msgstr ""
+
+msgctxt "851"
+msgid "NONE"
+msgstr ""
+
+msgctxt "852"
+msgid "NONE"
+msgstr ""
+
+msgctxt "853"
+msgid "NONE"
+msgstr ""
+
+msgctxt "854"
+msgid "NONE"
+msgstr ""
+
+msgctxt "855"
+msgid "NONE"
+msgstr ""
+
+msgctxt "856"
+msgid "NONE"
+msgstr ""
+
+msgctxt "857"
+msgid "NONE"
+msgstr ""
+
+msgctxt "858"
+msgid "NONE"
+msgstr ""
+
+msgctxt "859"
+msgid "NONE"
+msgstr ""
+
+msgctxt "860"
+msgid "NONE"
+msgstr ""
+
+msgctxt "861"
+msgid "NONE"
+msgstr ""
+
+msgctxt "862"
+msgid "NONE"
+msgstr ""
+
+msgctxt "863"
+msgid "NONE"
+msgstr ""
+
+msgctxt "864"
+msgid "NONE"
+msgstr ""
+
+msgctxt "865"
+msgid "NONE"
+msgstr ""
+
+msgctxt "866"
+msgid "NONE"
+msgstr ""
+
+msgctxt "867"
+msgid "NONE"
+msgstr ""
+
+msgctxt "868"
+msgid "NONE"
+msgstr ""
+
+msgctxt "869"
+msgid "NONE"
+msgstr ""
+
+msgctxt "870"
+msgid "NONE"
+msgstr ""
+
+msgctxt "871"
+msgid "NONE"
+msgstr ""
+
+msgctxt "872"
+msgid "NONE"
+msgstr ""
+
+msgctxt "873"
+msgid "NONE"
+msgstr ""
+
+msgctxt "874"
+msgid "NONE"
+msgstr ""
+
+msgctxt "875"
+msgid "NONE"
+msgstr ""
+
+msgctxt "876"
+msgid "NONE"
+msgstr ""
+
+msgctxt "877"
+msgid "NONE"
+msgstr ""
+
+msgctxt "878"
+msgid "NONE"
+msgstr ""
+
+msgctxt "879"
+msgid "NONE"
+msgstr ""
+
+msgctxt "880"
+msgid "NONE"
+msgstr ""
+
+msgctxt "881"
+msgid "NONE"
+msgstr ""
+
+msgctxt "882"
+msgid "NONE"
+msgstr ""
+
+msgctxt "883"
+msgid "NONE"
+msgstr ""
+
+msgctxt "884"
+msgid "NONE"
+msgstr ""
+
+msgctxt "885"
+msgid "NONE"
+msgstr ""
+
+msgctxt "886"
+msgid "NONE"
+msgstr ""
+
+msgctxt "887"
+msgid "NONE"
+msgstr ""
+
+msgctxt "888"
+msgid "NONE"
+msgstr ""
+
+msgctxt "889"
+msgid "NONE"
+msgstr ""
+
+msgctxt "890"
+msgid "NONE"
+msgstr ""
+
+msgctxt "891"
+msgid "NONE"
+msgstr ""
+
+msgctxt "892"
+msgid "NONE"
+msgstr ""
+
+msgctxt "893"
+msgid "NONE"
+msgstr ""
+
+msgctxt "894"
+msgid "NONE"
+msgstr ""
+
+msgctxt "895"
+msgid "NONE"
+msgstr ""
+
+msgctxt "896"
+msgid "NONE"
+msgstr ""
+
+msgctxt "897"
+msgid "NONE"
+msgstr ""
+
+msgctxt "898"
+msgid "NONE"
+msgstr ""
+
+msgctxt "899"
+msgid "NONE"
+msgstr ""
+
+msgctxt "900"
+msgid "NONE"
+msgstr ""
+
+msgctxt "901"
+msgid "NONE"
+msgstr ""
+
+msgctxt "902"
+msgid "NONE"
+msgstr ""
+
+msgctxt "903"
+msgid "NONE"
+msgstr ""
+
+msgctxt "904"
+msgid "NONE"
+msgstr ""
+
+msgctxt "905"
+msgid "NONE"
+msgstr ""
+
+msgctxt "906"
+msgid "遠吠え"
+msgstr ""
+
+msgctxt "907"
+msgid "身構える"
+msgstr ""

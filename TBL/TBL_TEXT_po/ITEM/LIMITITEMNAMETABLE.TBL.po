@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "跳ねる兎の心得"
+msgstr ""
+
+msgctxt "2"
+msgid "武息の修行書"
+msgstr ""
+
+msgctxt "3"
+msgid "忘れられた動物記"
+msgstr ""
+
+msgctxt "4"
+msgid "奥義書・牙神"
+msgstr ""
+
+msgctxt "5"
+msgid "術式書・凶鳥烈火"
+msgstr ""
+
+msgctxt "6"
+msgid "富める兎の心得"
+msgstr ""
+
+msgctxt "7"
+msgid "駆ける兎の心得"
+msgstr ""
+
+msgctxt "8"
+msgid "術式書・幻豹黒霧"
+msgstr ""
+
+msgctxt "9"
+msgid "矛の兵法"
+msgstr ""
+
+msgctxt "10"
+msgid "盾の兵法"
+msgstr ""
+
+msgctxt "11"
+msgid "術式書・魔狼氷葬"
+msgstr ""
+
+msgctxt "12"
+msgid "護衛術・Ⅰ"
+msgstr ""
+
+msgctxt "13"
+msgid "護衛術・Ⅱ"
+msgstr ""
+
+msgctxt "14"
+msgid "奥義書・角神"
+msgstr ""
+
+msgctxt "15"
+msgid "絶界雲上域ノ戦記"
+msgstr ""
+
+msgctxt "16"
+msgid "奥義書・爪神"
+msgstr ""
+
+msgctxt "17"
+msgid "大凶星の周期表"
+msgstr ""
+
+msgctxt "18"
+msgid "護衛術・真"
+msgstr ""
+
+msgctxt "19"
+msgid "術式書・妖狐神雷"
+msgstr ""
+
+msgctxt "20"
+msgid "帝国式天体観測術"
+msgstr ""
+
+msgctxt "21"
+msgid "星と宙を司りし律"
+msgstr ""
+
+msgctxt "22"
+msgid "蛇と杯の書"
+msgstr ""
+
+msgctxt "23"
+msgid "バッファ文書・中"
+msgstr ""
+
+msgctxt "24"
+msgid "バッファ文書・後"
+msgstr ""

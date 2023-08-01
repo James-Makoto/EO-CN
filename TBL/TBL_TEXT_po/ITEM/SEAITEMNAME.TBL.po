@@ -1,0 +1,780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "アシナガダコ"
+msgstr ""
+
+msgctxt "2"
+msgid "八羽根トビウオ"
+msgstr ""
+
+msgctxt "3"
+msgid "ランタンイカ"
+msgstr ""
+
+msgctxt "4"
+msgid "闇ウツボ"
+msgstr ""
+
+msgctxt "5"
+msgid "猛毒オコゼ"
+msgstr ""
+
+msgctxt "6"
+msgid "ナナホシイワシ"
+msgstr ""
+
+msgctxt "7"
+msgid "白銀サンマ"
+msgstr ""
+
+msgctxt "8"
+msgid "イシブダイ"
+msgstr ""
+
+msgctxt "9"
+msgid "北海ガレイ"
+msgstr ""
+
+msgctxt "10"
+msgid "西海アナゴ"
+msgstr ""
+
+msgctxt "11"
+msgid "ダイミョウスズキ"
+msgstr ""
+
+msgctxt "12"
+msgid "海のミルク"
+msgstr ""
+
+msgctxt "13"
+msgid "ナイバーン"
+msgstr ""
+
+msgctxt "14"
+msgid "ミナミアカウニ"
+msgstr ""
+
+msgctxt "15"
+msgid "海菖蒲"
+msgstr ""
+
+msgctxt "16"
+msgid "大海スッポン"
+msgstr ""
+
+msgctxt "17"
+msgid "具足エビ"
+msgstr ""
+
+msgctxt "18"
+msgid "オオトラフグ"
+msgstr ""
+
+msgctxt "19"
+msgid "皇帝ガニ"
+msgstr ""
+
+msgctxt "20"
+msgid "大王マグロ"
+msgstr ""
+
+msgctxt "21"
+msgid "勇魚皮"
+msgstr ""
+
+msgctxt "22"
+msgid "勇魚肉"
+msgstr ""
+
+msgctxt "23"
+msgid "勇魚骨"
+msgstr ""
+
+msgctxt "24"
+msgid "勇魚油"
+msgstr ""
+
+msgctxt "25"
+msgid "勇魚の肝臓"
+msgstr ""
+
+msgctxt "26"
+msgid "勇魚のヒゲ"
+msgstr ""
+
+msgctxt "27"
+msgid "アモロスギ"
+msgstr ""
+
+msgctxt "28"
+msgid "テラロッサ"
+msgstr ""
+
+msgctxt "29"
+msgid "巨大ザリガニの鋏"
+msgstr ""
+
+msgctxt "30"
+msgid "100エン銅貨"
+msgstr ""
+
+msgctxt "31"
+msgid "カバカバ"
+msgstr ""
+
+msgctxt "32"
+msgid "アダンの実"
+msgstr ""
+
+msgctxt "33"
+msgid "パンノキの実"
+msgstr ""
+
+msgctxt "34"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "35"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "36"
+msgid "ミツツボアリ"
+msgstr ""
+
+msgctxt "37"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "38"
+msgid "光サルパ"
+msgstr ""
+
+msgctxt "39"
+msgid "ブルアント"
+msgstr ""
+
+msgctxt "40"
+msgid "黒コショウ"
+msgstr ""
+
+msgctxt "41"
+msgid "硝石"
+msgstr ""
+
+msgctxt "42"
+msgid "ロック銀"
+msgstr ""
+
+msgctxt "43"
+msgid "500エン銀貨"
+msgstr ""
+
+msgctxt "44"
+msgid "悪鬼貝"
+msgstr ""
+
+msgctxt "45"
+msgid "巨大ケルプ"
+msgstr ""
+
+msgctxt "46"
+msgid "テヅルモヅル"
+msgstr ""
+
+msgctxt "47"
+msgid "琥珀"
+msgstr ""
+
+msgctxt "48"
+msgid "鉄鉱石"
+msgstr ""
+
+msgctxt "49"
+msgid "サンゴの首飾り"
+msgstr ""
+
+msgctxt "50"
+msgid "アクマウリ"
+msgstr ""
+
+msgctxt "51"
+msgid "乳香"
+msgstr ""
+
+msgctxt "52"
+msgid "更紗"
+msgstr ""
+
+msgctxt "53"
+msgid "アモロキビ"
+msgstr ""
+
+msgctxt "54"
+msgid "象牙"
+msgstr ""
+
+msgctxt "55"
+msgid "カカオの実"
+msgstr ""
+
+msgctxt "56"
+msgid "ガルム"
+msgstr ""
+
+msgctxt "57"
+msgid "キルケーチョコ"
+msgstr ""
+
+msgctxt "58"
+msgid "象牙の根付"
+msgstr ""
+
+msgctxt "59"
+msgid "1000エン金貨"
+msgstr ""
+
+msgctxt "60"
+msgid "プラチナ貨幣"
+msgstr ""
+
+msgctxt "61"
+msgid "近海の交易品"
+msgstr ""
+
+msgctxt "62"
+msgid "遠国との交易品"
+msgstr ""
+
+msgctxt "63"
+msgid "破れた海賊旗"
+msgstr ""
+
+msgctxt "64"
+msgid "血塗れた海賊旗"
+msgstr ""
+
+msgctxt "65"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "66"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "67"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "68"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "69"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "70"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "71"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "72"
+msgid "南国カワハギ"
+msgstr ""
+
+msgctxt "73"
+msgid "オオヤリイカ"
+msgstr ""
+
+msgctxt "74"
+msgid "大陸マンボウ"
+msgstr ""
+
+msgctxt "75"
+msgid "ダイマオウイカ"
+msgstr ""
+
+msgctxt "76"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "77"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "78"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "79"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "80"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "81"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "82"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "83"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "84"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "85"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "86"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "87"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "88"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "89"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "90"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "91"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "92"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "93"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "94"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "95"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "96"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "97"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "98"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "99"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "100"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "101"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "102"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "103"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "104"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "105"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "106"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "107"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "108"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "109"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "110"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "111"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "112"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "113"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "114"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "115"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "116"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "117"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "118"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "119"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "120"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "121"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "122"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "123"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "124"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "125"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "126"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "127"
+msgid "換金アイテム"
+msgstr ""
+
+msgctxt "128"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "129"
+msgid "ビスケット"
+msgstr ""
+
+msgctxt "130"
+msgid "乾燥えんどう豆"
+msgstr ""
+
+msgctxt "131"
+msgid "アモロ羊のチーズ"
+msgstr ""
+
+msgctxt "132"
+msgid "ライムの木の実"
+msgstr ""
+
+msgctxt "133"
+msgid "干しぶどう"
+msgstr ""
+
+msgctxt "134"
+msgid "ザワークラフト"
+msgstr ""
+
+msgctxt "135"
+msgid "バカラオ"
+msgstr ""
+
+msgctxt "136"
+msgid "ハムユイ"
+msgstr ""
+
+msgctxt "137"
+msgid "塩漬け肉"
+msgstr ""
+
+msgctxt "138"
+msgid "勇魚ベーコン"
+msgstr ""
+
+msgctxt "139"
+msgid "ゾウガメ"
+msgstr ""
+
+msgctxt "140"
+msgid "船装備アイテム"
+msgstr ""
+
+msgctxt "141"
+msgid "船装備アイテム"
+msgstr ""
+
+msgctxt "142"
+msgid "カルバリン砲"
+msgstr ""
+
+msgctxt "143"
+msgid "カロネード砲"
+msgstr ""
+
+msgctxt "144"
+msgid "フォアマスト"
+msgstr ""
+
+msgctxt "145"
+msgid "ラティーンセイル"
+msgstr ""
+
+msgctxt "146"
+msgid "南洋イルカの像"
+msgstr ""
+
+msgctxt "147"
+msgid "セドナの神像"
+msgstr ""
+
+msgctxt "148"
+msgid "大漁旗"
+msgstr ""
+
+msgctxt "149"
+msgid "大きな大漁旗"
+msgstr ""
+
+msgctxt "150"
+msgid "投網"
+msgstr ""
+
+msgctxt "151"
+msgid "敷き網"
+msgstr ""
+
+msgctxt "152"
+msgid "名人ネッドの大銛"
+msgstr ""
+
+msgctxt "153"
+msgid "捕勇魚砲"
+msgstr ""
+
+msgctxt "154"
+msgid "鋼刃衝角"
+msgstr ""
+
+msgctxt "155"
+msgid "鉄板装甲"
+msgstr ""
+
+msgctxt "156"
+msgid "魚型の小さな旗"
+msgstr ""
+
+msgctxt "157"
+msgid "トロール網"
+msgstr ""
+
+msgctxt "158"
+msgid "海賊討伐旗:南海"
+msgstr ""
+
+msgctxt "159"
+msgid "海賊討伐旗:北海"
+msgstr ""
+
+msgctxt "160"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "161"
+msgid "黒き石碑の欠片"
+msgstr ""
+
+msgctxt "162"
+msgid "博物全誌の切れ端"
+msgstr ""
+
+msgctxt "163"
+msgid "博物全誌武具編Ⅰ"
+msgstr ""
+
+msgctxt "164"
+msgid "博物全誌武具編Ⅱ"
+msgstr ""
+
+msgctxt "165"
+msgid "博物全誌武具編Ⅲ"
+msgstr ""
+
+msgctxt "166"
+msgid "博物全誌武具編Ⅳ"
+msgstr ""
+
+msgctxt "167"
+msgid "博物全誌武具編Ⅴ"
+msgstr ""
+
+msgctxt "168"
+msgid "博物全誌武具編Ⅵ"
+msgstr ""
+
+msgctxt "169"
+msgid "博物全誌武具編Ⅶ"
+msgstr ""
+
+msgctxt "170"
+msgid "博物全誌武具編Ⅷ"
+msgstr ""
+
+msgctxt "171"
+msgid "博物全誌武具編Ⅸ"
+msgstr ""
+
+msgctxt "172"
+msgid "博物全誌武具編Ⅹ"
+msgstr ""
+
+msgctxt "173"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "174"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "175"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "176"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "177"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "178"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "179"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "180"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "181"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "182"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "183"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "184"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "185"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "186"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "187"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "188"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "189"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "190"
+msgid "テキストアイテム"
+msgstr ""
+
+msgctxt "191"
+msgid "テキストアイテム"
+msgstr ""
