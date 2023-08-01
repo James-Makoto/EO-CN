@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "0"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "1"
 msgid "森ネズミ"
@@ -421,199 +421,199 @@ msgstr "弗朗索瓦鼠"
 
 msgctxt "102"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "103"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "104"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "105"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "106"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "107"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "108"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "109"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "110"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "111"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "112"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "113"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "114"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "115"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "116"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "117"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "118"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "119"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "120"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "121"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "122"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "123"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "124"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "125"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "126"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "127"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "128"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "129"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "130"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "131"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "132"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "133"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "134"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "135"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "136"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "137"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "138"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "139"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "140"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "141"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "142"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "143"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "144"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "145"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "146"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "147"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "148"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "149"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "150"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "151"
 msgid "狂える角鹿"
@@ -769,51 +769,51 @@ msgstr "巡逻的青蜂"
 
 msgctxt "189"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "190"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "191"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "192"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "193"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "194"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "195"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "196"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "197"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "198"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "199"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "200"
 msgid "フォレスト・セル"
-msgstr "森林·细胞"
+msgstr "森林・细胞"
 
 msgctxt "201"
 msgid "スノードリフト"
@@ -836,11 +836,11 @@ msgid "イワオロペネレプ"
 msgstr "伊瓦奥罗佩涅普"
 
 msgctxt "206"
-msgid "氷の剣士
+msgid "氷の剣士"
 msgstr "冰之剑士莲"
 
 msgctxt "207"
-msgid "呪い師
+msgid "呪い師"
 msgstr "咒术师泽丝克露"
 
 msgctxt "208"
@@ -909,128 +909,128 @@ msgstr "格密尔"
 
 msgctxt "224"
 msgid "M.I.K.E."
-msgstr "Ｍ．Ｉ．Ｋ．Ｅ．"
+msgstr "M.I.K.E."
 
 msgctxt "225"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "226"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "227"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "228"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "229"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "230"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "231"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "232"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "233"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "234"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "235"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "236"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "237"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "238"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "239"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "240"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "241"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "242"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "243"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "244"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "245"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "246"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "247"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "248"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "249"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "250"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "251"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "252"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "253"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "254"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
 
 msgctxt "255"
 msgid "NONE"
-msgstr "ＮＯＮＥ"
+msgstr "NONE"
