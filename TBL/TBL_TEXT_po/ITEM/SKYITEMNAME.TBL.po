@@ -1,0 +1,780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2023/8/2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "タルシス水牛"
+msgstr ""
+
+msgctxt "2"
+msgid "アカツノ雄牛"
+msgstr ""
+
+msgctxt "3"
+msgid "ブラックタウルス"
+msgstr ""
+
+msgctxt "4"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "5"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "6"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "7"
+msgid "タルシス小鴨"
+msgstr ""
+
+msgctxt "8"
+msgid "百貫アイガモ"
+msgstr ""
+
+msgctxt "9"
+msgid "黄金ガチョウ"
+msgstr ""
+
+msgctxt "10"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "11"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "12"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "13"
+msgid "鈍色ニジマス"
+msgstr ""
+
+msgctxt "14"
+msgid "紅ヒメマス"
+msgstr ""
+
+msgctxt "15"
+msgid "桜ヤマメ"
+msgstr ""
+
+msgctxt "16"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "17"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "18"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "19"
+msgid "ベビーキャロット"
+msgstr ""
+
+msgctxt "20"
+msgid "白糖キャロット"
+msgstr ""
+
+msgctxt "21"
+msgid "黒檀ニンジン"
+msgstr ""
+
+msgctxt "22"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "23"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "24"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "25"
+msgid "石林野豚"
+msgstr ""
+
+msgctxt "26"
+msgid "シルク白豚"
+msgstr ""
+
+msgctxt "27"
+msgid "プラチナ黒豚"
+msgstr ""
+
+msgctxt "28"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "29"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "30"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "31"
+msgid "アンズ舞茸"
+msgstr ""
+
+msgctxt "32"
+msgid "白黒あわび茸"
+msgstr ""
+
+msgctxt "33"
+msgid "金糸絹笠茸"
+msgstr ""
+
+msgctxt "34"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "35"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "36"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "37"
+msgid "長髭ナマズ"
+msgstr ""
+
+msgctxt "38"
+msgid "霜降ナマズ"
+msgstr ""
+
+msgctxt "39"
+msgid "銀河ナマズ"
+msgstr ""
+
+msgctxt "40"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "41"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "42"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "43"
+msgid "石林ダチョウ"
+msgstr ""
+
+msgctxt "44"
+msgid "ふたこぶダチョウ"
+msgstr ""
+
+msgctxt "45"
+msgid "丹紅エミュー"
+msgstr ""
+
+msgctxt "46"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "47"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "48"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "49"
+msgid "嶺峰ウサギ"
+msgstr ""
+
+msgctxt "50"
+msgid "雪姫ラパン"
+msgstr ""
+
+msgctxt "51"
+msgid "ハピネスバニー"
+msgstr ""
+
+msgctxt "52"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "53"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "54"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "55"
+msgid "飴色ターキー"
+msgstr ""
+
+msgctxt "56"
+msgid "純白七面鳥"
+msgstr ""
+
+msgctxt "57"
+msgid "ロイヤルターキー"
+msgstr ""
+
+msgctxt "58"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "59"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "60"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "61"
+msgid "トビワカサギ"
+msgstr ""
+
+msgctxt "62"
+msgid "銀嵐ワカサギ"
+msgstr ""
+
+msgctxt "63"
+msgid "七香銀アユ"
+msgstr ""
+
+msgctxt "64"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "65"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "66"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "67"
+msgid "陽明リンゴ"
+msgstr ""
+
+msgctxt "68"
+msgid "白姫リンゴ"
+msgstr ""
+
+msgctxt "69"
+msgid "紅鬼林檎"
+msgstr ""
+
+msgctxt "70"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "71"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "72"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "73"
+msgid "雲上野ヤギ"
+msgstr ""
+
+msgctxt "74"
+msgid "ミルキーヤギ"
+msgstr ""
+
+msgctxt "75"
+msgid "極毛ゴート"
+msgstr ""
+
+msgctxt "76"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "77"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "78"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "79"
+msgid "山吹ウズラ"
+msgstr ""
+
+msgctxt "80"
+msgid "紅色キジ"
+msgstr ""
+
+msgctxt "81"
+msgid "おしどり野鶏"
+msgstr ""
+
+msgctxt "82"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "83"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "84"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "85"
+msgid "フナ鯉"
+msgstr ""
+
+msgctxt "86"
+msgid "煮頃銀ブナ"
+msgstr ""
+
+msgctxt "87"
+msgid "雲上竜鯉"
+msgstr ""
+
+msgctxt "88"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "89"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "90"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "91"
+msgid "ペポカボチャ"
+msgstr ""
+
+msgctxt "92"
+msgid "マロンパンプキン"
+msgstr ""
+
+msgctxt "93"
+msgid "メテオパンプキン"
+msgstr ""
+
+msgctxt "94"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "95"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "96"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "97"
+msgid "焔の結晶"
+msgstr ""
+
+msgctxt "98"
+msgid "雷光の結晶"
+msgstr ""
+
+msgctxt "99"
+msgid "極北の結晶"
+msgstr ""
+
+msgctxt "100"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "101"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "102"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "103"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "104"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "105"
+msgid "アルビノタウルス"
+msgstr ""
+
+msgctxt "106"
+msgid "黄金ガチョウの卵"
+msgstr ""
+
+msgctxt "107"
+msgid "宝仙桃"
+msgstr ""
+
+msgctxt "108"
+msgid "黒いダイヤ"
+msgstr ""
+
+msgctxt "109"
+msgid "氷晶ザクロ"
+msgstr ""
+
+msgctxt "110"
+msgid "幻の黄金タラバ蟹"
+msgstr ""
+
+msgctxt "111"
+msgid "皇帝孔雀"
+msgstr ""
+
+msgctxt "112"
+msgid "絶界山鯨"
+msgstr ""
+
+msgctxt "113"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "114"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "115"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "116"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "117"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "118"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "119"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "120"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "121"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "122"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "123"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "124"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "125"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "126"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "127"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "128"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "129"
+msgid "珍獣の角笛"
+msgstr ""
+
+msgctxt "130"
+msgid "金色の風見鶏"
+msgstr ""
+
+msgctxt "131"
+msgid "黄金魚の船旗"
+msgstr ""
+
+msgctxt "132"
+msgid "収穫祭の御守"
+msgstr ""
+
+msgctxt "133"
+msgid "獣猟教本"
+msgstr ""
+
+msgctxt "134"
+msgid "野鳥図鑑"
+msgstr ""
+
+msgctxt "135"
+msgid "釣技百科事典"
+msgstr ""
+
+msgctxt "136"
+msgid "野菜大全"
+msgstr ""
+
+msgctxt "137"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "138"
+msgid "携帯磁軸"
+msgstr ""
+
+msgctxt "139"
+msgid "ダウジングロッド"
+msgstr ""
+
+msgctxt "140"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "141"
+msgid "食材用カタパルト"
+msgstr ""
+
+msgctxt "142"
+msgid "改良型カタパルト"
+msgstr ""
+
+msgctxt "143"
+msgid "風乗りの号鐘"
+msgstr ""
+
+msgctxt "144"
+msgid "嵐除けの護り像"
+msgstr ""
+
+msgctxt "145"
+msgid "倍速巡航推進器"
+msgstr ""
+
+msgctxt "146"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "147"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "148"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "149"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "150"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "151"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "152"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "153"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "154"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "155"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "156"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "157"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "158"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "159"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "160"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "161"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "162"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "163"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "164"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "165"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "166"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "167"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "168"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "169"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "170"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "171"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "172"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "173"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "174"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "175"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "176"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "177"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "178"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "179"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "180"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "181"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "182"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "183"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "184"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "185"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "186"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "187"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "188"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "189"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "190"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "191"
+msgid "ダミー"
+msgstr ""
