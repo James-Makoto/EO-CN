@@ -1,11 +1,11 @@
 <mbm>
   <entry id="0">
     <source>発動したミッションを{f801}引き受けることができます{f801}</source>
-    <target>接受已发布的委托。{f801}</target>
+    <target>接受已发布的任务。{f801}</target>
   </entry>
   <entry id="1">
     <source>ミッションの結果を報告します{f801}</source>
-    <target>汇报委托结果。{f801}</target>
+    <target>汇报任务结果。{f801}</target>
   </entry>
   <entry id="2">
     <source>執政院のメンバーと話します{f801}</source>
