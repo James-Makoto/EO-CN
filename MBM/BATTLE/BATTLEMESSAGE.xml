@@ -281,7 +281,7 @@
   </entry>
   <entry id="71">
     <source>{f811}{0100}を倒した!{f801}</source>
-    <target>{f811}{0100}被打到了!{f801}</target>
+    <target>{f811}{0100}被打倒了!{f801}</target>
   </entry>
   <entry id="72">
     <source>{f811}{0100}は力尽きた!{f801}</source>
