@@ -925,7 +925,7 @@
   </entry>
   <entry id="236">
     <source>バーストゲージが減少した!{f801}</source>
-    <target>boost值减少!{f801}</target>
+    <target>战意值减少了!{f801}</target>
   </entry>
   <entry id="237">
     <source>{f811}{0100}の{f801}{f811}{0200}耐性が低下した!{f801}</source>
@@ -1097,7 +1097,7 @@
   </entry>
   <entry id="279">
     <source>バーストゲージが下がった!{f801}</source>
-    <target>boost值下降了!{f801}</target>
+    <target>战意值下降了!{f801}</target>
   </entry>
   <entry id="280">
     <source>{f811}{0000}の砲剣が{f801}オーバーヒートした!{f801}</source>
