@@ -1669,7 +1669,7 @@ msgstr "管理人强化14"
 
 msgctxt "414"
 msgid "管理人強化15"
-msgstr "管理人强化15
+msgstr "管理人强化15"
 
 msgctxt "415"
 msgid "奇禍への手筈"
@@ -2157,7 +2157,7 @@ msgstr "飞踹"
 
 msgctxt "537"
 msgid "激怒のはさみ"
-mmsgstr "暴怒巨钳"
+msgstr "暴怒巨钳"
 
 msgctxt "538"
 msgid "雷走り"
@@ -3249,7 +3249,7 @@ msgstr "暴怒巨钳"
 
 msgctxt "810"
 msgid "先制仲間呼び"
-msgstr 
+msgstr "先制呼唤同伴"
 
 msgctxt "811"
 msgid "NONE"

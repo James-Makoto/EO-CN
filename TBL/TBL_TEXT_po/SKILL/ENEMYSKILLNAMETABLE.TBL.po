@@ -545,7 +545,7 @@ msgstr "双重推击"
 
 msgctxt "134"
 msgid "貫く牙"
-msgstr ""
+msgstr "刺牙"
 
 msgctxt "135"
 msgid "NONE"
@@ -805,7 +805,7 @@ msgstr "NONE"
 
 msgctxt "199"
 msgid "クロスカウンター"
-msgstr 反击""
+msgstr "反击"
 
 msgctxt "200"
 msgid "テラーハウル"
