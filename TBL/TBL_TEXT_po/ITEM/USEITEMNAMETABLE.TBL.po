@@ -1301,7 +1301,7 @@ msgstr "安睡小刀"
 
 msgctxt "322"
 msgid "ブラインドダガー"
-msgstr "盲目匕首"
+msgstr "失明匕首"
 
 msgctxt "323"
 msgid "慈悲の短剣"
@@ -1797,7 +1797,7 @@ msgstr "雷电术启动符"
 
 msgctxt "446"
 msgid "盲目の香"
-msgstr "盲目之香"
+msgstr "失明之香"
 
 msgctxt "447"
 msgid "毒の香"
@@ -1821,15 +1821,15 @@ msgstr "睡眠之香"
 
 msgctxt "452"
 msgid "縺れ糸:頭"
-msgstr "结绳：头"
+msgstr "结绳:头"
 
 msgctxt "453"
 msgid "縺れ糸:腕"
-msgstr "结绳：臂"
+msgstr "结绳:臂"
 
 msgctxt "454"
 msgid "縺れ糸:脚"
-msgstr "结绳：脚"
+msgstr "结绳:腿"
 
 msgctxt "455"
 msgid "輪廻の護符"
@@ -2477,7 +2477,7 @@ msgstr "眩晕之锤"
 
 msgctxt "616"
 msgid "盲目のハンマー"
-msgstr "盲目之锤"
+msgstr "失明之锤"
 
 msgctxt "617"
 msgid "睡眠のハンマー"

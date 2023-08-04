@@ -125,7 +125,7 @@ msgstr "安睡小刀"
 
 msgctxt "28"
 msgid "ブラインドダガー"
-msgstr "盲目匕首"
+msgstr "失明匕首"
 
 msgctxt "29"
 msgid "慈悲の短剣"
