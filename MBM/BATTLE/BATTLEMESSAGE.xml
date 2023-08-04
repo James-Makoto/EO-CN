@@ -957,11 +957,11 @@
   </entry>
   <entry id="244">
     <source>{f811}{0100}の力が{f801}蓄えられた!{f801}</source>
-    <target>积蓄了{f811}{0100}之力}!{f801}</target>
+    <target>{f811}{0100}之力{f801}已积蓄!{f801}</target>
   </entry>
   <entry id="245">
     <source>{f811}{0100}は{f801}追撃のチャンスに備えた!{f801}</source>
-    <target>{f811}{0100}准备{f801}追击的机会!{f801}</target>
+    <target>{f811}{0100}准备好了{f801}追击!{f801}</target>
   </entry>
   <entry id="246">
     <source>{f811}{0000}から{f801}{f811}{0100}が産まれた!{f801}</source>
@@ -969,11 +969,11 @@
   </entry>
   <entry id="247">
     <source>{f811}{0000}は{f801}連携できなかった!{f801}</source>
-    <target>{f811}{0000}{f801}无法合作!{f801}</target>
+    <target>{f811}{0000}{f801}无法连携!{f801}</target>
   </entry>
   <entry id="248">
     <source>{f811}{0000}に溜めこまれた力が暴走する!{f801}</source>
-    <target>积蓄在{f811}{0000}的力量暴走!{f801}</target>
+    <target>积蓄在{f811}{0000}的力量暴走了!{f801}</target>
   </entry>
   <entry id="249">
     <source>名状し難き神が目覚めた!{f801}</source>
@@ -1757,7 +1757,7 @@
   </entry>
   <entry id="511">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を無効化した!{f801}</source>
-    <target>{f811}{0300}对{f801}{f811}{0100}的攻击无效了!{f801}</target>
+    <target>{f811}{0300}将对{f801}{f811}{0100}的攻击无效化了!{f801}</target>
   </entry>
   <entry id="512">
     <source>{f811}{0300}の{f801}{f811}{0200}が発動した!{f801}</source>
@@ -1765,11 +1765,11 @@
   </entry>
   <entry id="513">
     <source>{f811}{0100}への攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}的攻击无效了!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="514">
     <source>{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0100}的攻击被减轻了!{f801}</target>
+    <target>对{f811}{0100}的攻击被削减了!{f801}</target>
   </entry>
   <entry id="515">
     <source>相手の力を奪った!{f801}</source>

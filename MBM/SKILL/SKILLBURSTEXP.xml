@@ -1,91 +1,91 @@
 <mbm>
   <entry id="0">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="1">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="2">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="3">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="4">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="5">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="6">
     <source>補助スキル{f801}</source>
-    <target>補助スキル{f801}</target>
+    <target>辅助技能{f801}</target>
   </entry>
   <entry id="7">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="8">
     <source>補助スキル{f801}</source>
-    <target>補助スキル{f801}</target>
+    <target>辅助技能{f801}</target>
   </entry>
   <entry id="9">
     <source>補助スキル{f801}</source>
-    <target>補助スキル{f801}</target>
+    <target>辅助技能{f801}</target>
   </entry>
   <entry id="10">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="11">
     <source>防御スキル{f801}</source>
-    <target>防御スキル{f801}</target>
+    <target>防御技能{f801}</target>
   </entry>
   <entry id="12">
     <source>防御スキル{f801}</source>
-    <target>防御スキル{f801}</target>
+    <target>防御技能{f801}</target>
   </entry>
   <entry id="13">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="14">
     <source>補助スキル{f801}</source>
-    <target>補助スキル{f801}</target>
+    <target>辅助技能{f801}</target>
   </entry>
   <entry id="15">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="16">
     <source>特殊スキル{f801}</source>
-    <target>特殊スキル{f801}</target>
+    <target>特殊技能{f801}</target>
   </entry>
   <entry id="17">
     <source>防御スキル{f801}</source>
-    <target>防御スキル{f801}</target>
+    <target>防御技能{f801}</target>
   </entry>
   <entry id="18">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="19">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="20">
     <source>攻撃スキル{f801}</source>
-    <target>攻撃スキル{f801}</target>
+    <target>攻击技能{f801}</target>
   </entry>
   <entry id="21">
     <source>回復スキル{f801}</source>
-    <target>回復スキル{f801}</target>
+    <target>恢复技能{f801}</target>
   </entry>
   <entry id="22">
     <source>ダミー{f801}</source>
