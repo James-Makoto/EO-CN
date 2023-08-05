@@ -889,7 +889,7 @@ msgstr "吐纳"
 
 msgctxt "219"
 msgid "踏み袈裟"
-msgstr "踏袈裟斩改"
+msgstr "踏袈裟斩"
 
 msgctxt "220"
 msgid "上段の構え"
@@ -2633,7 +2633,7 @@ msgstr "风压"
 
 msgctxt "656"
 msgid "踏み袈裟改"
-msgstr "踏之袈裟改"
+msgstr "踏袈裟斩改"
 
 msgctxt "657"
 msgid "息吹改"
