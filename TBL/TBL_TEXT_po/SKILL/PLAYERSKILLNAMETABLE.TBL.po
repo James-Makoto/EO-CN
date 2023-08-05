@@ -889,7 +889,7 @@ msgstr "吐纳"
 
 msgctxt "219"
 msgid "踏み袈裟"
-msgstr "前踏袈裟斩"
+msgstr "踏袈裟斩改"
 
 msgctxt "220"
 msgid "上段の構え"
@@ -2177,7 +2177,7 @@ msgstr "恐怖的龙牙"
 
 msgctxt "542"
 msgid "身構え"
-msgstr "严阵以待"
+msgstr "摆架势"
 
 msgctxt "543"
 msgid "死滅の眼光"
@@ -2225,7 +2225,7 @@ msgstr "风之瞬目"
 
 msgctxt "554"
 msgid "切断咬"
-msgstr "切断啮咬"
+msgstr "切断咬"
 
 msgctxt "555"
 msgid "大車輪"
@@ -2633,7 +2633,7 @@ msgstr "风压"
 
 msgctxt "656"
 msgid "踏み袈裟改"
-msgstr "前踏袈裟斩改"
+msgstr "踏之袈裟改"
 
 msgctxt "657"
 msgid "息吹改"
@@ -3001,7 +3001,7 @@ msgstr "芥子气"
 
 msgctxt "748"
 msgid "最終兵器(仮)"
-msgstr "最终兵器(假)"
+msgstr "最终兵器(暂)"
 
 msgctxt "749"
 msgid "電磁投射砲"
