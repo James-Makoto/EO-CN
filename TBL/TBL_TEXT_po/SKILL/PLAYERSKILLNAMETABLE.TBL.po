@@ -1949,7 +1949,7 @@ msgstr "激突"
 
 msgctxt "485"
 msgid "刃のヒレ"
-msgstr "刃鳍 "
+msgstr "刃鳍"
 
 msgctxt "486"
 msgid "しびれるキック"
