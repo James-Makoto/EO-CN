@@ -25,7 +25,7 @@
   </entry>
   <entry id="7">
     <source>{f811}{0000}が{f801}習得できるようになりました!{f801}</source>
-    <target>习得了{f811}{0000}!{f801}</target>
+    <target>{f811}{0000}可以习得了!{f801}</target>
   </entry>
   <entry id="8">
     <source>スキルポイントが足りません!{f801}</source>
