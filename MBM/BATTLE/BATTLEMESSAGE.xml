@@ -345,7 +345,7 @@
   </entry>
   <entry id="87">
     <source>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</source>
-    <target>但是，{f811}对{0100}{f801}没有效果。{f801}</target>
+    <target>但是，对{f811}{0100}{f801}没有效果。{f801}</target>
   </entry>
   <entry id="88">
     <source>{f811}{0100}は{f801}攻撃をかわした!{f801}</source>
@@ -1001,7 +1001,7 @@
   </entry>
   <entry id="255">
     <source>{f811}{0000}の隊列が変わった!{f801}</source>
-    <target>{f811}{0000}の的队伍改变了!{f801}</target>
+    <target>{f811}{0000}的队伍改变了!{f801}</target>
   </entry>
   <entry id="256">
     <source>{f811}{0000}達の隊列が変わった!{f801}</source>
