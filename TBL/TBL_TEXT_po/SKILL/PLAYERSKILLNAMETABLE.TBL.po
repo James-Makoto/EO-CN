@@ -661,7 +661,7 @@ msgstr "大爆炎之术式"
 
 msgctxt "162"
 msgid "氷の術式"
-msgstr "之术式"
+msgstr "冰之术式"
 
 msgctxt "163"
 msgid "氷結の術式"
