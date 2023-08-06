@@ -945,7 +945,7 @@ msgstr "挖掘"
 
 msgctxt "233"
 msgid "傲骨不敵"
-msgstr "傲骨不敌"
+msgstr "傲骨无敌"
 
 msgctxt "234"
 msgid "無双の構え"
@@ -1145,11 +1145,11 @@ msgstr "联盟爆击"
 
 msgctxt "283"
 msgid "ディレイチャージ"
-msgstr "延时蓄力"
+msgstr "延时蓄力刺"
 
 msgctxt "284"
 msgid "クロスチャージ"
-msgstr "交错蓄力"
+msgstr "交错蓄力刺"
 
 msgctxt "285"
 msgid "ロングスラスト"
@@ -1185,7 +1185,7 @@ msgstr "挖掘"
 
 msgctxt "293"
 msgid "絆の恩恵"
-msgstr "绊之恩惠"
+msgstr "羁绊恩惠"
 
 msgctxt "294"
 msgid "不可視の霊盾"
