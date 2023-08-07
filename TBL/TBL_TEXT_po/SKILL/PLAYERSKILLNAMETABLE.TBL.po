@@ -1269,7 +1269,7 @@ msgstr "火焰射击"
 
 msgctxt "314"
 msgid "チャージフレイム"
-msgstr "蓄力火焰"
+msgstr "充能火焰"
 
 msgctxt "315"
 msgid "アイスショット"
@@ -1277,7 +1277,7 @@ msgstr "寒冰射击"
 
 msgctxt "316"
 msgid "チャージアイス"
-msgstr "蓄力寒冰"
+msgstr "充能寒冰"
 
 msgctxt "317"
 msgid "サンダーショット"
@@ -1285,7 +1285,7 @@ msgstr "雷电射击"
 
 msgctxt "318"
 msgid "チャージサンダー"
-msgstr "蓄力雷电"
+msgstr "充能雷电"
 
 msgctxt "319"
 msgid "後方支援"
@@ -1309,7 +1309,7 @@ msgstr "武神形态"
 
 msgctxt "324"
 msgid "チャージショット"
-msgstr "蓄力射击"
+msgstr "充能射击"
 
 msgctxt "325"
 msgid "アクトブースト"
