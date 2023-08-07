@@ -425,7 +425,7 @@ msgstr "腿部束缚"
 
 msgctxt "103"
 msgid "アームボンデージ"
-msgstr "臂部束缚"
+msgstr "手臂束缚"
 
 msgctxt "104"
 msgid "エクスタシー"
@@ -453,7 +453,7 @@ msgstr "吸血突刺"
 
 msgctxt "110"
 msgid "トラッピング"
-msgstr "诱捕"
+msgstr "诱捕陷阱"
 
 msgctxt "111"
 msgid "カタストロフ"
@@ -1205,11 +1205,11 @@ msgstr "DUMMY"
 
 msgctxt "298"
 msgid "ディレイチャージ"
-msgstr "延时蓄力"
+msgstr "延时蓄力刺"
 
 msgctxt "299"
 msgid "クロスチャージ"
-msgstr "交错蓄力"
+msgstr "交错蓄力刺"
 
 msgctxt "300"
 msgid "防衛本能"
@@ -1269,7 +1269,7 @@ msgstr "火焰射击"
 
 msgctxt "314"
 msgid "チャージフレイム"
-msgstr "蓄力火焰"
+msgstr "充能火焰"
 
 msgctxt "315"
 msgid "アイスショット"
@@ -1277,7 +1277,7 @@ msgstr "寒冰射击"
 
 msgctxt "316"
 msgid "チャージアイス"
-msgstr "蓄力寒冰"
+msgstr "充能寒冰"
 
 msgctxt "317"
 msgid "サンダーショット"
@@ -1285,7 +1285,7 @@ msgstr "雷电射击"
 
 msgctxt "318"
 msgid "チャージサンダー"
-msgstr "蓄力雷电"
+msgstr "充能雷电"
 
 msgctxt "319"
 msgid "後方支援"
@@ -1309,7 +1309,7 @@ msgstr "武神形态"
 
 msgctxt "324"
 msgid "チャージショット"
-msgstr "蓄力射击"
+msgstr "充能射击"
 
 msgctxt "325"
 msgid "アクトブースト"
@@ -2013,7 +2013,7 @@ msgstr "死之目光"
 
 msgctxt "501"
 msgid "アームボンテージ"
-msgstr "手臂捆绑"
+msgstr "手臂束缚"
 
 msgctxt "502"
 msgid "混乱の歌声"
@@ -2021,7 +2021,7 @@ msgstr "混乱歌声"
 
 msgctxt "503"
 msgid "ヘッドボンテージ"
-msgstr "头部捆绑"
+msgstr "头部束缚"
 
 msgctxt "504"
 msgid "呪いの声"

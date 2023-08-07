@@ -13,104 +13,104 @@ msgstr ""
 
 msgctxt "0"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "1"
 msgid "強化"
-msgstr ""
+msgstr "强化"
 
 msgctxt "2"
 msgid "斧技"
-msgstr ""
+msgstr "斧技"
 
 msgctxt "3"
 msgid "剣技"
-msgstr ""
+msgstr "剑技"
 
 msgctxt "4"
 msgid "戦技"
-msgstr ""
+msgstr "战技"
 
 msgctxt "5"
 msgid "採集"
-msgstr ""
+msgstr "采集"
 
 msgctxt "6"
 msgid "弓技"
-msgstr ""
+msgstr "弓技"
 
 msgctxt "7"
 msgid "探索"
-msgstr ""
+msgstr "探索"
 
 msgctxt "8"
 msgid "回復"
-msgstr ""
+msgstr "恢复"
 
 msgctxt "9"
 msgid "盾技"
-msgstr ""
+msgstr "盾技"
 
 msgctxt "10"
 msgid "鞭技"
-msgstr ""
+msgstr "鞭技"
 
 msgctxt "11"
 msgid "杖技"
-msgstr ""
+msgstr "杖技"
 
 msgctxt "12"
 msgid "術式"
-msgstr ""
+msgstr "术式"
 
 msgctxt "13"
 msgid "歌"
-msgstr ""
+msgstr "歌"
 
 msgctxt "14"
 msgid "刀技"
-msgstr ""
+msgstr "刀技"
 
 msgctxt "15"
 msgid "呪言"
-msgstr ""
+msgstr "咒言"
 
 msgctxt "16"
 msgid "槍技"
-msgstr ""
+msgstr "枪技"
 
 msgctxt "17"
 msgid "銃技"
-msgstr ""
+msgstr "铳技"
 
 msgctxt "18"
 msgid "狼王"
-msgstr ""
+msgstr "狼王"
 
 msgctxt "19"
 msgid "森王"
-msgstr ""
+msgstr "森王"
 
 msgctxt "20"
 msgid "女王"
-msgstr ""
+msgstr "女王"
 
 msgctxt "21"
 msgid "海王"
-msgstr ""
+msgstr "海王"
 
 msgctxt "22"
 msgid "鳥王"
-msgstr ""
+msgstr "鸟王"
 
 msgctxt "23"
 msgid "毒王"
-msgstr ""
+msgstr "毒王"
 
 msgctxt "24"
 msgid "華王"
-msgstr ""
+msgstr "花王"
 
 msgctxt "25"
 msgid "敵技"
-msgstr ""
+msgstr "敌技"
