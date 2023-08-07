@@ -41,7 +41,7 @@ msgstr "弓技"
 
 msgctxt "7"
 msgid "探索"
-msgstr ""
+msgstr "探索"
 
 msgctxt "8"
 msgid "回復"

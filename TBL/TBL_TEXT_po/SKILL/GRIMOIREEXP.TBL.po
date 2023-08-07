@@ -16,7 +16,7 @@ msgid "NONE"
 msgstr ""
 
 msgctxt "1"
-msgid "所有者の肉体に強靭性を付与する力を秘めた魔石。"
+msgid "所有者の肉体に強靭性を<zbr>付与する力を秘めた魔石。"
 msgstr "可提升持有者<zbr>身体强度的魔石。"
 
 msgctxt "2"
