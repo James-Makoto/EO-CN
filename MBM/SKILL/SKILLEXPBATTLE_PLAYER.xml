@@ -217,15 +217,15 @@
   </entry>
   <entry id="365">
     <source>耐斬ミスト{f801}【耐性】斬攻撃耐性UP{f801}</source>
-    <target>抗斩喷雾{f801}【抗性】斩攻击抗性UP{f801}</target>
+    <target>抗斩喷雾{f801}【抗性】斩击攻击抗性UP{f801}</target>
   </entry>
   <entry id="366">
     <source>耐壊ミスト{f801}【耐性】壊攻撃耐性UP{f801}</source>
-    <target>抗坏喷雾{f801}【抗性】坏攻击抗性UP{f801}</target>
+    <target>抗坏喷雾{f801}【抗性】破坏攻击抗性UP{f801}</target>
   </entry>
   <entry id="367">
     <source>耐突ミスト{f801}【耐性】突攻撃耐性UP{f801}</source>
-    <target>抗突喷雾{f801}【抗性】突攻击抗性UP{f801}</target>
+    <target>抗突喷雾{f801}【抗性】突击攻击抗性UP{f801}</target>
   </entry>
   <entry id="368">
     <source>絶耐ミスト{f801}【耐性】物理・属性耐性UP{f801}</source>

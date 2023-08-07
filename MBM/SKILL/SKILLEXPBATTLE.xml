@@ -49,19 +49,19 @@
   </entry>
   <entry id="12">
     <source>敵1体に遠隔壊攻撃{f801}</source>
-    <target>对1个敌人远隔坏攻击{f801}</target>
+    <target>对1个敌人远隔破坏攻击{f801}</target>
   </entry>
   <entry id="13">
     <source>敵1体に近接斬攻撃{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="14">
     <source>敵1体から左右に拡散する、近接斬攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接斩攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接斩击攻击{f801}</target>
   </entry>
   <entry id="15">
     <source>敵複数体をランダムに切り裂く、近接斬攻撃{f801}</source>
-    <target>对数个敌人任意次数近接斩攻击{f801}</target>
+    <target>对数个敌人任意次数近接斩击攻击{f801}</target>
   </entry>
   <entry id="16">
     <source>このターン、味方の炎属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</source>
@@ -77,15 +77,15 @@
   </entry>
   <entry id="19">
     <source>前後の敵2体を貫通する、近接壊攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接坏攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接破坏攻击{f801}</target>
   </entry>
   <entry id="20">
     <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}一定几率发动眩晕效果{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}一定几率发动眩晕效果{f801}</target>
   </entry>
   <entry id="21">
     <source>敵1体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="22">
     <source>採掘ポイントで{f801}入手できる素材数が増える探索スキル{f801}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="23">
     <source>命中を捨て敵1体に強力な近接斬攻撃{f801}攻撃が外れた場合、敵全体に盲目効果が発動{f801}</source>
-    <target>舍弃命中率对1个敌人发动强力的近接斩攻击{f801}攻击没有命中时，对敌方全体发动失明效果{f801}</target>
+    <target>舍弃命中率对1个敌人发动强力的近接斩击攻击{f801}攻击没有命中时，对敌方全体发动失明效果{f801}</target>
   </entry>
   <entry id="24">
     <source>{f811}{0000}ターンの間、敵の標的にされやすくなり{f801}敵全体の物理防御力を下げる{f801}</source>
@@ -153,19 +153,19 @@
   </entry>
   <entry id="44">
     <source>敵1体ヘ遠隔突攻撃{f801}</source>
-    <target>对1个敌人远隔突攻击{f801}</target>
+    <target>对1个敌人远隔突击攻击{f801}</target>
   </entry>
   <entry id="45">
     <source>敵全体に2回遠隔突攻撃{f801}</source>
-    <target>对敌方全体2次远隔突攻击{f801}</target>
+    <target>对敌方全体2次远隔突击攻击{f801}</target>
   </entry>
   <entry id="46">
     <source>敵1体に遠隔突攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
-    <target>对1个敌人远隔突攻击{f801}一定几率发动腿部封印{f801}</target>
+    <target>对1个敌人远隔突击攻击{f801}一定几率发动腿部封印{f801}</target>
   </entry>
   <entry id="47">
     <source>2ターン後、ターン開始時に敵1体へ{f801}遠隔突攻撃。一定確率でスタン効果が発動{f801}</source>
-    <target>2回合后，回合开始时对1个敌人{f801}远隔突攻击。一定几率发动麻痹效果{f801}</target>
+    <target>2回合后，回合开始时对1个敌人{f801}远隔突击攻击。一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="48">
     <source>一定歩数の間{f801}周囲のFOEの位置を表示する{f801}</source>
@@ -265,7 +265,7 @@
   </entry>
   <entry id="78">
     <source>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="79">
     <source>味方1人のHPを回復する{f801}</source>
@@ -285,7 +285,7 @@
   </entry>
   <entry id="83">
     <source>敵全体に近接壊攻撃を行い{f801}3ターンの間、物理攻撃力を低下させる{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}3回合内，降低物理攻击力{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}3回合内，降低物理攻击力{f801}</target>
   </entry>
   <entry id="84">
     <source>探索中、一定歩数の間{f801}ダメージマスのダメージを軽減する{f801}</source>
@@ -329,43 +329,43 @@
   </entry>
   <entry id="100">
     <source>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动中毒效果{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动中毒效果{f801}</target>
   </entry>
   <entry id="101">
     <source>敵1体に近接斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="102">
     <source>敵1体に近接斬攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动腿部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动腿部封印{f801}</target>
   </entry>
   <entry id="103">
     <source>敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="104">
     <source>敵1体に近接斬攻撃{f801}対象の封じの数が多いほど威力が増す{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}对象封印数越多威力越大{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}对象封印数越多威力越大{f801}</target>
   </entry>
   <entry id="105">
     <source>HPが一定値以下の敵1体を一定確率で{f801}即死させ、HPを吸収する近接斬攻撃{f801}</source>
-    <target>使一定值HP以下的1个敌人一定几率{f801}并且吸收HP的近接斩攻击{f801}</target>
+    <target>使一定值HP以下的1个敌人一定几率{f801}并且吸收HP的近接斩击攻击{f801}</target>
   </entry>
   <entry id="106">
     <source>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动睡眠效果{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动睡眠效果{f801}</target>
   </entry>
   <entry id="107">
     <source>敵1体に近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="108">
     <source>敵1体に近接斬攻撃{f801}一定確率で混乱効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动混乱效果{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动混乱效果{f801}</target>
   </entry>
   <entry id="109">
     <source>敵1体に近接斬攻撃{f801}与えたダメージの一部を吸収する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}并吸收伤害的一部分{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}并吸收伤害的一部分{f801}</target>
   </entry>
   <entry id="110">
     <source>自分と左右の味方に罠をはり{f801}物理攻撃してきた敵にカウンターを行う{f801}</source>
@@ -373,7 +373,7 @@
   </entry>
   <entry id="111">
     <source>敵1体に近接斬攻撃し一定確率で石化効果{f801}石化失敗時次ターンの状態異常成功率上昇{f801}</source>
-    <target>对1个敌人近接斩攻击并一定几率发动石化效果{f801}石化失败时下一回合提升异常状态成功率{f801}</target>
+    <target>对1个敌人近接斩击攻击并一定几率发动石化效果{f801}石化失败时下一回合提升异常状态成功率{f801}</target>
   </entry>
   <entry id="112">
     <source>採取ポイントで{f801}入手できる素材数が増える探索スキル{f801}</source>
@@ -389,7 +389,7 @@
   </entry>
   <entry id="115">
     <source>敵1体に近接斬攻撃{f801}対象の状態異常を解除し威力が増す{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}解除对象的异常状态并增加威力{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}解除对象的异常状态并增加威力{f801}</target>
   </entry>
   <entry id="122">
     <source>最大HPが上昇する{f801}</source>
@@ -465,7 +465,7 @@
   </entry>
   <entry id="140">
     <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}一定几率发动眩晕效果{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}一定几率发动眩晕效果{f801}</target>
   </entry>
   <entry id="141">
     <source>敵1体に一定確率で毒効果が発動する{f801}</source>
@@ -485,7 +485,7 @@
   </entry>
   <entry id="145">
     <source>敵1体に近接壊攻撃{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="152">
     <source>最大TPが上昇する{f801}</source>
@@ -501,7 +501,7 @@
   </entry>
   <entry id="155">
     <source>前列専用{f801}敵1体に近接壊攻撃{f801}</source>
-    <target>前列专用{f801}对1个敌人近接坏攻击{f801}</target>
+    <target>前列专用{f801}对1个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="156">
     <source>光掌の術式及び握壊の術式の対象に{f801}ターン終了時、遠隔炎属性攻撃{f801}</source>
@@ -709,7 +709,7 @@
   </entry>
   <entry id="219">
     <source>敵1体に近接斬攻撃。次のターン{f801}各構え専用技が使用可能になる{f801}</source>
-    <target>对1个敌人近接斩攻击。下个回合可使用{f801}需要各个架势的专用技能{f801}</target>
+    <target>对1个敌人近接斩击攻击。下个回合可使用{f801}需要各个架势的专用技能{f801}</target>
   </entry>
   <entry id="220">
     <source>上段の構えに移行し、{f811}{0000}ターンの間{f801}物理攻撃力と物理防御力が上昇する{f801}</source>
@@ -717,11 +717,11 @@
   </entry>
   <entry id="221">
     <source>上段の構え専用:敵1体に近接斬攻撃{f801}</source>
-    <target>上段架势专用:对1个敌人近接斩攻击{f801}</target>
+    <target>上段架势专用:对1个敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="222">
     <source>上段の構え専用:敵1体に複数回近接斬攻撃{f801}</source>
-    <target>上段架势专用:对1个敌人数次近接斩攻击{f801}</target>
+    <target>上段架势专用:对1个敌人数次近接斩击攻击{f801}</target>
   </entry>
   <entry id="223">
     <source>上段の構え専用:{f801}敵1列に近接斬+炎属性攻撃{f801}</source>
@@ -737,7 +737,7 @@
   </entry>
   <entry id="226">
     <source>青眼の構え専用:敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>青眼架势专用:对1个敌人近接斩攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>青眼架势专用:对1个敌人近接斩击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="227">
     <source>青眼の構え専用:{f801}前後の敵2体を貫通する近接突+雷属性攻撃{f801}</source>
@@ -749,11 +749,11 @@
   </entry>
   <entry id="229">
     <source>居合いの構え専用:敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>居合架势专用:对1个敌人近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>居合架势专用:对1个敌人近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="230">
     <source>居合いの構え専用:敵1体に近接突攻撃{f801}</source>
-    <target>居合架势专用:对1个敌人近接突攻击{f801}</target>
+    <target>居合架势专用:对1个敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="231">
     <source>居合いの構え専用:{f801}敵全体に遠隔斬+氷属性攻撃{f801}</source>
@@ -901,39 +901,39 @@
   </entry>
   <entry id="279">
     <source>自身のHPを消費して{f801}敵前列に近接突攻撃{f801}</source>
-    <target>消耗自己的HP{f801}对前列敌人近接突攻击{f801}</target>
+    <target>消耗自己的HP{f801}对前列敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="280">
     <source>自身のHPを消費して{f801}敵全体に近接突攻撃{f801}</source>
-    <target>消耗自己的HP{f801}对敌方全体近接突攻击{f801}</target>
+    <target>消耗自己的HP{f801}对敌方全体近接突击攻击{f801}</target>
   </entry>
   <entry id="281">
     <source>自身以外のHPを消費して{f801}敵前列に近接突攻撃{f801}</source>
-    <target>消耗自己以外队友的HP{f801}对前列敌人近接突攻击{f801}</target>
+    <target>消耗自己以外队友的HP{f801}对前列敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="282">
     <source>自身以外のHPを消費して{f801}敵全体に近接突攻撃{f801}</source>
-    <target>消耗自己以外队友的HP{f801}对敌方全体近接突攻击{f801}</target>
+    <target>消耗自己以外队友的HP{f801}对敌方全体近接突击攻击{f801}</target>
   </entry>
   <entry id="283">
     <source>自身のHPを消費して{f811}{0000}ターン後の終了時{f801}敵1体に遠隔突攻撃{f801}</source>
-    <target>消耗自己的HP{f811}{0000}回合结束时{f801}对1个敌人远隔突攻击{f801}</target>
+    <target>消耗自己的HP{f811}{0000}回合结束时{f801}对1个敌人远隔突击攻击{f801}</target>
   </entry>
   <entry id="284">
     <source>自身のHPを消費して敵1体に近接突攻撃{f801}ディレイチャージと合わせることで威力増加{f801}</source>
-    <target>消耗自己的HP对1个敌人近接突攻击{f801}与延迟蓄力刺一起发动威力提升{f801}</target>
+    <target>消耗自己的HP对1个敌人近接突击攻击{f801}与延迟蓄力刺一起发动威力提升{f801}</target>
   </entry>
   <entry id="285">
     <source>敵1体に遠隔突攻撃{f801}</source>
-    <target>对1个敌人远隔突攻击{f801}</target>
+    <target>对1个敌人远隔突击攻击{f801}</target>
   </entry>
   <entry id="286">
     <source>敵1体に突攻撃{f801}一定確率で頭封じ+即死効果が発動する{f801}</source>
-    <target>对1个敌人突攻击{f801}一定几率发动头部封印+即死效果{f801}</target>
+    <target>对1个敌人突击攻击{f801}一定几率发动头部封印+即死效果{f801}</target>
   </entry>
   <entry id="287">
     <source>敵1体に近接突攻撃。味方の属性攻撃後に発{f801}動させるとその属性が加わり威力が増加する{f801}</source>
-    <target>对1个敌人近接突攻击。在我方属性攻击后{f801}发动的话，附加该属性威力提升{f801}</target>
+    <target>对1个敌人近接突击攻击。在我方属性攻击后{f801}发动的话，附加该属性威力提升{f801}</target>
   </entry>
   <entry id="288">
     <source>力を溜めて次のターンの攻撃力を上昇させ{f801}装備制限を無視してスキルが使用可能になる{f801}</source>
@@ -1005,15 +1005,15 @@
   </entry>
   <entry id="310">
     <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对1个敌人发动高命中率的远隔突攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对1个敌人发动高命中率的远隔突击攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="311">
     <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人发动高命中率的远隔突攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人发动高命中率的远隔突击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="312">
     <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
-    <target>对1个敌人发动高命中率的远隔突攻击{f801}一定几率发动腿部封印{f801}</target>
+    <target>对1个敌人发动高命中率的远隔突击攻击{f801}一定几率发动腿部封印{f801}</target>
   </entry>
   <entry id="313">
     <source>敵1体に遠隔突+炎属性攻撃{f801}</source>
@@ -1049,7 +1049,7 @@
   </entry>
   <entry id="321">
     <source>敵全体に複数回の遠隔突攻撃{f801}</source>
-    <target>对敌方全体数次远隔突攻击{f801}</target>
+    <target>对敌方全体数次远隔突击攻击{f801}</target>
   </entry>
   <entry id="322">
     <source>採取ポイントで{f801}入手できる素材数が増える探索スキル{f801}</source>
@@ -1061,7 +1061,7 @@
   </entry>
   <entry id="324">
     <source>敵1体に遠隔突攻撃{f801}発動まで防御力が低下する{f801}</source>
-    <target>对1个敌人远隔突攻击{f801}发动前防御力下降{f801}</target>
+    <target>对1个敌人远隔突击攻击{f801}发动前防御力下降{f801}</target>
   </entry>
   <entry id="325">
     <source>次のターン、自身の行動が{f801}2回以上行われることがある{f801}</source>
@@ -1129,7 +1129,7 @@
   </entry>
   <entry id="434">
     <source>敵1列に近接壊攻撃{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="435">
     <source>敵1体に遠隔氷属性攻撃{f801}</source>
@@ -1137,11 +1137,11 @@
   </entry>
   <entry id="436">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="437">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}</target>
   </entry>
   <entry id="438">
     <source>敵1体に一定確率で混乱効果が発動する{f801}</source>
@@ -1153,11 +1153,11 @@
   </entry>
   <entry id="440">
     <source>前後の敵2体を貫通する、近接壊攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接坏攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接破坏攻击{f801}</target>
   </entry>
   <entry id="441">
     <source>敵1列に近接斬攻撃{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="442">
     <source>3ターンの間{f801}味方全体の物理攻撃力を上昇させる{f801}</source>
@@ -1181,15 +1181,15 @@
   </entry>
   <entry id="447">
     <source>敵1体に近接突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
-    <target>对1个敌人近接突攻击{f801}一定几率发动中毒效果{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}一定几率发动中毒效果{f801}</target>
   </entry>
   <entry id="448">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="449">
     <source>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="450">
     <source>敵全体に一定確率で盲目効果が発動する{f801}</source>
@@ -1205,19 +1205,19 @@
   </entry>
   <entry id="453">
     <source>敵1体に近接突攻撃{f801}一定確率で毒か麻痺効果が発動する{f801}</source>
-    <target>对1个敌人近接突攻击{f801}一定几率发动中毒或麻痹效果{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}一定几率发动中毒或麻痹效果{f801}</target>
   </entry>
   <entry id="454">
     <source>敵複数体に近接壊攻撃{f801}</source>
-    <target>对数个敌人近接坏攻击{f801}</target>
+    <target>对数个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="455">
     <source>敵1体に近接突攻撃{f801}3ターンの間、物理攻撃力を低下させる{f801}</source>
-    <target>对1个敌人近接突攻击{f801}3回合内，降低物理攻击力{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}3回合内，降低物理攻击力{f801}</target>
   </entry>
   <entry id="456">
     <source>敵1体に近接壊攻撃{f801}与えたダメージに応じたHPを回復する{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
   </entry>
   <entry id="457">
     <source>敵全体に一定確率で睡眠か毒効果が発動する{f801}</source>
@@ -1233,7 +1233,7 @@
   </entry>
   <entry id="460">
     <source>敵全体に2回近接斬攻撃{f801}</source>
-    <target>对敌方全体2次近接斩攻击{f801}</target>
+    <target>对敌方全体2次近接斩击攻击{f801}</target>
   </entry>
   <entry id="461">
     <source>敵全体に一定確率でテラー効果が発動する{f801}</source>
@@ -1241,11 +1241,11 @@
   </entry>
   <entry id="462">
     <source>敵全体に近接壊攻撃{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}</target>
   </entry>
   <entry id="463">
     <source>敵全体に近接壊攻撃{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}</target>
   </entry>
   <entry id="464">
     <source>前後の敵2体を貫通する、遠隔雷属性攻撃{f801}</source>
@@ -1261,7 +1261,7 @@
   </entry>
   <entry id="467">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="468">
     <source>3ターンの間{f801}味方1列の物理攻撃力を上昇させる{f801}</source>
@@ -1277,15 +1277,15 @@
   </entry>
   <entry id="471">
     <source>3ターンの間{f801}味方1列の物理防御力を上昇させる{f801}</source>
-    <target>3回合内，{f801}提升我方味方1列的物理防御力{f801}</target>
+    <target>3回合内，{f801}提升我方1列的物理防御力{f801}</target>
   </entry>
   <entry id="472">
     <source>敵1列に近接斬攻撃{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="473">
     <source>敵全体に複数回の近接斬攻撃{f801}</source>
-    <target>对敌方全体数次近接斩攻击{f801}</target>
+    <target>对敌方全体数次近接斩击攻击{f801}</target>
   </entry>
   <entry id="474">
     <source>前後の敵2体を貫通する、遠隔氷属性攻撃{f801}</source>
@@ -1293,7 +1293,7 @@
   </entry>
   <entry id="475">
     <source>敵全体に2回近接斬攻撃{f801}</source>
-    <target>对敌方全体2次近接斩攻击{f801}</target>
+    <target>对敌方全体2次近接斩击攻击{f801}</target>
   </entry>
   <entry id="476">
     <source>敵全体に複数回の遠隔氷属性攻撃{f801}</source>
@@ -1301,15 +1301,15 @@
   </entry>
   <entry id="477">
     <source>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="478">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="479">
     <source>敵1列に近接壊攻撃{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="480">
     <source>敵全体に遠隔氷属性攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
@@ -1325,19 +1325,19 @@
   </entry>
   <entry id="483">
     <source>敵1体に近接突攻撃{f801}</source>
-    <target>对1个敌人近接突攻击{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="484">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}</target>
   </entry>
   <entry id="485">
     <source>敵1列に近接斬攻撃{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="486">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="487">
     <source>3ターンの間{f801}自身の物理攻撃力を上昇させる{f801}</source>
@@ -1381,15 +1381,15 @@
   </entry>
   <entry id="497">
     <source>敵全体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="498">
     <source>敵1列に近接斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="499">
     <source>敵1列に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}一定几率发动腿部封印{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}一定几率发动腿部封印{f801}</target>
   </entry>
   <entry id="500">
     <source>敵1体に一定確率で即死効果が発動する{f801}</source>
@@ -1397,7 +1397,7 @@
   </entry>
   <entry id="501">
     <source>敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="502">
     <source>敵全体に一定確率で混乱効果が発動する{f801}</source>
@@ -1405,7 +1405,7 @@
   </entry>
   <entry id="503">
     <source>敵1体に近接斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="504">
     <source>敵全体に一定確率で呪い効果が発動する{f801}</source>
@@ -1417,15 +1417,15 @@
   </entry>
   <entry id="506">
     <source>敵1体に近接壊攻撃{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="507">
     <source>敵1列に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="508">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}一定几率发动诅咒效果{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}一定几率发动诅咒效果{f801}</target>
   </entry>
   <entry id="509">
     <source>3ターンの間、敵全体の回避率を低下させる{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</source>
@@ -1441,15 +1441,15 @@
   </entry>
   <entry id="512">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}一定几率发动眩晕效果{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}一定几率发动眩晕效果{f801}</target>
   </entry>
   <entry id="513">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="514">
     <source>自身の命と引き換えに{f801}敵1体から左右に拡散する近接壊攻撃{f801}</source>
-    <target>以自己的生命发动{f801}对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>以自己的生命发动{f801}对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="515">
     <source>3ターンの間{f801}自身の属性防御力を上昇させる{f801}</source>
@@ -1457,19 +1457,19 @@
   </entry>
   <entry id="516">
     <source>敵全体に複数回の近接斬攻撃{f801}</source>
-    <target>对敌方全体数次近接斩攻击{f801}</target>
+    <target>对敌方全体数次近接斩击攻击{f801}</target>
   </entry>
   <entry id="517">
     <source>敵全体に近接突攻撃{f801}</source>
-    <target>对敌方全体近接突攻击{f801}</target>
+    <target>对敌方全体近接突击攻击{f801}</target>
   </entry>
   <entry id="518">
     <source>敵複数体に近接斬攻撃{f801}</source>
-    <target>对数个敌人近接斩攻击{f801}</target>
+    <target>对数个敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="519">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="520">
     <source>敵1体に一定確率で呪い効果が発動する{f801}</source>
@@ -1485,11 +1485,11 @@
   </entry>
   <entry id="523">
     <source>敵1列に近接斬攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}一定几率发动失明效果{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}一定几率发动失明效果{f801}</target>
   </entry>
   <entry id="524">
     <source>敵1列に近接斬攻撃{f801}3ターンの間、物理防御力を低下させる{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}3回合内，降低物理防御力{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}3回合内，降低物理防御力{f801}</target>
   </entry>
   <entry id="525">
     <source>敵全体に遠隔氷属性攻撃{f801}3ターンの間、回避率を低下させる{f801}</source>
@@ -1497,7 +1497,7 @@
   </entry>
   <entry id="526">
     <source>敵1体に近接突攻撃{f801}一定確率で石化効果が発動する{f801}</source>
-    <target>对1个敌人近接突攻击{f801}一定几率发动石化效果{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}一定几率发动石化效果{f801}</target>
   </entry>
   <entry id="527">
     <source>敵全体に一定確率で毒効果が発動する{f801}</source>
@@ -1509,7 +1509,7 @@
   </entry>
   <entry id="529">
     <source>前後の敵2体を貫通する近接突攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}一定几率发动恐惧效果{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}一定几率发动恐惧效果{f801}</target>
   </entry>
   <entry id="530">
     <source>自身の命と引き換えに{f801}敵全体に遠隔炎属性攻撃{f801}</source>
@@ -1521,11 +1521,11 @@
   </entry>
   <entry id="532">
     <source>敵全体に3回近接斬攻撃{f801}</source>
-    <target>对敌方全体3次近接斩攻击{f801}</target>
+    <target>对敌方全体3次近接斩击攻击{f801}</target>
   </entry>
   <entry id="533">
     <source>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="534">
     <source>敵全体に一定確率で即死効果が発動する{f801}</source>
@@ -1533,15 +1533,15 @@
   </entry>
   <entry id="535">
     <source>敵全体に近接壊攻撃{f801}一定確率でスタン+脚封じ効果が発動する{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}一定几率发动眩晕+腿部封印{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}一定几率发动眩晕+腿部封印{f801}</target>
   </entry>
   <entry id="536">
     <source>敵全体に近接壊攻撃{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}</target>
   </entry>
   <entry id="537">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="538">
     <source>敵全体に遠隔雷属性攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
@@ -1549,7 +1549,7 @@
   </entry>
   <entry id="539">
     <source>敵全体に近接突攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
-    <target>对敌方全体近接突攻击{f801}一定几率发动失明效果{f801}</target>
+    <target>对敌方全体近接突击攻击{f801}一定几率发动失明效果{f801}</target>
   </entry>
   <entry id="540">
     <source>敵全体に遠隔炎属性攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
@@ -1557,7 +1557,7 @@
   </entry>
   <entry id="541">
     <source>敵全体に近接斬攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}一定几率发动恐惧效果{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}一定几率发动恐惧效果{f801}</target>
   </entry>
   <entry id="542">
     <source>−−{f801}</source>
@@ -1573,11 +1573,11 @@
   </entry>
   <entry id="545">
     <source>敵1体に近接斬攻撃{f801}与えたダメージに応じたHPを回復する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
   </entry>
   <entry id="546">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="547">
     <source>敵全体に一定確率で{f801}睡眠+頭封じ効果が発動する{f801}</source>
@@ -1585,23 +1585,23 @@
   </entry>
   <entry id="548">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}一定几率发动中毒效果{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}一定几率发动中毒效果{f801}</target>
   </entry>
   <entry id="549">
     <source>敵1列に複数回の近接斬攻撃{f801}</source>
-    <target>对1列敌人数次近接斩攻击{f801}</target>
+    <target>对1列敌人数次近接斩击攻击{f801}</target>
   </entry>
   <entry id="550">
     <source>敵1体に必中の近接斬攻撃{f801}</source>
-    <target>对1个敌人进行必中的近接斩攻击{f801}</target>
+    <target>对1个敌人进行必中的近接斩击攻击{f801}</target>
   </entry>
   <entry id="551">
     <source>敵1体に近接突攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
-    <target>对1个敌人近接突攻击{f801}一定几率发动失明效果{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}一定几率发动失明效果{f801}</target>
   </entry>
   <entry id="552">
     <source>敵1体に近接突攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对1个敌人近接突攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="553">
     <source>3ターンの間{f801}味方全体の回避率を上昇させる{f801}</source>
@@ -1609,19 +1609,19 @@
   </entry>
   <entry id="554">
     <source>敵1列に近接斬攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}一定几率发动恐惧效果{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}一定几率发动恐惧效果{f801}</target>
   </entry>
   <entry id="555">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动眩晕效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动眩晕效果{f801}</target>
   </entry>
   <entry id="556">
     <source>前後の敵2体を貫通する、近接壊攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接坏攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接破坏攻击{f801}</target>
   </entry>
   <entry id="557">
     <source>敵1列に近接壊攻撃{f801}3ターンの間、物理防御力を低下させる{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}3回合内，降低物理防御力を低下させる{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}3回合内，降低物理防御力を低下させる{f801}</target>
   </entry>
   <entry id="558">
     <source>敵全体に一定確率で睡眠効果が発動する{f801}</source>
@@ -1629,11 +1629,11 @@
   </entry>
   <entry id="559">
     <source>敵全体に2回近接突攻撃{f801}</source>
-    <target>对敌方全体2次近接突攻击{f801}</target>
+    <target>对敌方全体2次近接突击攻击{f801}</target>
   </entry>
   <entry id="560">
     <source>前後の敵2体を貫通する、近接斬攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接斩攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接斩击攻击{f801}</target>
   </entry>
   <entry id="561">
     <source>−−{f801}</source>
@@ -1913,15 +1913,15 @@
   </entry>
   <entry id="630">
     <source>敵1体に近接突攻撃{f801}</source>
-    <target>对1个敌人近接突攻击{f801}</target>
+    <target>对1个敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="631">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="632">
     <source>敵全体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="633">
     <source>−−{f801}</source>
@@ -1937,11 +1937,11 @@
   </entry>
   <entry id="636">
     <source>敵1体に近接壊攻撃{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="637">
     <source>敵全体に複数回の近接壊攻撃{f801}</source>
-    <target>对敌方全体数次近接坏攻击{f801}</target>
+    <target>对敌方全体数次近接破坏攻击{f801}</target>
   </entry>
   <entry id="638">
     <source>3ターンの間、敵全体の命中率を低下させる{f801}一定確率で盲目効果が発動する{f801}</source>
@@ -1961,7 +1961,7 @@
   </entry>
   <entry id="642">
     <source>敵1体に近接壊攻撃{f801}</source>
-    <target>对1个敌人近接坏攻击{f801}</target>
+    <target>对1个敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="643">
     <source>敵1体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
@@ -1977,11 +1977,11 @@
   </entry>
   <entry id="646">
     <source>敵1体に近接斬攻撃{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="647">
     <source>敵1体から左右に拡散する、近接突攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接突攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接突击攻击{f801}</target>
   </entry>
   <entry id="648">
     <source>敵全体に一定確率で脚封じ効果が発動する{f801}</source>
@@ -1997,19 +1997,19 @@
   </entry>
   <entry id="651">
     <source>敵全体に複数回の近接突攻撃{f801}</source>
-    <target>对敌方全体数次近接突攻击{f801}</target>
+    <target>对敌方全体数次近接突击攻击{f801}</target>
   </entry>
   <entry id="652">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で石化効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动石化效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动石化效果{f801}</target>
   </entry>
   <entry id="653">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で混乱効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动混乱效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动混乱效果{f801}</target>
   </entry>
   <entry id="654">
     <source>敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="655">
     <source>敵全体に遠隔無属性攻撃+スタン効果{f801}5ターンの間、回避率を低下させる{f801}</source>
@@ -2017,7 +2017,7 @@
   </entry>
   <entry id="656">
     <source>敵全体に複数回の近接斬攻撃{f801}</source>
-    <target>对敌方全体数次近接斩攻击{f801}</target>
+    <target>对敌方全体数次近接斩击攻击{f801}</target>
   </entry>
   <entry id="657">
     <source>味方全体のHPを回復する{f801}</source>
@@ -2029,7 +2029,7 @@
   </entry>
   <entry id="659">
     <source>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}一定几率发动即死{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="660">
     <source>敵全体に遠隔氷属性攻撃{f801}</source>
@@ -2057,11 +2057,11 @@
   </entry>
   <entry id="666">
     <source>敵複数体に近接突攻撃{f801}</source>
-    <target>对数个敌人近接突攻击{f801}</target>
+    <target>对数个敌人近接突击攻击{f801}</target>
   </entry>
   <entry id="667">
     <source>敵全体に複数回の近接斬攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</source>
-    <target>对敌方全体数次近接斩攻击{f801}一定几率发动头部+臂部+腿部封印{f801}</target>
+    <target>对敌方全体数次近接斩击攻击{f801}一定几率发动头部+臂部+腿部封印{f801}</target>
   </entry>
   <entry id="668">
     <source>敵1体に遠隔無属性攻撃+HP吸収{f801}一定確率で即死効果が発動する{f801}</source>
@@ -2081,15 +2081,15 @@
   </entry>
   <entry id="672">
     <source>敵全体に近接壊攻撃{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}</target>
   </entry>
   <entry id="673">
     <source>敵1体に4回近接斬攻撃{f801}</source>
-    <target>对1个敌人4次近接斩攻击{f801}</target>
+    <target>对1个敌人4次近接斩击攻击{f801}</target>
   </entry>
   <entry id="674">
     <source>敵全体に複数回の近接突攻撃{f801}</source>
-    <target>对敌方全体数次近接突攻击{f801}</target>
+    <target>对敌方全体数次近接突击攻击{f801}</target>
   </entry>
   <entry id="675">
     <source>5ターンの間{f801}自身の状態異常成功率を上昇させる{f801}</source>
@@ -2141,7 +2141,7 @@
   </entry>
   <entry id="687">
     <source>敵全体に複数回の近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
-    <target>对敌方全体数次近接坏攻击{f801}一定几率发动眩晕效果{f801}</target>
+    <target>对敌方全体数次近接破坏攻击{f801}一定几率发动眩晕效果{f801}</target>
   </entry>
   <entry id="688">
     <source>3ターンの間{f801}自身の物理・属性攻撃力を上昇させる{f801}</source>
@@ -2149,7 +2149,7 @@
   </entry>
   <entry id="689">
     <source>敵1列に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1列敌人近接斩攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1列敌人近接斩击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="690">
     <source>−−{f801}</source>
@@ -2157,7 +2157,7 @@
   </entry>
   <entry id="691">
     <source>敵全体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}一定几率发动腿部封印{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}一定几率发动腿部封印{f801}</target>
   </entry>
   <entry id="692">
     <source>敵全体に遠隔氷属性攻撃{f801}</source>
@@ -2169,7 +2169,7 @@
   </entry>
   <entry id="694">
     <source>敵全体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}一定几率发动头部封印{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}一定几率发动头部封印{f801}</target>
   </entry>
   <entry id="695">
     <source>3ターンの間{f801}ターン終了時に自身のHPが回復する{f801}</source>
@@ -2181,7 +2181,7 @@
   </entry>
   <entry id="697">
     <source>敵全体に3回近接斬攻撃{f801}</source>
-    <target>对敌方全体3次近接斩攻击{f801}</target>
+    <target>对敌方全体3次近接斩击攻击{f801}</target>
   </entry>
   <entry id="698">
     <source>敵全体に遠隔雷属性攻撃{f801}</source>
@@ -2189,11 +2189,11 @@
   </entry>
   <entry id="699">
     <source>前後の敵2体を貫通する斬攻撃{f801}与えたダメージに応じたHPを回復する{f801}</source>
-    <target>贯穿前后2个敌人的斩攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
+    <target>贯穿前后2个敌人的斩击攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
   </entry>
   <entry id="700">
     <source>敵全体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="701">
     <source>敵全体の強化を解除する{f801}一定確率で呪い+テラー効果が発動する{f801}</source>
@@ -2217,11 +2217,11 @@
   </entry>
   <entry id="706">
     <source>敵全体に複数回の近接壊攻撃{f801}</source>
-    <target>对敌方全体数次近接坏攻击{f801}</target>
+    <target>对敌方全体数次近接破坏攻击{f801}</target>
   </entry>
   <entry id="707">
     <source>敵1体に近接斬攻撃{f801}与えたダメージに応じたHPを回復する{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}根据造成的伤害多少恢复HP{f801}</target>
   </entry>
   <entry id="708">
     <source>敵全体に一定確率で石化、睡眠、麻痺、混乱{f801}、テラー、盲目、呪いのいずれかの効果{f801}</source>
@@ -2237,11 +2237,11 @@
   </entry>
   <entry id="711">
     <source>敵全体に近接斬攻撃{f801}一定確率で盲目か呪い効果が発動する{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}一一定几率发动失明或诅咒效果{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}一一定几率发动失明或诅咒效果{f801}</target>
   </entry>
   <entry id="712">
     <source>敵全体に近接突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
-    <target>对敌方全体近接突攻击{f801}一定几率发动中毒效果{f801}</target>
+    <target>对敌方全体近接突击攻击{f801}一定几率发动中毒效果{f801}</target>
   </entry>
   <entry id="713">
     <source>敵全体に一定確率で{f801}石化か混乱効果が発動する{f801}</source>
@@ -2253,11 +2253,11 @@
   </entry>
   <entry id="715">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}</target>
   </entry>
   <entry id="716">
     <source>敵全体に3回近接壊攻撃{f801}</source>
-    <target>对敌方全体3次近接坏攻击{f801}</target>
+    <target>对敌方全体3次近接破坏攻击{f801}</target>
   </entry>
   <entry id="717">
     <source>3ターンの間{f801}ターン終了時に自身のHPが回復する{f801}</source>
@@ -2273,11 +2273,11 @@
   </entry>
   <entry id="720">
     <source>前後の敵2体を貫通する、壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的坏攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>贯穿前后2个敌人的破坏攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="721">
     <source>敵1列に近接壊攻撃{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}</target>
   </entry>
   <entry id="722">
     <source>3ターンの間{f801}自身の物理攻撃を上昇させる{f801}</source>
@@ -2293,11 +2293,11 @@
   </entry>
   <entry id="725">
     <source>敵1体に近接斬攻撃{f801}</source>
-    <target>对1个敌人近接斩攻击{f801}</target>
+    <target>对1个敌人近接斩击攻击{f801}</target>
   </entry>
   <entry id="726">
     <source>敵1列に近接壊攻撃{f801}3ターンの間、物理攻撃力を低下させる{f801}</source>
-    <target>对1列敌人近接坏攻击{f801}3回合内，降低物理攻击力{f801}</target>
+    <target>对1列敌人近接破坏攻击{f801}3回合内，降低物理攻击力{f801}</target>
   </entry>
   <entry id="727">
     <source>敵からの攻撃を完全に回避する{f801}</source>
@@ -2305,11 +2305,11 @@
   </entry>
   <entry id="728">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="729">
     <source>敵全体に近接斬攻撃{f801}</source>
-    <target>对敌方全体近接斩攻击{f801}</target>
+    <target>对敌方全体近接斩击攻击{f801}</target>
   </entry>
   <entry id="730">
     <source>5ターンの間{f801}ターン終了時に自身のHPが回復する{f801}</source>
@@ -2325,11 +2325,11 @@
   </entry>
   <entry id="733">
     <source>敵1体から左右に拡散する、近接斬攻撃{f801}</source>
-    <target>对1个敌人进行左右扩散的近接斩攻击{f801}</target>
+    <target>对1个敌人进行左右扩散的近接斩击攻击{f801}</target>
   </entry>
   <entry id="734">
     <source>敵複数体に近接突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
-    <target>对数个敌人近接突攻击{f801}一定几率发动中毒效果{f801}</target>
+    <target>对数个敌人近接突击攻击{f801}一定几率发动中毒效果{f801}</target>
   </entry>
   <entry id="735">
     <source>3ターンの間、敵全体の物理防御力低下{f801}一定確率で呪い効果が発動する{f801}</source>
@@ -2341,11 +2341,11 @@
   </entry>
   <entry id="737">
     <source>敵1列に近接突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
-    <target>对1列敌人近接突攻击{f801}一定几率发动臂部封印{f801}</target>
+    <target>对1列敌人近接突击攻击{f801}一定几率发动臂部封印{f801}</target>
   </entry>
   <entry id="738">
     <source>前後の敵2体を貫通する突攻撃{f801}一定確率で即死効果が発動する{f801}</source>
-    <target>贯穿前后2个敌人的突攻击{f801}一定几率发动即死{f801}</target>
+    <target>贯穿前后2个敌人的突击攻击{f801}一定几率发动即死{f801}</target>
   </entry>
   <entry id="739">
     <source>敵全体に遠隔雷属性攻撃{f801}</source>
@@ -2353,15 +2353,15 @@
   </entry>
   <entry id="740">
     <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
-    <target>对1个敌人进行左右扩散的近接坏攻击{f801}一定几率发动麻痹效果{f801}</target>
+    <target>对1个敌人进行左右扩散的近接破坏攻击{f801}一定几率发动麻痹效果{f801}</target>
   </entry>
   <entry id="741">
     <source>敵全体に複数回の近接壊攻撃{f801}</source>
-    <target>对敌方全体数次近接坏攻击{f801}</target>
+    <target>对敌方全体数次近接破坏攻击{f801}</target>
   </entry>
   <entry id="742">
     <source>次のターン終了時に{f801}敵1体から左右に拡散する遠隔突攻撃{f801}</source>
-    <target>下个回合结束时{f801}对1个敌人进行左右扩散的远隔突攻击{f801}</target>
+    <target>下个回合结束时{f801}对1个敌人进行左右扩散的远隔突击攻击{f801}</target>
   </entry>
   <entry id="743">
     <source>敵全体に遠隔炎属性攻撃{f801}</source>
@@ -2369,7 +2369,7 @@
   </entry>
   <entry id="744">
     <source>敵全体に近接壊攻撃{f801}</source>
-    <target>对敌方全体近接坏攻击{f801}</target>
+    <target>对敌方全体近接破坏攻击{f801}</target>
   </entry>
   <entry id="745">
     <source>3ターンの間{f801}自身の行動速度を上昇させる{f801}</source>
@@ -2393,11 +2393,11 @@
   </entry>
   <entry id="750">
     <source>敵全体に複数回の近接壊攻撃{f801}</source>
-    <target>对敌方全体数次近接坏攻击{f801}</target>
+    <target>对敌方全体数次近接破坏攻击{f801}</target>
   </entry>
   <entry id="751">
     <source>前後の敵2体を貫通する、近接突攻撃{f801}</source>
-    <target>贯穿前后2个敌人的近接突攻击{f801}</target>
+    <target>贯穿前后2个敌人的近接突击攻击{f801}</target>
   </entry>
   <entry id="752">
     <source>このターン、物理攻撃を無効化し{f801}敵全体に同じ属性で反撃する{f801}</source>
