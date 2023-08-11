@@ -5,98 +5,98 @@
   </entry>
   <entry id="1">
     <source>ターン終了時HP回復{f801}</source>
-    <target>ターン終了時HP回復{f801}</target>
+    <target>回合结束时恢复HP{f801}</target>
   </entry>
   <entry id="2">
     <source>最大HP増加{f801}</source>
-    <target>最大HP増加{f801}</target>
+    <target>提升最大HP{f801}</target>
   </entry>
   <entry id="3">
     <source>最大TP増加{f801}</source>
-    <target>最大TP増加{f801}</target>
+    <target>提升最大TP{f801}</target>
   </entry>
   <entry id="4">
     <source>ターン終了時TP回復{f801}</source>
-    <target>ターン終了時TP回復{f801}</target>
+    <target>回合结束时恢复TP{f801}</target>
   </entry>
   <entry id="5">
     <source>攻撃時HPとTP回復{f801}</source>
-    <target>攻撃時HPとTP回復{f801}</target>
+    <target>攻击时恢复HP和TP{f801}</target>
   </entry>
   <entry id="6">
     <source>状態異常を一度だけ防ぐ{f801}</source>
-    <target>状態異常を一度だけ防ぐ{f801}</target>
+    <target>预防一次异常状态{f801}</target>
   </entry>
   <entry id="7">
     <source>封じを一度だけ防ぐ{f801}</source>
-    <target>封じを一度だけ防ぐ{f801}</target>
+    <target>预防一次封印{f801}</target>
   </entry>
   <entry id="8">
     <source>被ダメージ時一度だけ反撃{f801}</source>
-    <target>被ダメージ時一度だけ反撃{f801}</target>
+    <target>受伤害时反击一次{f801}</target>
   </entry>
   <entry id="9">
     <source>被ダメージ時一度だけ回復{f801}</source>
-    <target>被ダメージ時一度だけ回復{f801}</target>
+    <target>受伤害时恢复一次{f801}</target>
   </entry>
   <entry id="10">
     <source>一度だけ全滅防止{f801}</source>
-    <target>一度だけ全滅防止{f801}</target>
+    <target>预防一次全灭{f801}</target>
   </entry>
   <entry id="11">
     <source>フォレストデモン召喚{f801}</source>
-    <target>フォレストデモン召喚{f801}</target>
+    <target>召唤森林恶魔{f801}</target>
   </entry>
   <entry id="12">
     <source>アークピクシー召喚{f801}</source>
-    <target>アークピクシー召喚{f801}</target>
+    <target>召唤高等皮克希{f801}</target>
   </entry>
   <entry id="13">
     <source>冷酷なる貴婦人召喚{f801}</source>
-    <target>冷酷なる貴婦人召喚{f801}</target>
+    <target>召唤冷酷贵妇{f801}</target>
   </entry>
   <entry id="14">
     <source>コロトラングル召喚{f801}</source>
-    <target>コロトラングル召喚{f801}</target>
+    <target>召唤克鲁特朗古{f801}</target>
   </entry>
   <entry id="15">
     <source>イワオロペネレプ召喚{f801}</source>
-    <target>イワオロペネレプ召喚{f801}</target>
+    <target>召唤伊瓦奥罗佩涅普{f801}</target>
   </entry>
   <entry id="16">
     <source>取得経験値アップ{f801}</source>
-    <target>取得経験値アップ{f801}</target>
+    <target>提升获得经验值{f801}</target>
   </entry>
   <entry id="17">
     <source>グリモア生成率100%{f801}</source>
-    <target>グリモア生成率100%{f801}</target>
+    <target>魔石生成率100%{f801}</target>
   </entry>
   <entry id="18">
     <source>稀少個体出現率アップ{f801}</source>
-    <target>稀少個体出現率アップ{f801}</target>
+    <target>提升稀有敌人出现率{f801}</target>
   </entry>
   <entry id="19">
     <source>グリモアスキルレベル+2{f801}</source>
-    <target>グリモアスキルレベル+2{f801}</target>
+    <target>魔石技能等级+2{f801}</target>
   </entry>
   <entry id="20">
     <source>探索準備効果不発{f801}</source>
-    <target>探索準備効果不発{f801}</target>
+    <target>探索准备效果不发动{f801}</target>
   </entry>
   <entry id="21">
     <source>採集でレアが引けなくなる{f801}</source>
-    <target>採集でレアが引けなくなる{f801}</target>
+    <target>不能获得稀有收集物{f801}</target>
   </entry>
   <entry id="22">
     <source>稀少個体が出現しなくなる{f801}</source>
-    <target>稀少個体が出現しなくなる{f801}</target>
+    <target>稀有敌人不会出现{f801}</target>
   </entry>
   <entry id="23">
     <source>グリモアの質が不安定化{f801}</source>
-    <target>グリモアの質が不安定化{f801}</target>
+    <target>魔石性质不安定化{f801}</target>
   </entry>
   <entry id="24">
     <source>グリモアスキルレベル半分{f801}</source>
-    <target>グリモアスキルレベル半分{f801}</target>
+    <target>魔石技能等级减半{f801}</target>
   </entry>
 </mbm>

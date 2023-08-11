@@ -5,38 +5,38 @@
   </entry>
   <entry id="1">
     <source>かしこまりました。{f801}それではこちらをどうぞ。{f801}</source>
-    <target>かしこまりました。{f801}それではこちらをどうぞ。{f801}</target>
+    <target>好的。{f801}请坐在这边享用。{f801}</target>
   </entry>
   <entry id="2">
     <source>はい、では…こちらのカップをどうぞ。{f801}熱いのでお気を付け下さいね。{f801}</source>
-    <target>はい、では…こちらのカップをどうぞ。{f801}熱いのでお気を付け下さいね。{f801}</target>
+    <target>好的，那么……杯子在这里。{f801}请趁热享用。{f801}</target>
   </entry>
   <entry id="3">
     <source>はい、では…こちらのカップをどうぞ。{f801}皆さまの探索が、上手く行きますように。{f801}</source>
-    <target>はい、では…こちらのカップをどうぞ。{f801}皆さまの探索が、上手く行きますように。{f801}</target>
+    <target>好的，那么……杯子在这里。{f801}希望各位的探索能更加顺利。{f801}</target>
   </entry>
   <entry id="6">
     <source>では、大いに語るとしようか。{f801}</source>
-    <target>では、大いに語るとしようか。{f801}</target>
+    <target>好，那我就不客气讲了哦。{f801}</target>
   </entry>
   <entry id="7">
     <source>フム、君らの頼みならば仕方あるまい。{f801}では…語るとしよう。{f801}</source>
-    <target>フム、君らの頼みならば仕方あるまい。{f801}では…語るとしよう。{f801}</target>
+    <target>唔嗯，既然你们拜托了，我也没办法。{f801}好……那我讲了。{f801}</target>
   </entry>
   <entry id="8">
     <source>このオースティン、君らの役に立てるならば{f801}喜んで語ろうじゃないか。{f801}</source>
-    <target>このオースティン、君らの役に立てるならば{f801}喜んで語ろうじゃないか。{f801}</target>
+    <target>鄙人奥斯汀，只要能为你们提供上帮助，{f801}非常乐意讲述。{f801}</target>
   </entry>
   <entry id="11">
     <source>…力を貸す約束だ。{f801}</source>
-    <target>…力を貸す約束だ。{f801}</target>
+    <target>……约好要助你们一臂之力的。{f801}</target>
   </entry>
   <entry id="12">
     <source>…分かった。{f801}</source>
-    <target>…分かった。{f801}</target>
+    <target>……我知道了。{f801}</target>
   </entry>
   <entry id="13">
     <source>今より我らの一族の加護を与える。{f801}</source>
-    <target>今より我らの一族の加護を与える。{f801}</target>
+    <target>赐予你们吾等一族的加护。{f801}</target>
   </entry>
 </mbm>

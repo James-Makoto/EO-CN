@@ -45,7 +45,7 @@ msgstr "蕴含能为战局带来优势<zbr>战技的魔石。"
 
 msgctxt "8"
 msgid "冒険中の採集技術を<zbr>秘めた魔石。"
-msgstr "蕴含冒险时<zbr>采集技能的魔石。"
+msgstr "蕴含冒险时<zbr>收集技能的魔石。"
 
 msgctxt "9"
 msgid "所有者の肉体に敏捷性を<zbr>付与する力を秘めた魔石。"

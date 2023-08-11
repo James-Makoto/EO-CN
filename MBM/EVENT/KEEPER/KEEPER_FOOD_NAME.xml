@@ -5,23 +5,23 @@
   </entry>
   <entry id="1">
     <source>リジェネトル{f801}</source>
-    <target>再生刺草茶{f801}</target>
+    <target>再生刺草饮{f801}</target>
   </entry>
   <entry id="2">
     <source>ジンジャーライフ{f801}</source>
-    <target>生命姜茶{f801}</target>
+    <target>生命姜饮{f801}</target>
   </entry>
   <entry id="3">
     <source>エキナケアップ{f801}</source>
-    <target>精力松果菊茶{f801}</target>
+    <target>精力松果菊饮{f801}</target>
   </entry>
   <entry id="4">
     <source>アムラアウェイク{f801}</source>
-    <target>提神油柑茶{f801}</target>
+    <target>提神油柑饮{f801}</target>
   </entry>
   <entry id="5">
     <source>エルダーフラワー{f801}</source>
-    <target>接骨木茶{f801}</target>
+    <target>接骨木饮{f801}</target>
   </entry>
   <entry id="6">
     <source>奇禍への手筈{f801}</source>
@@ -57,10 +57,10 @@
   </entry>
   <entry id="14">
     <source>コンルシノッチャ{f801}</source>
-    <target>冰歌{f801}</target>
+    <target>召冰之歌{f801}</target>
   </entry>
   <entry id="15">
     <source>カンナシノッチャ{f801}</source>
-    <target>雷歌{f801}</target>
+    <target>召雷之歌{f801}</target>
   </entry>
 </mbm>

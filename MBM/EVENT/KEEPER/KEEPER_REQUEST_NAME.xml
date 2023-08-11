@@ -1,38 +1,38 @@
 <mbm>
   <entry id="0">
     <source>メイドからの討伐依頼{f801}</source>
-    <target>メイドからの討伐依頼{f801}</target>
+    <target>女仆发布的讨伐委托{f801}</target>
   </entry>
   <entry id="1">
     <source>探偵からの討伐依頼{f801}</source>
-    <target>探偵からの討伐依頼{f801}</target>
+    <target>侦探发布的讨伐委托{f801}</target>
   </entry>
   <entry id="2">
     <source>モリビトからの討伐依頼{f801}</source>
-    <target>モリビトからの討伐依頼{f801}</target>
+    <target>守林人发布的讨伐委托{f801}</target>
   </entry>
   <entry id="3">
     <source>メイドからの納品依頼{f801}</source>
-    <target>メイドからの納品依頼{f801}</target>
+    <target>女仆发布的物品委托{f801}</target>
   </entry>
   <entry id="4">
     <source>探偵からの納品依頼{f801}</source>
-    <target>探偵からの納品依頼{f801}</target>
+    <target>侦探发布的物品委托{f801}</target>
   </entry>
   <entry id="5">
     <source>モリビトからの納品依頼{f801}</source>
-    <target>モリビトからの納品依頼{f801}</target>
+    <target>守林人发布的物品委托{f801}</target>
   </entry>
   <entry id="6">
     <source>メイドからの採集依頼{f801}</source>
-    <target>メイドからの採集依頼{f801}</target>
+    <target>女仆发布的收集委托{f801}</target>
   </entry>
   <entry id="7">
     <source>探偵からの採集依頼{f801}</source>
-    <target>探偵からの採集依頼{f801}</target>
+    <target>侦探发布的收集委托{f801}</target>
   </entry>
   <entry id="8">
     <source>モリビトからの採集依頼{f801}</source>
-    <target>モリビトからの採集依頼{f801}</target>
+    <target>守林人发布的收集委托{f801}</target>
   </entry>
 </mbm>
