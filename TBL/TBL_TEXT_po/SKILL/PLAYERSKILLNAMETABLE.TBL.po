@@ -757,11 +757,11 @@ msgstr "神圣赠礼"
 
 msgctxt "186"
 msgid "猛き戦いの舞曲"
-msgstr "雄壮的战斗舞曲"
+msgstr "雄壮战斗舞曲"
 
 msgctxt "187"
 msgid "聖なる守護の舞曲"
-msgstr "神圣的守护舞曲"
+msgstr "神圣守护舞曲"
 
 msgctxt "188"
 msgid "韋駄天の舞曲"
@@ -769,7 +769,7 @@ msgstr "韦驮天舞曲"
 
 msgctxt "189"
 msgid "沈静なる奇想曲"
-msgstr "沉静的随想曲"
+msgstr "沉静随想曲"
 
 msgctxt "190"
 msgid "破邪の鎮魂歌"
@@ -829,11 +829,11 @@ msgstr "慧眼旋律"
 
 msgctxt "204"
 msgid "山彦の輪唱曲"
-msgstr "山彦的轮唱曲"
+msgstr "山彦轮唱曲"
 
 msgctxt "205"
 msgid "禁忌の輪舞曲"
-msgstr "禁忌的轮舞曲"
+msgstr "禁忌轮舞曲"
 
 msgctxt "206"
 msgid "癒しの子守唄"
@@ -845,7 +845,7 @@ msgstr "安详摇篮曲"
 
 msgctxt "208"
 msgid "山彦の輪唱曲"
-msgstr "山彦的轮唱曲"
+msgstr "山彦轮唱曲"
 
 msgctxt "209"
 msgid "DUMMY"

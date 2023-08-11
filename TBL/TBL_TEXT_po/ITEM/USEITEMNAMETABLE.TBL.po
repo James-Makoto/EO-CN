@@ -341,7 +341,7 @@ msgstr "强弹力皮"
 
 msgctxt "82"
 msgid "百年甲羅"
-msgstr "百年甲壳"
+msgstr "百年龟壳"
 
 msgctxt "83"
 msgid "鋼鉄の黒骨片"
@@ -553,7 +553,7 @@ msgstr "鲜红的鲜血"
 
 msgctxt "135"
 msgid "エンゼルウィング"
-msgstr "天使之羽"
+msgstr "天使翅膀"
 
 msgctxt "136"
 msgid "天鉄の大爪"
@@ -577,7 +577,7 @@ msgstr "裁断者刚爪"
 
 msgctxt "141"
 msgid "妖精の精髪"
-msgstr "妖精是精发"
+msgstr "妖精的精发"
 
 msgctxt "142"
 msgid "骨竜の胸殻"
@@ -705,7 +705,7 @@ msgstr "祸鸟之嘴"
 
 msgctxt "173"
 msgid "千年甲羅"
-msgstr "千年甲壳"
+msgstr "千年龟壳"
 
 msgctxt "174"
 msgid "青生生魂の胸骨"
@@ -809,7 +809,7 @@ msgstr "释放雷光的蟹壳"
 
 msgctxt "199"
 msgid "傷ついた百年甲羅"
-msgstr "受损的百年甲壳"
+msgstr "受损的百年龟壳"
 
 msgctxt "200"
 msgid "石化した蟻巣材"
@@ -1217,11 +1217,11 @@ msgstr "臂状的世界树根"
 
 msgctxt "301"
 msgid "凝縮された粘液"
-msgstr "凝结的粘液"
+msgstr "凝缩的粘液"
 
 msgctxt "302"
 msgid "呪われた後足"
-msgstr "被诅咒的后足"
+msgstr "被诅咒的后腿"
 
 msgctxt "303"
 msgid "痺れた尻尾"
@@ -1721,7 +1721,7 @@ msgstr "独角兽角"
 
 msgctxt "427"
 msgid "聖なる贈り物"
-msgstr "神圣的礼物"
+msgstr "神圣馈赠"
 
 msgctxt "428"
 msgid "解析グラス"
@@ -2173,7 +2173,7 @@ msgstr "生锈的短剑"
 
 msgctxt "540"
 msgid "釣り道具一式"
-msgstr "钓具一式"
+msgstr "全套钓具"
 
 msgctxt "541"
 msgid "星色錦鯉"
@@ -2201,7 +2201,7 @@ msgstr "红泥鳅"
 
 msgctxt "547"
 msgid "トラアユ"
-msgstr "虎鲇"
+msgstr "虎纹香鱼"
 
 msgctxt "548"
 msgid "フラワーサーモン"
