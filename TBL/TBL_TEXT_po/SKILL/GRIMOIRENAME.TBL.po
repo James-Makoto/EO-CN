@@ -33,7 +33,7 @@ msgstr "战技"
 
 msgctxt "5"
 msgid "採集"
-msgstr "采集"
+msgstr "收集"
 
 msgctxt "6"
 msgid "弓技"
