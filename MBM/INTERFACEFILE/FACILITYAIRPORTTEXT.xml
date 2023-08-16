@@ -5,358 +5,358 @@
   </entry>
   <entry id="1">
     <source>外側カメラでQRコードを撮影し、{f801}データを受信します。よろしいですか?{f801}</source>
-    <target>外側カメラでQRコードを撮影し、{f801}データを受信します。よろしいですか?{f801}</target>
+    <target>将使用外侧摄像机拍摄QR码，{f801}以接收数据。确定吗?{f801}</target>
   </entry>
   <entry id="2">
     <source>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか?{f801}</source>
-    <target>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか?{f801}</target>
+    <target>要使用20枚游戏硬币，{f801}将这个角色登录到公会吗?{f801}</target>
   </entry>
   <entry id="3">
     <source>3DS本体に『新・世界樹の迷宮』の{f801}すれちがい通信を登録しますか?{f801}</source>
-    <target>3DS本体に『新・世界樹の迷宮』の{f801}すれちがい通信を登録しますか?{f801}</target>
+    <target>要将『新・世界树迷宫』的瞬缘通信{f801}登录到这台3DS主机吗?{f801}</target>
   </entry>
   <entry id="4">
     <source>『新・世界樹の迷宮専用プレイヤーコード{f801}{f811}{0000}{f811}{0100}{f811}{0200}{f811}{0300}−{f811}{0400}{f811}{0500}{f811}{0600}{f811}{0700}{f801}</source>
-    <target>『新・世界樹の迷宮専用プレイヤーコード{f801}{f811}{0000}{f811}{0100}{f811}{0200}{f811}{0300}−{f811}{0400}{f811}{0500}{f811}{0600}{f811}{0700}{f801}</target>
+    <target>『新・世界树迷宫专用玩家代码{f801}{f811}{0000}{f811}{0100}{f811}{0200}{f811}{0300}−{f811}{0400}{f811}{0500}{f811}{0600}{f811}{0700}{f801}</target>
   </entry>
   <entry id="10">
     <source>ギルドカードの管理を行います{f801}</source>
-    <target>ギルドカードの管理を行います{f801}</target>
+    <target>管理公会名牌。{f801}</target>
   </entry>
   <entry id="11">
     <source>QRコードを読込みます{f801}</source>
-    <target>QRコードを読込みます{f801}</target>
+    <target>读取QR码。{f801}</target>
   </entry>
   <entry id="12">
     <source>通信等のデータ設定を行います{f801}</source>
-    <target>通信等のデータ設定を行います{f801}</target>
+    <target>进行通信等数据设置。{f801}</target>
   </entry>
   <entry id="13">
     <source>港長と話します{f801}</source>
-    <target>港長と話します{f801}</target>
+    <target>与港务长对话。{f801}</target>
   </entry>
   <entry id="14">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="20">
     <source>すれちがい通信の設定を行います{f801}</source>
-    <target>すれちがい通信の設定を行います{f801}</target>
+    <target>设置瞬缘通信。{f801}</target>
   </entry>
   <entry id="21">
     <source>いつのまに通信の設定を行います{f801}</source>
-    <target>いつのまに通信の設定を行います{f801}</target>
+    <target>设置悄然通信。{f801}</target>
   </entry>
   <entry id="22">
     <source>プレイヤーコードを表示します{f801}</source>
-    <target>プレイヤーコードを表示します{f801}</target>
+    <target>生成玩家代码。{f801}</target>
   </entry>
   <entry id="23">
     <source>SDカードに引き継ぎ用のデータを{f801}作成します{f801}</source>
-    <target>SDカードに引き継ぎ用のデータを{f801}作成します{f801}</target>
+    <target>在SD卡创建可继承数据。{f801}</target>
   </entry>
   <entry id="30">
     <source>新しいギルドカードはありません{f801}</source>
-    <target>新しいギルドカードはありません{f801}</target>
+    <target>没有新的公会名牌。{f801}</target>
   </entry>
   <entry id="31">
     <source>カードが持ちきれません!整理して下さい{f801}</source>
-    <target>カードが持ちきれません!整理して下さい{f801}</target>
+    <target>无法再持有卡牌!请进行整理。{f801}</target>
   </entry>
   <entry id="32">
     <source>『新・世界樹の迷宮』のすれちがい通信は{f801}未設定です{f801}</source>
-    <target>『新・世界樹の迷宮』のすれちがい通信は{f801}未設定です{f801}</target>
+    <target>未设置『新・世界树迷宫』的瞬缘通信。{f801}</target>
   </entry>
   <entry id="33">
     <source>新しいギルドカードが届いています!{f801}</source>
-    <target>新しいギルドカードが届いています!{f801}</target>
+    <target>接收到新的公会名牌!{f801}</target>
   </entry>
   <entry id="34">
     <source>SDカードにセーブしますか?{f801}</source>
-    <target>SDカードにセーブしますか?{f801}</target>
+    <target>要保存到SD卡吗?{f801}</target>
   </entry>
   <entry id="35">
     <source>新しいギルドカードを受け取りますか?{f801}</source>
-    <target>新しいギルドカードを受け取りますか?{f801}</target>
+    <target>要接收新的公会名牌吗?{f801}</target>
   </entry>
   <entry id="36">
     <source>すれちがい受信ボックスを確認しています{f801}</source>
-    <target>すれちがい受信ボックスを確認しています{f801}</target>
+    <target>正在搜索瞬缘通信中继站。{f801}</target>
   </entry>
   <entry id="37">
     <source>ギルドカードデータを取得しています{f801}</source>
-    <target>ギルドカードデータを取得しています{f801}</target>
+    <target>获取公会名牌数据。{f801}</target>
   </entry>
   <entry id="38">
     <source>『新・世界樹の迷宮』の{f801}プレイデータをSDカードに保存します。{f801}{f802}保存されるデータは、{f801}将来的な活用を見据えた追加データです。{f801}{f802}本作『新・世界樹の迷宮』では、{f801}読み取ることのできないセーブデータです。{f801}ご注意ください。{f801}{f802}『新・世界樹の迷宮』でロードすることの{f801}できるセーブは、{f801}「長鳴鶏の宿」で行うことができます。{f801}</source>
-    <target>『新・世界樹の迷宮』の{f801}プレイデータをSDカードに保存します。{f801}{f802}保存されるデータは、{f801}将来的な活用を見据えた追加データです。{f801}{f802}本作『新・世界樹の迷宮』では、{f801}読み取ることのできないセーブデータです。{f801}ご注意ください。{f801}{f802}『新・世界樹の迷宮』でロードすることの{f801}できるセーブは、{f801}「長鳴鶏の宿」で行うことができます。{f801}</target>
+    <target>『新・世界树迷宫』的{f801}玩家代码将会保存在SD卡内。{f801}{f802}保存的追加数据将会{f801}在未来发售的作品中使用。{f801}{f802}本作『新・世界树迷宫』{f801}不会读取这个保存数据。{f801}请注意。{f801}{f802}要在『新・世界树迷宫』中{f801}保存已读取的数据，{f801}请前往「长鸣鸡旅馆」。{f801}</target>
   </entry>
   <entry id="39">
     <source>ギルドカードの内容が、更新されています。{f801}</source>
-    <target>ギルドカードの内容が、更新されています。{f801}</target>
+    <target>已更新公会名牌内容。{f801}</target>
   </entry>
   <entry id="40">
     <source>すれちがい通信に反映する為、{f801}セーブを行いますか?{f801}</source>
-    <target>すれちがい通信に反映する為、{f801}セーブを行いますか?{f801}</target>
+    <target>要对瞬缘通信的数据更新{f801}进行保存吗?{f801}</target>
   </entry>
   <entry id="41">
     <source>更新内容をすれちがい通信に反映せずに、{f801}編集を終了します。よろしいですか?{f801}</source>
-    <target>更新内容をすれちがい通信に反映せずに、{f801}編集を終了します。よろしいですか?{f801}</target>
+    <target>不覆盖瞬缘通信的数据更新，{f801}并结束编辑。确定吗?{f801}</target>
   </entry>
   <entry id="50">
     <source>更新内容を反映する為、{f801}セーブを行いますか?{f801}</source>
-    <target>更新内容を反映する為、{f801}セーブを行いますか?{f801}</target>
+    <target>要对数据更新{f801}进行保存吗?{f801}</target>
   </entry>
   <entry id="51">
     <source>更新内容を反映せずに、{f801}編集を終了します。よろしいですか?{f801}</source>
-    <target>更新内容を反映せずに、{f801}編集を終了します。よろしいですか?{f801}</target>
+    <target>不覆盖数据更新{f801}并结束编辑。确定吗?{f801}</target>
   </entry>
   <entry id="52">
     <source>手に入れたグリモア石を鑑定しました。{f801}</source>
-    <target>手に入れたグリモア石を鑑定しました。{f801}</target>
+    <target>已经对入手的魔石进行鉴定。{f801}</target>
   </entry>
   <entry id="53">
     <source>{f811}{0000}を破棄しますか?{f801}</source>
-    <target>{f811}{0000}を破棄しますか?{f801}</target>
+    <target>要丢弃{f811}{0000}吗?{f801}</target>
   </entry>
   <entry id="54">
     <source>{f811}{0000}を破棄しました{f801}</source>
-    <target>{f811}{0000}を破棄しました{f801}</target>
+    <target>已丢弃{f811}{0000}。{f801}</target>
   </entry>
   <entry id="55">
     <source>{f811}{0000}を装備しますか?{f801}</source>
-    <target>{f811}{0000}を装備しますか?{f801}</target>
+    <target>要装备{f811}{0000}吗?{f801}</target>
   </entry>
   <entry id="56">
     <source>{f811}{0000}を装備しました{f801}</source>
-    <target>{f811}{0000}を装備しました{f801}</target>
+    <target>已装备{f811}{0000}。{f801}</target>
   </entry>
   <entry id="57">
     <source>グリモア石の合成を行います{f801}</source>
-    <target>グリモア石の合成を行います{f801}</target>
+    <target>合成魔石。{f801}</target>
   </entry>
   <entry id="58">
     <source>合成元になった石は消えてしまいます{f801}本当によろしいですか?{f801}</source>
-    <target>合成元になった石は消えてしまいます{f801}本当によろしいですか?{f801}</target>
+    <target>用于合成的魔石将会消失。{f801}确定要这么做吗?{f801}</target>
   </entry>
   <entry id="59">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの変更ができません{f801}</source>
-    <target>所持アイテムが一杯で武具が外せず{f801}グリモアの変更ができません{f801}</target>
+    <target>持有道具已满，{f801}无法变更魔石。{f801}</target>
   </entry>
   <entry id="60">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの合成ができません{f801}</source>
-    <target>所持アイテムが一杯で武具が外せず{f801}グリモアの合成ができません{f801}</target>
+    <target>持有道具已满，{f801}无法合成魔石。{f801}</target>
   </entry>
   <entry id="61">
     <source>{f811}{0000}の武具が{f801}外れますがよろしいですか?{f801}</source>
-    <target>{f811}{0000}の武具が{f801}外れますがよろしいですか?{f801}</target>
+    <target>{f811}{0000}的装备{f801}将会被卸下，确定吗?{f801}</target>
   </entry>
   <entry id="62">
     <source>{f811}{0000}と{f811}{0100}の{f801}武具が外れますがよろしいですか?{f801}</source>
-    <target>{f811}{0000}と{f811}{0100}の{f801}武具が外れますがよろしいですか?{f801}</target>
+    <target>{f811}{0000}和{f811}{0100}的{f801}的装备将会被卸下，确定吗?{f801}</target>
   </entry>
   <entry id="63">
     <source>ギルドキーパーから探索の手助けを受けたり{f801}受けた依頼の報告や確認ができます{f801}</source>
-    <target>ギルドキーパーから探索の手助けを受けたり{f801}受けた依頼の報告や確認ができます{f801}</target>
+    <target>接受公会管理员在探索中的协助{f801}或确认接受的委托报告。{f801}</target>
   </entry>
   <entry id="64">
     <source>グリモアの装備と合成を行います{f801}</source>
-    <target>グリモアの装備と合成を行います{f801}</target>
+    <target>装备或合成魔石。{f801}</target>
   </entry>
   <entry id="65">
     <source>アイテムの保管や受け取りができます{f801}</source>
-    <target>アイテムの保管や受け取りができます{f801}</target>
+    <target>寄存或取出道具。{f801}</target>
   </entry>
   <entry id="66">
     <source>通信等のデータ設定を行います{f801}</source>
-    <target>通信等のデータ設定を行います{f801}</target>
+    <target>进行通信等数据设置。{f801}</target>
   </entry>
   <entry id="67">
     <source>ギルドキーパーと話します{f801}</source>
-    <target>ギルドキーパーと話します{f801}</target>
+    <target>与公会管理员对话。{f801}</target>
   </entry>
   <entry id="68">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="69">
     <source>通信等のデータ設定を行います{f801}体験版では使用できません{f801}</source>
-    <target>通信等のデータ設定を行います{f801}体験版では使用できません{f801}</target>
+    <target>进行通信等数据设置。{f801}体验版无法使用。{f801}</target>
   </entry>
   <entry id="70">
     <source>ギルドキーパーが様々な技能で探索の{f801}手助けをします{f801}</source>
-    <target>ギルドキーパーが様々な技能で探索の{f801}手助けをします{f801}</target>
+    <target>接受公会管理员在探索中{f801}使用各种技能进行的协助。{f801}</target>
   </entry>
   <entry id="71">
     <source>ギルドキーパーの依頼の詳細を{f801}見ることができます{f801}</source>
-    <target>ギルドキーパーの依頼の詳細を{f801}見ることができます{f801}</target>
+    <target>查看公会管理员的{f801}委托详细介绍。{f801}</target>
   </entry>
   <entry id="72">
     <source>担当のギルドキーパーを変更します{f801}</source>
-    <target>担当のギルドキーパーを変更します{f801}</target>
+    <target>变更目前的公会管理员。{f801}</target>
   </entry>
   <entry id="73">
     <source>グリモア石を各キャラクターに{f801}セット/解除が可能です{f801}</source>
-    <target>グリモア石を各キャラクターに{f801}セット/解除が可能です{f801}</target>
+    <target>可以给每个角色{f801}装备/卸下魔石。{f801}</target>
   </entry>
   <entry id="74">
     <source>グリモア石の合成が可能です{f801}</source>
-    <target>グリモア石の合成が可能です{f801}</target>
+    <target>可以合成魔石。{f801}</target>
   </entry>
   <entry id="75">
     <source>アイテムを倉庫に保管します{f801}</source>
-    <target>アイテムを倉庫に保管します{f801}</target>
+    <target>可以寄存道具到仓库。{f801}</target>
   </entry>
   <entry id="76">
     <source>アイテムを倉庫から取り出します{f801}</source>
-    <target>アイテムを倉庫から取り出します{f801}</target>
+    <target>可以从仓库取出寄存道具。{f801}</target>
   </entry>
   <entry id="77">
     <source>既に探索準備効果が発動中です!{f801}</source>
-    <target>既に探索準備効果が発動中です!{f801}</target>
+    <target>探索准备效果已在发动中!{f801}</target>
   </entry>
   <entry id="80">
     <source>この依頼を破棄しますか?{f801}</source>
-    <target>この依頼を破棄しますか?{f801}</target>
+    <target>要放弃这个委托吗?{f801}</target>
   </entry>
   <entry id="81">
     <source>依頼を破棄しました{f801}</source>
-    <target>依頼を破棄しました{f801}</target>
+    <target>已放弃委托。{f801}</target>
   </entry>
   <entry id="82">
     <source>依頼はありません{f801}</source>
-    <target>依頼はありません{f801}</target>
+    <target>没有委托。{f801}</target>
   </entry>
   <entry id="83">
     <source>受け取るアイテムがありません!{f801}</source>
-    <target>受け取るアイテムがありません!{f801}</target>
+    <target>没有寄存的道具!{f801}</target>
   </entry>
   <entry id="84">
     <source>預けるアイテムがありません!{f801}</source>
-    <target>預けるアイテムがありません!{f801}</target>
+    <target>没有可以寄存的道具!{f801}</target>
   </entry>
   <entry id="85">
     <source>アイテムを{f811}{0000}個預けました{f801}</source>
-    <target>アイテムを{f811}{0000}個預けました{f801}</target>
+    <target>寄存了{f811}{0000}个道具。{f801}</target>
   </entry>
   <entry id="86">
     <source>アイテムを{f811}{0000}個引き出しました{f801}</source>
-    <target>アイテムを{f811}{0000}個引き出しました{f801}</target>
+    <target>取出了{f811}{0000}个道具。{f801}</target>
   </entry>
   <entry id="87">
     <source>アイテムを{f811}{0000}個{f801}預けますがよろしいですか?{f801}</source>
-    <target>アイテムを{f811}{0000}個{f801}預けますがよろしいですか?{f801}</target>
+    <target>要寄存{f811}{0000}个道具吗?{f801}</target>
   </entry>
   <entry id="88">
     <source>アイテムを{f811}{0000}個引き出します{f801}よろしいですか?{f801}</source>
-    <target>アイテムを{f811}{0000}個引き出します{f801}よろしいですか?{f801}</target>
+    <target>要取出{f811}{0000}个道具吗?{f801}</target>
   </entry>
   <entry id="89">
     <source>倉庫が一杯です!{f801}</source>
-    <target>倉庫が一杯です!{f801}</target>
+    <target>仓库已满!{f801}</target>
   </entry>
   <entry id="90">
     <source>{f811}{0000}はこれ以上預けられません!{f801}</source>
-    <target>{f811}{0000}はこれ以上預けられません!{f801}</target>
+    <target>无法寄存{f811}{0000}个以上的道具!{f801}</target>
   </entry>
   <entry id="91">
     <source>預ける荷物を選択してください{f801}</source>
-    <target>預ける荷物を選択してください{f801}</target>
+    <target>请选择要寄存的行李。{f801}</target>
   </entry>
   <entry id="92">
     <source>受け取る荷物を選択してください{f801}</source>
-    <target>受け取る荷物を選択してください{f801}</target>
+    <target>请选择要取出的行李。{f801}</target>
   </entry>
   <entry id="93">
     <source>アイテムを倉庫に預けますが{f801}よろしいですか?{f801}</source>
-    <target>アイテムを倉庫に預けますが{f801}よろしいですか?{f801}</target>
+    <target>将道具寄存在仓库。{f801}确定吗?{f801}</target>
   </entry>
   <entry id="94">
     <source>受け取りますがよろしいですか?{f801}</source>
-    <target>受け取りますがよろしいですか?{f801}</target>
+    <target>要取出寄存的道具吗?{f801}</target>
   </entry>
   <entry id="95">
     <source>所持アイテムが一杯です!{f801}</source>
-    <target>所持アイテムが一杯です!{f801}</target>
+    <target>持有道具已满!{f801}</target>
   </entry>
   <entry id="96">
     <source>ベースにするグリモアを{f801}選択してください{f801}</source>
-    <target>ベースにするグリモアを{f801}選択してください{f801}</target>
+    <target>请选择作为素材的魔石。{f801}</target>
   </entry>
   <entry id="97">
     <source>合成するグリモアを{f801}選択してください{f801}</source>
-    <target>合成するグリモアを{f801}選択してください{f801}</target>
+    <target>请选择要合成的魔石。{f801}</target>
   </entry>
   <entry id="98">
     <source>触媒にするグリモアを{f801}選択してください{f801}</source>
-    <target>触媒にするグリモアを{f801}選択してください{f801}</target>
+    <target>请选择作为催化剂的魔石。{f801}</target>
   </entry>
   <entry id="99">
     <source>継承するスキルを{f801}{f811}{0000}つ選択してください{f801}</source>
-    <target>継承するスキルを{f801}{f811}{0000}つ選択してください{f801}</target>
+    <target>请选择{f801}{f811}{0000}个要继承的技能。{f801}</target>
   </entry>
   <entry id="100">
     <source>3つのグリモアを消費して{f801}{f811}{0000}を合成します{f801}</source>
-    <target>3つのグリモアを消費して{f801}{f811}{0000}を合成します{f801}</target>
+    <target>花费3个魔石以合成{f801}{f811}{0000}。{f801}</target>
   </entry>
   <entry id="101">
     <source>{f811}{0000}を入手しました{f801}</source>
-    <target>{f811}{0000}を入手しました{f801}</target>
+    <target>得到了{f811}{0000}。{f801}</target>
   </entry>
   <entry id="102">
     <source>グリモアが倉庫に入りません{f801}捨てるグリモアを選択してください{f801}</source>
-    <target>グリモアが倉庫に入りません{f801}捨てるグリモアを選択してください{f801}</target>
+    <target>仓库已满。{f801}请选择要丢弃的魔石。{f801}</target>
   </entry>
   <entry id="103">
     <source>装備中なので破棄できません{f801}</source>
-    <target>装備中なので破棄できません{f801}</target>
+    <target>无法丢弃装备中的魔石。{f801}</target>
   </entry>
   <entry id="104">
     <source>装備中なので合成に使用できません{f801}</source>
-    <target>装備中なので合成に使用できません{f801}</target>
+    <target>装备中的魔石无法用于合成。{f801}</target>
   </entry>
   <entry id="105">
     <source>{f811}{0000}のグリモアを装備から外しますか?{f801}</source>
-    <target>{f811}{0000}のグリモアを装備から外しますか?{f801}</target>
+    <target>要卸下{f811}{0000}正在装备的魔石吗?{f801}</target>
   </entry>
   <entry id="106">
     <source>装備を外しました{f801}</source>
-    <target>装備を外しました{f801}</target>
+    <target>已卸下装备的魔石。{f801}</target>
   </entry>
   <entry id="107">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの装備が外せません{f801}</source>
-    <target>所持アイテムが一杯で武具が外せず{f801}グリモアの装備が外せません{f801}</target>
+    <target>持有道具已满，{f801}无法卸下装备的魔石。{f801}</target>
   </entry>
   <entry id="108">
     <source>装備するグリモアを持っていません!{f801}</source>
-    <target>装備するグリモアを持っていません!{f801}</target>
+    <target>没有可以装备的魔石!{f801}</target>
   </entry>
   <entry id="109">
     <source>グリモアを3つ以上持っていないと{f801}合成は行えません!{f801}</source>
-    <target>グリモアを3つ以上持っていないと{f801}合成は行えません!{f801}</target>
+    <target>没有持有3个以上的魔石，{f801}无法进行合成!{f801}</target>
   </entry>
   <entry id="110">
     <source>ギルドカードから生成した{f801}グリモアを鑑定しました{f801}</source>
-    <target>ギルドカードから生成した{f801}グリモアを鑑定しました{f801}</target>
+    <target>公会名牌生成的{f801}魔石已进行鉴定。{f801}</target>
   </entry>
   <entry id="120">
     <source>とある貴族の家より派遣された住み込みのメイド{f801}コーディアルと呼ばれる飲み物をいれるのが得意{f801}{f804}{0800}探索準備{f804}{0a00}:戦闘中のHP・TP回復など{f804}{0000}{f801}</source>
-    <target>とある貴族の家より派遣された住み込みのメイド{f801}コーディアルと呼ばれる飲み物をいれるのが得意{f801}{f804}{0800}探索準備{f804}{0a00}:戦闘中のHP・TP回復など{f804}{0000}{f801}</target>
+    <target>某贵族家庭派遣住家女仆。{f801}擅长制作饮料。{f801}{f804}{0800}探索准备效果{f804}{0a00}:战斗中恢复HP・TP{f804}{0000}{f801}</target>
   </entry>
   <entry id="121">
     <source>異国よりやってきた、驚異の名探偵{f801}独自の理論、経験を人に語る事を得意とする{f801}{f804}{0800}探索準備{f804}{0a00}:状態異常の予防など{f804}{0000}{f801}</source>
-    <target>異国よりやってきた、驚異の名探偵{f801}独自の理論、経験を人に語る事を得意とする{f801}{f804}{0800}探索準備{f804}{0a00}:状態異常の予防など{f804}{0000}{f801}</target>
+    <target>来自异国的，令人惊异的名侦探。{f801}擅长向人们讲述自己的理论与经验。{f801}{f804}{0800}探索准备效果{f804}{0a00}:预防异常状态{f804}{0000}{f801}</target>
   </entry>
   <entry id="122">
     <source>樹海の奥深くに住むモリビトの少女{f801}モリビトや守護獣に呼びかける力を持つ{f801}{f804}{0800}探索準備{f804}{0a00}:戦闘時に援軍を呼び出す{f804}{0000}{f801}</source>
-    <target>樹海の奥深くに住むモリビトの少女{f801}モリビトや守護獣に呼びかける力を持つ{f801}{f804}{0800}探索準備{f804}{0a00}:戦闘時に援軍を呼び出す{f804}{0000}{f801}</target>
+    <target>住在树海深处的守林人少女。{f801}拥有召唤守林人和守护兽的能力。{f801}{f804}{0800}探索准备效果{f804}{0a00}:战斗中呼唤援军{f804}{0000}{f801}</target>
   </entry>
   <entry id="130">
     <source>すれちがい通信を利用するには{f801}最新の利用規約に同意する必要があります。{f801}{f802}本体設定で「インターネット設定」⇒{f801}「その他の情報」⇒「利用規約の確認」を{f801}選び最新の利用規約に同意してください。{f801}</source>
-    <target>すれちがい通信を利用するには{f801}最新の利用規約に同意する必要があります。{f801}{f802}本体設定で「インターネット設定」⇒{f801}「その他の情報」⇒「利用規約の確認」を{f801}選び最新の利用規約に同意してください。{f801}</target>
+    <target>要使用瞬缘通信{f801}必须要同意最新的使用协议。{f801}{f802}请前往主机设置的「互联网设置」⇒{f801}「其他信息」⇒「使用协议的确认」{f801}并同意最新的使用协议。{f801}</target>
   </entry>
   <entry id="131">
     <source>「他のユーザーとのすれちがい通信」が、{f801}保護者により制限されているため{f801}すれちがい通信を利用できません。{f801}</source>
-    <target>「他のユーザーとのすれちがい通信」が、{f801}保護者により制限されているため{f801}すれちがい通信を利用できません。{f801}</target>
+    <target>因为开启了监护人实施的使用限制中的，{f801}限制「与其他用户进行瞬缘通信」。{f801}无法使用瞬缘通信。{f801}</target>
   </entry>
 </mbm>

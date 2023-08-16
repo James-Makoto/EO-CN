@@ -5,47 +5,47 @@
   </entry>
   <entry id="1">
     <source>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</source>
-    <target>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</target>
+    <target>将在选定的迷宫内开始冒险，{f801}要使用树海磁轴在树海内移动吗?{f801}</target>
   </entry>
   <entry id="2">
     <source>選択した迷宮へ行きます{f801}</source>
-    <target>選択した迷宮へ行きます{f801}</target>
+    <target>前往选定的迷宫。{f801}</target>
   </entry>
   <entry id="3">
     <source>グラズヘイムへ行きます{f801}</source>
-    <target>グラズヘイムへ行きます{f801}</target>
+    <target>前往格拉兹海姆。{f801}</target>
   </entry>
   <entry id="4">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="11">
     <source>第一階層 翠緑ノ樹海に移動します{f801}</source>
-    <target>第一階層 翠緑ノ樹海に移動します{f801}</target>
+    <target>前往第一层 翠绿树海。{f801}</target>
   </entry>
   <entry id="12">
     <source>第二階層 原始ノ大密林に移動します{f801}</source>
-    <target>第二階層 原始ノ大密林に移動します{f801}</target>
+    <target>前往第二层 原始大密林。{f801}</target>
   </entry>
   <entry id="13">
     <source>第三階層 千年ノ蒼樹海に移動します{f801}</source>
-    <target>第三階層 千年ノ蒼樹海に移動します{f801}</target>
+    <target>前往第三层 千年苍树海。{f801}</target>
   </entry>
   <entry id="14">
     <source>第四階層 枯レ森に移動します{f801}</source>
-    <target>第四階層 枯レ森に移動します{f801}</target>
+    <target>前往第四层 枯萎之森。{f801}</target>
   </entry>
   <entry id="15">
     <source>第五階層 遺都シンジュクに移動します{f801}</source>
-    <target>第五階層 遺都シンジュクに移動します{f801}</target>
+    <target>前往第五层 遗迹之都新宿。{f801}</target>
   </entry>
   <entry id="16">
     <source>第六階層 真朱ノ窟に移動します{f801}</source>
-    <target>第六階層 真朱ノ窟に移動します{f801}</target>
+    <target>前往第六层 真红岩窟。{f801}</target>
   </entry>
   <entry id="17">
     <source>第五階層 王ノ間に移動します{f801}</source>
-    <target>第五階層 王ノ間に移動します{f801}</target>
+    <target>前往第五层 王之间。{f801}</target>
   </entry>
   <entry id="21">
     <source>第1迷宮 碧照ノ樹海{f801}</source>
@@ -109,34 +109,34 @@
   </entry>
   <entry id="38">
     <source>携帯磁軸を使用する{f801}</source>
-    <target>携帯磁軸を使用する{f801}</target>
+    <target>使用携带磁轴。{f801}</target>
   </entry>
   <entry id="40">
     <source>グラズヘイム エリア{8754}に移動します{f801}</source>
-    <target>グラズヘイム エリア{8754}に移動します{f801}</target>
+    <target>前往格拉兹海姆 区域{8754}。{f801}</target>
   </entry>
   <entry id="41">
     <source>グラズヘイム エリア{8755}に移動します{f801}</source>
-    <target>グラズヘイム エリア{8755}に移動します{f801}</target>
+    <target>前往格拉兹海姆 区域{8755}。{f801}</target>
   </entry>
   <entry id="42">
     <source>グラズヘイム エリア{8756}に移動します{f801}</source>
-    <target>グラズヘイム エリア{8756}に移動します{f801}</target>
+    <target>前往格拉兹海姆 区域{8756}。{f801}</target>
   </entry>
   <entry id="43">
     <source>グラズヘイム エリア{8757}に移動します{f801}</source>
-    <target>グラズヘイム エリア{8757}に移動します{f801}</target>
+    <target>前往格拉兹海姆 区域{8757}。{f801}</target>
   </entry>
   <entry id="44">
     <source>グラズヘイム エリア{8758}に移動します{f801}</source>
-    <target>グラズヘイム エリア{8758}に移動します{f801}</target>
+    <target>前往格拉兹海姆 区域{8758}。{f801}</target>
   </entry>
   <entry id="60">
     <source>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</source>
-    <target>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</target>
+    <target>将在选定的迷宫内开始冒险，{f801}要前往吗?{f801}</target>
   </entry>
   <entry id="61">
     <source>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</source>
-    <target>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</target>
+    <target>将在选定的区域内开始冒险，{f801}要前往吗?{f801}</target>
   </entry>
 </mbm>

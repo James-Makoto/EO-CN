@@ -413,7 +413,7 @@
   </entry>
   <entry id="127">
     <source>モンスターの素材ドロップ率が上昇する{f801}</source>
-    <target>提升怪物素材的掉落率{f801}</target>
+    <target>提升魔物素材的掉落率{f801}</target>
   </entry>
   <entry id="128">
     <source>ターン終了時、HPがMAXなら{f801}TPが回復する{f801}</source>
@@ -509,7 +509,7 @@
   </entry>
   <entry id="157">
     <source>モンスターの素材ドロップ率が上昇する{f801}</source>
-    <target>提升怪物素材的掉落率{f801}</target>
+    <target>提升魔物素材的掉落率{f801}</target>
   </entry>
   <entry id="158">
     <source>ターン終了時、HPがMAXなら{f801}TPが回復する{f801}</source>

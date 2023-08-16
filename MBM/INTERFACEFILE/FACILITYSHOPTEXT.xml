@@ -1,158 +1,158 @@
 <mbm>
   <entry id="1">
     <source>{f811}{0000}エンですが{f801}よろしいですか?{f801}</source>
-    <target>{f811}{0000}エンですが{f801}よろしいですか?{f801}</target>
+    <target>售价{f811}{0000}元，{f801}确定吗?{f801}</target>
   </entry>
   <entry id="2">
     <source>購入しました、装備しますか?{f801}</source>
-    <target>購入しました、装備しますか?{f801}</target>
+    <target>已购买，要装备吗?{f801}</target>
   </entry>
   <entry id="3">
     <source>装備しました{f801}</source>
-    <target>装備しました{f801}</target>
+    <target>已装备。{f801}</target>
   </entry>
   <entry id="4">
     <source>{f811}{0000}エンで売却しますが{f801}よろしいですか?{f801}</source>
-    <target>{f811}{0000}エンで売却しますが{f801}よろしいですか?{f801}</target>
+    <target>要以{f811}{0000}元出售吗?{f801}</target>
   </entry>
   <entry id="5">
     <source>{f811}{0000}を{f811}{0100}個売却しました{f801}</source>
-    <target>{f811}{0000}を{f811}{0100}個売却しました{f801}</target>
+    <target>已出售{f811}{0000}{f811}{0100}个。{f801}</target>
   </entry>
   <entry id="6">
     <source>下画面で装備品を{f801}変更することができます{f801}</source>
-    <target>下画面で装備品を{f801}変更することができます{f801}</target>
+    <target>您可以在下屏幕{f801}变更装备。{f801}</target>
   </entry>
   <entry id="7">
     <source>さまざまな武具、アイテムの購入ができます{f801}</source>
-    <target>さまざまな武具、アイテムの購入ができます{f801}</target>
+    <target>购买各种的道具、武器。{f801}</target>
   </entry>
   <entry id="8">
     <source>所持品を売却できます{f801}</source>
-    <target>所持品を売却できます{f801}</target>
+    <target>可出售持有的物品。{f801}</target>
   </entry>
   <entry id="9">
     <source>店の娘と話します{f801}</source>
-    <target>店の娘と話します{f801}</target>
+    <target>与老板娘对话。{f801}</target>
   </entry>
   <entry id="10">
     <source>装備を変更することができます{f801}</source>
-    <target>装備を変更することができます{f801}</target>
+    <target>可更改装备。{f801}</target>
   </entry>
   <entry id="11">
     <source>広場へ戻ります{f801}</source>
-    <target>広場へ戻ります{f801}</target>
+    <target>返回广场。{f801}</target>
   </entry>
   <entry id="13">
     <source>{f811}{0000}を購入しました{f801}</source>
-    <target>{f811}{0000}を購入しました{f801}</target>
+    <target>购买了{f811}{0000}。{f801}</target>
   </entry>
   <entry id="14">
     <source>これ以上アイテムを持てません!{f801}</source>
-    <target>これ以上アイテムを持てません!{f801}</target>
+    <target>无法携带更多道具!{f801}</target>
   </entry>
   <entry id="15">
     <source>下画面のスロットを{f801}選択してください{f801}</source>
-    <target>下画面のスロットを{f801}選択してください{f801}</target>
+    <target>请选择{f801}下屏幕的槽位。{f801}</target>
   </entry>
   <entry id="16">
     <source>売るものがありません!{f801}</source>
-    <target>売るものがありません!{f801}</target>
+    <target>没有可出售的物品!{f801}</target>
   </entry>
   <entry id="17">
     <source>選択したアイテムを{f811}{0100}個{f811}{0200}エンで{f801}売却しますがよろしいですか?{f801}</source>
-    <target>選択したアイテムを{f811}{0100}個{f811}{0200}エンで{f801}売却しますがよろしいですか?{f801}</target>
+    <target>要以{f811}{0200}元出售{f811}{0100}个{f801}选中的道具吗?{f801}</target>
   </entry>
   <entry id="18">
     <source>下画面で装備品を{f801}変更することができます{f801}</source>
-    <target>下画面で装備品を{f801}変更することができます{f801}</target>
+    <target>您可以在下屏幕{f801}变更装备。{f801}</target>
   </entry>
   <entry id="19">
     <source>新商品がリストに追加されました!{f801}</source>
-    <target>新商品がリストに追加されました!{f801}</target>
+    <target>列表中已添加新商品!{f801}</target>
   </entry>
   <entry id="20">
     <source>商品が購入可能になりました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</source>
-    <target>商品が購入可能になりました!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</target>
+    <target>已可购买商品!{f801}{f815}{0000}{f804}{0600}{f811}{0000}{f804}{0000}{f801}</target>
   </entry>
   <entry id="21">
     <source>{f811}{0000}が{f811}{0100}個{f801}足りません{f801}</source>
-    <target>{f811}{0000}が{f811}{0100}個{f801}足りません{f801}</target>
+    <target>还差{f811}{0100}个{f811}{0000}。{f801}</target>
   </entry>
   <entry id="22">
     <source>{f811}{0000}が{f811}{0100}個{f801}{f811}{0200}が{f811}{0300}個{f801}足りません{f801}</source>
-    <target>{f811}{0000}が{f811}{0100}個{f801}{f811}{0200}が{f811}{0300}個{f801}足りません{f801}</target>
+    <target>还差{f811}{0100}个{f811}{0000}、{f801}{f811}{0300}个{f811}{0200}。{f801}</target>
   </entry>
   <entry id="23">
     <source>{f811}{0000}が{f811}{0100}個{f801}{f811}{0200}が{f811}{0300}個{f801}{f811}{0400}が{f811}{0500}個 足りません{f801}</source>
-    <target>{f811}{0000}が{f811}{0100}個{f801}{f811}{0200}が{f811}{0300}個{f801}{f811}{0400}が{f811}{0500}個 足りません{f801}</target>
+    <target>还差{f811}{0100}个{f811}{0000}、{f801}{f811}{0300}个{f811}{0200}、{f801}{f811}{0500}个{f811}{0400}。{f801}</target>
   </entry>
   <entry id="24">
     <source>{f811}{0000}エンかかりますが{f801}よろしいですか?{f804}{0b00}装備できません{f804}{0000}{f801}</source>
-    <target>{f811}{0000}エンかかりますが{f801}よろしいですか?{f804}{0b00}装備できません{f804}{0000}{f801}</target>
+    <target>需要{f811}{0000}元，{f801}确定吗?{f804}{0b00}无法装备。{f804}{0000}{f801}</target>
   </entry>
   <entry id="25">
     <source>鍛冶をしたアイテムは、{f801}まとめ売りできません!{f801}</source>
-    <target>鍛冶をしたアイテムは、{f801}まとめ売りできません!{f801}</target>
+    <target>该物品已锻冶，{f801}无法出售!{f801}</target>
   </entry>
   <entry id="26">
     <source>ドールは二刀流として装備できません{f801}他の武器が外れますが装備しますか?{f801}</source>
-    <target>ドールは二刀流として装備できません{f801}他の武器が外れますが装備しますか?{f801}</target>
+    <target>玩偶是双持武器无法装备，{f801}要卸下其它的武器来装备这个吗?{f801}</target>
   </entry>
   <entry id="27">
     <source>装備を外せません!{f801}持ち物を捨ててください{f801}</source>
-    <target>装備を外せません!{f801}持ち物を捨ててください{f801}</target>
+    <target>无法卸下装备!{f801}请舍弃一些持有物。{f801}</target>
   </entry>
   <entry id="28">
     <source>購入しました、装備しますか?{f801}{f804}{0b00}※ドールは二刀流が解除されます{f804}{0000}{f801}</source>
-    <target>購入しました、装備しますか?{f801}{f804}{0b00}※ドールは二刀流が解除されます{f804}{0000}{f801}</target>
+    <target>已购买，要装备吗?{f801}{f804}{0b00}※ドールは二刀流が解除されます{f804}{0000}{f801}</target>
   </entry>
   <entry id="29">
     <source>アイテムがいっぱいなので{f801}購入のみになります{f801}</source>
-    <target>アイテムがいっぱいなので{f801}購入のみになります{f801}</target>
+    <target>持有道具已满，{f801}无法进行购买。{f801}</target>
   </entry>
   <entry id="30">
     <source>割引券を商品購入時に使用しますか?{f801}</source>
-    <target>割引券を商品購入時に使用しますか?{f801}</target>
+    <target>要在购买商品时使用折扣券吗?{f801}</target>
   </entry>
   <entry id="31">
     <source>{f804}{0300}サブウェポン{f804}{0000}を装備しました。{f801}戦闘時、サブウェポンのスキルも{f801}使用することができます!{f801}</source>
-    <target>{f804}{0300}サブウェポン{f804}{0000}を装備しました。{f801}戦闘時、サブウェポンのスキルも{f801}使用することができます!{f801}</target>
+    <target>{f804}{0300}已装备副武器{f804}{0000}。{f801}战斗中可使用{f801}副武器的技能!{f801}</target>
   </entry>
   <entry id="32">
     <source>素材{f811}{0000}個を{f811}{0100}エンで売却しますが{f801}よろしいですか?{f801}</source>
-    <target>素材{f811}{0000}個を{f811}{0100}エンで売却しますが{f801}よろしいですか?{f801}</target>
+    <target>要以{f811}{0100}元{f801}出售素材{f811}{0000}个吗?{f801}</target>
   </entry>
   <entry id="33">
     <source>素材を全て売却しました{f801}</source>
-    <target>素材を全て売却しました{f801}</target>
+    <target>出售全部素材。{f801}</target>
   </entry>
   <entry id="34">
     <source>素材を所持していません!{f801}</source>
-    <target>素材を所持していません!{f801}</target>
+    <target>没有持有素材!{f801}</target>
   </entry>
   <entry id="35">
     <source>{f811}{0000}を{f811}{0100}個購入しました{f801}</source>
-    <target>{f811}{0000}を{f811}{0100}個購入しました{f801}</target>
+    <target>已购买{f811}{0100}个{f811}{0000}。{f801}</target>
   </entry>
   <entry id="36">
     <source>購入しました、装備しますか?{f801}{f804}{0b00}※使用できるスキルが変化します{f804}{0000}{f801}</source>
-    <target>購入しました、装備しますか?{f801}{f804}{0b00}※使用できるスキルが変化します{f804}{0000}{f801}</target>
+    <target>已购买，要装备吗?{f801}{f804}{0b00}※将会影响使用的技能。{f804}{0000}{f801}</target>
   </entry>
   <entry id="37">
     <source>装備を変更したことで{f801}使用できるスキルが変化しました{f801}</source>
-    <target>装備を変更したことで{f801}使用できるスキルが変化しました{f801}</target>
+    <target>更改装备将会{f801}影响使用的技能。{f801}</target>
   </entry>
   <entry id="38">
     <source>選択したアイテムを{f811}{0000}個売却しました{f801}</source>
-    <target>選択したアイテムを{f811}{0000}個売却しました{f801}</target>
+    <target>已出售{f811}{0000}个选定的道具。{f801}</target>
   </entry>
   <entry id="39">
     <source>このキャラクターの装備は{f801}変更できません!{f801}</source>
-    <target>このキャラクターの装備は{f801}変更できません!{f801}</target>
+    <target>这个角色的装备{f801}无法更改!{f801}</target>
   </entry>
   <entry id="40">
     <source>{f804}{0300}砲剣{f804}{0000}を装備しました{f801}砲剣装備中は他の武器を装備できません{f801}</source>
-    <target>{f804}{0300}砲剣{f804}{0000}を装備しました{f801}砲剣装備中は他の武器を装備できません{f801}</target>
+    <target>{f804}{0300}炮剑{f804}{0000}已装备。{f801}装备炮剑时无法装备其他武器。{f801}</target>
   </entry>
 </mbm>
