@@ -109,7 +109,7 @@
   </entry>
   <entry id="29">
     <source>アイテムがいっぱいなので{f801}購入のみになります{f801}</source>
-    <target>持有物已满，{f801}无法进行购买。{f801}</target>
+    <target>持有道具已满，{f801}无法进行购买。{f801}</target>
   </entry>
   <entry id="30">
     <source>割引券を商品購入時に使用しますか?{f801}</source>
