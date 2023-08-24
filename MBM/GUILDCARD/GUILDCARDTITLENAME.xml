@@ -1,219 +1,219 @@
 <mbm>
   <entry id="0">
     <source>原始ノ大密林{f801}</source>
-    <target>原始ノ大密林{f801}</target>
+    <target>原始大密林{f801}</target>
   </entry>
   <entry id="1">
     <source>原始ノ大密林に到達した証{f801}</source>
-    <target>原始ノ大密林に到達した証{f801}</target>
+    <target>到达原始大密林的证明{f801}</target>
   </entry>
   <entry id="2">
     <source>千年ノ蒼樹海{f801}</source>
-    <target>千年ノ蒼樹海{f801}</target>
+    <target>千年苍树海{f801}</target>
   </entry>
   <entry id="3">
     <source>千年ノ蒼樹海に到達した証{f801}</source>
-    <target>千年ノ蒼樹海に到達した証{f801}</target>
+    <target>到达千年苍树海的证明{f801}</target>
   </entry>
   <entry id="4">
     <source>枯レ森{f801}</source>
-    <target>枯レ森{f801}</target>
+    <target>枯萎之森{f801}</target>
   </entry>
   <entry id="5">
     <source>枯レ森に到達した証{f801}</source>
-    <target>枯レ森に到達した証{f801}</target>
+    <target>到达枯萎之森的证明{f801}</target>
   </entry>
   <entry id="6">
     <source>遺都シンジュク{f801}</source>
-    <target>遺都シンジュク{f801}</target>
+    <target>遗迹之都新宿{f801}</target>
   </entry>
   <entry id="7">
     <source>遺都シンジュクに到達した証{f801}</source>
-    <target>遺都シンジュクに到達した証{f801}</target>
+    <target>到达遗迹之都新宿的证明{f801}</target>
   </entry>
   <entry id="8">
     <source>真朱ノ窟{f801}</source>
-    <target>真朱ノ窟{f801}</target>
+    <target>真红岩窟{f801}</target>
   </entry>
   <entry id="9">
     <source>真朱ノ窟に到達した証{f801}</source>
-    <target>真朱ノ窟に到達した証{f801}</target>
+    <target>到达真红岩窟的证明{f801}</target>
   </entry>
   <entry id="10">
     <source>ストーリーモードクリア{f801}</source>
-    <target>ストーリーモードクリア{f801}</target>
+    <target>通关故事模式{f801}</target>
   </entry>
   <entry id="11">
     <source>集いし仲間と共に世界を救った証{f801}</source>
-    <target>集いし仲間と共に世界を救った証{f801}</target>
+    <target>与同伴一起拯救了世界的证明{f801}</target>
   </entry>
   <entry id="12">
     <source>クラシックモードクリア{f801}</source>
-    <target>クラシックモードクリア{f801}</target>
+    <target>通关经典模式{f801}</target>
   </entry>
   <entry id="13">
     <source>時を超えて伏せられた真実を知った証{f801}</source>
-    <target>時を超えて伏せられた真実を知った証{f801}</target>
+    <target>探明被长久岁月遮蔽之真相的证明{f801}</target>
   </entry>
   <entry id="14">
     <source>フォレスト・セル撃破{f801}</source>
-    <target>フォレスト・セル撃破{f801}</target>
+    <target>击败细胞核{f801}</target>
   </entry>
   <entry id="15">
     <source>自らの力で最奥の魔物を倒した証{f801}</source>
-    <target>自らの力で最奥の魔物を倒した証{f801}</target>
+    <target>依靠自身力量击败最深处魔物的证明{f801}</target>
   </entry>
   <entry id="16">
     <source>七王のグリモアを作った{f801}</source>
-    <target>七王のグリモアを作った{f801}</target>
+    <target>合成七王之魔石{f801}</target>
   </entry>
   <entry id="17">
     <source>グリモアを極めた証{f801}</source>
-    <target>グリモアを極めた証{f801}</target>
+    <target>对魔石运用登峰造极的证明{f801}</target>
   </entry>
   <entry id="18">
     <source>初級お宝ハンター{f801}</source>
-    <target>初級お宝ハンター{f801}</target>
+    <target>初级宝物猎人{f801}</target>
   </entry>
   <entry id="19">
     <source>迷宮に踏み入り、{f801}いくつかの宝箱の中身を手に入れた{f801}</source>
-    <target>迷宮に踏み入り、{f801}いくつかの宝箱の中身を手に入れた{f801}</target>
+    <target>在迷宫中{f801}打开了数个宝箱的证明{f801}</target>
   </entry>
   <entry id="20">
     <source>トレジャーゲッター{f801}</source>
-    <target>トレジャーゲッター{f801}</target>
+    <target>寻宝者{f801}</target>
   </entry>
   <entry id="21">
     <source>迷宮を進み、およそ半数の宝箱の中身を{f801}手に入れた証{f801}</source>
-    <target>迷宮を進み、およそ半数の宝箱の中身を{f801}手に入れた証{f801}</target>
+    <target>在探索迷宫时{f801}打开了半数的宝箱的证明{f801}</target>
   </entry>
   <entry id="22">
     <source>トレジャーハンター{f801}</source>
-    <target>トレジャーハンター{f801}</target>
+    <target>寻宝大师{f801}</target>
   </entry>
   <entry id="23">
     <source>世界樹の迷宮にある全ての宝箱の中身を{f801}手に入れた証{f801}</source>
-    <target>世界樹の迷宮にある全ての宝箱の中身を{f801}手に入れた証{f801}</target>
+    <target>打开了世界树迷宫中{f801}全部宝箱的证明{f801}</target>
   </entry>
   <entry id="24">
     <source>エトリアの便利屋{f801}</source>
-    <target>エトリアの便利屋{f801}</target>
+    <target>埃托利亚的跑腿工{f801}</target>
   </entry>
   <entry id="25">
     <source>酒場で出されるクエストを{f801}いくつか達成した証{f801}</source>
-    <target>酒場で出されるクエストを{f801}いくつか達成した証{f801}</target>
+    <target>在酒馆完成{f801}数个委托的证明{f801}</target>
   </entry>
   <entry id="26">
     <source>エトリアの用心棒{f801}</source>
-    <target>エトリアの用心棒{f801}</target>
+    <target>埃托利亚的守护者{f801}</target>
   </entry>
   <entry id="27">
     <source>酒場で出されるクエストの{f801}およそ半数を達成した証{f801}</source>
-    <target>酒場で出されるクエストの{f801}およそ半数を達成した証{f801}</target>
+    <target>在酒馆完成{f801}半数委托的证明{f801}</target>
   </entry>
   <entry id="28">
     <source>クエストコンプリート{f801}</source>
-    <target>クエストコンプリート{f801}</target>
+    <target>委托完成!{f801}</target>
   </entry>
   <entry id="29">
     <source>酒場で出される全てのクエストを{f801}達成した証{f801}</source>
-    <target>酒場で出される全てのクエストを{f801}達成した証{f801}</target>
+    <target>在酒馆完成{f801}所有委托的证明{f801}</target>
   </entry>
   <entry id="30">
     <source>稀少個体ハント{f801}</source>
-    <target>稀少個体ハント{f801}</target>
+    <target>稀有个体猎手{f801}</target>
   </entry>
   <entry id="31">
     <source>迷宮にいる珍しい稀少個体モンスターを{f801}仕留めた証{f801}</source>
-    <target>迷宮にいる珍しい稀少個体モンスターを{f801}仕留めた証{f801}</target>
+    <target>在迷宫中击杀了{f801}稀少个体的证明{f801}</target>
   </entry>
   <entry id="32">
     <source>熟練の狩猟者{f801}</source>
-    <target>熟練の狩猟者{f801}</target>
+    <target>熟练的狩猎者{f801}</target>
   </entry>
   <entry id="33">
     <source>迷宮にいる珍しい稀少個体モンスターを{f801}数多く仕留めた証{f801}</source>
-    <target>迷宮にいる珍しい稀少個体モンスターを{f801}数多く仕留めた証{f801}</target>
+    <target>在迷宫中击杀了{f801}许多稀少个体的证明{f801}</target>
   </entry>
   <entry id="34">
     <source>輝きを追いかけし者{f801}</source>
-    <target>輝きを追いかけし者{f801}</target>
+    <target>追逐光辉的人{f801}</target>
   </entry>
   <entry id="35">
     <source>100体もの稀少個体モンスターを{f801}仕留めた証{f801}</source>
-    <target>100体もの稀少個体モンスターを{f801}仕留めた証{f801}</target>
+    <target>击杀了{f801}100个稀少个体的证明{f801}</target>
   </entry>
   <entry id="36">
     <source>初級狩人{f801}</source>
-    <target>初級狩人{f801}</target>
+    <target>初级猎人{f801}</target>
   </entry>
   <entry id="37">
     <source>世界樹の迷宮に棲む{f801}モンスターの一部を図鑑に登録した{f801}</source>
-    <target>世界樹の迷宮に棲む{f801}モンスターの一部を図鑑に登録した{f801}</target>
+    <target>将一部分生活在世界树迷宫中的魔物{f801}登录于图鉴中的证明{f801}</target>
   </entry>
   <entry id="38">
     <source>ベテラン狩人{f801}</source>
-    <target>ベテラン狩人{f801}</target>
+    <target>老练猎人{f801}</target>
   </entry>
   <entry id="39">
     <source>世界樹の迷宮のおよそ半数の{f801}モンスターを図鑑に登録した証{f801}</source>
-    <target>世界樹の迷宮のおよそ半数の{f801}モンスターを図鑑に登録した証{f801}</target>
+    <target>将半数生活在世界树迷宫中的魔物{f801}登录于图鉴中的证明{f801}</target>
   </entry>
   <entry id="40">
     <source>世界樹の狩人{f801}</source>
-    <target>世界樹の狩人{f801}</target>
+    <target>世界树猎人{f801}</target>
   </entry>
   <entry id="41">
     <source>世界樹の迷宮に存在する全ての{f801}モンスターを図鑑に登録した証{f801}</source>
-    <target>世界樹の迷宮に存在する全ての{f801}モンスターを図鑑に登録した証{f801}</target>
+    <target>将世界树迷宫中存在的所有魔物{f801}登录于图鉴中的证明{f801}</target>
   </entry>
   <entry id="42">
     <source>収集家初心者{f801}</source>
-    <target>収集家初心者{f801}</target>
+    <target>新手收集家{f801}</target>
   </entry>
   <entry id="43">
     <source>迷宮で手に入る素材アイテムの一部を{f801}辞典に登録した証{f801}</source>
-    <target>迷宮で手に入る素材アイテムの一部を{f801}辞典に登録した証{f801}</target>
+    <target>将一部分在迷宫中入手的素材道具{f801}登录到辞典的证明{f801}</target>
   </entry>
   <entry id="44">
     <source>博識の収集家{f801}</source>
-    <target>博識の収集家{f801}</target>
+    <target>博学的收集家{f801}</target>
   </entry>
   <entry id="45">
     <source>入手できる素材アイテムのおよそ半数を{f801}辞典に登録した証{f801}</source>
-    <target>入手できる素材アイテムのおよそ半数を{f801}辞典に登録した証{f801}</target>
+    <target>将半数在迷宫中入手的素材道具{f801}登录到辞典的证明{f801}</target>
   </entry>
   <entry id="46">
     <source>世界樹の収集家{f801}</source>
-    <target>世界樹の収集家{f801}</target>
+    <target>世界树的收集家{f801}</target>
   </entry>
   <entry id="47">
     <source>世界に存在するあらゆる素材を全て集め{f801}辞典に登録した証{f801}</source>
-    <target>世界に存在するあらゆる素材を全て集め{f801}辞典に登録した証{f801}</target>
+    <target>将世间存在的全部素材收集{f801}并登录到辞典的证明{f801}</target>
   </entry>
   <entry id="48">
     <source>駆け出し測量士{f801}</source>
-    <target>駆け出し測量士{f801}</target>
+    <target>初出茅庐的测量员{f801}</target>
   </entry>
   <entry id="49">
     <source>迷宮の地図をひとつ書き記した証{f801}</source>
-    <target>迷宮の地図をひとつ書き記した証{f801}</target>
+    <target>绘画了迷宫地图的证明{f801}</target>
   </entry>
   <entry id="50">
     <source>エトリアの水先案内人{f801}</source>
-    <target>エトリアの水先案内人{f801}</target>
+    <target>埃托利亚的水上领路人{f801}</target>
   </entry>
   <entry id="51">
     <source>迷宮の地図を半数書き記した証{f801}</source>
-    <target>迷宮の地図を半数書き記した証{f801}</target>
+    <target>记录了半数迷宫地图的证明{f801}</target>
   </entry>
   <entry id="52">
     <source>世界樹の地図職人{f801}</source>
-    <target>世界樹の地図職人{f801}</target>
+    <target>世界树的职业地图画手{f801}</target>
   </entry>
   <entry id="53">
     <source>迷宮の地図を全て書き記した証{f801}</source>
-    <target>迷宮の地図を全て書き記した証{f801}</target>
+    <target>记录了全部迷宫地图的证明{f801}</target>
   </entry>
   <entry id="54">
     <source>かけだし秘宝ハンター{f801}</source>
@@ -305,58 +305,58 @@
   </entry>
   <entry id="116">
     <source>グリモア勲章{f801}</source>
-    <target>グリモア勲章{f801}</target>
+    <target>魔石勋章{f801}</target>
   </entry>
   <entry id="117">
     <source>究極のグリモアを作成する{f801}</source>
-    <target>究極のグリモアを作成する{f801}</target>
+    <target>合成了究极之魔石的证明{f801}</target>
   </entry>
   <entry id="118">
     <source>宝箱コレクト勲章{f801}</source>
-    <target>宝箱コレクト勲章{f801}</target>
+    <target>宝箱收集家勋章{f801}</target>
   </entry>
   <entry id="119">
     <source>一定の数の宝箱を開け中身を入手する{f801}</source>
-    <target>一定の数の宝箱を開け中身を入手する{f801}</target>
+    <target>打开了一定数量的宝箱并获得道具{f801}</target>
   </entry>
   <entry id="120">
     <source>クエスト達成勲章{f801}</source>
-    <target>クエスト達成勲章{f801}</target>
+    <target>委托达成勋章{f801}</target>
   </entry>
   <entry id="121">
     <source>一定の数のクエストを達成する{f801}</source>
-    <target>一定の数のクエストを達成する{f801}</target>
+    <target>达成了一定数量委托的证明{f801}</target>
   </entry>
   <entry id="122">
     <source>稀少個体討伐勲章{f801}</source>
-    <target>稀少個体討伐勲章{f801}</target>
+    <target>稀少个体讨伐勋章{f801}</target>
   </entry>
   <entry id="123">
     <source>稀少個体モンスターを討伐する{f801}</source>
-    <target>稀少個体モンスターを討伐する{f801}</target>
+    <target>讨伐了稀少个体魔物的证明{f801}</target>
   </entry>
   <entry id="124">
     <source>図鑑コレクト勲章{f801}</source>
-    <target>図鑑コレクト勲章{f801}</target>
+    <target>图鉴收集家勋章{f801}</target>
   </entry>
   <entry id="125">
     <source>モンスター図鑑を10%埋める{f801}</source>
-    <target>モンスター図鑑を10%埋める{f801}</target>
+    <target>完成了魔物图鉴的10%的证明{f801}</target>
   </entry>
   <entry id="126">
     <source>アイテムコレクト勲章{f801}</source>
-    <target>アイテムコレクト勲章{f801}</target>
+    <target>道具收集家勋章{f801}</target>
   </entry>
   <entry id="127">
     <source>アイテム辞典の素材を10%埋める{f801}</source>
-    <target>アイテム辞典の素材を10%埋める{f801}</target>
+    <target>完成了道具辞典的10%的证明{f801}</target>
   </entry>
   <entry id="128">
     <source>地図コレクト勲章{f801}</source>
-    <target>地図コレクト勲章{f801}</target>
+    <target>地图收集家勋章{f801}</target>
   </entry>
   <entry id="129">
     <source>1フロア地図を完成させる{f801}</source>
-    <target>1フロア地図を完成させる{f801}</target>
+    <target>完成了1层迷宫地图的证明{f801}</target>
   </entry>
 </mbm>
