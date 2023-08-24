@@ -1141,7 +1141,7 @@ msgstr "银龙草"
 
 msgctxt "282"
 msgid "頭状の世界樹根"
-msgstr "头装的世界树根"
+msgstr "头状的世界树根"
 
 msgctxt "283"
 msgid "丈夫な木片"
