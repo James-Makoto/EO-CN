@@ -1129,7 +1129,7 @@ msgstr "防御本能"
 
 msgctxt "279"
 msgid "シングルスラスト"
-msgstr "独身推击"
+msgstr "独身突击"
 
 msgctxt "280"
 msgid "シングルバースト"
@@ -1137,7 +1137,7 @@ msgstr "独身爆击"
 
 msgctxt "281"
 msgid "レギオンスラスト"
-msgstr "联盟推击"
+msgstr "联盟突击"
 
 msgctxt "282"
 msgid "レギオンバースト"
@@ -1153,7 +1153,7 @@ msgstr "交错蓄力刺"
 
 msgctxt "285"
 msgid "ロングスラスト"
-msgstr "远距推击"
+msgstr "远距突击"
 
 msgctxt "286"
 msgid "ブレインレンド"
