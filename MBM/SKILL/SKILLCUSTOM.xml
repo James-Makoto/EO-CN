@@ -293,7 +293,7 @@
   </entry>
   <entry id="73">
     <source>レベル上昇で斧スキルが習得される{f801}</source>
-    <target>随着等级上升可习得斧技能{f801}</target>
+    <target>随着等级上升，可习得斧技能{f801}</target>
   </entry>
   <entry id="74">
     <source>スキル習得{f801}</source>
@@ -341,7 +341,7 @@
   </entry>
   <entry id="85">
     <source>レベル上昇で剣スキルが習得される{f801}</source>
-    <target>随着等级上升可习得剑技能{f801}</target>
+    <target>随着等级上升，可习得剑技能{f801}</target>
   </entry>
   <entry id="86">
     <source>スキル習得{f801}</source>
@@ -1685,7 +1685,7 @@
   </entry>
   <entry id="421">
     <source>レベル上昇で弓スキルが習得される{f801}</source>
-    <target>随着等级上升可习得弓技能{f801}</target>
+    <target>随着等级上升，可习得弓技能{f801}</target>
   </entry>
   <entry id="422">
     <source>スキル習得{f801}</source>
@@ -3125,7 +3125,7 @@
   </entry>
   <entry id="781">
     <source>レベル上昇で盾スキルが習得される{f801}</source>
-    <target>随着等级上升可习得盾技能{f801}</target>
+    <target>随着等级上升，可习得盾技能{f801}</target>
   </entry>
   <entry id="782">
     <source>スキル習得{f801}</source>
@@ -4565,7 +4565,7 @@
   </entry>
   <entry id="1141">
     <source>レベル上昇で鞭スキルが習得される{f801}</source>
-    <target>随着等级上升可习得鞭技能{f801}</target>
+    <target>随着等级上升，可习得鞭技能{f801}</target>
   </entry>
   <entry id="1142">
     <source>スキル習得{f801}</source>
@@ -4613,7 +4613,7 @@
   </entry>
   <entry id="1153">
     <source>レベル上昇で剣スキルが習得される{f801}</source>
-    <target>随着等级上升可习得剑技能{f801}</target>
+    <target>随着等级上升，可习得剑技能{f801}</target>
   </entry>
   <entry id="1154">
     <source>スキル習得{f801}</source>
@@ -6005,7 +6005,7 @@
   </entry>
   <entry id="1501">
     <source>レベル上昇で回復スキルが習得される{f801}</source>
-    <target>随着等级上升可习得恢复技能{f801}</target>
+    <target>随着等级上升，可习得恢复技能{f801}</target>
   </entry>
   <entry id="1502">
     <source>スキル習得{f801}</source>
@@ -7349,7 +7349,7 @@
   </entry>
   <entry id="1837">
     <source>レベル上昇で術式スキルが習得される{f801}</source>
-    <target>随着等级上升可习得术式技能{f801}</target>
+    <target>随着等级上升，可习得术式技能{f801}</target>
   </entry>
   <entry id="1838">
     <source>スキル習得{f801}</source>
@@ -8837,7 +8837,7 @@
   </entry>
   <entry id="2209">
     <source>レベル上昇で歌唱スキルが習得される{f801}</source>
-    <target>随着等级上升可习得歌唱技能{f801}</target>
+    <target>随着等级上升，可习得歌唱技能{f801}</target>
   </entry>
   <entry id="2210">
     <source>スキル習得{f801}</source>
@@ -10325,7 +10325,7 @@
   </entry>
   <entry id="2581">
     <source>レベル上昇で刀スキルが習得される{f801}</source>
-    <target>随着等级上升可习得刀技能{f801}</target>
+    <target>随着等级上升，可习得刀技能{f801}</target>
   </entry>
   <entry id="2582">
     <source>スキル習得{f801}</source>
@@ -11717,7 +11717,7 @@
   </entry>
   <entry id="2929">
     <source>レベル上昇で呪言スキルが習得される{f801}</source>
-    <target>随着等级上升可习得咒言技能{f801}</target>
+    <target>随着等级上升，可习得咒言技能{f801}</target>
   </entry>
   <entry id="2930">
     <source>スキル習得{f801}</source>
@@ -13205,7 +13205,7 @@
   </entry>
   <entry id="3301">
     <source>レベル上昇で槍スキルが習得される{f801}</source>
-    <target>随着等级上升可习得枪技能{f801}</target>
+    <target>随着等级上升，可习得枪技能{f801}</target>
   </entry>
   <entry id="3302">
     <source>スキル習得{f801}</source>
@@ -13397,7 +13397,7 @@
   </entry>
   <entry id="3349">
     <source>生命力を触媒に強烈な突きを繰り出すスキル{f801}</source>
-    <target>以生命力为媒介释放强力突击的技能{f801}</target>
+    <target>以生命力为媒介，释放强力突击的技能{f801}</target>
   </entry>
   <entry id="3350">
     <source>スキル習得{f801}消費TP5{f801}</source>
@@ -13445,7 +13445,7 @@
   </entry>
   <entry id="3361">
     <source>生命力を触媒に強烈な突きを繰り出すスキル{f801}</source>
-    <target>以生命力为媒介释放强力突击的技能{f801}</target>
+    <target>以生命力为媒介，释放强力突击的技能{f801}</target>
   </entry>
   <entry id="3362">
     <source>スキル習得{f801}消費TP8{f801}</source>
@@ -13493,7 +13493,7 @@
   </entry>
   <entry id="3373">
     <source>生命力を触媒に強烈な突きを繰り出すスキル{f801}</source>
-    <target>以生命力为媒介释放强力突击的技能{f801}</target>
+    <target>以生命力为媒介，释放强力突击的技能{f801}</target>
   </entry>
   <entry id="3374">
     <source>スキル習得{f801}消費TP5{f801}</source>
@@ -13541,7 +13541,7 @@
   </entry>
   <entry id="3385">
     <source>生命力を触媒に強烈な突きを繰り出すスキル{f801}</source>
-    <target>以生命力为媒介释放强力突击的技能{f801}</target>
+    <target>以生命力为媒介，释放强力突击的技能{f801}</target>
   </entry>
   <entry id="3386">
     <source>スキル習得{f801}消費TP8{f801}</source>
@@ -13685,7 +13685,7 @@
   </entry>
   <entry id="3421">
     <source>大きく踏み込みリーチを生かして貫くスキル{f801}</source>
-    <target>向前大一跨活用攻击距离的突击技能步{f801}</target>
+    <target>向前大跨一步活用攻击距离的突击技能{f801}</target>
   </entry>
   <entry id="3422">
     <source>スキル習得{f801}消費TP4{f801}</source>
@@ -14165,7 +14165,7 @@
   </entry>
   <entry id="3541">
     <source>生命力を触媒に活力を増幅させるスキル{f801}レベル上昇で効果ターン数が増加する{f801}</source>
-    <target>以生命力为媒介增加活力的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
+    <target>以生命力为媒介，增加活力的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
   </entry>
   <entry id="3542">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -14597,7 +14597,7 @@
   </entry>
   <entry id="3649">
     <source>レベル上昇で銃スキルが習得される{f801}</source>
-    <target>随着等级上升可习得铳技能{f801}</target>
+    <target>随着等级上升，可习得铳技能{f801}</target>
   </entry>
   <entry id="3650">
     <source>スキル習得{f801}</source>
