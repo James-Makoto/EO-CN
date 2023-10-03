@@ -1409,11 +1409,11 @@ msgstr "神酒系"
 
 msgctxt "349"
 msgid "ネクタル系"
-msgstr "琼浆"
+msgstr "琼浆系"
 
 msgctxt "350"
 msgid "ネクタル系"
-msgstr "琼浆"
+msgstr "琼浆系"
 
 msgctxt "351"
 msgid "ソーマ系"
