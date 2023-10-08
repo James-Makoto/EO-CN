@@ -309,7 +309,7 @@
   </entry>
   <entry id="78">
     <source>{f811}{0100}は力尽きた…{f801}</source>
-    <target>{f811}{0100}精疲力尽…{f801}</target>
+    <target>{f811}{0100}精疲力尽……{f801}</target>
   </entry>
   <entry id="79">
     <source>全体{f801}</source>
@@ -317,7 +317,7 @@
   </entry>
   <entry id="80">
     <source>{f811}{0100}は息絶えた…{f801}</source>
-    <target>{f811}{0100}断气了…{f801}</target>
+    <target>{f811}{0100}断气了……{f801}</target>
   </entry>
   <entry id="81">
     <source>しかし、仲間は現れなかった!{f801}</source>
@@ -361,7 +361,7 @@
   </entry>
   <entry id="91">
     <source>{f811}{0100}の肉体に{f801}力がみなぎっていく…{f801}</source>
-    <target>{f811}{0100}的肉体{f801}充满了力量…{f801}</target>
+    <target>{f811}{0100}的肉体{f801}充满了力量……{f801}</target>
   </entry>
   <entry id="92">
     <source>{f811}{0000}が反応し{f801}炎がまきおこる!{f801}</source>
@@ -381,7 +381,7 @@
   </entry>
   <entry id="96">
     <source>{f811}{0000}は{f801}行動を一時停止した…!{f801}</source>
-    <target>{f811}{0000}{f801}的行动停止了…!{f801}</target>
+    <target>{f811}{0000}{f801}的行动停止了……!{f801}</target>
   </entry>
   <entry id="97">
     <source>{f811}{0000}は{f801}{f811}{0100}を食いちぎった!{f801}</source>
@@ -497,7 +497,7 @@
   </entry>
   <entry id="126">
     <source>{f811}{0000}は{f801}帰っていった…{f801}</source>
-    <target>{f811}{0000}{f801}返回了…{f801}</target>
+    <target>{f811}{0000}{f801}返回了……{f801}</target>
   </entry>
   <entry id="127">
     <source>{f811}{0000}から{f801}{f811}{0100}が現れた!{f801}</source>
@@ -525,7 +525,7 @@
   </entry>
   <entry id="134">
     <source>しかし、{f811}{0100}は{f801}その効果を受けている…{f801}</source>
-    <target>但是，{f811}{0100}已处于{f801}这种这种状态中…{f801}</target>
+    <target>但是，{f811}{0100}已处于{f801}这种这种状态中……{f801}</target>
   </entry>
   <entry id="135">
     <source>{f811}{0100}の{f811}{0200}の{f801}効果時間が延長された!{f801}</source>
@@ -825,7 +825,7 @@
   </entry>
   <entry id="211">
     <source>{f811}{0000}は{f801}目をつぶっているようだ…{f801}</source>
-    <target>{f811}{0000}{f801}似乎闭着眼睛…{f801}</target>
+    <target>{f811}{0000}{f801}似乎正闭着眼睛……{f801}</target>
   </entry>
   <entry id="212">
     <source>{f811}{0100}は{f801}ひるんだ!{f801}</source>
@@ -889,11 +889,11 @@
   </entry>
   <entry id="227">
     <source>{f811}{0000}は{f801}モゾモゾ動き始めた…{f801}</source>
-    <target>{f811}{0000}{f801}开始移动…{f801}</target>
+    <target>{f811}{0000}{f801}开始缓缓移动了……{f801}</target>
   </entry>
   <entry id="228">
     <source>{f811}{0000}は手を下げた…{f801}</source>
-    <target>{f811}{0000}把手放下了…{f801}</target>
+    <target>{f811}{0000}把手放下了……{f801}</target>
   </entry>
   <entry id="229">
     <source>{f811}{0000}の手は{f801}封じられている!{f801}</source>
@@ -1137,7 +1137,7 @@
   </entry>
   <entry id="289">
     <source>{f811}{0000}は眠っている…{f801}</source>
-    <target>{f811}{0000}在睡觉…{f801}</target>
+    <target>{f811}{0000}在睡觉……{f801}</target>
   </entry>
   <entry id="290">
     <source>{f811}{0100}の{f801}属性攻撃力が上昇した!{f801}</source>
@@ -1277,7 +1277,7 @@
   </entry>
   <entry id="324">
     <source>{f811}{0000}は{f801}フワフワしている…{f801}</source>
-    <target>{f811}{0000}{f801}软绵绵的…{f801}</target>
+    <target>{f811}{0000}{f801}软绵绵的……{f801}</target>
   </entry>
   <entry id="325">
     <source>{f811}{0000}は{f801}うろたえている!{f801}</source>
@@ -1457,7 +1457,7 @@
   </entry>
   <entry id="435">
     <source>{f811}{0100}の精神に{f801}力がみなぎっていく…{f801}</source>
-    <target>{f811}{0100}的精神中{f801}充满了力量…{f801}</target>
+    <target>{f811}{0100}的精神中{f801}充满了力量……{f801}</target>
   </entry>
   <entry id="436">
     <source>{f811}{0000}は次の攻撃に備えた!{f801}</source>
