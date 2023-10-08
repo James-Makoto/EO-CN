@@ -65,7 +65,7 @@
   </entry>
   <entry id="16">
     <source>{f811}{0000}は眠っている…。{f801}</source>
-    <target>{f811}{0000}睡着了…。{f801}</target>
+    <target>{f811}{0000}睡着了……{f801}</target>
   </entry>
   <entry id="17">
     <source>{f811}{0000}は混乱している!{f801}</source>
@@ -169,7 +169,7 @@
   </entry>
   <entry id="43">
     <source>{f811}{0100}は眠りだした…。{f801}</source>
-    <target>{f811}{0100}睡着了…。{f801}</target>
+    <target>{f811}{0100}睡着了……{f801}</target>
   </entry>
   <entry id="44">
     <source>{f811}{0100}は混乱した!{f801}</source>
