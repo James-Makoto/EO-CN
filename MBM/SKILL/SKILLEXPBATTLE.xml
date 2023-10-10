@@ -41,7 +41,7 @@
   </entry>
   <entry id="10">
     <source>次のターン、自身が攻撃した敵に{f801}味方全体が、追撃を行うようになる{f801}</source>
-    <target>下个回合、自己攻击的敌人{f801}我方全体会进行追击{f801}</target>
+    <target>下个回合，自己攻击的敌人{f801}我方全体会进行追击{f801}</target>
   </entry>
   <entry id="11">
     <source>自身の封じを解除し、{f801}自身の最大HPを上昇させる{f801}</source>
