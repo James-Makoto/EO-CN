@@ -2261,7 +2261,7 @@ msgstr "充满回忆的篮子"
 
 msgctxt "562"
 msgid "商人の採集物"
-msgstr "商人的收集物"
+msgstr "商人的采集物"
 
 msgctxt "563"
 msgid "飛竜の牙笛"
