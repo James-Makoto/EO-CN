@@ -177,7 +177,7 @@
   </entry>
   <entry id="45">
     <source>{f811}{0100}に{f801}腐敗毒が感染した!{f801}</source>
-    <target>{f811}{0100}に{f801}感染了腐败毒!{f801}</target>
+    <target>{f811}{0100}{f801}被感染了腐败毒!{f801}</target>
   </entry>
   <entry id="46">
     <source>{f811}{0100}に毒を与えた!{f801}</source>
