@@ -2277,11 +2277,11 @@ msgstr "手工奶酪"
 
 msgctxt "566"
 msgid "探偵の残したメモ1"
-msgstr "侦探留下的笔记１"
+msgstr "侦探留下的字条１"
 
 msgctxt "567"
 msgid "探偵の残したメモ2"
-msgstr "侦探留下的笔记２"
+msgstr "侦探留下的字条２"
 
 msgctxt "568"
 msgid "探偵の残した暗号1"
@@ -2301,7 +2301,7 @@ msgstr "黄金鸟羽"
 
 msgctxt "572"
 msgid "卵の在り処のメモ"
-msgstr "记有蛋位置的纸条"
+msgstr "记有蛋位置的字条"
 
 msgctxt "573"
 msgid "お礼の手紙"
