@@ -761,15 +761,15 @@
   </entry>
   <entry id="306">
     <source>さらに、伐採の技術により・・・{f801}</source>
-    <target>此外，采伐的技术已经・・・{f801}</target>
+    <target>此外，因为练就了采伐的技术・・・{f801}</target>
   </entry>
   <entry id="307">
     <source>さらに、採掘の技術により・・・{f801}</source>
-    <target>此外，挖掘的技术已经・・・{f801}</target>
+    <target>此外，因为练就了挖掘的技术・・・{f801}</target>
   </entry>
   <entry id="308">
     <source>さらに、採取の技術により・・・{f801}</source>
-    <target>此外，采集的技术已经・・・{f801}</target>
+    <target>此外，因为练就了采集的技术・・・{f801}</target>
   </entry>
   <entry id="309">
     <source>今日はもうこの場所では{f801}取れないようだ。{f801}</source>
