@@ -69,7 +69,7 @@
   </entry>
   <entry id="17">
     <source>グリモアチャンスの時の{f801}グリモア生成率が100%になる{f801}</source>
-    <target>收获时间时{f801}魔石的生成率提升至100%。{f801}</target>
+    <target>收获时间时{f801}魔导石的生成率提升至100%。{f801}</target>
   </entry>
   <entry id="18">
     <source>稀少個体の出現率が大幅上昇{f801}</source>
@@ -77,7 +77,7 @@
   </entry>
   <entry id="19">
     <source>グリモア内のスキルレベルが{f801}+2されるようになる{f801}</source>
-    <target>魔石内的魔石技能{f801}等级+2。{f801}</target>
+    <target>魔导石内的魔导石技能{f801}等级+2。{f801}</target>
   </entry>
   <entry id="20">
     <source>探索準備の効果が発動しなくなる{f801}</source>
@@ -93,10 +93,10 @@
   </entry>
   <entry id="23">
     <source>グリモア生成時のスキル数やスキルLvが{f801}極端な結果になり易くなる{f801}</source>
-    <target>魔石生成时的技能个数和技能Lv{f801}会变得极端。{f801}</target>
+    <target>魔导石生成时的技能个数和技能Lv{f801}会变得极端。{f801}</target>
   </entry>
   <entry id="24">
     <source>グリモア内のスキルレベルを{f801}半分しか引き出せなくなる{f801}</source>
-    <target>魔石内的魔石技能{f801}只能发挥出等级一半的效果。{f801}</target>
+    <target>魔导石内的魔导石技能{f801}只能发挥出等级一半的效果。{f801}</target>
   </entry>
 </mbm>

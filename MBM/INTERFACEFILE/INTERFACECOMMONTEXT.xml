@@ -165,11 +165,11 @@
   </entry>
   <entry id="43">
     <source>グリモア石が倉庫に入りきりません{f801}捨てるグリモア石を選択してください{f801}</source>
-    <target>无法寄存魔石到仓库。{f801}请选择要丢弃的魔石。{f801}</target>
+    <target>无法寄存魔导石到仓库。{f801}请选择要丢弃的魔导石。{f801}</target>
   </entry>
   <entry id="44">
     <source>選択したグリモア石を破棄しますが、{f801}よろしいですか?{f801}</source>
-    <target>将丢弃已选择的魔石，{f801}确定吗?{f801}</target>
+    <target>将丢弃已选择的魔导石，{f801}确定吗?{f801}</target>
   </entry>
   <entry id="45">
     <source>装備が外れてしまいますが{f801}よろしいですか?{f801}</source>
@@ -401,7 +401,7 @@
   </entry>
   <entry id="102">
     <source>これ以上グリモアを捨てると{f801}グリモアが作れなくなってしまいます!{f801}</source>
-    <target>丢弃该魔石后{f801}将无法制作魔石!{f801}</target>
+    <target>丢弃该魔导石后{f801}将无法制作魔导石!{f801}</target>
   </entry>
   <entry id="110">
     <source>ムービーをスキップしますが{f801}よろしいですか?{f801}</source>

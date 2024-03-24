@@ -1333,7 +1333,7 @@
   </entry>
   <entry id="404">
     <source>{f811}{0000}は様々な技を{f801}グリモアへ記録した!{f801}</source>
-    <target>{f811}{0000}可以把各种各样的技能{f801}记录到魔石上!{f801}</target>
+    <target>{f811}{0000}可以把各种各样的技能{f801}记录到魔导石上!{f801}</target>
   </entry>
   <entry id="405">
     <source>周囲のFOEが戸惑っている{f801}</source>
@@ -1681,15 +1681,15 @@
   </entry>
   <entry id="492">
     <source>{f811}{0100}のグリモアが{f801}必ず生成されるようになった!{f801}</source>
-    <target>{f811}{0100}的魔石{f801}必定会生成!{f801}</target>
+    <target>{f811}{0100}的魔导石{f801}必定会生成!{f801}</target>
   </entry>
   <entry id="493">
     <source>{f811}{0100}のグリモアが{f801}生成される可能性が生まれた!{f801}</source>
-    <target>{f811}{0100}的魔石{f801}可能会生成!{f801}</target>
+    <target>{f811}{0100}的魔导石{f801}可能会生成!{f801}</target>
   </entry>
   <entry id="494">
     <source>{f811}{0100}のグリモアが{f801}高レベルスキルを含む可能性が生まれた!{f801}</source>
-    <target>{f811}{0100}的魔石{f801}可能会生成高等级的技能!{f801}</target>
+    <target>{f811}{0100}的魔导石{f801}可能会生成高等级的技能!{f801}</target>
   </entry>
   <entry id="495">
     <source>{f811}{0100}を弱らせた{f801}</source>

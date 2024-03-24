@@ -69,7 +69,7 @@
   </entry>
   <entry id="17">
     <source>GOOD効果発動!{f801}グリモアチャンスの時の{f801}グリモア生成率が100%になった!{f801}</source>
-    <target>GOOD效果发动!{f801}收获时间时{f801}魔石的生成率提升至100%!{f801}</target>
+    <target>GOOD效果发动!{f801}收获时间时{f801}魔导石的生成率提升至100%!{f801}</target>
   </entry>
   <entry id="18">
     <source>GOOD効果発動!{f801}稀少個体の出現率が大幅にアップ!{f801}</source>
@@ -77,7 +77,7 @@
   </entry>
   <entry id="19">
     <source>GOOD効果発動!{f801}常時、グリモア内のスキルレベルが{f801}+2されるようになった!{f801}</source>
-    <target>GOOD效果发动!{f801}魔石内的魔石技能{f801}等级+2!{f801}</target>
+    <target>GOOD效果发动!{f801}魔导石内的魔导石技能{f801}等级+2!{f801}</target>
   </entry>
   <entry id="20">
     <source>BAD効果発動!{f801}探索準備の効果が発動しなくなった!{f801}</source>
@@ -97,6 +97,6 @@
   </entry>
   <entry id="24">
     <source>BAD効果発動!{f801}常時、グリモア内のスキルレベルを{f801}半分しか引き出せなくなった!{f801}</source>
-    <target>BAD效果发动!{f801}魔石内的魔石技能{f801}只能发挥出等级一半的效果!{f801}</target>
+    <target>BAD效果发动!{f801}魔导石内的魔导石技能{f801}只能发挥出等级一半的效果!{f801}</target>
   </entry>
 </mbm>
