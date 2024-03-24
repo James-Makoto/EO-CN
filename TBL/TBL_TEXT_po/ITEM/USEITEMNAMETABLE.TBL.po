@@ -2617,79 +2617,79 @@ msgstr "アザー５００"
 
 msgctxt "651"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "652"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "653"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "654"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "655"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "656"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "657"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "658"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "659"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "660"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "661"
 msgid "銀のグリモアI"
-msgstr "银之魔石Ｉ"
+msgstr "银之魔导石Ｉ"
 
 msgctxt "662"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "663"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "664"
 msgid "銀のグリモアI"
-msgstr "银之魔石Ｉ"
+msgstr "银之魔导石Ｉ"
 
 msgctxt "665"
 msgid "金のグリモアI"
-msgstr "金之魔石Ｉ"
+msgstr "金之魔导石Ｉ"
 
 msgctxt "666"
 msgid "闇のグリモアI"
-msgstr "暗之魔石Ｉ"
+msgstr "暗之魔导石Ｉ"
 
 msgctxt "667"
 msgid "銀のグリモアI"
-msgstr "银之魔石Ｉ"
+msgstr "银之魔导石Ｉ"
 
 msgctxt "668"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "669"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "670"
 msgid "グリモア020"
@@ -2701,7 +2701,7 @@ msgstr "グリモア０２１"
 
 msgctxt "672"
 msgid "銅のグリモアI"
-msgstr "铜之魔石Ｉ"
+msgstr "铜之魔导石Ｉ"
 
 msgctxt "673"
 msgid "グリモア023"
@@ -2977,31 +2977,31 @@ msgstr "グリモア０９０"
 
 msgctxt "741"
 msgid "狼王のグリモア"
-msgstr "狼王的魔石"
+msgstr "狼王的魔导石"
 
 msgctxt "742"
 msgid "森王のグリモア"
-msgstr "森王的魔石"
+msgstr "森王的魔导石"
 
 msgctxt "743"
 msgid "女王のグリモア"
-msgstr "女王的魔石"
+msgstr "女王的魔导石"
 
 msgctxt "744"
 msgid "海王のグリモア"
-msgstr "海王的魔石"
+msgstr "海王的魔导石"
 
 msgctxt "745"
 msgid "鳥王のグリモア"
-msgstr "鸟王的魔石"
+msgstr "鸟王的魔导石"
 
 msgctxt "746"
 msgid "毒王のグリモア"
-msgstr "毒王的魔石"
+msgstr "毒王的魔导石"
 
 msgctxt "747"
 msgid "華王のグリモア"
-msgstr "花王的魔石"
+msgstr "花王的魔导石"
 
 msgctxt "748"
 msgid "グリモア098"

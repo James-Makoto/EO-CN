@@ -9,7 +9,7 @@
   </entry>
   <entry id="2">
     <source>グリモアを引き継ぐか選択できます{f801}</source>
-    <target>可以选择是否继承魔石。{f801}</target>
+    <target>可以选择是否继承魔导石。{f801}</target>
   </entry>
   <entry id="3">
     <source>所持金を引き継ぐか選択できます{f801}</source>
@@ -57,7 +57,7 @@
   </entry>
   <entry id="14">
     <source>生成したグリモアを{f801}引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承{f801}已合成的魔石。{f801}</target>
+    <target>选择是否继承{f801}已合成的魔导石。{f801}</target>
   </entry>
   <entry id="15">
     <source>所持金を引き継ぐか選択できます{f801}</source>
@@ -109,11 +109,11 @@
   </entry>
   <entry id="27">
     <source>グリモアを引き継ぎます{f801}</source>
-    <target>继承魔石{f801}</target>
+    <target>继承魔导石{f801}</target>
   </entry>
   <entry id="28">
     <source>グリモアを引き継ぎません{f801}</source>
-    <target>不继承魔石{f801}</target>
+    <target>不继承魔导石{f801}</target>
   </entry>
   <entry id="29">
     <source>所持金を引き継ぎます{f801}</source>

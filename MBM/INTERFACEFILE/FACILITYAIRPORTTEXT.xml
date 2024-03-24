@@ -113,7 +113,7 @@
   </entry>
   <entry id="52">
     <source>手に入れたグリモア石を鑑定しました。{f801}</source>
-    <target>已经对入手的魔石进行鉴定。{f801}</target>
+    <target>已经对入手的魔导石进行鉴定。{f801}</target>
   </entry>
   <entry id="53">
     <source>{f811}{0000}を破棄しますか?{f801}</source>
@@ -133,19 +133,19 @@
   </entry>
   <entry id="57">
     <source>グリモア石の合成を行います{f801}</source>
-    <target>合成魔石。{f801}</target>
+    <target>合成魔导石。{f801}</target>
   </entry>
   <entry id="58">
     <source>合成元になった石は消えてしまいます{f801}本当によろしいですか?{f801}</source>
-    <target>用于合成的魔石将会消失。{f801}确定要这么做吗?{f801}</target>
+    <target>用于合成的魔导石将会消失。{f801}确定要这么做吗?{f801}</target>
   </entry>
   <entry id="59">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの変更ができません{f801}</source>
-    <target>持有道具已满，{f801}无法变更魔石。{f801}</target>
+    <target>持有道具已满，{f801}无法变更魔导石。{f801}</target>
   </entry>
   <entry id="60">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの合成ができません{f801}</source>
-    <target>持有道具已满，{f801}无法合成魔石。{f801}</target>
+    <target>持有道具已满，{f801}无法合成魔导石。{f801}</target>
   </entry>
   <entry id="61">
     <source>{f811}{0000}の武具が{f801}外れますがよろしいですか?{f801}</source>
@@ -161,7 +161,7 @@
   </entry>
   <entry id="64">
     <source>グリモアの装備と合成を行います{f801}</source>
-    <target>装备或合成魔石。{f801}</target>
+    <target>装备或合成魔导石。{f801}</target>
   </entry>
   <entry id="65">
     <source>アイテムの保管や受け取りができます{f801}</source>
@@ -197,11 +197,11 @@
   </entry>
   <entry id="73">
     <source>グリモア石を各キャラクターに{f801}セット/解除が可能です{f801}</source>
-    <target>可以给每个角色{f801}装备/卸下魔石。{f801}</target>
+    <target>可以给每个角色{f801}装备/卸下魔导石。{f801}</target>
   </entry>
   <entry id="74">
     <source>グリモア石の合成が可能です{f801}</source>
-    <target>可以合成魔石。{f801}</target>
+    <target>可以合成魔导石。{f801}</target>
   </entry>
   <entry id="75">
     <source>アイテムを倉庫に保管します{f801}</source>
@@ -281,15 +281,15 @@
   </entry>
   <entry id="96">
     <source>ベースにするグリモアを{f801}選択してください{f801}</source>
-    <target>请选择作为素材的魔石。{f801}</target>
+    <target>请选择作为素材的魔导石。{f801}</target>
   </entry>
   <entry id="97">
     <source>合成するグリモアを{f801}選択してください{f801}</source>
-    <target>请选择要合成的魔石。{f801}</target>
+    <target>请选择要合成的魔导石。{f801}</target>
   </entry>
   <entry id="98">
     <source>触媒にするグリモアを{f801}選択してください{f801}</source>
-    <target>请选择作为催化剂的魔石。{f801}</target>
+    <target>请选择作为催化剂的魔导石。{f801}</target>
   </entry>
   <entry id="99">
     <source>継承するスキルを{f801}{f811}{0000}つ選択してください{f801}</source>
@@ -297,7 +297,7 @@
   </entry>
   <entry id="100">
     <source>3つのグリモアを消費して{f801}{f811}{0000}を合成します{f801}</source>
-    <target>花费3个魔石以合成{f801}{f811}{0000}。{f801}</target>
+    <target>花费3个魔导石以合成{f801}{f811}{0000}。{f801}</target>
   </entry>
   <entry id="101">
     <source>{f811}{0000}を入手しました{f801}</source>
@@ -305,39 +305,39 @@
   </entry>
   <entry id="102">
     <source>グリモアが倉庫に入りません{f801}捨てるグリモアを選択してください{f801}</source>
-    <target>仓库已满。{f801}请选择要丢弃的魔石。{f801}</target>
+    <target>仓库已满。{f801}请选择要丢弃的魔导石。{f801}</target>
   </entry>
   <entry id="103">
     <source>装備中なので破棄できません{f801}</source>
-    <target>无法丢弃装备中的魔石。{f801}</target>
+    <target>无法丢弃装备中的魔导石。{f801}</target>
   </entry>
   <entry id="104">
     <source>装備中なので合成に使用できません{f801}</source>
-    <target>装备中的魔石无法用于合成。{f801}</target>
+    <target>装备中的魔导石无法用于合成。{f801}</target>
   </entry>
   <entry id="105">
     <source>{f811}{0000}のグリモアを装備から外しますか?{f801}</source>
-    <target>要卸下{f811}{0000}正在装备的魔石吗?{f801}</target>
+    <target>要卸下{f811}{0000}正在装备的魔导石吗?{f801}</target>
   </entry>
   <entry id="106">
     <source>装備を外しました{f801}</source>
-    <target>已卸下装备的魔石。{f801}</target>
+    <target>已卸下装备的魔导石。{f801}</target>
   </entry>
   <entry id="107">
     <source>所持アイテムが一杯で武具が外せず{f801}グリモアの装備が外せません{f801}</source>
-    <target>持有道具已满，{f801}无法卸下装备的魔石。{f801}</target>
+    <target>持有道具已满，{f801}无法卸下装备的魔导石。{f801}</target>
   </entry>
   <entry id="108">
     <source>装備するグリモアを持っていません!{f801}</source>
-    <target>没有可以装备的魔石!{f801}</target>
+    <target>没有可以装备的魔导石!{f801}</target>
   </entry>
   <entry id="109">
     <source>グリモアを3つ以上持っていないと{f801}合成は行えません!{f801}</source>
-    <target>没有持有3个以上的魔石，{f801}无法进行合成!{f801}</target>
+    <target>没有持有3个以上的魔导石，{f801}无法进行合成!{f801}</target>
   </entry>
   <entry id="110">
     <source>ギルドカードから生成した{f801}グリモアを鑑定しました{f801}</source>
-    <target>公会名牌生成的{f801}魔石已进行鉴定。{f801}</target>
+    <target>公会名牌生成的{f801}魔导石已进行鉴定。{f801}</target>
   </entry>
   <entry id="120">
     <source>とある貴族の家より派遣された住み込みのメイド{f801}コーディアルと呼ばれる飲み物をいれるのが得意{f801}{f804}{0800}探索準備{f804}{0a00}:戦闘中のHP・TP回復など{f804}{0000}{f801}</source>

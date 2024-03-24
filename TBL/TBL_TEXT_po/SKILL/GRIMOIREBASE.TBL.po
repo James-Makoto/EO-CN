@@ -21,7 +21,7 @@ msgstr "生成了<zbr>"
 
 msgctxt "2"
 msgid "グリモア。<br>"
-msgstr "魔石。<br>"
+msgstr "魔导石。<br>"
 
 msgctxt "3"
 msgid "製作者不明の<zbr>"
@@ -29,4 +29,4 @@ msgstr "制作者不明的<zbr>"
 
 msgctxt "4"
 msgid "との戦闘で<zbr>生まれたグリモア石<br>"
-msgstr "战斗后<zbr>生成的魔石<br>"
+msgstr "战斗后<zbr>生成的魔导石<br>"
