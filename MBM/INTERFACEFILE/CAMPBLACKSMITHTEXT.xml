@@ -117,15 +117,15 @@
   </entry>
   <entry id="30">
     <source>斬耐性アップ{f801}</source>
-    <target>斩击耐性提升{f801}</target>
+    <target>斩击抗性提升{f801}</target>
   </entry>
   <entry id="31">
     <source>壊耐性アップ{f801}</source>
-    <target>破坏耐性提升{f801}</target>
+    <target>破坏抗性提升{f801}</target>
   </entry>
   <entry id="32">
     <source>突耐性アップ{f801}</source>
-    <target>突击耐性提升{f801}</target>
+    <target>突击抗性提升{f801}</target>
   </entry>
   <entry id="33">
     <source>スピードアップ{f801}</source>
