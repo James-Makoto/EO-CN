@@ -1465,7 +1465,7 @@
   </entry>
   <entry id="437">
     <source>{f811}{0100}のブーストが{f801}上昇した{f801}</source>
-    <target>{f811}{0100}的boost值{f801}增多了{f801}</target>
+    <target>{f811}{0100}的Boost值{f801}增多了{f801}</target>
   </entry>
   <entry id="438">
     <source>{f811}{0100}を図鑑に登録した!{f801}</source>
