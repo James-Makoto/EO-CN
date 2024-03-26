@@ -417,7 +417,7 @@
   </entry>
   <entry id="128">
     <source>ターン終了時、HPがMAXなら{f801}TPが回復する{f801}</source>
-    <target>回合结束时，HP为MAX的话{f801}恢复TP{f801}</target>
+    <target>回合结束时，若HP为MAX{f801}则恢复TP{f801}</target>
   </entry>
   <entry id="129">
     <source>味方1人のHPを回復する{f801}</source>
@@ -513,7 +513,7 @@
   </entry>
   <entry id="158">
     <source>ターン終了時、HPがMAXなら{f801}TPが回復する{f801}</source>
-    <target>回合结束时，HP为MAX的话{f801}恢复TP{f801}</target>
+    <target>回合结束时，若HP为MAX{f801}则恢复TP{f801}</target>
   </entry>
   <entry id="159">
     <source>敵1体に遠隔炎属性攻撃{f801}</source>
@@ -933,7 +933,7 @@
   </entry>
   <entry id="287">
     <source>敵1体に近接突攻撃。味方の属性攻撃後に発{f801}動させるとその属性が加わり威力が増加する{f801}</source>
-    <target>对1个敌人近接突击攻击。在我方属性攻击后{f801}发动的话，附加该属性威力提升{f801}</target>
+    <target>对1个敌人近接突击攻击。若在我方{f801}属性攻击后发动，则附加该属性威力提升{f801}</target>
   </entry>
   <entry id="288">
     <source>力を溜めて次のターンの攻撃力を上昇させ{f801}装備制限を無視してスキルが使用可能になる{f801}</source>

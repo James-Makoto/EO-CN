@@ -2277,19 +2277,19 @@ msgstr "手工奶酪"
 
 msgctxt "566"
 msgid "探偵の残したメモ1"
-msgstr "侦探留下的字条１"
+msgstr "侦探留下的字条1"
 
 msgctxt "567"
 msgid "探偵の残したメモ2"
-msgstr "侦探留下的字条２"
+msgstr "侦探留下的字条2"
 
 msgctxt "568"
 msgid "探偵の残した暗号1"
-msgstr "侦探留下的暗号１"
+msgstr "侦探留下的暗号1"
 
 msgctxt "569"
 msgid "探偵の残した暗号2"
-msgstr "侦探留下的暗号２"
+msgstr "侦探留下的暗号2"
 
 msgctxt "570"
 msgid "特濃砂糖水"
@@ -2616,79 +2616,79 @@ msgid "アザー500"
 msgstr "アザー500"
 
 msgctxt "651"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "652"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "653"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "654"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "655"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "656"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "657"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "658"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "659"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "660"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "661"
-msgid "銀のグリモアI"
+msgid "銀のグリモアＩ"
 msgstr "银之魔导石Ｉ"
 
 msgctxt "662"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "663"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "664"
-msgid "銀のグリモアI"
+msgid "銀のグリモアＩ"
 msgstr "银之魔导石Ｉ"
 
 msgctxt "665"
-msgid "金のグリモアI"
+msgid "金のグリモアＩ"
 msgstr "金之魔导石Ｉ"
 
 msgctxt "666"
-msgid "闇のグリモアI"
+msgid "闇のグリモアＩ"
 msgstr "暗之魔导石Ｉ"
 
 msgctxt "667"
-msgid "銀のグリモアI"
+msgid "銀のグリモアＩ"
 msgstr "银之魔导石Ｉ"
 
 msgctxt "668"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "669"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "670"
@@ -2700,7 +2700,7 @@ msgid "グリモア021"
 msgstr "グリモア０２１"
 
 msgctxt "672"
-msgid "銅のグリモアI"
+msgid "銅のグリモアＩ"
 msgstr "铜之魔导石Ｉ"
 
 msgctxt "673"
