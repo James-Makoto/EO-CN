@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0"
-msgid "NONE"
+msgid "ＮＯＮＥ"
 msgstr ""
 
 msgctxt "1"

@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0"
-msgid "NONE"
-msgstr "NONE"
+msgid "ＮＯＮＥ"
+msgstr "ＮＯＮＥ"
 
 msgctxt "1"
 msgid "小さな牙"
@@ -977,27 +977,27 @@ msgstr "真·魔神之核"
 
 msgctxt "241"
 msgid "ダミー238"
-msgstr "ダミー２３８"
+msgstr "ダミー238"
 
 msgctxt "242"
 msgid "ダミー239"
-msgstr "ダミー２３９"
+msgstr "ダミー239"
 
 msgctxt "243"
 msgid "ダミー240"
-msgstr "ダミー２４０"
+msgstr "ダミー240"
 
 msgctxt "244"
 msgid "ダミー241"
-msgstr "ダミー２４１"
+msgstr "ダミー241"
 
 msgctxt "245"
 msgid "ダミー242"
-msgstr "ダミー２４２"
+msgstr "ダミー242"
 
 msgctxt "246"
 msgid "ダミー243"
-msgstr "ダミー２４３"
+msgstr "ダミー243"
 
 msgctxt "247"
 msgid "輝石"
@@ -1365,251 +1365,251 @@ msgstr "古老的盾"
 
 msgctxt "338"
 msgid "素材バッファ38"
-msgstr "素材バッファ３８"
+msgstr "素材バッファ38"
 
 msgctxt "339"
 msgid "素材バッファ39"
-msgstr "素材バッファ３９"
+msgstr "素材バッファ39"
 
 msgctxt "340"
 msgid "素材バッファ40"
-msgstr "素材バッファ４０"
+msgstr "素材バッファ40"
 
 msgctxt "341"
 msgid "素材バッファ41"
-msgstr "素材バッファ４１"
+msgstr "素材バッファ41"
 
 msgctxt "342"
 msgid "素材バッファ42"
-msgstr "素材バッファ４２"
+msgstr "素材バッファ42"
 
 msgctxt "343"
 msgid "素材バッファ43"
-msgstr "素材バッファ４３"
+msgstr "素材バッファ43"
 
 msgctxt "344"
 msgid "素材バッファ44"
-msgstr "素材バッファ４４"
+msgstr "素材バッファ44"
 
 msgctxt "345"
 msgid "素材バッファ45"
-msgstr "素材バッファ４５"
+msgstr "素材バッファ45"
 
 msgctxt "346"
 msgid "素材バッファ46"
-msgstr "素材バッファ４６"
+msgstr "素材バッファ46"
 
 msgctxt "347"
 msgid "素材バッファ47"
-msgstr "素材バッファ４７"
+msgstr "素材バッファ47"
 
 msgctxt "348"
 msgid "素材バッファ48"
-msgstr "素材バッファ４８"
+msgstr "素材バッファ48"
 
 msgctxt "349"
 msgid "素材バッファ49"
-msgstr "素材バッファ４９"
+msgstr "素材バッファ49"
 
 msgctxt "350"
 msgid "素材バッファ50"
-msgstr "素材バッファ５０"
+msgstr "素材バッファ50"
 
 msgctxt "351"
 msgid "素材バッファ51"
-msgstr "素材バッファ５１"
+msgstr "素材バッファ51"
 
 msgctxt "352"
 msgid "素材バッファ52"
-msgstr "素材バッファ５２"
+msgstr "素材バッファ52"
 
 msgctxt "353"
 msgid "素材バッファ53"
-msgstr "素材バッファ５３"
+msgstr "素材バッファ53"
 
 msgctxt "354"
 msgid "素材バッファ54"
-msgstr "素材バッファ５４"
+msgstr "素材バッファ54"
 
 msgctxt "355"
 msgid "素材バッファ55"
-msgstr "素材バッファ５５"
+msgstr "素材バッファ55"
 
 msgctxt "356"
 msgid "素材バッファ56"
-msgstr "素材バッファ５６"
+msgstr "素材バッファ56"
 
 msgctxt "357"
 msgid "素材バッファ57"
-msgstr "素材バッファ５７"
+msgstr "素材バッファ57"
 
 msgctxt "358"
 msgid "素材バッファ58"
-msgstr "素材バッファ５８"
+msgstr "素材バッファ58"
 
 msgctxt "359"
 msgid "素材バッファ59"
-msgstr "素材バッファ５９"
+msgstr "素材バッファ59"
 
 msgctxt "360"
 msgid "素材バッファ60"
-msgstr "素材バッファ６０"
+msgstr "素材バッファ60"
 
 msgctxt "361"
 msgid "素材バッファ61"
-msgstr "素材バッファ６１"
+msgstr "素材バッファ61"
 
 msgctxt "362"
 msgid "素材バッファ62"
-msgstr "素材バッファ６２"
+msgstr "素材バッファ62"
 
 msgctxt "363"
 msgid "素材バッファ63"
-msgstr "素材バッファ６３"
+msgstr "素材バッファ63"
 
 msgctxt "364"
 msgid "素材バッファ64"
-msgstr "素材バッファ６４"
+msgstr "素材バッファ64"
 
 msgctxt "365"
 msgid "素材バッファ65"
-msgstr "素材バッファ６５"
+msgstr "素材バッファ65"
 
 msgctxt "366"
 msgid "素材バッファ66"
-msgstr "素材バッファ６６"
+msgstr "素材バッファ66"
 
 msgctxt "367"
 msgid "素材バッファ67"
-msgstr "素材バッファ６７"
+msgstr "素材バッファ67"
 
 msgctxt "368"
 msgid "素材バッファ68"
-msgstr "素材バッファ６８"
+msgstr "素材バッファ68"
 
 msgctxt "369"
 msgid "素材バッファ69"
-msgstr "素材バッファ６９"
+msgstr "素材バッファ69"
 
 msgctxt "370"
 msgid "素材バッファ70"
-msgstr "素材バッファ７０"
+msgstr "素材バッファ70"
 
 msgctxt "371"
 msgid "素材バッファ71"
-msgstr "素材バッファ７１"
+msgstr "素材バッファ71"
 
 msgctxt "372"
 msgid "素材バッファ72"
-msgstr "素材バッファ７２"
+msgstr "素材バッファ72"
 
 msgctxt "373"
 msgid "素材バッファ73"
-msgstr "素材バッファ７３"
+msgstr "素材バッファ73"
 
 msgctxt "374"
 msgid "素材バッファ74"
-msgstr "素材バッファ７４"
+msgstr "素材バッファ74"
 
 msgctxt "375"
 msgid "素材バッファ75"
-msgstr "素材バッファ７５"
+msgstr "素材バッファ75"
 
 msgctxt "376"
 msgid "素材バッファ76"
-msgstr "素材バッファ７６"
+msgstr "素材バッファ76"
 
 msgctxt "377"
 msgid "素材バッファ77"
-msgstr "素材バッファ７７"
+msgstr "素材バッファ77"
 
 msgctxt "378"
 msgid "素材バッファ78"
-msgstr "素材バッファ７８"
+msgstr "素材バッファ78"
 
 msgctxt "379"
 msgid "素材バッファ79"
-msgstr "素材バッファ７９"
+msgstr "素材バッファ79"
 
 msgctxt "380"
 msgid "素材バッファ80"
-msgstr "素材バッファ８０"
+msgstr "素材バッファ80"
 
 msgctxt "381"
 msgid "素材バッファ81"
-msgstr "素材バッファ８１"
+msgstr "素材バッファ81"
 
 msgctxt "382"
 msgid "素材バッファ82"
-msgstr "素材バッファ８２"
+msgstr "素材バッファ82"
 
 msgctxt "383"
 msgid "素材バッファ83"
-msgstr "素材バッファ８３"
+msgstr "素材バッファ83"
 
 msgctxt "384"
 msgid "素材バッファ84"
-msgstr "素材バッファ８４"
+msgstr "素材バッファ84"
 
 msgctxt "385"
 msgid "素材バッファ85"
-msgstr "素材バッファ８５"
+msgstr "素材バッファ85"
 
 msgctxt "386"
 msgid "素材バッファ86"
-msgstr "素材バッファ８６"
+msgstr "素材バッファ86"
 
 msgctxt "387"
 msgid "素材バッファ87"
-msgstr "素材バッファ８７"
+msgstr "素材バッファ87"
 
 msgctxt "388"
 msgid "素材バッファ88"
-msgstr "素材バッファ８８"
+msgstr "素材バッファ88"
 
 msgctxt "389"
 msgid "素材バッファ89"
-msgstr "素材バッファ８９"
+msgstr "素材バッファ89"
 
 msgctxt "390"
 msgid "素材バッファ90"
-msgstr "素材バッファ９０"
+msgstr "素材バッファ90"
 
 msgctxt "391"
 msgid "素材バッファ91"
-msgstr "素材バッファ９１"
+msgstr "素材バッファ91"
 
 msgctxt "392"
 msgid "素材バッファ92"
-msgstr "素材バッファ９２"
+msgstr "素材バッファ92"
 
 msgctxt "393"
 msgid "素材バッファ93"
-msgstr "素材バッファ９３"
+msgstr "素材バッファ93"
 
 msgctxt "394"
 msgid "素材バッファ94"
-msgstr "素材バッファ９４"
+msgstr "素材バッファ94"
 
 msgctxt "395"
 msgid "素材バッファ95"
-msgstr "素材バッファ９５"
+msgstr "素材バッファ95"
 
 msgctxt "396"
 msgid "素材バッファ96"
-msgstr "素材バッファ９６"
+msgstr "素材バッファ96"
 
 msgctxt "397"
 msgid "素材バッファ97"
-msgstr "素材バッファ９７"
+msgstr "素材バッファ97"
 
 msgctxt "398"
 msgid "素材バッファ98"
-msgstr "素材バッファ９８"
+msgstr "素材バッファ98"
 
 msgctxt "399"
 msgid "素材バッファ99"
-msgstr "素材バッファ９９"
+msgstr "素材バッファ99"
 
 msgctxt "400"
 msgid "素材バッファ百"
@@ -1925,95 +1925,95 @@ msgstr "世界树病毒"
 
 msgctxt "478"
 msgid "アイテム78"
-msgstr "アイテム７８"
+msgstr "アイテム78"
 
 msgctxt "479"
 msgid "アイテム79"
-msgstr "アイテム７９"
+msgstr "アイテム79"
 
 msgctxt "480"
 msgid "アイテム80"
-msgstr "アイテム８０"
+msgstr "アイテム80"
 
 msgctxt "481"
 msgid "アイテム81"
-msgstr "アイテム８１"
+msgstr "アイテム81"
 
 msgctxt "482"
 msgid "アイテム82"
-msgstr "アイテム８２"
+msgstr "アイテム82"
 
 msgctxt "483"
 msgid "アイテム83"
-msgstr "アイテム８３"
+msgstr "アイテム83"
 
 msgctxt "484"
 msgid "アイテム84"
-msgstr "アイテム８４"
+msgstr "アイテム84"
 
 msgctxt "485"
 msgid "アイテム85"
-msgstr "アイテム８５"
+msgstr "アイテム85"
 
 msgctxt "486"
 msgid "アイテム86"
-msgstr "アイテム８６"
+msgstr "アイテム86"
 
 msgctxt "487"
 msgid "アイテム87"
-msgstr "アイテム８７"
+msgstr "アイテム87"
 
 msgctxt "488"
 msgid "アイテム88"
-msgstr "アイテム８８"
+msgstr "アイテム88"
 
 msgctxt "489"
 msgid "アイテム89"
-msgstr "アイテム８９"
+msgstr "アイテム89"
 
 msgctxt "490"
 msgid "アイテム90"
-msgstr "アイテム９０"
+msgstr "アイテム90"
 
 msgctxt "491"
 msgid "アイテム91"
-msgstr "アイテム９１"
+msgstr "アイテム91"
 
 msgctxt "492"
 msgid "アイテム92"
-msgstr "アイテム９２"
+msgstr "アイテム92"
 
 msgctxt "493"
 msgid "アイテム93"
-msgstr "アイテム９３"
+msgstr "アイテム93"
 
 msgctxt "494"
 msgid "アイテム94"
-msgstr "アイテム９４"
+msgstr "アイテム94"
 
 msgctxt "495"
 msgid "アイテム95"
-msgstr "アイテム９５"
+msgstr "アイテム95"
 
 msgctxt "496"
 msgid "アイテム96"
-msgstr "アイテム９６"
+msgstr "アイテム96"
 
 msgctxt "497"
 msgid "アイテム97"
-msgstr "アイテム９７"
+msgstr "アイテム97"
 
 msgctxt "498"
 msgid "アイテム98"
-msgstr "アイテム９８"
+msgstr "アイテム98"
 
 msgctxt "499"
 msgid "アイテム99"
-msgstr "アイテム９９"
+msgstr "アイテム99"
 
 msgctxt "500"
 msgid "アイテム100"
-msgstr "アイテム１００"
+msgstr "アイテム100"
 
 msgctxt "501"
 msgid "迷宮の地図"
@@ -2116,23 +2116,23 @@ msgid "氷づけの腕"
 msgstr "冻住的手臂"
 
 msgctxt "526"
-msgid "アンク型のパーツA"
+msgid "アンク型のパーツＡ"
 msgstr "安卡形状的零件Ａ"
 
 msgctxt "527"
-msgid "アンク型のパーツB"
+msgid "アンク型のパーツＢ"
 msgstr "安卡形状的零件Ｂ"
 
 msgctxt "528"
-msgid "アンク型のパーツC"
+msgid "アンク型のパーツＣ"
 msgstr "安卡形状的零件Ｃ"
 
 msgctxt "529"
-msgid "アンク型のパーツD"
+msgid "アンク型のパーツＤ"
 msgstr "安卡形状的零件Ｄ"
 
 msgctxt "530"
-msgid "アンク型のパーツE"
+msgid "アンク型のパーツＥ"
 msgstr "安卡形状的零件Ｅ"
 
 msgctxt "531"
@@ -2309,111 +2309,111 @@ msgstr "感谢信"
 
 msgctxt "574"
 msgid "貴重品バッファ24"
-msgstr "貴重品バッファ２４"
+msgstr "貴重品バッファ24"
 
 msgctxt "575"
 msgid "貴重品バッファ25"
-msgstr "貴重品バッファ２５"
+msgstr "貴重品バッファ25"
 
 msgctxt "576"
 msgid "貴重品バッファ26"
-msgstr "貴重品バッファ２６"
+msgstr "貴重品バッファ26"
 
 msgctxt "577"
 msgid "貴重品バッファ27"
-msgstr "貴重品バッファ２７"
+msgstr "貴重品バッファ27"
 
 msgctxt "578"
 msgid "貴重品バッファ28"
-msgstr "貴重品バッファ２８"
+msgstr "貴重品バッファ28"
 
 msgctxt "579"
 msgid "貴重品バッファ29"
-msgstr "貴重品バッファ２９"
+msgstr "貴重品バッファ29"
 
 msgctxt "580"
 msgid "貴重品バッファ30"
-msgstr "貴重品バッファ３０"
+msgstr "貴重品バッファ30"
 
 msgctxt "581"
 msgid "貴重品バッファ31"
-msgstr "貴重品バッファ３１"
+msgstr "貴重品バッファ31"
 
 msgctxt "582"
 msgid "貴重品バッファ32"
-msgstr "貴重品バッファ３２"
+msgstr "貴重品バッファ32"
 
 msgctxt "583"
 msgid "貴重品バッファ33"
-msgstr "貴重品バッファ３３"
+msgstr "貴重品バッファ33"
 
 msgctxt "584"
 msgid "貴重品バッファ34"
-msgstr "貴重品バッファ３４"
+msgstr "貴重品バッファ34"
 
 msgctxt "585"
 msgid "貴重品バッファ35"
-msgstr "貴重品バッファ３５"
+msgstr "貴重品バッファ35"
 
 msgctxt "586"
 msgid "貴重品バッファ36"
-msgstr "貴重品バッファ３６"
+msgstr "貴重品バッファ36"
 
 msgctxt "587"
 msgid "貴重品バッファ37"
-msgstr "貴重品バッファ３７"
+msgstr "貴重品バッファ37"
 
 msgctxt "588"
 msgid "貴重品バッファ38"
-msgstr "貴重品バッファ３８"
+msgstr "貴重品バッファ38"
 
 msgctxt "589"
 msgid "貴重品バッファ39"
-msgstr "貴重品バッファ３９"
+msgstr "貴重品バッファ39"
 
 msgctxt "590"
 msgid "貴重品バッファ40"
-msgstr "貴重品バッファ４０"
+msgstr "貴重品バッファ40"
 
 msgctxt "591"
 msgid "貴重品バッファ41"
-msgstr "貴重品バッファ４１"
+msgstr "貴重品バッファ41"
 
 msgctxt "592"
 msgid "貴重品バッファ42"
-msgstr "貴重品バッファ４２"
+msgstr "貴重品バッファ42"
 
 msgctxt "593"
 msgid "貴重品バッファ43"
-msgstr "貴重品バッファ４３"
+msgstr "貴重品バッファ43"
 
 msgctxt "594"
 msgid "貴重品バッファ44"
-msgstr "貴重品バッファ４４"
+msgstr "貴重品バッファ44"
 
 msgctxt "595"
 msgid "貴重品バッファ45"
-msgstr "貴重品バッファ４５"
+msgstr "貴重品バッファ45"
 
 msgctxt "596"
 msgid "貴重品バッファ46"
-msgstr "貴重品バッファ４６"
+msgstr "貴重品バッファ46"
 
 msgctxt "597"
 msgid "貴重品バッファ47"
-msgstr "貴重品バッファ４７"
+msgstr "貴重品バッファ47"
 
 msgctxt "598"
 msgid "貴重品バッファ48"
-msgstr "貴重品バッファ４８"
+msgstr "貴重品バッファ48"
 
 msgctxt "599"
 msgid "貴重品バッファ49"
-msgstr "貴重品バッファ４９"
+msgstr "貴重品バッファ49"
 
 msgctxt "600"
 msgid "貴重品バッファ50"
-msgstr "貴重品バッファ５０"
+msgstr "貴重品バッファ50"
 
 msgctxt "601"
 msgid "物攻のハンマー"
@@ -2525,95 +2525,95 @@ msgstr "拡扩散之锤"
 
 msgctxt "628"
 msgid "アザー478"
-msgstr "アザー４７８"
+msgstr "アザー478"
 
 msgctxt "629"
 msgid "アザー479"
-msgstr "アザー４７９"
+msgstr "アザー479"
 
 msgctxt "630"
 msgid "アザー480"
-msgstr "アザー４８０"
+msgstr "アザー480"
 
 msgctxt "631"
 msgid "アザー481"
-msgstr "アザー４８１"
+msgstr "アザー481"
 
 msgctxt "632"
 msgid "アザー482"
-msgstr "アザー４８２"
+msgstr "アザー482"
 
 msgctxt "633"
 msgid "アザー483"
-msgstr "アザー４８３"
+msgstr "アザー483"
 
 msgctxt "634"
 msgid "アザー484"
-msgstr "アザー４８４"
+msgstr "アザー484"
 
 msgctxt "635"
 msgid "アザー485"
-msgstr "アザー４８５"
+msgstr "アザー485"
 
 msgctxt "636"
 msgid "アザー486"
-msgstr "アザー４８６"
+msgstr "アザー486"
 
 msgctxt "637"
 msgid "アザー487"
-msgstr "アザー４８７"
+msgstr "アザー487"
 
 msgctxt "638"
 msgid "アザー488"
-msgstr "アザー４８８"
+msgstr "アザー488"
 
 msgctxt "639"
 msgid "アザー489"
-msgstr "アザー４８９"
+msgstr "アザー489"
 
 msgctxt "640"
 msgid "アザー490"
-msgstr "アザー４９０"
+msgstr "アザー490"
 
 msgctxt "641"
 msgid "アザー491"
-msgstr "アザー４９１"
+msgstr "アザー491"
 
 msgctxt "642"
 msgid "アザー492"
-msgstr "アザー４９２"
+msgstr "アザー492"
 
 msgctxt "643"
 msgid "アザー493"
-msgstr "アザー４９３"
+msgstr "アザー493"
 
 msgctxt "644"
 msgid "アザー494"
-msgstr "アザー４９４"
+msgstr "アザー494"
 
 msgctxt "645"
 msgid "アザー495"
-msgstr "アザー４９５"
+msgstr "アザー495"
 
 msgctxt "646"
 msgid "アザー496"
-msgstr "アザー４９６"
+msgstr "アザー496"
 
 msgctxt "647"
 msgid "アザー497"
-msgstr "アザー４９７"
+msgstr "アザー497"
 
 msgctxt "648"
 msgid "アザー498"
-msgstr "アザー４９８"
+msgstr "アザー498"
 
 msgctxt "649"
 msgid "アザー499"
-msgstr "アザー４９９"
+msgstr "アザー499"
 
 msgctxt "650"
 msgid "アザー500"
-msgstr "アザー５００"
+msgstr "アザー500"
 
 msgctxt "651"
 msgid "銅のグリモアI"
@@ -2705,275 +2705,275 @@ msgstr "铜之魔导石Ｉ"
 
 msgctxt "673"
 msgid "グリモア023"
-msgstr "グリモア０２３"
+msgstr "グリモア023"
 
 msgctxt "674"
 msgid "グリモア024"
-msgstr "グリモア０２４"
+msgstr "グリモア024"
 
 msgctxt "675"
 msgid "グリモア025"
-msgstr "グリモア０２５"
+msgstr "グリモア025"
 
 msgctxt "676"
 msgid "グリモア026"
-msgstr "グリモア０２６"
+msgstr "グリモア026"
 
 msgctxt "677"
 msgid "グリモア027"
-msgstr "グリモア０２７"
+msgstr "グリモア027"
 
 msgctxt "678"
 msgid "グリモア028"
-msgstr "グリモア０２８"
+msgstr "グリモア028"
 
 msgctxt "679"
 msgid "グリモア029"
-msgstr "グリモア０２９"
+msgstr "グリモア029"
 
 msgctxt "680"
 msgid "グリモア030"
-msgstr "グリモア０３０"
+msgstr "グリモア030"
 
 msgctxt "681"
 msgid "グリモア031"
-msgstr "グリモア０３１"
+msgstr "グリモア031"
 
 msgctxt "682"
 msgid "グリモア032"
-msgstr "グリモア０３２"
+msgstr "グリモア032"
 
 msgctxt "683"
 msgid "グリモア033"
-msgstr "グリモア０３３"
+msgstr "グリモア033"
 
 msgctxt "684"
 msgid "グリモア034"
-msgstr "グリモア０３４"
+msgstr "グリモア034"
 
 msgctxt "685"
 msgid "グリモア035"
-msgstr "グリモア０３５"
+msgstr "グリモア035"
 
 msgctxt "686"
 msgid "グリモア036"
-msgstr "グリモア０３６"
+msgstr "グリモア036"
 
 msgctxt "687"
 msgid "グリモア037"
-msgstr "グリモア０３７"
+msgstr "グリモア037"
 
 msgctxt "688"
 msgid "グリモア038"
-msgstr "グリモア０３８"
+msgstr "グリモア038"
 
 msgctxt "689"
 msgid "グリモア039"
-msgstr "グリモア０３９"
+msgstr "グリモア039"
 
 msgctxt "690"
 msgid "グリモア040"
-msgstr "グリモア０４０"
+msgstr "グリモア040"
 
 msgctxt "691"
 msgid "グリモア041"
-msgstr "グリモア０４１"
+msgstr "グリモア041"
 
 msgctxt "692"
 msgid "グリモア042"
-msgstr "グリモア０４２"
+msgstr "グリモア042"
 
 msgctxt "693"
 msgid "グリモア043"
-msgstr "グリモア０４３"
+msgstr "グリモア043"
 
 msgctxt "694"
 msgid "グリモア044"
-msgstr "グリモア０４４"
+msgstr "グリモア044"
 
 msgctxt "695"
 msgid "グリモア045"
-msgstr "グリモア０４５"
+msgstr "グリモア045"
 
 msgctxt "696"
 msgid "グリモア046"
-msgstr "グリモア０４６"
+msgstr "グリモア046"
 
 msgctxt "697"
 msgid "グリモア047"
-msgstr "グリモア０４７"
+msgstr "グリモア047"
 
 msgctxt "698"
 msgid "グリモア048"
-msgstr "グリモア０４８"
+msgstr "グリモア048"
 
 msgctxt "699"
 msgid "グリモア049"
-msgstr "グリモア０４９"
+msgstr "グリモア049"
 
 msgctxt "700"
 msgid "グリモア050"
-msgstr "グリモア０５０"
+msgstr "グリモア050"
 
 msgctxt "701"
 msgid "グリモア051"
-msgstr "グリモア０５１"
+msgstr "グリモア051"
 
 msgctxt "702"
 msgid "グリモア052"
-msgstr "グリモア０５２"
+msgstr "グリモア052"
 
 msgctxt "703"
 msgid "グリモア053"
-msgstr "グリモア０５３"
+msgstr "グリモア053"
 
 msgctxt "704"
 msgid "グリモア054"
-msgstr "グリモア０５４"
+msgstr "グリモア054"
 
 msgctxt "705"
 msgid "グリモア055"
-msgstr "グリモア０５５"
+msgstr "グリモア055"
 
 msgctxt "706"
 msgid "グリモア056"
-msgstr "グリモア０５６"
+msgstr "グリモア056"
 
 msgctxt "707"
 msgid "グリモア057"
-msgstr "グリモア０５７"
+msgstr "グリモア057"
 
 msgctxt "708"
 msgid "グリモア058"
-msgstr "グリモア０５８"
+msgstr "グリモア058"
 
 msgctxt "709"
 msgid "グリモア059"
-msgstr "グリモア０５９"
+msgstr "グリモア059"
 
 msgctxt "710"
 msgid "グリモア060"
-msgstr "グリモア０６０"
+msgstr "グリモア060"
 
 msgctxt "711"
 msgid "グリモア061"
-msgstr "グリモア０６１"
+msgstr "グリモア061"
 
 msgctxt "712"
 msgid "グリモア062"
-msgstr "グリモア０６２"
+msgstr "グリモア062"
 
 msgctxt "713"
 msgid "グリモア063"
-msgstr "グリモア０６３"
+msgstr "グリモア063"
 
 msgctxt "714"
 msgid "グリモア064"
-msgstr "グリモア０６４"
+msgstr "グリモア064"
 
 msgctxt "715"
 msgid "グリモア065"
-msgstr "グリモア０６５"
+msgstr "グリモア065"
 
 msgctxt "716"
 msgid "グリモア066"
-msgstr "グリモア０６６"
+msgstr "グリモア066"
 
 msgctxt "717"
 msgid "グリモア067"
-msgstr "グリモア０６７"
+msgstr "グリモア067"
 
 msgctxt "718"
 msgid "グリモア068"
-msgstr "グリモア０６８"
+msgstr "グリモア068"
 
 msgctxt "719"
 msgid "グリモア069"
-msgstr "グリモア０６９"
+msgstr "グリモア069"
 
 msgctxt "720"
 msgid "グリモア070"
-msgstr "グリモア０７０"
+msgstr "グリモア070"
 
 msgctxt "721"
 msgid "グリモア071"
-msgstr "グリモア０７１"
+msgstr "グリモア071"
 
 msgctxt "722"
 msgid "グリモア072"
-msgstr "グリモア０７２"
+msgstr "グリモア072"
 
 msgctxt "723"
 msgid "グリモア073"
-msgstr "グリモア０７３"
+msgstr "グリモア073"
 
 msgctxt "724"
 msgid "グリモア074"
-msgstr "グリモア０７４"
+msgstr "グリモア074"
 
 msgctxt "725"
 msgid "グリモア075"
-msgstr "グリモア０７５"
+msgstr "グリモア075"
 
 msgctxt "726"
 msgid "グリモア076"
-msgstr "グリモア０７６"
+msgstr "グリモア076"
 
 msgctxt "727"
 msgid "グリモア077"
-msgstr "グリモア０７７"
+msgstr "グリモア077"
 
 msgctxt "728"
 msgid "グリモア078"
-msgstr "グリモア０７８"
+msgstr "グリモア078"
 
 msgctxt "729"
 msgid "グリモア079"
-msgstr "グリモア０７９"
+msgstr "グリモア079"
 
 msgctxt "730"
 msgid "グリモア080"
-msgstr "グリモア０８０"
+msgstr "グリモア080"
 
 msgctxt "731"
 msgid "グリモア081"
-msgstr "グリモア０８１"
+msgstr "グリモア081"
 
 msgctxt "732"
 msgid "グリモア082"
-msgstr "グリモア０８２"
+msgstr "グリモア082"
 
 msgctxt "733"
 msgid "グリモア083"
-msgstr "グリモア０８３"
+msgstr "グリモア083"
 
 msgctxt "734"
 msgid "グリモア084"
-msgstr "グリモア０８４"
+msgstr "グリモア084"
 
 msgctxt "735"
 msgid "グリモア085"
-msgstr "グリモア０８５"
+msgstr "グリモア085"
 
 msgctxt "736"
 msgid "グリモア086"
-msgstr "グリモア０８６"
+msgstr "グリモア086"
 
 msgctxt "737"
 msgid "グリモア087"
-msgstr "グリモア０８７"
+msgstr "グリモア087"
 
 msgctxt "738"
 msgid "グリモア088"
-msgstr "グリモア０８８"
+msgstr "グリモア088"
 
 msgctxt "739"
 msgid "グリモア089"
-msgstr "グリモア０８９"
+msgstr "グリモア089"
 
 msgctxt "740"
 msgid "グリモア090"
-msgstr "グリモア０９０"
+msgstr "グリモア090"
 
 msgctxt "741"
 msgid "狼王のグリモア"
@@ -3005,12 +3005,12 @@ msgstr "花王的魔导石"
 
 msgctxt "748"
 msgid "グリモア098"
-msgstr "グリモア０９８"
+msgstr "グリモア098"
 
 msgctxt "749"
 msgid "グリモア099"
-msgstr "グリモア０９９"
+msgstr "グリモア099"
 
 msgctxt "750"
 msgid "グリモア100"
-msgstr "グリモア１００"
+msgstr "グリモア100"
