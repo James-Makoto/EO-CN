@@ -197,7 +197,7 @@
   </entry>
   <entry id="55">
     <source>探索中、味方1人を一定確率で{f801}戦闘不能から回復する{f801}</source>
-    <target>探索中一定概率恢复我方1人{f801}战斗不能状态{f801}</target>
+    <target>探索中一定概率恢复我方1人{f801}无法战斗状态{f801}</target>
   </entry>
   <entry id="62">
     <source>最大HPが上昇する{f801}</source>
@@ -217,7 +217,7 @@
   </entry>
   <entry id="66">
     <source>自身が戦闘不能になるダメージを受けた時{f801}一定確率でHP1で生き残る事ができる{f801}</source>
-    <target>自己受到可造成战斗不能伤害时{f801}一定几率以HP1存活{f801}</target>
+    <target>自己受到可造成无法战斗状态的伤害时{f801}一定几率以HP1存活{f801}</target>
   </entry>
   <entry id="67">
     <source>自身が攻撃を受けた時{f801}一定確率で防御を行いダメージを軽減する{f801}</source>
@@ -441,7 +441,7 @@
   </entry>
   <entry id="134">
     <source>味方1人を戦闘不能から回復する{f801}</source>
-    <target>恢复我方1人的战斗不能状态{f801}</target>
+    <target>恢复我方1人的无法战斗状态{f801}</target>
   </entry>
   <entry id="135">
     <source>味方{f811}{0100}に付着した封じを回復する{f801}</source>
@@ -457,7 +457,7 @@
   </entry>
   <entry id="138">
     <source>{f811}{0000}ターンの間、味方全体の戦闘不能を{f801}一定確率で防ぎ、HP1で生き残るようにする{f801}</source>
-    <target>{f811}{0000}回合内，一定概率预防{f801}我方全体战斗不能，以HP1存活{f801}</target>
+    <target>{f811}{0000}回合内，一定概率预防{f801}我方全体无法战斗的情况，以HP1存活{f801}</target>
   </entry>
   <entry id="139">
     <source>{f811}{0000}ターンの間、味方1人の{f801}HPをターン終了時に回復する{f801}</source>
@@ -725,7 +725,7 @@
   </entry>
   <entry id="223">
     <source>上段の構え専用:{f801}敵1列に近接斬+炎属性攻撃{f801}</source>
-    <target>上段架势专用:{f801}对1列敌人近接斩+炎属性攻击{f801}</target>
+    <target>上段架势专用:{f801}对1列敌人近接斩击+炎属性攻击{f801}</target>
   </entry>
   <entry id="224">
     <source>青眼の構えに移行し、{f811}{0000}ターンの間{f801}物理防御力と物理攻撃力が上昇する{f801}</source>
@@ -741,7 +741,7 @@
   </entry>
   <entry id="227">
     <source>青眼の構え専用:{f801}前後の敵2体を貫通する近接突+雷属性攻撃{f801}</source>
-    <target>青眼架势专用:{f801}贯穿前后2个敌人的近接突+雷属性攻击{f801}</target>
+    <target>青眼架势专用:{f801}贯穿前后2个敌人的近接突击+雷属性攻击{f801}</target>
   </entry>
   <entry id="228">
     <source>居合いの構えに移行し、{f811}{0000}ターンの間{f801}行動速度、命中率、回避率が上昇する{f801}</source>
@@ -757,7 +757,7 @@
   </entry>
   <entry id="231">
     <source>居合いの構え専用:{f801}敵全体に遠隔斬+氷属性攻撃{f801}</source>
-    <target>居合架势专用:{f801}对敌方全体远隔斩+冰属性攻击{f801}</target>
+    <target>居合架势专用:{f801}对敌方全体远隔斩击+冰属性攻击{f801}</target>
   </entry>
   <entry id="232">
     <source>採掘ポイントで{f801}入手できる素材数が増える探索スキル{f801}</source>
@@ -1017,27 +1017,27 @@
   </entry>
   <entry id="313">
     <source>敵1体に遠隔突+炎属性攻撃{f801}</source>
-    <target>对1个敌人远隔突+炎属性攻击{f801}</target>
+    <target>对1个敌人远隔突击+炎属性攻击{f801}</target>
   </entry>
   <entry id="314">
     <source>敵1体に遠隔突+炎属性攻撃{f801}発動まで防御力が低下する{f801}</source>
-    <target>对1个敌人远隔突+炎属性攻击{f801}发动前防御力下降{f801}</target>
+    <target>对1个敌人远隔突击+炎属性攻击{f801}发动前防御力下降{f801}</target>
   </entry>
   <entry id="315">
     <source>敵1体に遠隔突+氷属性攻撃{f801}</source>
-    <target>对1个敌人远隔突+冰属性攻击{f801}</target>
+    <target>对1个敌人远隔突击+冰属性攻击{f801}</target>
   </entry>
   <entry id="316">
     <source>敵1体に遠隔突+氷属性攻撃{f801}発動まで防御力が低下する{f801}</source>
-    <target>对1个敌人远隔突+冰属性攻击{f801}发动前防御力下降{f801}</target>
+    <target>对1个敌人远隔突击+冰属性攻击{f801}发动前防御力下降{f801}</target>
   </entry>
   <entry id="317">
     <source>敵1体に遠隔突+雷属性攻撃{f801}</source>
-    <target>对1个敌人远隔突+雷属性攻击{f801}</target>
+    <target>对1个敌人远隔突击+雷属性攻击{f801}</target>
   </entry>
   <entry id="318">
     <source>敵1体に遠隔突+雷属性攻撃{f801}発動まで防御力が低下する{f801}</source>
-    <target>对1个敌人远隔突+雷属性攻击{f801}发动前防御力下降{f801}</target>
+    <target>对1个敌人远隔突击+雷属性攻击{f801}发动前防御力下降{f801}</target>
   </entry>
   <entry id="319">
     <source>自身が後列でDEFENCEする時{f801}前列の味方のHPが回復する{f801}</source>
@@ -1093,7 +1093,7 @@
   </entry>
   <entry id="338">
     <source>このターン{f801}自身は戦闘不能にならない{f801}</source>
-    <target>本回合{f801}自己不会战斗陷入战斗不能状态{f801}</target>
+    <target>本回合{f801}自己不会在战斗中陷入无法战斗状态{f801}</target>
   </entry>
   <entry id="426">
     <source>−−{f801}</source>

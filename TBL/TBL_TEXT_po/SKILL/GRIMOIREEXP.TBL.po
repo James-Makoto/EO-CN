@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0"
-msgid "NONE"
-msgstr ""
+msgid "ＮＯＮＥ"
+msgstr "ＮＯＮＥ"
 
 msgctxt "1"
 msgid "所有者の肉体に強靭性を<zbr>付与する力を秘めた魔石。"

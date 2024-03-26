@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "0"
-msgid "NONE"
-msgstr "NONE"
+msgid "ＮＯＮＥ"
+msgstr "ＮＯＮＥ"
 
 msgctxt "1"
 msgid "強化"
