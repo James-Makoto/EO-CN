@@ -1,11 +1,11 @@
 <mbm>
   <entry id="0">
     <source>新米冒険者の心得{f801}</source>
-    <target>新人冒险者的心得{f801}</target>
+    <target>冒险者新手的须知{f801}</target>
   </entry>
   <entry id="1">
     <source>スノードリフトの恐怖!{f801}</source>
-    <target>雪色漫游者的恐怖!{f801}</target>
+    <target>恐怖的雪色漫游者!{f801}</target>
   </entry>
   <entry id="2">
     <source>飛竜のタマゴを入手せよ!{f801}</source>
@@ -13,11 +13,11 @@
   </entry>
   <entry id="3">
     <source>密林の魔物ケルヌンノスを倒せ!{f801}</source>
-    <target>打倒密林的魔物科尔努诺斯吧!{f801}</target>
+    <target>打倒密林内的魔物科尔努诺斯吧!{f801}</target>
   </entry>
   <entry id="4">
     <source>新たな階層の地図をつくれ!{f801}</source>
-    <target>绘制新一层的地图吧!{f801}</target>
+    <target>绘制新阶层的地图吧!{f801}</target>
   </entry>
   <entry id="5">
     <source>樹海に住む謎の生物を調査しろ!{f801}</source>
@@ -45,10 +45,10 @@
   </entry>
   <entry id="11">
     <source>ハイランダーへの試練{f801}</source>
-    <target>对高地之民提出的试炼{f801}</target>
+    <target>针对高地之民的试炼{f801}</target>
   </entry>
   <entry id="12">
     <source>エトリアの怪異を追え!{f801}</source>
-    <target>追寻埃托利亚的怪异!{f801}</target>
+    <target>调查埃托利亚的怪异事件!{f801}</target>
   </entry>
 </mbm>
