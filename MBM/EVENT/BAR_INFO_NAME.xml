@@ -17,7 +17,7 @@
   </entry>
   <entry id="9">
     <source>筋骨たくましい義足の男{f801}</source>
-    <target>筋骨强健的义足男子{f801}</target>
+    <target>强壮的义足男子{f801}</target>
   </entry>
   <entry id="10">
     <source>神経質そうな女{f801}</source>
@@ -29,11 +29,11 @@
   </entry>
   <entry id="16">
     <source>短剣を失くした冒険者{f801}</source>
-    <target>丢掉了短剑的冒险者{f801}</target>
+    <target>丢失短剑的冒险者{f801}</target>
   </entry>
   <entry id="17">
     <source>仕事帰りの大工{f801}</source>
-    <target>下班回家的木匠{f801}</target>
+    <target>下班的木匠{f801}</target>
   </entry>
   <entry id="18">
     <source>さびしげな目の冒険者{f801}</source>
@@ -53,7 +53,7 @@
   </entry>
   <entry id="22">
     <source>身なりのいい男{f801}</source>
-    <target>衣冠楚楚的男人{f801}</target>
+    <target>衣冠楚楚的男子{f801}</target>
   </entry>
   <entry id="23">
     <source>恰幅のいい商人{f801}</source>
@@ -65,7 +65,7 @@
   </entry>
   <entry id="25">
     <source>パイプを咥えた男{f801}</source>
-    <target>叼着烟斗的男人{f801}</target>
+    <target>叼着烟斗的男子{f801}</target>
   </entry>
   <entry id="26">
     <source>探偵オースティン{f801}</source>
@@ -73,11 +73,11 @@
   </entry>
   <entry id="27">
     <source>赤ら顔の唇がねじれた男{f801}</source>
-    <target>扭曲着嘴唇的红颜男士{f801}</target>
+    <target>歪唇的红脸男子{f801}</target>
   </entry>
   <entry id="39">
     <source>純朴そうな職人風の青年{f801}</source>
-    <target>相貌淳朴的工匠风格青年{f801}</target>
+    <target>淳朴的工匠青年{f801}</target>
   </entry>
   <entry id="40">
     <source>白手袋の美しき淑女{f801}</source>
@@ -85,7 +85,7 @@
   </entry>
   <entry id="51">
     <source>変わった服を着た調合師{f801}</source>
-    <target>穿着奇怪服装的调和师{f801}</target>
+    <target>衣着奇怪的调和师{f801}</target>
   </entry>
   <entry id="53">
     <source>メモをとる丸メガネの子供{f801}</source>
@@ -117,7 +117,7 @@
   </entry>
   <entry id="61">
     <source>分厚い本を持つ男{f801}</source>
-    <target>拿着厚书的男人{f801}</target>
+    <target>拿着厚书的男子{f801}</target>
   </entry>
   <entry id="62">
     <source>人当たりの良い笑みの剣士{f801}</source>
@@ -125,7 +125,7 @@
   </entry>
   <entry id="64">
     <source>疲れ切った顔の偉丈夫{f801}</source>
-    <target>一脸疲惫的大男子汉{f801}</target>
+    <target>一脸疲惫的魁梧男子{f801}</target>
   </entry>
   <entry id="65">
     <source>おしゃまな少女{f801}</source>
@@ -133,11 +133,11 @@
   </entry>
   <entry id="66">
     <source>アシンメトリな髪型の詩人{f801}</source>
-    <target>梳着不对称发型的诗人{f801}</target>
+    <target>偏分发型的诗人{f801}</target>
   </entry>
   <entry id="67">
     <source>目つきの悪い痩せた錬金術師{f801}</source>
-    <target>眼神凶恶的消瘦炼金术师{f801}</target>
+    <target>眼神凶恶的瘦小炼金术师{f801}</target>
   </entry>
   <entry id="68">
     <source>視線が泳いでる白衣の青年{f801}</source>
@@ -145,15 +145,15 @@
   </entry>
   <entry id="69">
     <source>暗い目をした狩人{f801}</source>
-    <target>眼神昏暗的猎人{f801}</target>
+    <target>阴沉的猎人{f801}</target>
   </entry>
   <entry id="70">
     <source>豪快に飲み食いする男{f801}</source>
-    <target>豪饮暴食的男人{f801}</target>
+    <target>豪饮暴食的男子{f801}</target>
   </entry>
   <entry id="72">
     <source>小さな老婦人{f801}</source>
-    <target>矮小的老妪{f801}</target>
+    <target>矮小的老妇人{f801}</target>
   </entry>
   <entry id="73">
     <source>喋りっぱなしのおばさん{f801}</source>
