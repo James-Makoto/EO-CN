@@ -117,7 +117,7 @@
   </entry>
   <entry id="31">
     <source>しかし効果はなかった!{f801}</source>
-    <target>但是、没有效果!{f801}</target>
+    <target>但是，没有效果!{f801}</target>
   </entry>
   <entry id="32">
     <source>{f804}{0300}『STATUS』{f804}{0000}メニューでは…{f801}キャラクターのステータス・装備・{f801}スキルの一覧を見ることができます{f801}</source>
@@ -185,7 +185,7 @@
   </entry>
   <entry id="54">
     <source>しかし{f811}{0000}は{f801}発動しなかった{f801}</source>
-    <target>但是、{f811}{0000}{f801}没有效果。{f801}</target>
+    <target>但是，{f811}{0000}{f801}没有效果。{f801}</target>
   </entry>
   <entry id="55">
     <source>{f811}{0100}は{f801}{f811}{0000}を起動した!{f801}</source>
