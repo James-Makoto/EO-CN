@@ -15077,7 +15077,7 @@
   </entry>
   <entry id="3769">
     <source>発射までに時間のかかる{f801}強力な炎の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射{f801}使用强大火焰子弹的技能{f801}</target>
+    <target>需要一定时间发射的{f801}使用强大火焰子弹的技能{f801}</target>
   </entry>
   <entry id="3770">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15173,7 +15173,7 @@
   </entry>
   <entry id="3793">
     <source>発射までに時間のかかる{f801}強力な氷の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射{f801}使用强大寒冰子弹的技能{f801}</target>
+    <target>需要一定时间发射的{f801}使用强大寒冰子弹的技能{f801}</target>
   </entry>
   <entry id="3794">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15269,7 +15269,7 @@
   </entry>
   <entry id="3817">
     <source>発射までに時間のかかる{f801}強力な雷の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射{f801}使用强大雷电子弹的技能{f801}</target>
+    <target>需要一定时间发射的{f801}使用强大雷电子弹的技能{f801}</target>
   </entry>
   <entry id="3818">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15557,7 +15557,7 @@
   </entry>
   <entry id="3889">
     <source>発射までに時間のかかる{f801}強力な弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射{f801}使用强力子弹的技能{f801}</target>
+    <target>需要一定时间发射的{f801}使用强力子弹的技能{f801}</target>
   </entry>
   <entry id="3890">
     <source>スキル習得{f801}消費TP15{f801}</source>
