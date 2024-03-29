@@ -105,10 +105,10 @@
   </entry>
   <entry id="30">
     <source>グリモアの生成は行えないようだ{f801}</source>
-    <target>グリモアの生成は行えないようだ{f801}</target>
+    <target>似乎无法生成魔导石{f801}</target>
   </entry>
   <entry id="31">
     <source>アイテム欄が一杯で{f801}グリモアを生成する事ができません{f801}</source>
-    <target>アイテム欄が一杯で{f801}グリモアを生成する事ができません{f801}</target>
+    <target>因为道具栏已满{f801}无法生成魔导石。{f801}</target>
   </entry>
 </mbm>

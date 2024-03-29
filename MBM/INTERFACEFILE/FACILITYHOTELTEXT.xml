@@ -65,7 +65,7 @@
   </entry>
   <entry id="16">
     <source>{f811}{0000}はこれ以上預けられません!{f801}</source>
-    <target>无法再寄存{f811}{0000}个以上的物品!{f801}</target>
+    <target>无法再存放{f811}{0000}了!{f801}</target>
   </entry>
   <entry id="17">
     <source>預ける荷物を選択してください{f801}</source>
