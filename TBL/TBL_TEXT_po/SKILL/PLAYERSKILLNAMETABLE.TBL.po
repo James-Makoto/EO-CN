@@ -1241,7 +1241,7 @@ msgstr "弱点锁定"
 
 msgctxt "307"
 msgid "ペネトレイター"
-msgstr "贯穿器"
+msgstr "贯穿打击"
 
 msgctxt "308"
 msgid "リチャージ"
