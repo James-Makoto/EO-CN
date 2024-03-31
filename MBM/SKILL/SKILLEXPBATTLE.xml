@@ -1041,7 +1041,7 @@
   </entry>
   <entry id="319">
     <source>自身が後列でDEFENCEする時{f801}前列の味方のHPが回復する{f801}</source>
-    <target>自己在后列DEFENCE使{f801}恢复前列队友的HP{f801}</target>
+    <target>自己在后列DEFENCE时{f801}恢复前列队友的HP{f801}</target>
   </entry>
   <entry id="320">
     <source>このターン、敵後列の攻撃、防御、命中率{f801}回避率を下げ、一定確率でスタンさせる{f801}</source>
