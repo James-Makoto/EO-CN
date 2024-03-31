@@ -2245,7 +2245,7 @@
   </entry>
   <entry id="713">
     <source>敵全体に一定確率で{f801}石化か混乱効果が発動する{f801}</source>
-    <target>对敌方全体一定几率发动f801}石化或混乱效果{f801}</target>
+    <target>对敌方全体一定几率发动{f801}石化或混乱效果{f801}</target>
   </entry>
   <entry id="714">
     <source>敵全体に一定確率で盲目効果が発動する{f801}</source>
