@@ -1,0 +1,138 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>個人情報や受け取った人が、{f801}不快に思う事は書かないでください。{f801}</source>
+    <target>個人情報や受け取った人が、{f801}不快に思う事は書かないでください。{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>すでに入手済みの情報です。{f801}</source>
+    <target>すでに入手済みの情報です。{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>秘宝・{f811}{0000}の情報を手に入れました!{f801}</source>
+    <target>秘宝・{f811}{0000}の情報を手に入れました!{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>条件を満たしていません。{f801}</source>
+    <target>条件を満たしていません。{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>このギルドカードを削除します{f801}よろしいですか?{f801}</source>
+    <target>このギルドカードを削除します{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>ギルドカードを削除しました。{f801}</source>
+    <target>ギルドカードを削除しました。{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>レベルが足りません。{f801}</source>
+    <target>レベルが足りません。{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>ギルドが一杯です。{f801}</source>
+    <target>ギルドが一杯です。{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>ゲームコインが足りません。{f801}</source>
+    <target>ゲームコインが足りません。{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>ギルド登録後に自動でセーブされます{f801}よろしいですか?{f801}</source>
+    <target>ギルド登録後に自動でセーブされます{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか。{f801}</source>
+    <target>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか。{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>ギルドに登録しました。{f801}</source>
+    <target>ギルドに登録しました。{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>不適切な内容です。{f801}もう一度、入力してください。{f801}</source>
+    <target>不適切な内容です。{f801}もう一度、入力してください。{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>数字は5文字までしか入力できません。{f801}もう一度、入力してください。{f801}</source>
+    <target>数字は5文字までしか入力できません。{f801}もう一度、入力してください。{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>{f804}{0500}他者を不快にしたり、その権利を侵害する{f801}文章{f804}{0000}や{f804}{0500}自身や他人のプライベートな情報{f804}{0000}は{f801}他人に渡したり公開しないでください{f801}</source>
+    <target>{f804}{0500}他者を不快にしたり、その権利を侵害する{f801}文章{f804}{0000}や{f804}{0500}自身や他人のプライベートな情報{f804}{0000}は{f801}他人に渡したり公開しないでください{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>自分のギルドカードのQRコードと{f801}画像データをSDカードに出力します。{f801}{f804}{0300}既にデータが存在する場合は上書きします。{f804}{0000}{f801}</source>
+    <target>自分のギルドカードのQRコードと{f801}画像データをSDカードに出力します。{f801}{f804}{0300}既にデータが存在する場合は上書きします。{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>SDカードに出力してよろしいですか?{f801}</source>
+    <target>SDカードに出力してよろしいですか?{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>SDカードにアクセスできません。{f801}</source>
+    <target>SDカードにアクセスできません。{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>SDカードへの出力に失敗しました。{f801}</source>
+    <target>SDカードへの出力に失敗しました。{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>QRコードのエンコードに失敗しました。{f801}</source>
+    <target>QRコードのエンコードに失敗しました。{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>QRコードと画像データを{f801}SDカードに出力しました。{f801}</source>
+    <target>QRコードと画像データを{f801}SDカードに出力しました。{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>ギルドカードのデータを画像データとして{f801}SDカードに出力してよろしいですか?{f801}</source>
+    <target>ギルドカードのデータを画像データとして{f801}SDカードに出力してよろしいですか?{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>画像データの出力に失敗しました。{f801}</source>
+    <target>画像データの出力に失敗しました。{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>ギルドカードの画像を{f801}SDカードに出力しました。{f801}</source>
+    <target>ギルドカードの画像を{f801}SDカードに出力しました。{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>グリモアを生成しますか?{f801}</source>
+    <target>グリモアを生成しますか?{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>グリモアの生成は行えないようだ{f801}</source>
+    <target>グリモアの生成は行えないようだ{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>アイテム欄が一杯で{f801}グリモアを生成する事ができません{f801}</source>
+    <target>アイテム欄が一杯で{f801}グリモアを生成する事ができません{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>{f804}{0000}添付したキャラがセットしているグリモアは{f801}内包されたスキルのみ送られます{f801}{f819}{0100}※付加効果は相手に送ることはできません{f801}</source>
+    <target>{f804}{0000}添付したキャラがセットしているグリモアは{f801}内包されたスキルのみ送られます{f801}{f819}{0100}※付加効果は相手に送ることはできません{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>お気に入りのカードは削除できません{f801}</source>
+    <target>お気に入りのカードは削除できません{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>トレード交渉しますか?{f801}</source>
+    <target>トレード交渉しますか?{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>追加コンテンツのためトレードが行えません{f801}</source>
+    <target>追加コンテンツのためトレードが行えません{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>グリモアを所持していません{f801}</source>
+    <target>グリモアを所持していません{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>自分のカードとは{f801}トレードすることができません{f801}</source>
+    <target>自分のカードとは{f801}トレードすることができません{f801}</target>
+  </entry>
+</mbm>

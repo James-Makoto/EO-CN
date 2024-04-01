@@ -1,0 +1,1026 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="1">
+    <source>殻に閉じ籠って出てこないマイマイ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:森マイマイ{f804}{0000}{f801}</source>
+    <target>殻に閉じ籠って出てこないマイマイ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:森マイマイ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>やや赤みの強い弾力のある肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:狂乱の角鹿{f804}{0000}{f801}</source>
+    <target>やや赤みの強い弾力のある肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:狂乱の角鹿{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>死んで動かなくなった毒アゲハ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:毒吹きアゲハ{f804}{0000}{f801}</source>
+    <target>死んで動かなくなった毒アゲハ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:毒吹きアゲハ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>丸まった状態で硬くなった球獣{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ボールアニマル{f804}{0000}{f801}</source>
+    <target>丸まった状態で硬くなった球獣{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ボールアニマル{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>非常に弾力の強い鳥の骨{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:サイミンフクロウ{f804}{0000}{f801}</source>
+    <target>非常に弾力の強い鳥の骨{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:サイミンフクロウ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>花弁が閉じて丸くなった巨大な花{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ラフレシア{f804}{0000}{f801}</source>
+    <target>花弁が閉じて丸くなった巨大な花{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ラフレシア{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>酸味の強い低樹に実る果実{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>酸味の強い低樹に実る果実{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>痩せた土地でも育つ野生の麦{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>痩せた土地でも育つ野生の麦{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>厚く硬い殻に覆われた木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>厚く硬い殻に覆われた木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>樹海入口付近に自生する植物の芽{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>樹海入口付近に自生する植物の芽{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>樹海で結晶化した塩の塊{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>樹海で結晶化した塩の塊{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>根っこに高い糖分を含んだ根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</source>
+    <target>根っこに高い糖分を含んだ根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:古跡ノ樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>熱に強く非常に硬い石像の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:怪しい石像{f804}{0000}{f801}</source>
+    <target>熱に強く非常に硬い石像の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:怪しい石像{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="15">
+    <source>程よく脂の乗った張りのあるモモ肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ジャイアントモア{f804}{0000}{f801}</source>
+    <target>程よく脂の乗った張りのあるモモ肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ジャイアントモア{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>恐ろしく火力の出る心材{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:螺旋の水泡樹{f804}{0000}{f801}</source>
+    <target>恐ろしく火力の出る心材{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:螺旋の水泡樹{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>巨体を支える筋張った大きな腱{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:大イノシシ{f804}{0000}{f801}</source>
+    <target>巨体を支える筋張った大きな腱{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:大イノシシ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>近付くものにカブり付く植物の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:かみつき草{f804}{0000}{f801}</source>
+    <target>近付くものにカブり付く植物の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:かみつき草{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>色鮮やかで甘い液状のゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:レッドゼラチン{f804}{0000}{f801}</source>
+    <target>色鮮やかで甘い液状のゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:レッドゼラチン{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>樹海に住む凶悪なサボテンの実{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:迎え撃つ覇王樹{f804}{0000}{f801}</source>
+    <target>樹海に住む凶悪なサボテンの実{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:迎え撃つ覇王樹{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>脂の乗ったよく身の締まった肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アクタイオン{f804}{0000}{f801}</source>
+    <target>脂の乗ったよく身の締まった肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アクタイオン{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>樹海に自生する葱によく似た植物{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>樹海に自生する葱によく似た植物{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>普通の大豆より小振りな大豆{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>普通の大豆より小振りな大豆{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>赤いほど甘いと言われている木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>赤いほど甘いと言われている木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>棘が非常に鋭く危ない木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>棘が非常に鋭く危ない木の実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>中まで赤く染まった根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>中まで赤く染まった根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>非常に辛く薬味にしかならない根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</source>
+    <target>非常に辛く薬味にしかならない根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:常緋ノ樹林{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>巨大な魚の形をした魔物の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:フィッシュマン{f804}{0000}{f801}</source>
+    <target>巨大な魚の形をした魔物の頭{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:フィッシュマン{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>不思議と溶けない雪の塊{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スノーゴースト{f804}{0000}{f801}</source>
+    <target>不思議と溶けない雪の塊{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スノーゴースト{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>背中の部分から取れる柔らかい肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:暴れ野牛{f804}{0000}{f801}</source>
+    <target>背中の部分から取れる柔らかい肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:暴れ野牛{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>はみ出るほど詰まった甲羅の一部{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:はさみカブト{f804}{0000}{f801}</source>
+    <target>はみ出るほど詰まった甲羅の一部{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:はさみカブト{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>走り回る怪馬の脂身が少ない肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スレイプニル{f804}{0000}{f801}</source>
+    <target>走り回る怪馬の脂身が少ない肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スレイプニル{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>魔物の巨大な目が流す大粒の涙{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:虚空を視る邪眼{f804}{0000}{f801}</source>
+    <target>魔物の巨大な目が流す大粒の涙{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:虚空を視る邪眼{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>赤身と白身が交互に味わえる切り身{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:レッドフィッシュ{f804}{0000}{f801}</source>
+    <target>赤身と白身が交互に味わえる切り身{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:レッドフィッシュ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>適度な弾力が気持ちいいゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:青嵐の粘塊{f804}{0000}{f801}</source>
+    <target>適度な弾力が気持ちいいゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:青嵐の粘塊{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>濃厚な黄身が特徴的な白い卵{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スノーバード{f804}{0000}{f801}</source>
+    <target>濃厚な黄身が特徴的な白い卵{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:スノーバード{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>樽のような形で連なって実る麦{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>樽のような形で連なって実る麦{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>ゆっくりと溶けた澄んだ水{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>ゆっくりと溶けた澄んだ水{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>独特な香りを醸し出す若芽{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>独特な香りを醸し出す若芽{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>深紅に輝く栄養価の高い果実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>深紅に輝く栄養価の高い果実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>密生して実る小振りな根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>密生して実る小振りな根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>雪の下でもすくすく育つ純白の根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</source>
+    <target>雪の下でもすくすく育つ純白の根菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:六花氷樹海{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>集団で行動する蜂の集めた蜜{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:軍隊バチ{f804}{0000}{f801}</source>
+    <target>集団で行動する蜂の集めた蜜{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:軍隊バチ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>数多の攻撃を弾き続けた硬い甲羅{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アイアンタートル{f804}{0000}{f801}</source>
+    <target>数多の攻撃を弾き続けた硬い甲羅{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アイアンタートル{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>脂肪が少なくあっさりとした胸の肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ライチョウ{f804}{0000}{f801}</source>
+    <target>脂肪が少なくあっさりとした胸の肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ライチョウ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>分厚い皮膚の下にある強靭な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:突き進む犀角{f804}{0000}{f801}</source>
+    <target>分厚い皮膚の下にある強靭な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:突き進む犀角{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>抜け殻のように動かなくなった蜘蛛{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ベノムスパイダー{f804}{0000}{f801}</source>
+    <target>抜け殻のように動かなくなった蜘蛛{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ベノムスパイダー{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>数多の敵を切り刻んできた一対の鋏{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:デスストーカー{f804}{0000}{f801}</source>
+    <target>数多の敵を切り刻んできた一対の鋏{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:デスストーカー{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>分厚い殻に覆われた大きめの卵{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ディアトリマ{f804}{0000}{f801}</source>
+    <target>分厚い殻に覆われた大きめの卵{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ディアトリマ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>巨体を支える筋肉質なモモの肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:コカトリス{f804}{0000}{f801}</source>
+    <target>巨体を支える筋肉質なモモの肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:コカトリス{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>癖が少ない色鮮やかな野菜{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>癖が少ない色鮮やかな野菜{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>樹海で丸々と育った巨大なイチゴ{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>樹海で丸々と育った巨大なイチゴ{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>樹海でも一際美しい桜の花びら{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>樹海でも一際美しい桜の花びら{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>まだ若いうちに収穫された豆の莢{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>まだ若いうちに収穫された豆の莢{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>皮が薄い桜色をした大きな芋{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>皮が薄い桜色をした大きな芋{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>あひるに似た形をした地中に実る豆{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</source>
+    <target>あひるに似た形をした地中に実る豆{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:桜ノ立橋{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>てっぺんに生える青々とした葉っぱ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:マンドレイク{f804}{0000}{f801}</source>
+    <target>てっぺんに生える青々とした葉っぱ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:マンドレイク{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>ふくよかな腹部から取れる肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ジュエルリザード{f804}{0000}{f801}</source>
+    <target>ふくよかな腹部から取れる肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ジュエルリザード{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>硬い甲羅に守られた柔らかい肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アイアンアーマー{f804}{0000}{f801}</source>
+    <target>硬い甲羅に守られた柔らかい肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:アイアンアーマー{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>隆起した胸のささ身の様な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ブラックウイング{f804}{0000}{f801}</source>
+    <target>隆起した胸のささ身の様な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ブラックウイング{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>今にも動きそうな丸々とした胴体{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ノヅチ{f804}{0000}{f801}</source>
+    <target>今にも動きそうな丸々とした胴体{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ノヅチ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>俊足の魔馬の脂がよく乗った肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:闇夜の魔馬{f804}{0000}{f801}</source>
+    <target>俊足の魔馬の脂がよく乗った肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:闇夜の魔馬{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>見回る銃兵の銀色をした外殻{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:白銀の銃兵{f804}{0000}{f801}</source>
+    <target>見回る銃兵の銀色をした外殻{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:白銀の銃兵{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>異様な光を放つ巨大なゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ゼラチンキング{f804}{0000}{f801}</source>
+    <target>異様な光を放つ巨大なゼラチン{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ゼラチンキング{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>人工的に清められている水{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>人工的に清められている水{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>雲の上に住むと言われる鳥の卵{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>雲の上に住むと言われる鳥の卵{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>長い年月を掛けて高所に育つ茸{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>長い年月を掛けて高所に育つ茸{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>主に唾液等で形成された丈夫な巣{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>主に唾液等で形成された丈夫な巣{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>栄養価が高く食用にもできる床片{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>栄養価が高く食用にもできる床片{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>熱を加えると旨みが出る不思議な壁{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</source>
+    <target>熱を加えると旨みが出る不思議な壁{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:天ノ磐座{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>大きな口が開いた肉厚の傘{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ダイオウキノコ{f804}{0000}{f801}</source>
+    <target>大きな口が開いた肉厚の傘{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ダイオウキノコ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>巨大なももの内側にある希少な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:モケーレムベンベ{f804}{0000}{f801}</source>
+    <target>巨大なももの内側にある希少な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:モケーレムベンベ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>死してなお籠り続けるヤドカリ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:古代ヤドカリ{f804}{0000}{f801}</source>
+    <target>死してなお籠り続けるヤドカリ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:古代ヤドカリ{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>仲間を癒すトカゲの白いモモ肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:エリマキブラッド{f804}{0000}{f801}</source>
+    <target>仲間を癒すトカゲの白いモモ肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:エリマキブラッド{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>強力な攻撃を放つ剛腕の肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ブラックネイル{f804}{0000}{f801}</source>
+    <target>強力な攻撃を放つ剛腕の肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ブラックネイル{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>皮だけでなく中まで青いカボチャ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:三頭飛南瓜{f804}{0000}{f801}</source>
+    <target>皮だけでなく中まで青いカボチャ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:三頭飛南瓜{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>樹液の甘さが染み込んだ腹の一部{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:モスロード{f804}{0000}{f801}</source>
+    <target>樹液の甘さが染み込んだ腹の一部{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:モスロード{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>丸まって動かなくなった芋虫{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ハイクローラー{f804}{0000}{f801}</source>
+    <target>丸まって動かなくなった芋虫{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:ハイクローラー{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>今にも咲きそうなつぼみ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:超危険な花びら{f804}{0000}{f801}</source>
+    <target>今にも咲きそうなつぼみ{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:超危険な花びら{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>密生した白い花のつぼみ{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>密生した白い花のつぼみ{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>重なった葉が球状になっている野菜{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>重なった葉が球状になっている野菜{f801} {f801}{f854}{0500}{f804}{0800}採取{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>水分が多く含まれる非常に甘い果物{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>水分が多く含まれる非常に甘い果物{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>独特な香りを持つ酸味の強い果実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>独特な香りを持つ酸味の強い果実{f801} {f801}{f854}{0500}{f804}{0800}伐採{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>二本の茎が包まれている葉野菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>二本の茎が包まれている葉野菜{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>地中から突き出る成長の早い若芽{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</source>
+    <target>地中から突き出る成長の早い若芽{f801} {f801}{f854}{0500}{f804}{0800}採掘{f804}{0a00}:禁忌ノ森{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>尾の付け根にある脂の乗った肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:偉大なる赤竜{f804}{0000}{f801}</source>
+    <target>尾の付け根にある脂の乗った肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:偉大なる赤竜{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>首周りにある弾力のある真っ白な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:氷嵐の支配者{f804}{0000}{f801}</source>
+    <target>首周りにある弾力のある真っ白な肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:氷嵐の支配者{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>喉の奥に少しだけある柔らかな肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:雷鳴と共に現る者{f804}{0000}{f801}</source>
+    <target>喉の奥に少しだけある柔らかな肉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:雷鳴と共に現る者{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>樹海に芽吹く貴重な新芽{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の芽{f804}{0000}{f801}</source>
+    <target>樹海に芽吹く貴重な新芽{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の芽{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>樹海で稀に見かけられる双葉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の双葉{f804}{0000}{f801}</source>
+    <target>樹海で稀に見かけられる双葉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の双葉{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>幸運を呼ぶと言われる伝説の四つ葉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の四つ葉{f804}{0000}{f801}</source>
+    <target>幸運を呼ぶと言われる伝説の四つ葉{f801} {f801}{f854}{0500}{f804}{0800}討伐{f804}{0a00}:世界樹の四つ葉{f804}{0000}{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="93">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="94">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="95">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="96">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="97">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="98">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="99">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="111">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="112">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="113">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="114">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="115">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="116">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="117">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="118">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="119">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="120">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="121">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="122">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="123">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="124">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="125">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="126">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="127">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="128">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="129">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="130">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="131">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="132">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="133">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="134">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="135">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="136">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="137">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="138">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="139">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="140">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="141">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="142">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="143">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="144">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="145">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="146">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="147">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="148">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="149">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="150">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="151">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="152">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="153">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="154">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="155">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="156">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="157">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="158">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="159">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="160">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="161">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="162">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="163">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="164">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="165">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="166">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="167">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="168">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="169">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="170">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="171">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="172">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="173">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="174">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="175">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="176">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="177">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="178">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="179">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="180">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="181">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="182">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="183">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="184">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="185">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="186">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="187">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="188">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="189">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="190">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="191">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="192">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="193">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="194">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="195">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="196">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="197">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="198">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="199">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="200">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="201">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="202">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="203">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="204">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="205">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="206">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="207">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="208">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="209">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="210">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="211">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="212">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="213">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="214">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="215">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="216">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="217">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="218">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="219">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="220">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="221">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="222">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="223">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="224">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="225">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="226">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="227">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="228">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="229">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="230">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="231">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="232">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="233">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="234">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="235">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="236">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="237">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="238">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="239">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="240">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="241">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="242">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="243">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="244">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="245">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="246">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="247">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="248">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="249">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="250">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="251">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="252">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="253">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="254">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+  <entry id="255">
+    <source>ダミー{f801} {f801}</source>
+    <target>ダミー{f801} {f801}</target>
+  </entry>
+</mbm>

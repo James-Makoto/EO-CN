@@ -1,0 +1,4206 @@
+<mbm>
+  <entry id="0">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>物理防御力が上昇する{f801}</source>
+    <target>物理防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>剣スキルが習得可能になるスキル{f801}剣装備時の物理攻撃力が上昇する{f801}</source>
+    <target>剣スキルが習得可能になるスキル{f801}剣装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>斧スキルが習得可能になるスキル{f801}斧装備時の物理攻撃力が上昇する{f801}</source>
+    <target>斧スキルが習得可能になるスキル{f801}斧装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>通常攻撃のクリティカル率と{f801}クリティカル時のダメージが上昇する{f801}</source>
+    <target>通常攻撃のクリティカル率と{f801}クリティカル時のダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>一定確率で通常攻撃が2回発生する{f801}</source>
+    <target>一定確率で通常攻撃が2回発生する{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>{f85a}{5c02}ターンの間自身と同列の物理・属性攻撃力{f801}が上昇、物理・属性防御力が低下する{f801}</source>
+    <target>{f85a}{5c02}ターンの間自身と同列の物理・属性攻撃力{f801}が上昇、物理・属性防御力が低下する{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>持っている武器で敵1体に攻撃し{f801}ターン終了時まで物理攻撃力を低下させる{f801}</source>
+    <target>持っている武器で敵1体に攻撃し{f801}ターン終了時まで物理攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>次のターン終了時まで、与えるダメージと{f801}命中率、封じ・状態異常成功率が上昇する{f801}</source>
+    <target>次のターン終了時まで、与えるダメージと{f801}命中率、封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>敵1体に近接斬攻撃{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>敵1体から左右に拡散する、近接斬攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>敵複数体をランダムに切り裂く、近接斬攻撃{f801}</source>
+    <target>敵複数体をランダムに切り裂く、近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>命中を捨て敵1体に近接斬攻撃{f801}攻撃が外れた場合、敵全体に盲目効果が発動{f801}</source>
+    <target>命中を捨て敵1体に近接斬攻撃{f801}攻撃が外れた場合、敵全体に盲目効果が発動{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}次のターン、自身はスキルが使用不可になる{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}次のターン、自身はスキルが使用不可になる{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>敵1体に遠隔壊攻撃{f801}</source>
+    <target>敵1体に遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>敵1体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>敵1体に近接壊攻撃{f801}使用するたび消費TPと威力が増加する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}使用するたび消費TPと威力が増加する{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>このターン、味方の炎属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</source>
+    <target>このターン、味方の炎属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>このターン、味方の氷属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</source>
+    <target>このターン、味方の氷属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>このターン、味方の雷属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</source>
+    <target>このターン、味方の雷属性攻撃を{f801}受けた敵に対して追撃を行う{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>採掘ポイントで入手できる素材数が増える{f801}</source>
+    <target>採掘ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>{f85a}{a903}ターンの間、剣・斧による通常攻撃と{f801}剣・斧専用スキルが全てクリティカルになる{f801}</source>
+    <target>{f85a}{a903}ターンの間、剣・斧による通常攻撃と{f801}剣・斧専用スキルが全てクリティカルになる{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>敵1体に強力な近接斬攻撃{f801}</source>
+    <target>敵1体に強力な近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>命中率・回避率・行動速度が上昇する{f801}</source>
+    <target>命中率・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>弓スキルが習得可能になるスキル{f801}弓装備時の物理攻撃力が上昇する{f801}</source>
+    <target>弓スキルが習得可能になるスキル{f801}弓装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>一定歩数の間、エンカウント時の{f801}先制率が上昇する{f801}</source>
+    <target>一定歩数の間、エンカウント時の{f801}先制率が上昇する{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>弓スキルによって敵にダメージを与えた時{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>弓スキルによって敵にダメージを与えた時{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>{f85a}{5c02}ターンの間、HPを回復する{f801}アイテムの範囲と回復量を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、HPを回復する{f801}アイテムの範囲と回復量を上昇させる{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>敵1体に{f85a}{a300}回遠隔突攻撃{f801}</source>
+    <target>敵1体に{f85a}{a300}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>このターン、敵の標的にされやすくなり{f801}回避率を上昇させる{f801}</source>
+    <target>このターン、敵の標的にされやすくなり{f801}回避率を上昇させる{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>このターン、指定した味方1人は{f801}受けるダメージを軽減し、味方全体をかばう{f801}</source>
+    <target>このターン、指定した味方1人は{f801}受けるダメージを軽減し、味方全体をかばう{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>{f85a}{5c02}ターンの間{f801}敵1体の命中率を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵1体の命中率を低下させる{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>指定した味方1人を一定確率で{f801}ターンの最初に行動させる{f801}</source>
+    <target>指定した味方1人を一定確率で{f801}ターンの最初に行動させる{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>敵1体に遠隔突攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>敵1体に遠隔突攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>敵1体に遠隔突攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>敵1列に遠隔突攻撃{f801}</source>
+    <target>敵1列に遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>敵1体に遠隔突攻撃{f801}後列の敵にはダメージが上昇する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}後列の敵にはダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>2ターン後、ターン開始時に敵1体へ{f801}遠隔突攻撃。一定確率でスタン効果が発動{f801}</source>
+    <target>2ターン後、ターン開始時に敵1体へ{f801}遠隔突攻撃。一定確率でスタン効果が発動{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>敵1体に必中の遠隔突攻撃{f801}前のターン、攻撃を回避していたら使用可能{f801}</source>
+    <target>敵1体に必中の遠隔突攻撃{f801}前のターン、攻撃を回避していたら使用可能{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>探索中、味方1人のHPを回復する{f801}</source>
+    <target>探索中、味方1人のHPを回復する{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>一定歩数の間、周囲の宝箱、隠し通路{f801}階段、FOE、採集ポイントを地図に表示{f801}</source>
+    <target>一定歩数の間、周囲の宝箱、隠し通路{f801}階段、FOE、採集ポイントを地図に表示{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>一定確率で敵の不意打ちを無効化する{f801}</source>
+    <target>一定確率で敵の不意打ちを無効化する{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>一定歩数の間、エンカウント率を低下させる{f801}</source>
+    <target>一定歩数の間、エンカウント率を低下させる{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>採取、伐採、採掘時に{f801}追加で素材を入手可能になる{f801}</source>
+    <target>採取、伐採、採掘時に{f801}追加で素材を入手可能になる{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>{f85a}{a903}ターンの間、回避率を大幅に上昇させ{f801}弓による攻撃を命中させた時更に追撃を行う{f801}</source>
+    <target>{f85a}{a903}ターンの間、回避率を大幅に上昇させ{f801}弓による攻撃を命中させた時更に追撃を行う{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>敵全体へランダムに{f85a}{a300}回遠隔突攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>物理防御力が上昇する{f801}</source>
+    <target>物理防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>属性防御力が上昇する{f801}</source>
+    <target>属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>戦闘開始時に、一定確率で挑発を使用する{f801}</source>
+    <target>戦闘開始時に、一定確率で挑発を使用する{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>盾スキルが習得可能になるスキル{f801}盾装備時に物理攻撃を一定確率で無効化する{f801}</source>
+    <target>盾スキルが習得可能になるスキル{f801}盾装備時に物理攻撃を一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>戦闘不能になるダメージを受けた時{f801}一定確率でHP1で生き残る事ができる{f801}</source>
+    <target>戦闘不能になるダメージを受けた時{f801}一定確率でHP1で生き残る事ができる{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>自身と同列の味方への物理攻撃を{f801}一定確率で無効化する{f801}</source>
+    <target>自身と同列の味方への物理攻撃を{f801}一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>{f85a}{5c02}ターンの間{f801}物理防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>{f85a}{5c02}ターンの間{f801}敵の標的にされやすくなる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵の標的にされやすくなる{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>味方1列のHPを大きく回復する{f801}</source>
+    <target>味方1列のHPを大きく回復する{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>味方1列のHPを回復する{f801}</source>
+    <target>味方1列のHPを回復する{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>{f85a}{5c02}ターンの間、自身への封じ・状態異常{f801}弱体を一定確率で無効化する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、自身への封じ・状態異常{f801}弱体を一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>次のターン終了時まで{f801}味方1人への物理攻撃を軽減する{f801}</source>
+    <target>次のターン終了時まで{f801}味方1人への物理攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>味方1人のHPを回復し、ターン終了時まで{f801}その味方への物理攻撃を軽減する{f801}</source>
+    <target>味方1人のHPを回復し、ターン終了時まで{f801}その味方への物理攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>このターン、前列の味方への{f801}物理ダメージを軽減する{f801}</source>
+    <target>このターン、前列の味方への{f801}物理ダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>このターン、後列の味方への{f801}物理ダメージを軽減する{f801}</source>
+    <target>このターン、後列の味方への{f801}物理ダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>このターン、味方全体への{f801}炎属性攻撃を一度だけ防御する{f801}</source>
+    <target>このターン、味方全体への{f801}炎属性攻撃を一度だけ防御する{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>このターン、味方全体への{f801}氷属性攻撃を一度だけ防御する{f801}</source>
+    <target>このターン、味方全体への{f801}氷属性攻撃を一度だけ防御する{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>このターン、味方全体への{f801}雷属性攻撃を一度だけ防御する{f801}</source>
+    <target>このターン、味方全体への{f801}雷属性攻撃を一度だけ防御する{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>このターン、味方全体の防御力を{f801}自身と同じにし、全てのダメージを軽減する{f801}</source>
+    <target>このターン、味方全体の防御力を{f801}自身と同じにし、全てのダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>敵全体に近接壊攻撃を行い{f801}{f85a}{5c02}ターンの間、物理攻撃力を低下させる{f801}</source>
+    <target>敵全体に近接壊攻撃を行い{f801}{f85a}{5c02}ターンの間、物理攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>味方全体のHPを消費して戦闘から逃走し{f801}最後に使った階段か樹海磁軸まで移動する{f801}</source>
+    <target>味方全体のHPを消費して戦闘から逃走し{f801}最後に使った階段か樹海磁軸まで移動する{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>採掘ポイントで入手できる素材数が増える{f801}</source>
+    <target>採掘ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>{f85a}{a903}ターンの間、ガードスキルによる{f801}ダメージ軽減率を上昇させる{f801}</source>
+    <target>{f85a}{a903}ターンの間、ガードスキルによる{f801}ダメージ軽減率を上昇させる{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>このターン、味方全体への{f801}全てのダメージ攻撃を無効化する{f801}</source>
+    <target>このターン、味方全体への{f801}全てのダメージ攻撃を無効化する{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>剣スキルが習得可能になるスキル{f801}剣装備時の物理攻撃力が上昇する{f801}</source>
+    <target>剣スキルが習得可能になるスキル{f801}剣装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>鞭スキルが習得可能になるスキル{f801}鞭装備時の物理攻撃力が上昇する{f801}</source>
+    <target>鞭スキルが習得可能になるスキル{f801}鞭装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>封じ・状態異常・スタン・即死の付着に全て{f801}失敗した時、次のターンの成功率が上昇する{f801}</source>
+    <target>封じ・状態異常・スタン・即死の付着に全て{f801}失敗した時、次のターンの成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>{f85a}{5c02}ターンの間、敵1体の物理防御力を低下{f801}対象が封じ・状態異常の間は効果が高い{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵1体の物理防御力を低下{f801}対象が封じ・状態異常の間は効果が高い{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>{f85a}{5c02}ターンの間{f801}敵1体の回避率を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵1体の回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ターン終了時まで、敵1体を一定確率で{f801}行動不能にし、受けるダメージを上昇させる{f801}</source>
+    <target>ターン終了時まで、敵1体を一定確率で{f801}行動不能にし、受けるダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>敵1体に近接斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>敵1体に近接斬攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>敵1体に近接斬攻撃{f801}対象の封じの数が多いほど威力が上昇する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}対象の封じの数が多いほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>敵1体に近接斬攻撃。対象が封じ状態の時{f801}同じ封じを一定確率で左右の敵に発動させる{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が封じ状態の時{f801}同じ封じを一定確率で左右の敵に発動させる{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>敵1体に近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>敵1体に近接斬攻撃{f801}一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>敵1体に近接斬攻撃{f801}対象の状態異常を解除し威力が上昇する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}対象の状態異常を解除し威力が上昇する{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>敵1体に近接斬攻撃。{f801}ダメージの一定割合、同列のHPを回復する{f801}</source>
+    <target>敵1体に近接斬攻撃。{f801}ダメージの一定割合、同列のHPを回復する{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>敵1体から左右に拡散する、近接斬攻撃{f801}左右の敵が状態異常の時、対象を石化させる{f801}</source>
+    <target>敵1体から左右に拡散する、近接斬攻撃{f801}左右の敵が状態異常の時、対象を石化させる{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>自分と左右の味方に罠をはり、物理攻撃して{f801}きた敵に近接斬攻撃でカウンターを行う{f801}</source>
+    <target>自分と左右の味方に罠をはり、物理攻撃して{f801}きた敵に近接斬攻撃でカウンターを行う{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>自分と左右の味方に罠をはり、属性攻撃して{f801}きた敵に近接斬攻撃でカウンターを行う{f801}</source>
+    <target>自分と左右の味方に罠をはり、属性攻撃して{f801}きた敵に近接斬攻撃でカウンターを行う{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>伐採ポイントで入手できる素材数が増える{f801}</source>
+    <target>伐採ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>{f85a}{a903}ターンの間、封じ・状態異常の敵に{f801}与えるダメージが上昇する{f801}</source>
+    <target>{f85a}{a903}ターンの間、封じ・状態異常の敵に{f801}与えるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>敵1体に近接斬攻撃。高確率で{f801}頭+腕+脚封じ効果と毒効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃。高確率で{f801}頭+腕+脚封じ効果と毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>属性防御力が上昇する{f801}</source>
+    <target>属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>自身が戦闘不能時{f801}一定確率で味方全体のHPを回復する{f801}</source>
+    <target>自身が戦闘不能時{f801}一定確率で味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>回復スキルが習得可能になるスキル{f801}HP回復スキルの回復量が上昇する{f801}</source>
+    <target>回復スキルが習得可能になるスキル{f801}HP回復スキルの回復量が上昇する{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>杖装備時の物理攻撃力と最大TPが上昇する{f801}</source>
+    <target>杖装備時の物理攻撃力と最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="129">
+    <source>モンスターの素材ドロップ率が上昇する{f801}</source>
+    <target>モンスターの素材ドロップ率が上昇する{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>味方1人のHPを回復する{f801}</source>
+    <target>味方1人のHPを回復する{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>味方全体のHPを回復する{f801}</source>
+    <target>味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>味方1人のHPを大きく回復する{f801}</source>
+    <target>味方1人のHPを大きく回復する{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>味方1列のHPを大きく回復する{f801}</source>
+    <target>味方1列のHPを大きく回復する{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>味方全体のHPを大きく回復する{f801}</source>
+    <target>味方全体のHPを大きく回復する{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>このターン、指定した味方1人がダメージを{f801}受けるたび、対象のHPを回復する{f801}</source>
+    <target>このターン、指定した味方1人がダメージを{f801}受けるたび、対象のHPを回復する{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>次のターン開始時に{f801}味方全体のHPを回復する{f801}</source>
+    <target>次のターン開始時に{f801}味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="137">
+    <source>味方1人を戦闘不能から回復する{f801}</source>
+    <target>味方1人を戦闘不能から回復する{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>味方{f85a}{4e00}に付着した封じを回復する{f801}</source>
+    <target>味方{f85a}{4e00}に付着した封じを回復する{f801}</target>
+  </entry>
+  <entry id="139">
+    <source>味方{f85a}{4e00}に付着した状態異常を回復する{f801}</source>
+    <target>味方{f85a}{4e00}に付着した状態異常を回復する{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>{f85a}{5c02}ターンの間、味方1人のHPを{f801}ターン終了時に回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人のHPを{f801}ターン終了時に回復する{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>敵1体に近接壊攻撃{f801}味方全体の残りHP割合が多い程威力増加{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}味方全体の残りHP割合が多い程威力増加{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>敵1体に近接壊攻撃{f801}{f85b}{5f02}{5c02}ターンの間、属性防御力を低下させる{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}{f85b}{5f02}{5c02}ターンの間、属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>次ターン終了時までHP回復スキル効果上昇{f801}効果中、対象の最大HPを超えて回復できる{f801}</source>
+    <target>次ターン終了時までHP回復スキル効果上昇{f801}効果中、対象の最大HPを超えて回復できる{f801}</target>
+  </entry>
+  <entry id="145">
+    <source>一定歩数の間{f801}ダメージ床のダメージを軽減する{f801}</source>
+    <target>一定歩数の間{f801}ダメージ床のダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>採取ポイントで入手できる素材数が増える{f801}</source>
+    <target>採取ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="147">
+    <source>{f85a}{a903}ターンの間、自身が使用する回復スキルの{f801}効果と行動速度が上昇し消費TPが半減する{f801}</source>
+    <target>{f85a}{a903}ターンの間、自身が使用する回復スキルの{f801}効果と行動速度が上昇し消費TPが半減する{f801}</target>
+  </entry>
+  <entry id="148">
+    <source>味方全体のHPと戦闘不能と{f801}封じ・状態異常・弱体を回復する{f801}</source>
+    <target>味方全体のHPと戦闘不能と{f801}封じ・状態異常・弱体を回復する{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="154">
+    <source>属性攻撃力が上昇する{f801}</source>
+    <target>属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="155">
+    <source>属性防御力が上昇する{f801}</source>
+    <target>属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>術式スキルが習得可能になるスキル{f801}術式スキルのダメージが上昇する{f801}</source>
+    <target>術式スキルが習得可能になるスキル{f801}術式スキルのダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="157">
+    <source>術掌スキルが習得可能になるスキル{f801}術掌スキルのダメージが上昇する{f801}</source>
+    <target>術掌スキルが習得可能になるスキル{f801}術掌スキルのダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="158">
+    <source>術掌スキルの対象に{f801}ターン終了時、再度同じ属性で攻撃する{f801}</source>
+    <target>術掌スキルの対象に{f801}ターン終了時、再度同じ属性で攻撃する{f801}</target>
+  </entry>
+  <entry id="159">
+    <source>術掌スキルで弱点を突いた時、一定確率で{f801}その左右の敵にもダメージを与える{f801}</source>
+    <target>術掌スキルで弱点を突いた時、一定確率で{f801}その左右の敵にもダメージを与える{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>前列時専用:敵1体に近接炎属性攻撃{f801}次のターン終了時まで自身の攻撃が炎属性化{f801}</source>
+    <target>前列時専用:敵1体に近接炎属性攻撃{f801}次のターン終了時まで自身の攻撃が炎属性化{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>前列時専用:敵1体に近接氷属性攻撃{f801}次のターン終了時まで自身の攻撃が氷属性化{f801}</source>
+    <target>前列時専用:敵1体に近接氷属性攻撃{f801}次のターン終了時まで自身の攻撃が氷属性化{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>前列時専用:敵1体に近接雷属性攻撃{f801}次のターン終了時まで自身の攻撃が雷属性化{f801}</source>
+    <target>前列時専用:敵1体に近接雷属性攻撃{f801}次のターン終了時まで自身の攻撃が雷属性化{f801}</target>
+  </entry>
+  <entry id="163">
+    <source>{f85a}{5c02}ターンの間、自身が使用する全体属性攻撃{f801}の範囲が単体になる代わりに威力が上昇する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、自身が使用する全体属性攻撃{f801}の範囲が単体になる代わりに威力が上昇する{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>敵1体に遠隔炎属性攻撃{f801}</source>
+    <target>敵1体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="165">
+    <source>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="166">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>敵1体に遠隔氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="168">
+    <source>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="169">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>敵1体に遠隔雷属性攻撃{f801}</source>
+    <target>敵1体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>敵1列に遠隔雷属性攻撃{f801}</source>
+    <target>敵1列に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="172">
+    <source>敵全体に遠隔雷属性攻撃{f801}</source>
+    <target>敵全体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="173">
+    <source>敵1体に遠隔無属性攻撃{f801}</source>
+    <target>敵1体に遠隔無属性攻撃{f801}</target>
+  </entry>
+  <entry id="174">
+    <source>敵全体へランダムに{f85a}{a300}回{f801}炎か氷か雷の遠隔属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回{f801}炎か氷か雷の遠隔属性攻撃{f801}</target>
+  </entry>
+  <entry id="175">
+    <source>周囲の宝箱、隠し通路、階段、FOE{f801}採集ポイントを地図に表示する{f801}</source>
+    <target>周囲の宝箱、隠し通路、階段、FOE{f801}採集ポイントを地図に表示する{f801}</target>
+  </entry>
+  <entry id="176">
+    <source>伐採ポイントで入手できる素材数が増える{f801}</source>
+    <target>伐採ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="177">
+    <source>{f85a}{a903}ターンの間{f801}弱点を突いた時のダメージを上昇させる{f801}</source>
+    <target>{f85a}{a903}ターンの間{f801}弱点を突いた時のダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="178">
+    <source>敵全体に強力な遠隔無属性攻撃{f801}</source>
+    <target>敵全体に強力な遠隔無属性攻撃{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="184">
+    <source>命中・回避率・行動速度が上昇する{f801}</source>
+    <target>命中・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="185">
+    <source>戦闘で得られる経験値が上昇する{f801}</source>
+    <target>戦闘で得られる経験値が上昇する{f801}</target>
+  </entry>
+  <entry id="186">
+    <source>自身に強化が掛かっていると{f801}ターン終了時にHPが回復する{f801}</source>
+    <target>自身に強化が掛かっていると{f801}ターン終了時にHPが回復する{f801}</target>
+  </entry>
+  <entry id="187">
+    <source>歌スキルが習得可能になるスキル。戦闘中{f801}歌の行動速度が上昇し、消費TPが減少する{f801}</source>
+    <target>歌スキルが習得可能になるスキル。戦闘中{f801}歌の行動速度が上昇し、消費TPが減少する{f801}</target>
+  </entry>
+  <entry id="188">
+    <source>ターン終了時まで、歌強化中の味方は{f801}TPを消費した時、一定量TPを回復する{f801}</source>
+    <target>ターン終了時まで、歌強化中の味方は{f801}TPを消費した時、一定量TPを回復する{f801}</target>
+  </entry>
+  <entry id="189">
+    <source>ターン終了時まで、歌強化中の味方は{f801}ダメージを受けた時一度だけHPが回復する{f801}</source>
+    <target>ターン終了時まで、歌強化中の味方は{f801}ダメージを受けた時一度だけHPが回復する{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>ターン終了時まで、歌強化中の味方は{f801}行動速度が上昇する{f801}</source>
+    <target>ターン終了時まで、歌強化中の味方は{f801}行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>味方1人に付与されている強化を全て{f801}もう1人の味方にコピーする{f801}</source>
+    <target>味方1人に付与されている強化を全て{f801}もう1人の味方にコピーする{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="193">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="194">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の命中率を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の命中率を上昇させる{f801}</target>
+  </entry>
+  <entry id="195">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の回避率を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の回避率を上昇させる{f801}</target>
+  </entry>
+  <entry id="196">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の封じ・状態異常耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の封じ・状態異常耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="197">
+    <source>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}炎属性を付与し、攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}炎属性を付与し、攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="198">
+    <source>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}氷属性を付与し、攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}氷属性を付与し、攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="199">
+    <source>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}雷属性を付与し、攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人の通常攻撃に{f801}雷属性を付与し、攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の最大HPを上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の最大HPを上昇させる{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>{f85a}{5c02}ターンの間、敵全体の炎属性耐性を低下{f801}味方全体の炎属性耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の炎属性耐性を低下{f801}味方全体の炎属性耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>{f85a}{5c02}ターンの間、敵全体の氷属性耐性を低下{f801}味方全体の氷属性耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の氷属性耐性を低下{f801}味方全体の氷属性耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>{f85a}{5c02}ターンの間、敵全体の雷属性耐性を低下{f801}味方全体の雷属性耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の雷属性耐性を低下{f801}味方全体の雷属性耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>一定歩数の間{f801}歩くたび味方全体のTPが回復する{f801}</source>
+    <target>一定歩数の間{f801}歩くたび味方全体のTPが回復する{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>一定歩数の間、エンカウント率が上昇する{f801}</source>
+    <target>一定歩数の間、エンカウント率が上昇する{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>採取ポイントで入手できる素材数が増える{f801}</source>
+    <target>採取ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>{f85a}{a903}ターンの間、味方の強化のターン数が{f801}減少せず、敵に解除されない{f801}</source>
+    <target>{f85a}{a903}ターンの間、味方の強化のターン数が{f801}減少せず、敵に解除されない{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>ターン終了時まで、味方の与えるダメージが{f801}増加し、味方へのダメージが軽減される{f801}</source>
+    <target>ターン終了時まで、味方の与えるダメージが{f801}増加し、味方へのダメージが軽減される{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>刀スキルが習得可能になるスキル{f801}刀装備時の物理攻撃力が上昇する{f801}</source>
+    <target>刀スキルが習得可能になるスキル{f801}刀装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>上段の構えの効果ターン数と{f801}構え時の物理攻撃力が上昇する{f801}</source>
+    <target>上段の構えの効果ターン数と{f801}構え時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>青眼の構えの効果ターン数と{f801}構え時の物理防御力が上昇する{f801}</source>
+    <target>青眼の構えの効果ターン数と{f801}構え時の物理防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="218">
+    <source>居合いの構えの効果ターン数と、構え時の{f801}命中率・回避率・行動速度が上昇する{f801}</source>
+    <target>居合いの構えの効果ターン数と、構え時の{f801}命中率・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="219">
+    <source>行動前の敵に与えるダメージと{f801}命中率が上昇する{f801}</source>
+    <target>行動前の敵に与えるダメージと{f801}命中率が上昇する{f801}</target>
+  </entry>
+  <entry id="220">
+    <source>敵1体に近接斬攻撃{f801}{f85b}{3d02}{3b04}ターンの間、上段の構えをとる{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}{f85b}{3d02}{3b04}ターンの間、上段の構えをとる{f801}</target>
+  </entry>
+  <entry id="221">
+    <source>敵1体に近接突攻撃{f801}{f85b}{3e02}{3c04}ターンの間、青眼の構えをとる{f801}</source>
+    <target>敵1体に近接突攻撃{f801}{f85b}{3e02}{3c04}ターンの間、青眼の構えをとる{f801}</target>
+  </entry>
+  <entry id="222">
+    <source>敵1体に近接壊攻撃{f801}{f85b}{3f02}{3d04}ターンの間、居合いの構えをとる{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}{f85b}{3f02}{3d04}ターンの間、居合いの構えをとる{f801}</target>
+  </entry>
+  <entry id="223">
+    <source>上段の構え専用:敵1体に近接斬攻撃{f801}</source>
+    <target>上段の構え専用:敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="224">
+    <source>上段の構え専用:{f801}敵1列に近接斬+炎属性攻撃{f801}</source>
+    <target>上段の構え専用:{f801}敵1列に近接斬+炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="225">
+    <source>上段の構え専用:敵1体に複数回近接斬攻撃{f801}</source>
+    <target>上段の構え専用:敵1体に複数回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="226">
+    <source>青眼の構え専用:敵1体に近接突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>青眼の構え専用:敵1体に近接突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="227">
+    <source>青眼の構え専用:{f801}前後の敵2体を貫通する近接突+雷属性攻撃{f801}</source>
+    <target>青眼の構え専用:{f801}前後の敵2体を貫通する近接突+雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="228">
+    <source>青眼の構え専用:{f801}敵1体に近接突攻撃。発動が早い{f801}</source>
+    <target>青眼の構え専用:{f801}敵1体に近接突攻撃。発動が早い{f801}</target>
+  </entry>
+  <entry id="229">
+    <source>居合いの構え専用:敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>居合いの構え専用:敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="230">
+    <source>居合いの構え専用:{f801}敵全体に遠隔斬+氷属性攻撃{f801}</source>
+    <target>居合いの構え専用:{f801}敵全体に遠隔斬+氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="231">
+    <source>居合いの構え専用:{f801}敵1体に遠隔壊攻撃{f801}</source>
+    <target>居合いの構え専用:{f801}敵1体に遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="232">
+    <source>無双の構え専用:敵1体へ、立て続けに{f801}地走撃・ツバメがえし・月影の三連撃を放つ{f801}</source>
+    <target>無双の構え専用:敵1体へ、立て続けに{f801}地走撃・ツバメがえし・月影の三連撃を放つ{f801}</target>
+  </entry>
+  <entry id="233">
+    <source>上段・青眼・居合いの構え専用:{f801}{f85a}{0b00}ターンの間、全ての構えの効果を得る{f801}</source>
+    <target>上段・青眼・居合いの構え専用:{f801}{f85a}{0b00}ターンの間、全ての構えの効果を得る{f801}</target>
+  </entry>
+  <entry id="234">
+    <source>構え専用:このターン、味方の通常攻撃を{f801}受けた敵に対して追撃を行う{f801}</source>
+    <target>構え専用:このターン、味方の通常攻撃を{f801}受けた敵に対して追撃を行う{f801}</target>
+  </entry>
+  <entry id="235">
+    <source>次のターン終了時まで{f801}回避率と与えるダメージを上昇させる{f801}</source>
+    <target>次のターン終了時まで{f801}回避率と与えるダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="236">
+    <source>採掘ポイントで入手できる素材数が増える{f801}</source>
+    <target>採掘ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="237">
+    <source>{f85a}{a903}ターンの間、構えを維持し{f801}構え中、刀スキルの消費TPを半減する{f801}</source>
+    <target>{f85a}{a903}ターンの間、構えを維持し{f801}構え中、刀スキルの消費TPを半減する{f801}</target>
+  </entry>
+  <entry id="238">
+    <source>敵全体に強力な遠隔斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵全体に強力な遠隔斬攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="242">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="243">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="244">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="245">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="246">
+    <source>呪言スキルが習得可能になるスキル{f801}呪言スキルの封じ・状態異常成功率が上昇{f801}</source>
+    <target>呪言スキルが習得可能になるスキル{f801}呪言スキルの封じ・状態異常成功率が上昇{f801}</target>
+  </entry>
+  <entry id="247">
+    <source>自身の腕と脚を封じ、次のターン終了時まで{f801}封じ・状態異常成功率を上昇させる{f801}</source>
+    <target>自身の腕と脚を封じ、次のターン終了時まで{f801}封じ・状態異常成功率を上昇させる{f801}</target>
+  </entry>
+  <entry id="248">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性攻撃力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="249">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性防御力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="250">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の封じ・状態異常耐性を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の封じ・状態異常耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="251">
+    <source>敵1体に一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="252">
+    <source>敵1体に一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="253">
+    <source>敵1体に一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="254">
+    <source>敵1列に一定確率で毒効果が発動する{f801}</source>
+    <target>敵1列に一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="255">
+    <source>敵1列に一定確率で盲目効果が発動する{f801}</source>
+    <target>敵1列に一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="256">
+    <source>敵1列に一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1列に一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="257">
+    <source>敵1列に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1列に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="258">
+    <source>敵1列に一定確率で呪い効果が発動する{f801}</source>
+    <target>敵1列に一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="259">
+    <source>敵1列に一定確率でテラー効果が発動する{f801}</source>
+    <target>敵1列に一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="260">
+    <source>このターン、テラー状態の敵1体に{f801}自身を攻撃させる{f801}</source>
+    <target>このターン、テラー状態の敵1体に{f801}自身を攻撃させる{f801}</target>
+  </entry>
+  <entry id="261">
+    <source>このターン、テラー状態の敵全体を{f801}同士討ちさせる{f801}</source>
+    <target>このターン、テラー状態の敵全体を{f801}同士討ちさせる{f801}</target>
+  </entry>
+  <entry id="262">
+    <source>このターン、テラー状態の敵1体に{f801}敵から味方へのダメージをかばわせる{f801}</source>
+    <target>このターン、テラー状態の敵1体に{f801}敵から味方へのダメージをかばわせる{f801}</target>
+  </entry>
+  <entry id="263">
+    <source>敵全体に無属性攻撃。与えたダメージの{f801}一定割合、味方全体のHPを回復する{f801}</source>
+    <target>敵全体に無属性攻撃。与えたダメージの{f801}一定割合、味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="264">
+    <source>味方1人の命を犠牲に、敵全体に無属性攻撃{f801}犠牲にした味方の封じ・状態異常も与える{f801}</source>
+    <target>味方1人の命を犠牲に、敵全体に無属性攻撃{f801}犠牲にした味方の封じ・状態異常も与える{f801}</target>
+  </entry>
+  <entry id="265">
+    <source>戦闘不能の味方全てを一定確率で{f801}テラー状態で蘇生させる{f801}</source>
+    <target>戦闘不能の味方全てを一定確率で{f801}テラー状態で蘇生させる{f801}</target>
+  </entry>
+  <entry id="266">
+    <source>伐採ポイントで入手できる素材数が増える{f801}</source>
+    <target>伐採ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="267">
+    <source>{f85a}{a903}ターンの間、封じ・状態異常成功率が上昇{f801}効果中、敵の弱体ターン数が減少しなくなる{f801}</source>
+    <target>{f85a}{a903}ターンの間、封じ・状態異常成功率が上昇{f801}効果中、敵の弱体ターン数が減少しなくなる{f801}</target>
+  </entry>
+  <entry id="268">
+    <source>敵全体に付着している封じ・状態異常を{f801}より持続させる{f801}</source>
+    <target>敵全体に付着している封じ・状態異常を{f801}より持続させる{f801}</target>
+  </entry>
+  <entry id="272">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="273">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="274">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="275">
+    <source>物理防御力が上昇する{f801}</source>
+    <target>物理防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="276">
+    <source>槍スキルが習得可能になるスキル{f801}槍装備時の物理攻撃力が上昇する{f801}</source>
+    <target>槍スキルが習得可能になるスキル{f801}槍装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="277">
+    <source>自身のHPが減少した時、一定確率で{f801}所持した武器による攻撃を行う{f801}</source>
+    <target>自身のHPが減少した時、一定確率で{f801}所持した武器による攻撃を行う{f801}</target>
+  </entry>
+  <entry id="278">
+    <source>自身の攻撃で敵を倒した時に{f801}味方全体のHPを回復する{f801}</source>
+    <target>自身の攻撃で敵を倒した時に{f801}味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="279">
+    <source>戦闘開始時、一定確率で{f85b}{4602}{5c02}ターンの間{f801}味方全体に状態異常を無効化する強化{f801}</source>
+    <target>戦闘開始時、一定確率で{f85b}{4602}{5c02}ターンの間{f801}味方全体に状態異常を無効化する強化{f801}</target>
+  </entry>
+  <entry id="280">
+    <source>自身のHPを消費して{f801}敵前列に近接突攻撃{f801}</source>
+    <target>自身のHPを消費して{f801}敵前列に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="281">
+    <source>自身のHPを消費して{f801}敵全体に近接突攻撃{f801}</source>
+    <target>自身のHPを消費して{f801}敵全体に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="282">
+    <source>自身以外のHPを消費して{f801}敵前列に近接突攻撃{f801}</source>
+    <target>自身以外のHPを消費して{f801}敵前列に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="283">
+    <source>自身以外のHPを消費して{f801}敵全体に近接突攻撃{f801}</source>
+    <target>自身以外のHPを消費して{f801}敵全体に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="284">
+    <source>自身のHPを消費して{f85a}{0401}ターン後の終了時{f801}敵1体に遠隔突攻撃{f801}</source>
+    <target>自身のHPを消費して{f85a}{0401}ターン後の終了時{f801}敵1体に遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="285">
+    <source>自身のHPを消費して敵1体に近接突攻撃{f801}ディレイチャージと合わせることで威力増加{f801}</source>
+    <target>自身のHPを消費して敵1体に近接突攻撃{f801}ディレイチャージと合わせることで威力増加{f801}</target>
+  </entry>
+  <entry id="286">
+    <source>敵1体に遠隔突攻撃{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="287">
+    <source>敵1体に突攻撃{f801}一定確率で頭封じ+即死効果が発動する{f801}</source>
+    <target>敵1体に突攻撃{f801}一定確率で頭封じ+即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="288">
+    <source>敵1体に近接突攻撃。味方の属性攻撃後に発{f801}動させるとその属性が加わり威力が上昇する{f801}</source>
+    <target>敵1体に近接突攻撃。味方の属性攻撃後に発{f801}動させるとその属性が加わり威力が上昇する{f801}</target>
+  </entry>
+  <entry id="289">
+    <source>次のターン終了時まで与えるダメージが上昇{f801}装備制限を無視してスキルが使用可能になる{f801}</source>
+    <target>次のターン終了時まで与えるダメージが上昇{f801}装備制限を無視してスキルが使用可能になる{f801}</target>
+  </entry>
+  <entry id="290">
+    <source>自身と敵1体に一定確率で封じ効果が発動し{f801}さらに、自身の状態異常を一定確率で移す{f801}</source>
+    <target>自身と敵1体に一定確率で封じ効果が発動し{f801}さらに、自身の状態異常を一定確率で移す{f801}</target>
+  </entry>
+  <entry id="291">
+    <source>敵全体からHPを吸収し、味方全体へ与える{f801}と同時に、封じと状態異常も味方全体へ移る{f801}</source>
+    <target>敵全体からHPを吸収し、味方全体へ与える{f801}と同時に、封じと状態異常も味方全体へ移る{f801}</target>
+  </entry>
+  <entry id="292">
+    <source>味方全体のHPを消費して{f85a}{5c02}ターンの間{f801}味方全体の封じ・状態異常成功率が上昇する{f801}</source>
+    <target>味方全体のHPを消費して{f85a}{5c02}ターンの間{f801}味方全体の封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="293">
+    <source>採掘ポイントで入手できる素材数が増える{f801}</source>
+    <target>採掘ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="294">
+    <source>自身の行動でHPが減少した同列の仲間は{f801}ターン終了時にTPが回復する{f801}</source>
+    <target>自身の行動でHPが減少した同列の仲間は{f801}ターン終了時にTPが回復する{f801}</target>
+  </entry>
+  <entry id="295">
+    <source>自身のHPを消費して{f85a}{5c02}ターンの間{f801}味方1列の属性防御力を上昇させる{f801}</source>
+    <target>自身のHPを消費して{f85a}{5c02}ターンの間{f801}味方1列の属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="296">
+    <source>{f85a}{5c02}ターンの間、味方1列の物理・属性攻撃力{f801}を上昇させるが、行動時にHPが減少する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1列の物理・属性攻撃力{f801}を上昇させるが、行動時にHPが減少する{f801}</target>
+  </entry>
+  <entry id="297">
+    <source>{f85a}{a903}ターンの間、槍スキルの威力が上昇し{f801}ダメージの一定割合、味方のHPが回復する{f801}</source>
+    <target>{f85a}{a903}ターンの間、槍スキルの威力が上昇し{f801}ダメージの一定割合、味方のHPが回復する{f801}</target>
+  </entry>
+  <entry id="298">
+    <source>自身と味方全体のHPを消費して{f801}敵全体に強力な遠隔突攻撃{f801}</source>
+    <target>自身と味方全体のHPを消費して{f801}敵全体に強力な遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="302">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="303">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="304">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="305">
+    <source>銃スキルが習得可能になるスキル{f801}銃装備時の物理攻撃力が上昇する{f801}</source>
+    <target>銃スキルが習得可能になるスキル{f801}銃装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="306">
+    <source>自身が後列でDEFENCEする時{f801}前列の味方のHPが回復する{f801}</source>
+    <target>自身が後列でDEFENCEする時{f801}前列の味方のHPが回復する{f801}</target>
+  </entry>
+  <entry id="307">
+    <source>一定確率で攻撃スキルがもう一度発動する{f801}</source>
+    <target>一定確率で攻撃スキルがもう一度発動する{f801}</target>
+  </entry>
+  <entry id="308">
+    <source>戦闘開始時、一定確率で後方撹乱を使用する{f801}</source>
+    <target>戦闘開始時、一定確率で後方撹乱を使用する{f801}</target>
+  </entry>
+  <entry id="309">
+    <source>敵単体への単発の攻撃が全て貫通攻撃になり{f801}貫通攻撃の貫通ダメージを上昇させる{f801}</source>
+    <target>敵単体への単発の攻撃が全て貫通攻撃になり{f801}貫通攻撃の貫通ダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="310">
+    <source>このターン、敵後列の攻撃、防御、命中率{f801}回避率を下げ、一定確率でスタンさせる{f801}</source>
+    <target>このターン、敵後列の攻撃、防御、命中率{f801}回避率を下げ、一定確率でスタンさせる{f801}</target>
+  </entry>
+  <entry id="311">
+    <source>次のターン終了時まで、消費TPを軽減し{f801}スキル使用時の行動速度を上昇させる{f801}</source>
+    <target>次のターン終了時まで、消費TPを軽減し{f801}スキル使用時の行動速度を上昇させる{f801}</target>
+  </entry>
+  <entry id="312">
+    <source>次のターン終了時まで、遠隔攻撃の射程が{f801}短くなる代わりに威力と命中率が上昇する{f801}</source>
+    <target>次のターン終了時まで、遠隔攻撃の射程が{f801}短くなる代わりに威力と命中率が上昇する{f801}</target>
+  </entry>
+  <entry id="313">
+    <source>味方1人の状態異常とHPを回復する{f801}</source>
+    <target>味方1人の状態異常とHPを回復する{f801}</target>
+  </entry>
+  <entry id="314">
+    <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="315">
+    <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="316">
+    <source>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に命中率の高い遠隔突攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="317">
+    <source>敵1体に遠隔突+炎属性攻撃{f801}</source>
+    <target>敵1体に遠隔突+炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="318">
+    <source>前後の敵2体を貫通する遠隔突+炎属性攻撃{f801}発動まで防御力が低下する{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突+炎属性攻撃{f801}発動まで防御力が低下する{f801}</target>
+  </entry>
+  <entry id="319">
+    <source>敵1体に遠隔突+氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔突+氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="320">
+    <source>前後の敵2体を貫通する遠隔突+氷属性攻撃{f801}発動まで防御力が低下する{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突+氷属性攻撃{f801}発動まで防御力が低下する{f801}</target>
+  </entry>
+  <entry id="321">
+    <source>敵1体に遠隔突+雷属性攻撃{f801}</source>
+    <target>敵1体に遠隔突+雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="322">
+    <source>前後の敵2体を貫通する遠隔突+雷属性攻撃{f801}発動まで防御力が低下する{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突+雷属性攻撃{f801}発動まで防御力が低下する{f801}</target>
+  </entry>
+  <entry id="323">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回の遠隔突攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回の遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="324">
+    <source>前後の敵2体を貫通する遠隔突攻撃{f801}発動まで防御力が低下する{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突攻撃{f801}発動まで防御力が低下する{f801}</target>
+  </entry>
+  <entry id="325">
+    <source>前後の敵2体を貫通する突+炎+氷+雷の{f801}遠隔複合属性攻撃。発動まで防御力低下{f801}</source>
+    <target>前後の敵2体を貫通する突+炎+氷+雷の{f801}遠隔複合属性攻撃。発動まで防御力低下{f801}</target>
+  </entry>
+  <entry id="326">
+    <source>採取ポイントで入手できる素材数が増える{f801}</source>
+    <target>採取ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="327">
+    <source>{f85a}{a903}ターンの間、銃スキルが{f801}2回連続で発動するようになる{f801}</source>
+    <target>{f85a}{a903}ターンの間、銃スキルが{f801}2回連続で発動するようになる{f801}</target>
+  </entry>
+  <entry id="328">
+    <source>敵1体に強力な遠隔突攻撃{f801}高確率でスタン効果が発動する{f801}</source>
+    <target>敵1体に強力な遠隔突攻撃{f801}高確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="332">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="333">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="334">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="335">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="336">
+    <source>杖でも剣スキルが使用可能になる。剣装備時{f801}は最大TP、杖装備時は攻撃力が上昇する{f801}</source>
+    <target>杖でも剣スキルが使用可能になる。剣装備時{f801}は最大TP、杖装備時は攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="337">
+    <source>巫術スキルが習得可能になるスキル{f801}巫術スキルの効果が上昇する{f801}</source>
+    <target>巫術スキルが習得可能になるスキル{f801}巫術スキルの効果が上昇する{f801}</target>
+  </entry>
+  <entry id="338">
+    <source>状態異常の敵にダメージを与えると{f801}同列のHPが回復する{f801}</source>
+    <target>状態異常の敵にダメージを与えると{f801}同列のHPが回復する{f801}</target>
+  </entry>
+  <entry id="339">
+    <source>ターン開始時に、味方1人のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</source>
+    <target>ターン開始時に、味方1人のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</target>
+  </entry>
+  <entry id="340">
+    <source>ターン開始時に、味方1列のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</source>
+    <target>ターン開始時に、味方1列のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</target>
+  </entry>
+  <entry id="341">
+    <source>ターン開始時に、味方全体のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</source>
+    <target>ターン開始時に、味方全体のHPを回復する{f801}ターン終了時にもう一度回復する{f801}</target>
+  </entry>
+  <entry id="342">
+    <source>{f85a}{5c02}ターンの間、指定した敵1体が行動した時{f801}味方全体のHPが回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、指定した敵1体が行動した時{f801}味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="343">
+    <source>{f85a}{5c02}ターンの間、味方全体は行動した時{f801}一度だけHPが回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方全体は行動した時{f801}一度だけHPが回復する{f801}</target>
+  </entry>
+  <entry id="344">
+    <source>ターン開始時に、味方1人を蘇生する{f801}ターン終了時に一定確率でもう一度蘇生する{f801}</source>
+    <target>ターン開始時に、味方1人を蘇生する{f801}ターン終了時に一定確率でもう一度蘇生する{f801}</target>
+  </entry>
+  <entry id="345">
+    <source>味方1人に付着している封じ・状態異常を{f801}敵1体に移す{f801}</source>
+    <target>味方1人に付着している封じ・状態異常を{f801}敵1体に移す{f801}</target>
+  </entry>
+  <entry id="346">
+    <source>{f85a}{5c02}ターンの間{f801}味方1人の物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1人の物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="347">
+    <source>{f85a}{5c02}ターンの間{f801}味方1人の物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1人の物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="348">
+    <source>敵1体に一定確率で毒・麻痺・盲目・睡眠・{f801}呪い・テラー効果のいずれかを発生させる{f801}</source>
+    <target>敵1体に一定確率で毒・麻痺・盲目・睡眠・{f801}呪い・テラー効果のいずれかを発生させる{f801}</target>
+  </entry>
+  <entry id="349">
+    <source>このターン、一定確率で味方への{f801}封じ・状態異常・弱体を無効化する{f801}</source>
+    <target>このターン、一定確率で味方への{f801}封じ・状態異常・弱体を無効化する{f801}</target>
+  </entry>
+  <entry id="350">
+    <source>敵1体に近接斬攻撃{f801}対象が状態異常の時、威力が上昇する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}対象が状態異常の時、威力が上昇する{f801}</target>
+  </entry>
+  <entry id="351">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="352">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="353">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="354">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5302}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5302}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="355">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5402}{5c02}ターンの間物理・属性防御力を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5402}{5c02}ターンの間物理・属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="356">
+    <source>伐採ポイントで入手できる素材数が増える{f801}</source>
+    <target>伐採ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="357">
+    <source>{f85a}{a903}ターンの間、対象が状態異常でなくとも{f801}巫剣スキルの追加効果が発動する{f801}</source>
+    <target>{f85a}{a903}ターンの間、対象が状態異常でなくとも{f801}巫剣スキルの追加効果が発動する{f801}</target>
+  </entry>
+  <entry id="358">
+    <source>味方全体のHPと封じ・状態異常を回復し{f801}ターン終了時まであらゆる悪い効果を防ぐ{f801}</source>
+    <target>味方全体のHPと封じ・状態異常を回復し{f801}ターン終了時まであらゆる悪い効果を防ぐ{f801}</target>
+  </entry>
+  <entry id="362">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="363">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="364">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="365">
+    <source>物理防御力が上昇する{f801}</source>
+    <target>物理防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="366">
+    <source>戦闘不能になるダメージを受けた時{f801}一定確率でHP1で生き残る事ができる{f801}</source>
+    <target>戦闘不能になるダメージを受けた時{f801}一定確率でHP1で生き残る事ができる{f801}</target>
+  </entry>
+  <entry id="367">
+    <source>ダメージを受けるか封じが付着した時{f801}一定確率で自身に傷舐めを行う{f801}</source>
+    <target>ダメージを受けるか封じが付着した時{f801}一定確率で自身に傷舐めを行う{f801}</target>
+  </entry>
+  <entry id="368">
+    <source>味方を守るスキルが習得可能になるスキル{f801}自分へのダメージを一定確率で半減させる{f801}</source>
+    <target>味方を守るスキルが習得可能になるスキル{f801}自分へのダメージを一定確率で半減させる{f801}</target>
+  </entry>
+  <entry id="369">
+    <source>爪スキルが習得可能になるスキル{f801}爪装備時の物理攻撃力が上昇する{f801}</source>
+    <target>爪スキルが習得可能になるスキル{f801}爪装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="370">
+    <source>戦闘開始時に一定確率で{f801}ビーストロアを使用する{f801}</source>
+    <target>戦闘開始時に一定確率で{f801}ビーストロアを使用する{f801}</target>
+  </entry>
+  <entry id="371">
+    <source>味方1人のHPと封じを回復する{f801}</source>
+    <target>味方1人のHPと封じを回復する{f801}</target>
+  </entry>
+  <entry id="372">
+    <source>{f85a}{5c02}ターンの間、物理・属性攻撃力を低下させ{f801}代わりに物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、物理・属性攻撃力を低下させ{f801}代わりに物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="373">
+    <source>次のターン終了時まで、与えるダメージを{f801}上昇させ、受けるダメージを軽減させる{f801}</source>
+    <target>次のターン終了時まで、与えるダメージを{f801}上昇させ、受けるダメージを軽減させる{f801}</target>
+  </entry>
+  <entry id="374">
+    <source>このターン、受けるダメージを軽減し{f801}ターン終了時、敵全体に近接斬攻撃{f801}</source>
+    <target>このターン、受けるダメージを軽減し{f801}ターン終了時、敵全体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="375">
+    <source>このターン、受けるダメージを軽減し{f801}味方1人をかばう{f801}</source>
+    <target>このターン、受けるダメージを軽減し{f801}味方1人をかばう{f801}</target>
+  </entry>
+  <entry id="376">
+    <source>このターン、受けるダメージを軽減し{f801}味方全体を一定回数かばう{f801}</source>
+    <target>このターン、受けるダメージを軽減し{f801}味方全体を一定回数かばう{f801}</target>
+  </entry>
+  <entry id="377">
+    <source>{f85a}{5c02}ターンの間、受けるダメージを軽減し{f801}HPが50%以下の味方をかばう{f801}</source>
+    <target>{f85a}{5c02}ターンの間、受けるダメージを軽減し{f801}HPが50%以下の味方をかばう{f801}</target>
+  </entry>
+  <entry id="378">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理攻撃力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="379">
+    <source>敵味方関係なく、ランダムに{f85a}{a300}回遠隔斬攻撃{f801}</source>
+    <target>敵味方関係なく、ランダムに{f85a}{a300}回遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="380">
+    <source>敵全体に近接斬攻撃。発動が遅い{f801}</source>
+    <target>敵全体に近接斬攻撃。発動が遅い{f801}</target>
+  </entry>
+  <entry id="381">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="382">
+    <source>敵1体に近接壊攻撃{f801}与えたダメージの一定割合、HPを回復する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}与えたダメージの一定割合、HPを回復する{f801}</target>
+  </entry>
+  <entry id="383">
+    <source>敵1体に3回近接斬攻撃{f801}自身の残りHPが多いほど威力が上昇する{f801}</source>
+    <target>敵1体に3回近接斬攻撃{f801}自身の残りHPが多いほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="384">
+    <source>敵1列に近接壊攻撃{f801}自身もダメージを受ける{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}自身もダメージを受ける{f801}</target>
+  </entry>
+  <entry id="385">
+    <source>敵1体に近接壊攻撃{f801}自身の残りHPが少ないほど威力が上昇する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}自身の残りHPが少ないほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="386">
+    <source>採取、伐採、採掘時に{f801}追加で素材を入手可能になる{f801}</source>
+    <target>採取、伐採、採掘時に{f801}追加で素材を入手可能になる{f801}</target>
+  </entry>
+  <entry id="387">
+    <source>{f85a}{a903}ターンの間、HPを3倍にする{f801}</source>
+    <target>{f85a}{a903}ターンの間、HPを3倍にする{f801}</target>
+  </entry>
+  <entry id="388">
+    <source>このターン、全ての攻撃をかばい、耐える{f801}ターン終了時、敵全体に近接壊攻撃{f801}</source>
+    <target>このターン、全ての攻撃をかばい、耐える{f801}ターン終了時、敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="392">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="393">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="394">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="395">
+    <source>ターン終了時、自身のHPがMAXの場合{f801}味方全体のHPが回復する{f801}</source>
+    <target>ターン終了時、自身のHPがMAXの場合{f801}味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="396">
+    <source>戦闘勝利時、味方全体のHPが回復する{f801}</source>
+    <target>戦闘勝利時、味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="397">
+    <source>探索時、歩くたびに{f801}味方全体のHPが回復する{f801}</source>
+    <target>探索時、歩くたびに{f801}味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="398">
+    <source>号令スキルが習得可能になるスキル{f801}号令使用時、対象のHPが回復する{f801}</source>
+    <target>号令スキルが習得可能になるスキル{f801}号令使用時、対象のHPが回復する{f801}</target>
+  </entry>
+  <entry id="399">
+    <source>自身が生存中、強化が付与されている味方は{f801}フォース上昇量が増加する{f801}</source>
+    <target>自身が生存中、強化が付与されている味方は{f801}フォース上昇量が増加する{f801}</target>
+  </entry>
+  <entry id="400">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列の物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列の物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="401">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列の物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列の物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="402">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列への状態異常を一度だけ無効化する{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列への状態異常を一度だけ無効化する{f801}</target>
+  </entry>
+  <entry id="403">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列のHPをターン終了時に回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列のHPをターン終了時に回復する{f801}</target>
+  </entry>
+  <entry id="404">
+    <source>{f85a}{5c02}ターンの間、味方1列の戦闘不能ダメージ{f801}を一定確率で防ぎ、HPを回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1列の戦闘不能ダメージ{f801}を一定確率で防ぎ、HPを回復する{f801}</target>
+  </entry>
+  <entry id="405">
+    <source>{f85a}{5c02}ターンの間、味方1人の使用する{f801}HP回復スキルの回復量を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人の使用する{f801}HP回復スキルの回復量を上昇させる{f801}</target>
+  </entry>
+  <entry id="406">
+    <source>このターン、味方への炎属性ダメージを軽減{f801}敵への炎属性ダメージを増加させる{f801}</source>
+    <target>このターン、味方への炎属性ダメージを軽減{f801}敵への炎属性ダメージを増加させる{f801}</target>
+  </entry>
+  <entry id="407">
+    <source>このターン、味方への氷属性ダメージを軽減{f801}敵への氷属性ダメージを増加させる{f801}</source>
+    <target>このターン、味方への氷属性ダメージを軽減{f801}敵への氷属性ダメージを増加させる{f801}</target>
+  </entry>
+  <entry id="408">
+    <source>このターン、味方への雷属性ダメージを軽減{f801}敵への雷属性ダメージを増加させる{f801}</source>
+    <target>このターン、味方への雷属性ダメージを軽減{f801}敵への雷属性ダメージを増加させる{f801}</target>
+  </entry>
+  <entry id="409">
+    <source>このターン、指定した敵が属性攻撃を{f801}受けた時、対象に同じ属性で追加攻撃する{f801}</source>
+    <target>このターン、指定した敵が属性攻撃を{f801}受けた時、対象に同じ属性で追加攻撃する{f801}</target>
+  </entry>
+  <entry id="410">
+    <source>このターン、指定した敵が属性攻撃を{f801}受けた時、敵全体に同じ属性の追加ダメージ{f801}</source>
+    <target>このターン、指定した敵が属性攻撃を{f801}受けた時、敵全体に同じ属性の追加ダメージ{f801}</target>
+  </entry>
+  <entry id="411">
+    <source>敵1体の強化・弱体を全て解除{f801}対象に無属性ダメージを与える{f801}</source>
+    <target>敵1体の強化・弱体を全て解除{f801}対象に無属性ダメージを与える{f801}</target>
+  </entry>
+  <entry id="412">
+    <source>味方1人の強化と弱体を1つずつ解除し{f801}対象のHPを回復、フォースを上昇させる{f801}</source>
+    <target>味方1人の強化と弱体を1つずつ解除し{f801}対象のHPを回復、フォースを上昇させる{f801}</target>
+  </entry>
+  <entry id="413">
+    <source>味方全体の強化と弱体を1つずつ解除し{f801}対象のHPを回復、フォースを上昇させる{f801}</source>
+    <target>味方全体の強化と弱体を1つずつ解除し{f801}対象のHPを回復、フォースを上昇させる{f801}</target>
+  </entry>
+  <entry id="414">
+    <source>敵味方全体の強化・弱体を全て解除し{f801}自身のTPを回復する{f801}</source>
+    <target>敵味方全体の強化・弱体を全て解除し{f801}自身のTPを回復する{f801}</target>
+  </entry>
+  <entry id="415">
+    <source>同列の味方のTPを回復する。前のターン{f801}味方の強化・弱体を解除していると使用可能{f801}</source>
+    <target>同列の味方のTPを回復する。前のターン{f801}味方の強化・弱体を解除していると使用可能{f801}</target>
+  </entry>
+  <entry id="416">
+    <source>採取ポイントで入手できる素材数が増える{f801}</source>
+    <target>採取ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="417">
+    <source>{f85a}{a903}ターンの間、自身の使用する{f801}号令を全体化し号令の消費TPを半減する{f801}</source>
+    <target>{f85a}{a903}ターンの間、自身の使用する{f801}号令を全体化し号令の消費TPを半減する{f801}</target>
+  </entry>
+  <entry id="418">
+    <source>味方全体のHPとTPを回復する{f801}</source>
+    <target>味方全体のHPとTPを回復する{f801}</target>
+  </entry>
+  <entry id="422">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="423">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="424">
+    <source>物理攻撃力が上昇する{f801}</source>
+    <target>物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="425">
+    <source>属性攻撃力が上昇する{f801}</source>
+    <target>属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="426">
+    <source>剣・刀スキルが習得可能になるスキル{f801}剣・刀装備時の物理攻撃力が上昇する{f801}</source>
+    <target>剣・刀スキルが習得可能になるスキル{f801}剣・刀装備時の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="427">
+    <source>フォースゲージ上昇量が増加する{f801}</source>
+    <target>フォースゲージ上昇量が増加する{f801}</target>
+  </entry>
+  <entry id="428">
+    <source>戦闘中、フォースゲージを{f801}100%を超えて上昇させることができる{f801}</source>
+    <target>戦闘中、フォースゲージを{f801}100%を超えて上昇させることができる{f801}</target>
+  </entry>
+  <entry id="429">
+    <source>フォースブースト中{f801}ターン終了時にTPが回復する{f801}</source>
+    <target>フォースブースト中{f801}ターン終了時にTPが回復する{f801}</target>
+  </entry>
+  <entry id="430">
+    <source>装備制限を無視して一定割合の威力で{f801}スキルが使用可能になる{f801}</source>
+    <target>装備制限を無視して一定割合の威力で{f801}スキルが使用可能になる{f801}</target>
+  </entry>
+  <entry id="431">
+    <source>{f85a}{5c02}ターンの間、敵1体の物理防御力を低下{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵1体の物理防御力を低下{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="432">
+    <source>{f85a}{5c02}ターンの間、敵1体の属性防御力を低下{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵1体の属性防御力を低下{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="433">
+    <source>自身の封じを解除し{f801}フォースゲージを上昇させる{f801}</source>
+    <target>自身の封じを解除し{f801}フォースゲージを上昇させる{f801}</target>
+  </entry>
+  <entry id="434">
+    <source>次のターン終了時まで、与えるダメージと{f801}フォースゲージ上昇量を増加させる{f801}</source>
+    <target>次のターン終了時まで、与えるダメージと{f801}フォースゲージ上昇量を増加させる{f801}</target>
+  </entry>
+  <entry id="435">
+    <source>敵1体に近接斬攻撃。最速発動{f801}</source>
+    <target>敵1体に近接斬攻撃。最速発動{f801}</target>
+  </entry>
+  <entry id="436">
+    <source>敵1体に近接斬+炎属性攻撃{f801}</source>
+    <target>敵1体に近接斬+炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="437">
+    <source>敵1体に近接斬+氷属性攻撃{f801}</source>
+    <target>敵1体に近接斬+氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="438">
+    <source>敵1体に近接斬+雷属性攻撃{f801}</source>
+    <target>敵1体に近接斬+雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="439">
+    <source>敵1列に{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</source>
+    <target>敵1列に{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="440">
+    <source>敵1体に近接斬攻撃。この攻撃で{f801}敵を倒した時、敵全体にもダメージ{f801}</source>
+    <target>敵1体に近接斬攻撃。この攻撃で{f801}敵を倒した時、敵全体にもダメージ{f801}</target>
+  </entry>
+  <entry id="441">
+    <source>次のターン、自身の属性攻撃に合わせて{f801}同じ属性を乗せた斬攻撃で追撃する{f801}</source>
+    <target>次のターン、自身の属性攻撃に合わせて{f801}同じ属性を乗せた斬攻撃で追撃する{f801}</target>
+  </entry>
+  <entry id="442">
+    <source>敵1体に近接斬攻撃。発動が遅い{f801}対象の残りHP割合が多いほど威力増加{f801}</source>
+    <target>敵1体に近接斬攻撃。発動が遅い{f801}対象の残りHP割合が多いほど威力増加{f801}</target>
+  </entry>
+  <entry id="443">
+    <source>敵1体に近接斬攻撃{f801}使用までにターンを空けるほど威力増加{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}使用までにターンを空けるほど威力増加{f801}</target>
+  </entry>
+  <entry id="444">
+    <source>フォースブーストを解除し{f801}フォースゲージの消費を抑える{f801}</source>
+    <target>フォースブーストを解除し{f801}フォースゲージの消費を抑える{f801}</target>
+  </entry>
+  <entry id="445">
+    <source>フォースブースト持続ターンを1ターン延長{f801}このターン、全てのダメージを軽減する{f801}</source>
+    <target>フォースブースト持続ターンを1ターン延長{f801}このターン、全てのダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="446">
+    <source>敵全体へランダムに{f85a}{a300}回遠隔炎属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="447">
+    <source>敵全体へランダムに{f85a}{a300}回遠隔氷属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="448">
+    <source>敵全体へランダムに{f85a}{a300}回遠隔雷属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="449">
+    <source>敵1体に近接斬攻撃。前の行動時に属性攻撃{f801}をしていたら、その属性の追加ダメージ{f801}</source>
+    <target>敵1体に近接斬攻撃。前の行動時に属性攻撃{f801}をしていたら、その属性の追加ダメージ{f801}</target>
+  </entry>
+  <entry id="450">
+    <source>敵1体に強力な近接壊攻撃{f801}</source>
+    <target>敵1体に強力な近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="451">
+    <source>戦闘不能になるダメージを受けた時{f801}一度だけHP1で生き残る事ができる{f801}</source>
+    <target>戦闘不能になるダメージを受けた時{f801}一度だけHP1で生き残る事ができる{f801}</target>
+  </entry>
+  <entry id="452">
+    <source>フォースブースト持続ターンを{f801}初期値に戻す{f801}</source>
+    <target>フォースブースト持続ターンを{f801}初期値に戻す{f801}</target>
+  </entry>
+  <entry id="453">
+    <source>ターン終了時にHPが回復する{f801}</source>
+    <target>ターン終了時にHPが回復する{f801}</target>
+  </entry>
+  <entry id="454">
+    <source>次のターン、変身状態であれば{f801}最速で3回行動を行える{f801}</source>
+    <target>次のターン、変身状態であれば{f801}最速で3回行動を行える{f801}</target>
+  </entry>
+  <entry id="455">
+    <source>採掘ポイントで入手できる素材数が増える{f801}</source>
+    <target>採掘ポイントで入手できる素材数が増える{f801}</target>
+  </entry>
+  <entry id="456">
+    <source>{f85a}{a903}ターンの間変身し{f801}最大HP・全攻撃力が上昇する{f801}</source>
+    <target>{f85a}{a903}ターンの間変身し{f801}最大HP・全攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="457">
+    <source>敵1体に強力な炎+氷+雷の遠隔複合属性攻撃{f801}</source>
+    <target>敵1体に強力な炎+氷+雷の遠隔複合属性攻撃{f801}</target>
+  </entry>
+  <entry id="458">
+    <source>敵全体に強力な炎+氷+雷の遠隔複合属性攻撃{f801}</source>
+    <target>敵全体に強力な炎+氷+雷の遠隔複合属性攻撃{f801}</target>
+  </entry>
+  <entry id="462">
+    <source>このターン{f801}味方全体の物理・属性攻撃力を上昇させる{f801}</source>
+    <target>このターン{f801}味方全体の物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="463">
+    <source>このターン{f801}味方全体への物理・属性ダメージを軽減する{f801}</source>
+    <target>このターン{f801}味方全体への物理・属性ダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="464">
+    <source>このターン{f801}味方全体を最遅行動させる{f801}</source>
+    <target>このターン{f801}味方全体を最遅行動させる{f801}</target>
+  </entry>
+  <entry id="465">
+    <source>このターン{f801}味方全体の消費TPを軽減する{f801}</source>
+    <target>このターン{f801}味方全体の消費TPを軽減する{f801}</target>
+  </entry>
+  <entry id="466">
+    <source>このターン{f801}味方全体を最速行動させる{f801}</source>
+    <target>このターン{f801}味方全体を最速行動させる{f801}</target>
+  </entry>
+  <entry id="467">
+    <source>このターン{f801}味方全体の状態異常耐性を上昇させる{f801}</source>
+    <target>このターン{f801}味方全体の状態異常耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="468">
+    <source>このターン{f801}自身は戦闘不能にならない{f801}</source>
+    <target>このターン{f801}自身は戦闘不能にならない{f801}</target>
+  </entry>
+  <entry id="582">
+    <source>{f85a}{5c02}ターンの間{f801}状態異常を一度だけ無効化する{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}状態異常を一度だけ無効化する{f801}</target>
+  </entry>
+  <entry id="595">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5302}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5302}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="596">
+    <source>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5402}{5c02}ターンの間物理・属性防御力を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃。対象が状態異常の時{f801}{f85b}{5402}{5c02}ターンの間物理・属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="606">
+    <source>{f85a}{5c02}ターンの間、味方1人のHPを{f801}ターン終了時に回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方1人のHPを{f801}ターン終了時に回復する{f801}</target>
+  </entry>
+  <entry id="607">
+    <source>敵1体に近接壊攻撃{f801}{f85b}{5f02}{5c02}ターンの間、属性防御力を低下させる{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}{f85b}{5f02}{5c02}ターンの間、属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="636">
+    <source>斬攻撃によるダメージが上昇する{f801}</source>
+    <target>斬攻撃によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="637">
+    <source>突攻撃によるダメージが上昇する{f801}</source>
+    <target>突攻撃によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="638">
+    <source>壊攻撃によるダメージが上昇する{f801}</source>
+    <target>壊攻撃によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="639">
+    <source>炎属性によるダメージが上昇する{f801}</source>
+    <target>炎属性によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="640">
+    <source>氷属性によるダメージが上昇する{f801}</source>
+    <target>氷属性によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="641">
+    <source>雷属性によるダメージが上昇する{f801}</source>
+    <target>雷属性によるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="642">
+    <source>状態異常成功率が上昇する{f801}</source>
+    <target>状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="643">
+    <source>封じ成功率が上昇する{f801}</source>
+    <target>封じ成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="644">
+    <source>グリモアチャンスの発生率が上昇する{f801}</source>
+    <target>グリモアチャンスの発生率が上昇する{f801}</target>
+  </entry>
+  <entry id="645">
+    <source>希少個体の出現率が上昇する{f801}</source>
+    <target>希少個体の出現率が上昇する{f801}</target>
+  </entry>
+  <entry id="646">
+    <source>状態異常の回復率が上昇する{f801}</source>
+    <target>状態異常の回復率が上昇する{f801}</target>
+  </entry>
+  <entry id="647">
+    <source>封じ効果の回復率が上昇する{f801}</source>
+    <target>封じ効果の回復率が上昇する{f801}</target>
+  </entry>
+  <entry id="648">
+    <source>敵が落とした素材をもう一つ入手出来る{f801}</source>
+    <target>敵が落とした素材をもう一つ入手出来る{f801}</target>
+  </entry>
+  <entry id="649">
+    <source>戦闘勝利時にHPが回復する{f801}</source>
+    <target>戦闘勝利時にHPが回復する{f801}</target>
+  </entry>
+  <entry id="650">
+    <source>戦闘勝利時にTPが回復する{f801}</source>
+    <target>戦闘勝利時にTPが回復する{f801}</target>
+  </entry>
+  <entry id="651">
+    <source>HP減少時一定確率でHP回復する 重複しない{f801}</source>
+    <target>HP減少時一定確率でHP回復する 重複しない{f801}</target>
+  </entry>
+  <entry id="652">
+    <source>自身へのHP回復効果が上昇する 重複しない{f801}</source>
+    <target>自身へのHP回復効果が上昇する 重複しない{f801}</target>
+  </entry>
+  <entry id="653">
+    <source>戦闘開始時にフォースが上昇する 重複しない{f801}</source>
+    <target>戦闘開始時にフォースが上昇する 重複しない{f801}</target>
+  </entry>
+  <entry id="654">
+    <source>グリモアのスキルレベルが上昇する 重複しない{f801}</source>
+    <target>グリモアのスキルレベルが上昇する 重複しない{f801}</target>
+  </entry>
+  <entry id="655">
+    <source>ターン終了時TPが回復する 重複しない{f801}</source>
+    <target>ターン終了時TPが回復する 重複しない{f801}</target>
+  </entry>
+  <entry id="656">
+    <source>TP消費時確率で消費TP回復する 重複しない{f801}</source>
+    <target>TP消費時確率で消費TP回復する 重複しない{f801}</target>
+  </entry>
+  <entry id="667">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="668">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="669">
+    <source>{f85a}{5c02}ターンの間{f801}物理防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="670">
+    <source>敵1体に近接突攻撃{f801}</source>
+    <target>敵1体に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="671">
+    <source>敵1列に一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1列に一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="672">
+    <source>敵1体に一定確率で毒効果が発動する{f801}</source>
+    <target>敵1体に一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="673">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="674">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="675">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="676">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}</target>
+  </entry>
+  <entry id="677">
+    <source>敵1体から左右に拡散する、遠隔壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="678">
+    <source>敵1体に一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1体に一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="679">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="680">
+    <source>次のターン終了時まで{f801}物理攻撃力を上昇させる{f801}</source>
+    <target>次のターン終了時まで{f801}物理攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="681">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="682">
+    <source>敵1体に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1体に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="683">
+    <source>敵1体に近接突攻撃{f801}</source>
+    <target>敵1体に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="684">
+    <source>敵1体に近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="685">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="686">
+    <source>{f85a}{5c02}ターンの間{f801}敵1列の物理防御力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵1列の物理防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="687">
+    <source>敵全体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="688">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔雷属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="689">
+    <source>敵1列に近接突攻撃{f801}{f85a}{5c02}ターンの間、物理攻撃力を低下させる{f801}</source>
+    <target>敵1列に近接突攻撃{f801}{f85a}{5c02}ターンの間、物理攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="690">
+    <source>敵全体に一定確率で毒効果が発動する{f801}</source>
+    <target>敵全体に一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="691">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="692">
+    <source>敵1列に一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1列に一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="693">
+    <source>敵1体に近接突攻撃{f801}</source>
+    <target>敵1体に近接突攻撃{f801}</target>
+  </entry>
+  <entry id="694">
+    <source>敵1列に近接斬攻撃{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="695">
+    <source>敵全体に近接壊攻撃{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="696">
+    <source>敵1体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="697">
+    <source>敵全体に一定確率で盲目効果が発動する{f801}</source>
+    <target>敵全体に一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="698">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}</target>
+  </entry>
+  <entry id="699">
+    <source>敵1列に遠隔炎属性攻撃{f801}</source>
+    <target>敵1列に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="700">
+    <source>{f85a}{5c02}ターンの間、味方全体の{f801}炎属性耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間、味方全体の{f801}炎属性耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="701">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="702">
+    <source>敵1体に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1体に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="703">
+    <source>敵1体に近接斬攻撃{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="704">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理防御力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="705">
+    <source>敵全体へランダムに{f85a}{a300}回近接突攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接突攻撃{f801}</target>
+  </entry>
+  <entry id="706">
+    <source>{f85a}{5c02}ターンの間{f801}物理攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="707">
+    <source>敵1列に一定確率で毒効果が発動する{f801}</source>
+    <target>敵1列に一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="708">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="709">
+    <source>敵1列に近接壊攻撃{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="710">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="711">
+    <source>敵1体に{f85a}{a300}回遠隔突攻撃{f801}</source>
+    <target>敵1体に{f85a}{a300}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="712">
+    <source>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="713">
+    <source>敵全体に一定確率でテラー効果が発動する{f801}</source>
+    <target>敵全体に一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="714">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="715">
+    <source>{f85a}{5c02}ターンの間、敵1体の属性防御力を低下{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵1体の属性防御力を低下{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="716">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="717">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="718">
+    <source>敵全体に近接斬攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="719">
+    <source>敵1体に一定確率で即死効果が発動する{f801}</source>
+    <target>敵1体に一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="720">
+    <source>敵1列へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔炎属性攻撃{f801}</source>
+    <target>敵1列へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="721">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="722">
+    <source>敵1体に遠隔氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="723">
+    <source>敵1体に近接斬攻撃{f801}一定確率で頭+脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で頭+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="724">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="725">
+    <source>敵1列に近接壊攻撃{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="726">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="727">
+    <source>敵全体に一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="728">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="729">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列の属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列の属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="730">
+    <source>敵1体から左右に拡散する、近接突攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接突攻撃{f801}</target>
+  </entry>
+  <entry id="731">
+    <source>敵1体に遠隔氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="732">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の属性防御力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="733">
+    <source>敵1体に一定確率で石化効果が発動する{f801}</source>
+    <target>敵1体に一定確率で石化効果が発動する{f801}</target>
+  </entry>
+  <entry id="734">
+    <source>敵1体に遠隔雷属性攻撃{f801}</source>
+    <target>敵1体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="735">
+    <source>敵{f85a}{a300}体に遠隔氷属性攻撃{f801}</source>
+    <target>敵{f85a}{a300}体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="736">
+    <source>{f85a}{5c02}ターンの間{f801}物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="737">
+    <source>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="738">
+    <source>敵{f85a}{a300}〜{f85a}{a400}体に近接壊攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵{f85a}{a300}〜{f85a}{a400}体に近接壊攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="739">
+    <source>敵1列に一定確率で麻痺か混乱効果が発動する{f801}</source>
+    <target>敵1列に一定確率で麻痺か混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="740">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="741">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="742">
+    <source>敵全体に遠隔氷属性攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="743">
+    <source>敵1体に遠隔雷属性攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に遠隔雷属性攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="744">
+    <source>敵1体に近接突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="745">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の状態異常耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の状態異常耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="746">
+    <source>敵全体に近接壊攻撃{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="747">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の属性攻撃力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="748">
+    <source>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="749">
+    <source>敵全体に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵全体に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="750">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="751">
+    <source>敵1列に近接斬攻撃。{f85a}{5c02}ターンの間{f801}封じ・状態異常耐性を低下させる{f801}</source>
+    <target>敵1列に近接斬攻撃。{f85a}{5c02}ターンの間{f801}封じ・状態異常耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="752">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="753">
+    <source>敵全体に遠隔雷属性攻撃{f801}</source>
+    <target>敵全体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="754">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="755">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="756">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="757">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="758">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="759">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}</target>
+  </entry>
+  <entry id="760">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="761">
+    <source>敵1体に近接突攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="762">
+    <source>敵全体に遠隔斬攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>敵全体に遠隔斬攻撃{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="763">
+    <source>敵1体に近接斬攻撃{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="764">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="765">
+    <source>敵{f85a}{a300}〜{f85a}{a400}体に遠隔雷属性攻撃{f801}{f85a}{5c02}ターンの間、属性攻撃力を低下させる{f801}</source>
+    <target>敵{f85a}{a300}〜{f85a}{a400}体に遠隔雷属性攻撃{f801}{f85a}{5c02}ターンの間、属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="766">
+    <source>{f85a}{5c02}ターンの間、敵全体の物理攻撃力を上昇{f801}一定確率で混乱効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の物理攻撃力を上昇{f801}一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="767">
+    <source>敵1体から左右に拡散する、近接斬攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="768">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="769">
+    <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="770">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で腕+脚封じ効果が発動する{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="771">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理攻撃力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="772">
+    <source>味方1人に無属性攻撃を行い、{f85a}{5c02}ターンの間{f801}物理・属性攻撃力と行動速度を上昇させる{f801}</source>
+    <target>味方1人に無属性攻撃を行い、{f85a}{5c02}ターンの間{f801}物理・属性攻撃力と行動速度を上昇させる{f801}</target>
+  </entry>
+  <entry id="773">
+    <source>敵1列に近接斬攻撃{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="774">
+    <source>敵{f85a}{a300}体に遠隔炎属性攻撃{f801}</source>
+    <target>敵{f85a}{a300}体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="775">
+    <source>敵1列に一定確率で{f801}睡眠かテラー効果が発動する{f801}</source>
+    <target>敵1列に一定確率で{f801}睡眠かテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="776">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="777">
+    <source>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="778">
+    <source>敵1体に近接斬攻撃{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="779">
+    <source>このターン、味方の属性攻撃を{f801}受けた敵に対して同じ属性で追撃を行う{f801}</source>
+    <target>このターン、味方の属性攻撃を{f801}受けた敵に対して同じ属性で追撃を行う{f801}</target>
+  </entry>
+  <entry id="780">
+    <source>敵1列に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="781">
+    <source>敵全体に近接斬攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="782">
+    <source>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="783">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="784">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}{f85b}{3804}{5c02}ターンの間、自身の物理攻撃力が上昇する{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}{f85b}{3804}{5c02}ターンの間、自身の物理攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="785">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}{f85a}{5c02}ターンの間、物理防御力を低下させる{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}{f85a}{5c02}ターンの間、物理防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="786">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="787">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="788">
+    <source>味方全体のHPを回復させ{f801}{f85a}{5c02}ターンの間、行動速度を上昇させる{f801}</source>
+    <target>味方全体のHPを回復させ{f801}{f85a}{5c02}ターンの間、行動速度を上昇させる{f801}</target>
+  </entry>
+  <entry id="789">
+    <source>敵味方関係なく、{f85a}{a300}〜{f85a}{a400}回遠隔斬攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
+    <target>敵味方関係なく、{f85a}{a300}〜{f85a}{a400}回遠隔斬攻撃{f801}一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="790">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="791">
+    <source>敵1体に近接壊攻撃。自身にもダメージ{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵1体に近接壊攻撃。自身にもダメージ{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="792">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="793">
+    <source>敵全体に一定確率で{f801}麻痺か混乱効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}麻痺か混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="794">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の物理攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の物理攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="795">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="796">
+    <source>敵味方全体に遠隔斬攻撃{f801}</source>
+    <target>敵味方全体に遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="797">
+    <source>敵全体に一定確率で{f801}睡眠+頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}睡眠+頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="798">
+    <source>敵全体に遠隔斬攻撃{f801}</source>
+    <target>敵全体に遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="799">
+    <source>敵全体に遠隔無属性攻撃{f801}一定確率でテラー効果が発動する{f801}</source>
+    <target>敵全体に遠隔無属性攻撃{f801}一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="800">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="801">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}{f85b}{3904}{5c02}ターンの間、自身の物理防御力が低下する{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}{f85b}{3904}{5c02}ターンの間、自身の物理防御力が低下する{f801}</target>
+  </entry>
+  <entry id="802">
+    <source>敵全体に近接壊攻撃{f801}更に、自身の弱体を全て解除する{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}更に、自身の弱体を全て解除する{f801}</target>
+  </entry>
+  <entry id="803">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="804">
+    <source>敵全体に近接斬攻撃{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="805">
+    <source>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="806">
+    <source>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="807">
+    <source>敵1体に近接斬攻撃{f801}与えたダメージの一定割合、HPを回復する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}与えたダメージの一定割合、HPを回復する{f801}</target>
+  </entry>
+  <entry id="808">
+    <source>敵1体に一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="809">
+    <source>敵全体に一定確率で毒効果が発動する{f801}</source>
+    <target>敵全体に一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="810">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="811">
+    <source>敵1体に一定確率で石化効果が発動する{f801}</source>
+    <target>敵1体に一定確率で石化効果が発動する{f801}</target>
+  </entry>
+  <entry id="812">
+    <source>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="813">
+    <source>敵全体に近接斬攻撃{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="814">
+    <source>敵1体から左右に拡散する、遠隔雷属性攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="815">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="816">
+    <source>敵1列に近接斬攻撃{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="817">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="818">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="819">
+    <source>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="820">
+    <source>前後の敵2体を貫通する遠隔炎属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="821">
+    <source>敵1列に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="822">
+    <source>敵全体に遠隔突攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に遠隔突攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="823">
+    <source>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="824">
+    <source>敵1列に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1列に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="825">
+    <source>敵1列に近接斬攻撃{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="826">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="827">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="828">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="829">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="830">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="831">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="832">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="833">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="834">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="835">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="836">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="837">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="838">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="839">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="840">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="841">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="842">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="843">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="844">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="845">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="846">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="847">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="848">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="849">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="850">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="851">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="852">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="853">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="854">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="855">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="856">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="857">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="858">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="859">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="860">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="861">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="862">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="863">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="864">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="865">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="866">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="867">
+    <source>前後の敵2体を貫通する遠隔突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="868">
+    <source>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="869">
+    <source>敵全体へランダムに2回斬攻撃{f801}</source>
+    <target>敵全体へランダムに2回斬攻撃{f801}</target>
+  </entry>
+  <entry id="870">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="871">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="872">
+    <source>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性攻撃力を低下させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵全体の物理・属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="873">
+    <source>敵1体に遠隔炎属性攻撃{f801}</source>
+    <target>敵1体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="874">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="875">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="876">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="877">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="878">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="879">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="880">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="881">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="882">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="883">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="884">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="885">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="886">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="887">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="888">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="889">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="890">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="891">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="892">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="893">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="894">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="895">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="896">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="897">
+    <source>敵全体に一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵全体に一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="898">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="899">
+    <source>敵1列に遠隔氷属性攻撃{f801}</source>
+    <target>敵1列に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="900">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="901">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="902">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="903">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="904">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="905">
+    <source>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="906">
+    <source>敵全体に遠隔突攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>敵全体に遠隔突攻撃{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="907">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔斬攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔斬攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="908">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="909">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="910">
+    <source>{f85a}{5c02}ターンの間{f801}敵味方全体の物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}敵味方全体の物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="911">
+    <source>{f85a}{5c02}ターンの間{f801}物理・属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理・属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="912">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="913">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="914">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="915">
+    <source>敵全体に近接壊攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}一定確率で頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="916">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="917">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="918">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="919">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="920">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="921">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="922">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="923">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="924">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="925">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="926">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="927">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="928">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="929">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="930">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="931">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="932">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="933">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="934">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="935">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="936">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="937">
+    <source>敵全体に近接壊攻撃{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="938">
+    <source>敵1列に近接壊攻撃{f801}{f85a}{5c02}ターンの間、物理防御力を低下させる{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}{f85a}{5c02}ターンの間、物理防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="939">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="940">
+    <source>敵{f85a}{a300}〜{f85a}{a400}体に遠隔壊攻撃+脚封じ効果{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵{f85a}{a300}〜{f85a}{a400}体に遠隔壊攻撃+脚封じ効果{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="941">
+    <source>前後の敵2体を貫通する近接斬攻撃{f801}一定確率で毒か麻痺効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する近接斬攻撃{f801}一定確率で毒か麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="942">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="943">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="944">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="945">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="946">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}{f85a}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}{f85a}{5c02}ターンの間物理・属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="947">
+    <source>前後の敵2体を貫通する近接斬攻撃{f801}{f85a}{5c02}ターンの間物理・属性防御力を低下させる{f801}</source>
+    <target>前後の敵2体を貫通する近接斬攻撃{f801}{f85a}{5c02}ターンの間物理・属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="948">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="949">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="950">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="951">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="952">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="953">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="954">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="955">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="956">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="957">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="958">
+    <source>敵全体へランダムに{f85a}{a300}回{f801}必中の遠隔無属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回{f801}必中の遠隔無属性攻撃{f801}</target>
+  </entry>
+  <entry id="959">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="960">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="961">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="962">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="963">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="964">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="965">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="966">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="967">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="968">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="969">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="970">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="971">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="972">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="973">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="974">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="975">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="976">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="977">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="978">
+    <source>敵全体へランダムに{f85a}{a300}回遠隔氷属性攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="979">
+    <source>前後の敵2体を貫通する近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="980">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="981">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="982">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="983">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="984">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="985">
+    <source>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="986">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="987">
+    <source>敵全体に遠隔壊攻撃{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵全体に遠隔壊攻撃{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="988">
+    <source>敵1列に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1列に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="989">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="990">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="991">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="992">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="993">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="994">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="995">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="996">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="997">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="998">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="999">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1000">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1001">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1002">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1003">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1004">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1005">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1006">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1007">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1008">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1009">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1010">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1011">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1012">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1013">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1014">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1015">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1016">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1017">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1018">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1019">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1020">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1021">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1022">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1023">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1024">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1025">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1026">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1027">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1028">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1029">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1030">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1031">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1032">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1033">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1034">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1035">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1036">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1037">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1038">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1039">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1040">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1041">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1042">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1043">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1044">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1045">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1046">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1047">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1048">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1049">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1050">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1051">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1052">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1053">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1054">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1055">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1056">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1057">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1058">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1059">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1060">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1061">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1062">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1063">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1064">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1065">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1066">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1067">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1068">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1069">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1070">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1071">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1072">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1073">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1074">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1075">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1076">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1077">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1078">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1079">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1080">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1081">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1082">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1083">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1084">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1085">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1086">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1087">
+    <source>{f85a}{5c02}ターンの間{f801}HPをターン終了時に回復する{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}HPをターン終了時に回復する{f801}</target>
+  </entry>
+  <entry id="1088">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1089">
+    <source>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="1090">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1091">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1092">
+    <source>敵全体に遠隔雷属性攻撃{f801}</source>
+    <target>敵全体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1093">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1094">
+    <source>敵全体に遠隔壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵全体に遠隔壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="1095">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1096">
+    <source>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1097">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1098">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1099">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="1100">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1101">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1102">
+    <source>{f85a}{5c02}ターンの間{f801}物理・属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}物理・属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="1103">
+    <source>敵1列に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1104">
+    <source>敵全体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1105">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1106">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1107">
+    <source>敵1体に近接斬攻撃{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="1108">
+    <source>敵1体から左右に拡散する、近接突攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接突攻撃{f801}</target>
+  </entry>
+  <entry id="1109">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1110">
+    <source>敵1体に遠隔雷属性攻撃{f801}</source>
+    <target>敵1体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1111">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1112">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1113">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1114">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1115">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1116">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1117">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1118">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1119">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1120">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1121">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1122">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1123">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1124">
+    <source>敵全体へランダムに{f85a}{a300}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1125">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1126">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1127">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1128">
+    <source>敵全体に近接壊攻撃{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1129">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1130">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1131">
+    <source>敵全体に一定確率で{f801}腕+脚封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1132">
+    <source>敵1体に近接突攻撃{f801}一定確率で石化効果が発動する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で石化効果が発動する{f801}</target>
+  </entry>
+  <entry id="1133">
+    <source>前後の敵2体を貫通する近接突攻撃{f801}</source>
+    <target>前後の敵2体を貫通する近接突攻撃{f801}</target>
+  </entry>
+  <entry id="1134">
+    <source>敵全体に遠隔氷属性攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="1135">
+    <source>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="1136">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1137">
+    <source>敵{f85a}{a300}〜{f85a}{a400}体に遠隔斬攻撃{f801}{f85a}{5c02}ターンの間、命中率を低下させる{f801}</source>
+    <target>敵{f85a}{a300}〜{f85a}{a400}体に遠隔斬攻撃{f801}{f85a}{5c02}ターンの間、命中率を低下させる{f801}</target>
+  </entry>
+  <entry id="1138">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1139">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1140">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1141">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1142">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1143">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1144">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1145">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1146">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1147">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1148">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1149">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1150">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1151">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1152">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1153">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1154">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1155">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1156">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1157">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1158">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1159">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1160">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1161">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1162">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1163">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1164">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1165">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1166">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1167">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1168">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1169">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1170">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1171">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1172">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1173">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1174">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1175">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1176">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1177">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1178">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1179">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1180">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1181">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1182">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1183">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1184">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1185">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1186">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1187">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1188">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔突攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="1189">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1190">
+    <source>敵1列に近接斬攻撃{f801}一定確率で毒か呪い効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}一定確率で毒か呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="1191">
+    <source>敵1体から左右に拡散する、近接斬攻撃{f801}一定確率で混乱か盲目効果が発動する{f801}</source>
+    <target>敵1体から左右に拡散する、近接斬攻撃{f801}一定確率で混乱か盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="1192">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1193">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1194">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1195">
+    <source>敵全体に一定確率でテラー効果が発動する{f801}</source>
+    <target>敵全体に一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="1196">
+    <source>前後の敵2体を貫通する、遠隔氷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する、遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1197">
+    <source>敵1体に遠隔氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1198">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1199">
+    <source>敵全体に一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵全体に一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1200">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1201">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1202">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1203">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1204">
+    <source>敵全体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="1205">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1206">
+    <source>{f85a}{5c02}ターンの間{f801}味方全体の属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方全体の属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="1207">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1208">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1209">
+    <source>{f85a}{5c02}ターンの間、敵全体の命中率を低下させる{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の命中率を低下させる{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="1210">
+    <source>敵1体に一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1体に一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="1211">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列の物理攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列の物理攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="1212">
+    <source>{f85a}{5c02}ターンの間{f801}味方1列の物理防御力を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}味方1列の物理防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="1213">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1214">
+    <source>敵{f85a}{a300}〜{f85a}{a400}体に遠隔氷属性攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵{f85a}{a300}〜{f85a}{a400}体に遠隔氷属性攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="1215">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1216">
+    <source>敵1体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵1体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1217">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1218">
+    <source>{f85a}{5c02}ターンの間{f801}炎属性耐性を上昇させる{f801}</source>
+    <target>{f85a}{5c02}ターンの間{f801}炎属性耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="1219">
+    <source>敵全体に遠隔雷属性攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵全体に遠隔雷属性攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="1220">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔突攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="1221">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1222">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1223">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1224">
+    <source>敵全体に遠隔無属性攻撃+スタン効果{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵全体に遠隔無属性攻撃+スタン効果{f801}{f85a}{5c02}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="1225">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1226">
+    <source>前後の敵2体を貫通する、遠隔氷属性攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>前後の敵2体を貫通する、遠隔氷属性攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="1227">
+    <source>敵全体に遠隔雷属性攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵全体に遠隔雷属性攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1228">
+    <source>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</source>
+    <target>敵全体へランダムに{f85a}{a300}〜{f85a}{a400}回近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1229">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1230">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1231">
+    <source>敵全体に一定確率で{f801}睡眠かテラー効果が発動する{f801}</source>
+    <target>敵全体に一定確率で{f801}睡眠かテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="1232">
+    <source>敵全体に近接斬攻撃{f801}一定確率で盲目か呪い効果が発動する{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}一定確率で盲目か呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="1233">
+    <source>敵全体に遠隔突攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵全体に遠隔突攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="1234">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1235">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="1236">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1237">
+    <source>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵1体から左右に拡散する、近接壊攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="1238">
+    <source>{f85a}{5c02}ターンの間、敵全体の物理攻撃力低下{f801}一定確率でテラー効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵全体の物理攻撃力低下{f801}一定確率でテラー効果が発動する{f801}</target>
+  </entry>
+  <entry id="1239">
+    <source>敵1体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="1240">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1241">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1242">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1243">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1244">
+    <source>敵全体に遠隔氷属性攻撃{f801}</source>
+    <target>敵全体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="1245">
+    <source>{f85a}{5c02}ターンの間、敵1体の物理・属性防御低下{f801}一定確率で混乱効果が発動する{f801}</source>
+    <target>{f85a}{5c02}ターンの間、敵1体の物理・属性防御低下{f801}一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="1246">
+    <source>敵1体に近接壊攻撃。一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃。一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="1247">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1248">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1249">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1250">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1251">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1252">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1253">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1254">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1255">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1256">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1257">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1258">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1259">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1260">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1261">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1262">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1263">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1264">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1265">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1266">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1267">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+</mbm>

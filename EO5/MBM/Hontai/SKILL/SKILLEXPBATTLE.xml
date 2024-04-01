@@ -1,0 +1,1430 @@
+<mbm>
+  <entry id="0">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>剣装備時の物理属性攻撃力が上昇し{f801}剣による通常攻撃が突属性になる{f801}</source>
+    <target>剣装備時の物理属性攻撃力が上昇し{f801}剣による通常攻撃が突属性になる{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>敵の攻撃を回避した時、一定確率で{f801}所持武器でカウンターを行う{f801}</source>
+    <target>敵の攻撃を回避した時、一定確率で{f801}所持武器でカウンターを行う{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>チェインスキルを発動させる度に{f801}与えるダメージが増加する{f801}</source>
+    <target>チェインスキルを発動させる度に{f801}与えるダメージが増加する{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>このターン、全防御力を犠牲に{f801}狙われ率と回避率を大きく上昇させる{f801}</source>
+    <target>このターン、全防御力を犠牲に{f801}狙われ率と回避率を大きく上昇させる{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>{f85a}{7c03}ターンの間、味方1列への{f801}物理属性攻撃を一度だけ回避させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方1列への{f801}物理属性攻撃を一度だけ回避させる{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>敵1体に近接突攻撃{f801}一定確率で盲目効果が発動する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で盲目効果が発動する{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>チェインスキルで敵に止めを刺した時{f801}同属性で別の敵に攻撃する{f801}</source>
+    <target>チェインスキルで敵に止めを刺した時{f801}同属性で別の敵に攻撃する{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>このターン、指定した敵1体が{f801}突・炎属性攻撃を受けた時に追撃を行う{f801}</source>
+    <target>このターン、指定した敵1体が{f801}突・炎属性攻撃を受けた時に追撃を行う{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>このターン、指定した敵1体が{f801}突・氷属性攻撃を受けた時に追撃を行う{f801}</source>
+    <target>このターン、指定した敵1体が{f801}突・氷属性攻撃を受けた時に追撃を行う{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>このターン、指定した敵1体が{f801}突・雷属性攻撃を受けた時に追撃を行う{f801}</source>
+    <target>このターン、指定した敵1体が{f801}突・雷属性攻撃を受けた時に追撃を行う{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>攻撃を回避する度に{f801}狙われ率と全防御力が上昇する{f801}</source>
+    <target>攻撃を回避する度に{f801}狙われ率と全防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>シルフィード発動時の攻撃回数が増加する{f801}</source>
+    <target>シルフィード発動時の攻撃回数が増加する{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>戦闘開始時、一定確率で自身と同列の味方に{f801}ウィンドカーテンを使用する{f801}</source>
+    <target>戦闘開始時、一定確率で自身と同列の味方に{f801}ウィンドカーテンを使用する{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>このターン、自身が敵の攻撃を回避する度に{f801}同列の味方が各々の所持武器で反撃する{f801}</source>
+    <target>このターン、自身が敵の攻撃を回避する度に{f801}同列の味方が各々の所持武器で反撃する{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>敵1体に近接突攻撃。このターン、{f801}自身の狙われ率と回避率を上昇させる{f801}</source>
+    <target>敵1体に近接突攻撃。このターン、{f801}自身の狙われ率と回避率を上昇させる{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>装備枠に空きが多いほど回避率が上昇する{f801}</source>
+    <target>装備枠に空きが多いほど回避率が上昇する{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>敵1体に近接突+雷の複合属性攻撃{f801}使用までに回避するほど威力増加{f801}</source>
+    <target>敵1体に近接突+雷の複合属性攻撃{f801}使用までに回避するほど威力増加{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>このターン、味方全体の回避率を大きく{f801}上昇させる このスキルの効果は重複しない{f801}</source>
+    <target>このターン、味方全体の回避率を大きく{f801}上昇させる このスキルの効果は重複しない{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>{f85a}{7c03}ターンの間、敵1列の{f801}命中率を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵1列の{f801}命中率を低下させる{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>敵の攻撃を回避する度に{f801}自身のユニオンゲージが上昇する{f801}</source>
+    <target>敵の攻撃を回避する度に{f801}自身のユニオンゲージが上昇する{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>一定確率でチェインスキルによる追撃が{f801}もう一度発動する{f801}</source>
+    <target>一定確率でチェインスキルによる追撃が{f801}もう一度発動する{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>攻撃する度に同ターン内の{f801}全防御力と回避率が上昇する{f801}</source>
+    <target>攻撃する度に同ターン内の{f801}全防御力と回避率が上昇する{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>物理属性攻撃力が上昇する{f801}</source>
+    <target>物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>敵1列へランダムに{f85a}{c700}〜{f85a}{c800}回の近接突攻撃{f801}</source>
+    <target>敵1列へランダムに{f85a}{c700}〜{f85a}{c800}回の近接突攻撃{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>{f85a}{7c03}ターンの間、自身のチェインスキルの{f801}追撃率とダメージを上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、自身のチェインスキルの{f801}追撃率とダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>このターン、指定した敵1体がスタン・{f801}封じ・状態異常にかかった際、追撃を行う{f801}</source>
+    <target>このターン、指定した敵1体がスタン・{f801}封じ・状態異常にかかった際、追撃を行う{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>次ターン、チェインスキルを全体化させ{f801}追撃回数を増加させる{f801}</source>
+    <target>次ターン、チェインスキルを全体化させ{f801}追撃回数を増加させる{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>敵1体に近接突攻撃。前ターンの自身の{f801}攻撃回数が多いほど威力が上昇する{f801}</source>
+    <target>敵1体に近接突攻撃。前ターンの自身の{f801}攻撃回数が多いほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>命中・回避率・行動速度が上昇する{f801}</source>
+    <target>命中・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>一定確率で通常攻撃が{f801}突属性と斬属性で2回発生する{f801}</source>
+    <target>一定確率で通常攻撃が{f801}突属性と斬属性で2回発生する{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>盾装備時の物理属性防御力が上昇する{f801}</source>
+    <target>盾装備時の物理属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>重砲装備時の物理属性攻撃力が上昇する{f801}</source>
+    <target>重砲装備時の物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}物理属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}物理属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>{f85a}{7c03}ターンの間、味方1人の{f801}狙われ率と全防御力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方1人の{f801}狙われ率と全防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>バンカーを設置し攻撃を引きつける{f801}</source>
+    <target>バンカーを設置し攻撃を引きつける{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>このターン、味方1列への{f801}物理属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方1列への{f801}物理属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>このターン、自身への物理属性攻撃を軽減し{f801}ダメージを受ける度にHPを回復する{f801}</source>
+    <target>このターン、自身への物理属性攻撃を軽減し{f801}ダメージを受ける度にHPを回復する{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>このターン、味方全体への{f801}魔法属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}魔法属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>前ターンのガードスキルの効果を維持し{f801}敵1体に遠隔壊攻撃{f801}</source>
+    <target>前ターンのガードスキルの効果を維持し{f801}敵1体に遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>敵全体に遠隔壊攻撃{f801}{f85a}{7c03}ターンの間、物理属性攻撃力を低下させる{f801}</source>
+    <target>敵全体に遠隔壊攻撃{f801}{f85a}{7c03}ターンの間、物理属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>戦闘開始時、一定確率で{f801}バンカーを使用する{f801}</source>
+    <target>戦闘開始時、一定確率で{f801}バンカーを使用する{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>自身がいない列へのダメージを{f801}一定確率で無効化する{f801}</source>
+    <target>自身がいない列へのダメージを{f801}一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>戦闘開始時、一定確率で{f801}自身に竜の咆哮を使用する{f801}</source>
+    <target>戦闘開始時、一定確率で{f801}自身に竜の咆哮を使用する{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>このターン、味方1列への物理属性攻撃を{f801}軽減し、一定確率で致死ダメージも耐える{f801}</source>
+    <target>このターン、味方1列への物理属性攻撃を{f801}軽減し、一定確率で致死ダメージも耐える{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>このターン、味方1列への物理属性攻撃を{f801}軽減し、一定確率で封じを回復する{f801}</source>
+    <target>このターン、味方1列への物理属性攻撃を{f801}軽減し、一定確率で封じを回復する{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>このターン中、味方1人を敵の攻撃から庇う{f801}</source>
+    <target>このターン中、味方1人を敵の攻撃から庇う{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>このターン、味方全体への{f801}全ての攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}全ての攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>このターン、味方1列への物理属性攻撃を{f801}軽減し、所持武器で反撃する{f801}</source>
+    <target>このターン、味方1列への物理属性攻撃を{f801}軽減し、所持武器で反撃する{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>敵1列に遠隔斬攻撃{f801}</source>
+    <target>敵1列に遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>ガードスキルが発動するかバンカー等が攻撃{f801}された時、次の重砲スキルの威力が上昇する{f801}</source>
+    <target>ガードスキルが発動するかバンカー等が攻撃{f801}された時、次の重砲スキルの威力が上昇する{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>物理属性攻撃力が上昇する{f801}</source>
+    <target>物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>次ターンに使用する重砲スキルの{f801}攻撃力・命中率・行動速度が上昇する{f801}</source>
+    <target>次ターンに使用する重砲スキルの{f801}攻撃力・命中率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>敵1体に最速遠隔壊攻撃{f801}</source>
+    <target>敵1体に最速遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>敵1体に遠隔壊攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
+    <target>敵1体に遠隔壊攻撃{f801}一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>敵1体に遠隔壊攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1体に遠隔壊攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>次ターン、敵1体に遠隔壊+炎の{f801}複合属性攻撃。対象に近い程威力が上昇する{f801}</source>
+    <target>次ターン、敵1体に遠隔壊+炎の{f801}複合属性攻撃。対象に近い程威力が上昇する{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>反撃能力を持ったトーチカを設置し{f801}攻撃を引きつける{f801}</source>
+    <target>反撃能力を持ったトーチカを設置し{f801}攻撃を引きつける{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>自身への攻撃が軽減・無効化された時に{f801}一定確率でトーチカを使用する{f801}</source>
+    <target>自身への攻撃が軽減・無効化された時に{f801}一定確率でトーチカを使用する{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>マギスキルの威力が上昇する{f801}</source>
+    <target>マギスキルの威力が上昇する{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>{f85a}{7c03}ターンの間、味方1列の{f801}魔法属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方1列の{f801}魔法属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>敵1体から左右に拡散する遠隔炎属性攻撃{f801}</source>
+    <target>敵1体から左右に拡散する遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>敵1列に遠隔雷属性攻撃{f801}</source>
+    <target>敵1列に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>このターン、味方全体への{f801}魔法属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}魔法属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>次の行動時に使用するマギスキルの範囲が{f801}敵1体になる代わりに威力が上昇する{f801}</source>
+    <target>次の行動時に使用するマギスキルの範囲が{f801}敵1体になる代わりに威力が上昇する{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>詠唱スキルがターンを消費せずに使用可能に{f801}なるが詠唱スキルの消費TPが増加する{f801}</source>
+    <target>詠唱スキルがターンを消費せずに使用可能に{f801}なるが詠唱スキルの消費TPが増加する{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>一定歩数の間、フィールド上で発生する{f801}ダメージ全般を軽減し、先制率を上昇させる{f801}</source>
+    <target>一定歩数の間、フィールド上で発生する{f801}ダメージ全般を軽減し、先制率を上昇させる{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>一定歩数の間、エンカウント率を低下させる{f801}</source>
+    <target>一定歩数の間、エンカウント率を低下させる{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>自身と同列の味方への魔法属性攻撃を{f801}一定確率で無効化する{f801}</source>
+    <target>自身と同列の味方への魔法属性攻撃を{f801}一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>敵の弱点属性へ攻撃した時{f801}自身のユニオンゲージが上昇する{f801}</source>
+    <target>敵の弱点属性へ攻撃した時{f801}自身のユニオンゲージが上昇する{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>魔法属性防御力が上昇する{f801}</source>
+    <target>魔法属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>敵全体に遠隔斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵全体に遠隔斬攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>敵全体に遠隔突攻撃{f801}{f85a}{7c03}ターンの間、魔法属性攻撃力を低下させる{f801}</source>
+    <target>敵全体に遠隔突攻撃{f801}{f85a}{7c03}ターンの間、魔法属性攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>敵全体に遠隔壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵全体に遠隔壊攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>次の行動時に使用するマギスキルの威力が{f801}減少する代わりにランダムに複数回ヒットする{f801}</source>
+    <target>次の行動時に使用するマギスキルの威力が{f801}減少する代わりにランダムに複数回ヒットする{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>3ターン後、ターン開始時に敵1体に{f801}遠隔壊攻撃。一定確率で石化効果が発動する{f801}</source>
+    <target>3ターン後、ターン開始時に敵1体に{f801}遠隔壊攻撃。一定確率で石化効果が発動する{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>直前の自身の攻撃と異なる属性で攻撃した際{f801}直前の攻撃属性が付与され威力が上昇する{f801}</source>
+    <target>直前の自身の攻撃と異なる属性で攻撃した際{f801}直前の攻撃属性が付与され威力が上昇する{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>行動前に味方がINT依存攻撃をしていると{f801}自身の与えるダメージが増加する{f801}</source>
+    <target>行動前に味方がINT依存攻撃をしていると{f801}自身の与えるダメージが増加する{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>スキル使用時、一定確率で消費TPが0になる{f801}</source>
+    <target>スキル使用時、一定確率で消費TPが0になる{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>魔法属性攻撃力が上昇する{f801}</source>
+    <target>魔法属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>{f85a}{7c03}ターンの間、自身が消費したTPの{f801}一定割合を味方にランダムに受け渡す{f801}</source>
+    <target>{f85a}{7c03}ターンの間、自身が消費したTPの{f801}一定割合を味方にランダムに受け渡す{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>敵全体に遠隔炎攻撃{f801}</source>
+    <target>敵全体に遠隔炎攻撃{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>敵全体に遠隔氷攻撃{f801}</source>
+    <target>敵全体に遠隔氷攻撃{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>敵全体に遠隔雷攻撃{f801}</source>
+    <target>敵全体に遠隔雷攻撃{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>敵1体に武器属性攻撃{f801}</source>
+    <target>敵1体に武器属性攻撃{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>次の行動時に使用するマギスキルの{f801}消費TPと威力を減少させる{f801}</source>
+    <target>次の行動時に使用するマギスキルの{f801}消費TPと威力を減少させる{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>弓装備時の物理属性攻撃力が上昇する{f801}</source>
+    <target>弓装備時の物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>猟犬・鷹が生存していた場合ターン終了時に{f801}味方全体のHPが回復する{f801}</source>
+    <target>猟犬・鷹が生存していた場合ターン終了時に{f801}味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>ターン終了時、猟犬・鷹のHPを回復させる{f801}</source>
+    <target>ターン終了時、猟犬・鷹のHPを回復させる{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>敵1体に遠隔突+{f85a}{7c03}ターンの間{f801}敵をターゲットにし物理属性防御力を下げる{f801}</source>
+    <target>敵1体に遠隔突+{f85a}{7c03}ターンの間{f801}敵をターゲットにし物理属性防御力を下げる{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>猟犬を呼び出す{f801}</source>
+    <target>猟犬を呼び出す{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>鷹を呼び出す{f801}</source>
+    <target>鷹を呼び出す{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>敵1体に遠隔突攻撃{f801}その後猟犬が一定確率で腕+脚封じ{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}その後猟犬が一定確率で腕+脚封じ{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>猟犬が味方1人の状態異常とHPを回復する{f801}</source>
+    <target>猟犬が味方1人の状態異常とHPを回復する{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>敵1体に遠隔突攻撃{f801}その後、その左右の敵に鷹が遠隔斬攻撃{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}その後、その左右の敵に鷹が遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>敵1体に最速遠隔突攻撃{f801}その後、対象のいる列に鷹が遠隔斬攻撃{f801}</source>
+    <target>敵1体に最速遠隔突攻撃{f801}その後、対象のいる列に鷹が遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>命中率・回避率・行動速度が上昇する{f801}</source>
+    <target>命中率・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>物理属性攻撃力が上昇する{f801}</source>
+    <target>物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>HPが一定以下の敵に攻撃した際{f801}所持武器で追撃する{f801}</source>
+    <target>HPが一定以下の敵に攻撃した際{f801}所持武器で追撃する{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>鷹召喚中にダンジョンを移動していると{f801}一定確率で食材を入手できる{f801}</source>
+    <target>鷹召喚中にダンジョンを移動していると{f801}一定確率で食材を入手できる{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>前後の敵2体を貫通する遠隔突攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>鷹が敵1列に一定確率で盲目を付与{f801}</source>
+    <target>鷹が敵1列に一定確率で盲目を付与{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>敵全体に遠隔突攻撃{f801}その後鷹が全体に遠隔氷攻撃{f801}</source>
+    <target>敵全体に遠隔突攻撃{f801}その後鷹が全体に遠隔氷攻撃{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>鷹が敵1体に遠隔斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>鷹が敵1体に遠隔斬攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>次ターン開始時、{f801}敵全体へランダム{f85b}{b701}{c700}〜{f85b}{b701}{c800}回遠隔突攻撃{f801}</source>
+    <target>次ターン開始時、{f801}敵全体へランダム{f85b}{b701}{c700}〜{f85b}{b701}{c800}回遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>鷹が上空へ飛び上がり、3ターン後の{f801}ターン開始時、鷹が敵1体へ遠隔斬攻撃{f801}</source>
+    <target>鷹が上空へ飛び上がり、3ターン後の{f801}ターン開始時、鷹が敵1体へ遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>猟犬の回復スキルの効果が向上する{f801}</source>
+    <target>猟犬の回復スキルの効果が向上する{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>猟犬召喚中にダンジョンを移動していると{f801}一定確率で採集素材を入手できる{f801}</source>
+    <target>猟犬召喚中にダンジョンを移動していると{f801}一定確率で採集素材を入手できる{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>敵1体に遠隔突攻撃{f801}後列の敵にはダメージが上昇する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}後列の敵にはダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>猟犬が敵1列に一定確率で混乱を付与{f801}</source>
+    <target>猟犬が敵1列に一定確率で混乱を付与{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>このターン中、味方1人を猟犬が庇う{f801}ターン終了時、その味方のHPを回復する{f801}</source>
+    <target>このターン中、味方1人を猟犬が庇う{f801}ターン終了時、その味方のHPを回復する{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>敵1体に遠隔突攻撃{f801}その後一定確率で猟犬がスタンを付着させる{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}その後一定確率で猟犬がスタンを付着させる{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>敵1列に遠隔突+脚封じ攻撃{f801}攻撃した敵が脚封じ状態の場合猟犬が壊攻撃{f801}</source>
+    <target>敵1列に遠隔突+脚封じ攻撃{f801}攻撃した敵が脚封じ状態の場合猟犬が壊攻撃{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>猟犬が味方全体へランダム{f85b}{c101}{c700}回{f801}HPの回復を行う{f801}</source>
+    <target>猟犬が味方全体へランダム{f85b}{c101}{c700}回{f801}HPの回復を行う{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>前ターンと同じ対象に攻撃する時{f801}与えるダメージが増加する{f801}</source>
+    <target>前ターンと同じ対象に攻撃する時{f801}与えるダメージが増加する{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>刀装備時の物理属性攻撃力が上昇する{f801}</source>
+    <target>刀装備時の物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>攻撃のヒット数が多いほど{f801}与えるダメージが増加する{f801}</source>
+    <target>攻撃のヒット数が多いほど{f801}与えるダメージが増加する{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}近接斬攻撃{f801}</source>
+    <target>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>敵1体に近接突攻撃{f801}{f85a}{7c03}ターンの間、物理属性防御力を低下させる{f801}</source>
+    <target>敵1体に近接突攻撃{f801}{f85a}{7c03}ターンの間、物理属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>敵1体に最速で近接斬攻撃{f801}対象の行動後にもう一度近接斬攻撃{f801}</source>
+    <target>敵1体に最速で近接斬攻撃{f801}対象の行動後にもう一度近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="129">
+    <source>敵1体に遠隔斬攻撃{f801}</source>
+    <target>敵1体に遠隔斬攻撃{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}物理属性攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}物理属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>敵を呼び寄せて戦闘を行う。稀少個体率が{f801}上がり、一定の確率で連続戦闘が発生する{f801}</source>
+    <target>敵を呼び寄せて戦闘を行う。稀少個体率が{f801}上がり、一定の確率で連続戦闘が発生する{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>刀を複数装備できるようになり、通常攻撃が{f801}一定の威力で刀の装備数分発動する{f801}</source>
+    <target>刀を複数装備できるようになり、通常攻撃が{f801}一定の威力で刀の装備数分発動する{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>物理属性攻撃力が上昇する{f801}</source>
+    <target>物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>一定確率で刀スキルがもう一度発動する{f801}装備している刀が多いほど発動率が上昇する{f801}</source>
+    <target>一定確率で刀スキルがもう一度発動する{f801}装備している刀が多いほど発動率が上昇する{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>敵1体に装備している刀と同数の近接斬攻撃{f801}</source>
+    <target>敵1体に装備している刀と同数の近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>このターン、敵味方の攻撃に対し{f801}所持武器で追撃を行う{f801}</source>
+    <target>このターン、敵味方の攻撃に対し{f801}所持武器で追撃を行う{f801}</target>
+  </entry>
+  <entry id="137">
+    <source>敵1列へランダム{f85a}{c700}〜{f85a}{c800}回{f801}近接斬攻撃{f801}</source>
+    <target>敵1列へランダム{f85a}{c700}〜{f85a}{c800}回{f801}近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>敵全体へ、装備している刀の数×敵の数と{f801}同数のランダム近接斬攻撃{f801}</source>
+    <target>敵全体へ、装備している刀の数×敵の数と{f801}同数のランダム近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="139">
+    <source>戦闘でHPが0になった時、{f801}ターン終了時一定確率で生き帰る{f801}</source>
+    <target>戦闘でHPが0になった時、{f801}ターン終了時一定確率で生き帰る{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>敵全体に近接ランダム属性攻撃{f801}装備している刀と同数回ランダムに攻撃する{f801}</source>
+    <target>敵全体に近接ランダム属性攻撃{f801}装備している刀と同数回ランダムに攻撃する{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>刀スキルが一定確率でクリティカルし{f801}クリティカル時の威力が上昇する{f801}</source>
+    <target>刀スキルが一定確率でクリティカルし{f801}クリティカル時の威力が上昇する{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>自身の行動が敵1体への攻撃の時{f801}攻撃対象から受けるダメージを軽減する{f801}</source>
+    <target>自身の行動が敵1体への攻撃の時{f801}攻撃対象から受けるダメージを軽減する{f801}</target>
+  </entry>
+  <entry id="145">
+    <source>敵1体に近接斬+雷の複合属性攻撃{f801}</source>
+    <target>敵1体に近接斬+雷の複合属性攻撃{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>敵1体に耐性を無視した近接斬攻撃{f801}</source>
+    <target>敵1体に耐性を無視した近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="147">
+    <source>敵の物理属性攻撃を一定確率で無効化し{f801}その敵に所持武器で反撃を行う{f801}</source>
+    <target>敵の物理属性攻撃を一定確率で無効化し{f801}その敵に所持武器で反撃を行う{f801}</target>
+  </entry>
+  <entry id="148">
+    <source>敵1列に近接斬攻撃{f801}{f85a}{7c03}ターンの間、回避率を低下させる{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}{f85a}{7c03}ターンの間、回避率を低下させる{f801}</target>
+  </entry>
+  <entry id="149">
+    <source>敵全体に遠隔斬攻撃{f801}対象が少ないほど威力が上昇する{f801}</source>
+    <target>敵全体に遠隔斬攻撃{f801}対象が少ないほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>命中率・回避率・行動速度が上昇する{f801}</source>
+    <target>命中率・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="151">
+    <source>敵1体に最大3回連続発動する近接斬攻撃{f801}一撃毎に頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>敵1体に最大3回連続発動する近接斬攻撃{f801}一撃毎に頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>祈祷スキルの行動速度が上昇し{f801}消費TPが減少する{f801}</source>
+    <target>祈祷スキルの行動速度が上昇し{f801}消費TPが減少する{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>味方全員の祈祷:焔、氷雨、紫電を解除し{f801}敵全体へランダム5回、同属性で遠隔攻撃{f801}</source>
+    <target>味方全員の祈祷:焔、氷雨、紫電を解除し{f801}敵全体へランダム5回、同属性で遠隔攻撃{f801}</target>
+  </entry>
+  <entry id="154">
+    <source>強化スキルをかけた際、対象になった{f801}味方のHPを回復する{f801}</source>
+    <target>強化スキルをかけた際、対象になった{f801}味方のHPを回復する{f801}</target>
+  </entry>
+  <entry id="155">
+    <source>{f85a}{7c03}ターンの間、味方全体の炎耐性を上昇させ{f801}武器属性に炎属性を追加する{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の炎耐性を上昇させ{f801}武器属性に炎属性を追加する{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>{f85a}{7c03}ターンの間、味方全体の氷耐性を上昇させ{f801}武器属性に氷属性を追加する{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の氷耐性を上昇させ{f801}武器属性に氷属性を追加する{f801}</target>
+  </entry>
+  <entry id="157">
+    <source>{f85a}{7c03}ターンの間、味方全体の雷耐性を上昇させ{f801}武器属性に雷属性を追加する{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の雷耐性を上昇させ{f801}武器属性に雷属性を追加する{f801}</target>
+  </entry>
+  <entry id="158">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}全攻撃力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}全攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="159">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}全防御力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}全防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}命中率を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}命中率を上昇させる{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>味方1人の強化と弱体を1つずつ解除し{f801}対象のHPを回復、行動速度を上昇させる{f801}</source>
+    <target>味方1人の強化と弱体を1つずつ解除し{f801}対象のHPを回復、行動速度を上昇させる{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>自身の強化を解除した時、一定確率で{f801}自身に同じ強化が付与される{f801}</source>
+    <target>自身の強化を解除した時、一定確率で{f801}自身に同じ強化が付与される{f801}</target>
+  </entry>
+  <entry id="163">
+    <source>魔法属性攻撃力が上昇する{f801}</source>
+    <target>魔法属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>自身の強化・弱体を1つずつ解除し{f801}同列の味方のTPを回復する{f801}</source>
+    <target>自身の強化・弱体を1つずつ解除し{f801}同列の味方のTPを回復する{f801}</target>
+  </entry>
+  <entry id="165">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="166">
+    <source>自身の強化中にHPが0になった際{f801}一定の確率で強化を代償にして生き残る{f801}</source>
+    <target>自身の強化中にHPが0になった際{f801}一定の確率で強化を代償にして生き残る{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>自身の祈祷:焔、氷雨、紫電を解除し{f801}敵全体に遠隔攻撃。同属性耐性を低下させる{f801}</source>
+    <target>自身の祈祷:焔、氷雨、紫電を解除し{f801}敵全体に遠隔攻撃。同属性耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="168">
+    <source>敵味方全体の強化・弱体を解除し{f801}自身のTPを回復する{f801}</source>
+    <target>敵味方全体の強化・弱体を解除し{f801}自身のTPを回復する{f801}</target>
+  </entry>
+  <entry id="169">
+    <source>自身の強化を解除し、敵1体に所持武器で攻撃{f801}ターン終了まで全攻撃力を低下させる{f801}</source>
+    <target>自身の強化を解除し、敵1体に所持武器で攻撃{f801}ターン終了まで全攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>味方全員の祈祷:焔、氷雨、紫電を解除し{f801}ターン終了まで、その属性の攻撃を吸収する{f801}</source>
+    <target>味方全員の祈祷:焔、氷雨、紫電を解除し{f801}ターン終了まで、その属性の攻撃を吸収する{f801}</target>
+  </entry>
+  <entry id="172">
+    <source>自身が生存中、強化が付与されている味方は{f801}行動時にHPが回復する{f801}</source>
+    <target>自身が生存中、強化が付与されている味方は{f801}行動時にHPが回復する{f801}</target>
+  </entry>
+  <entry id="173">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="174">
+    <source>このターン、強化が付与されている味方は{f801}与えたダメージの一部を吸収する{f801}</source>
+    <target>このターン、強化が付与されている味方は{f801}与えたダメージの一部を吸収する{f801}</target>
+  </entry>
+  <entry id="175">
+    <source>探索時、歩くたびに味方全体のHPが回復する{f801}</source>
+    <target>探索時、歩くたびに味方全体のHPが回復する{f801}</target>
+  </entry>
+  <entry id="176">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}封じ・状態異常耐性を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}封じ・状態異常耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="177">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}回避率を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}回避率を上昇させる{f801}</target>
+  </entry>
+  <entry id="178">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}最大HPを上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}最大HPを上昇させる{f801}</target>
+  </entry>
+  <entry id="179">
+    <source>このターン、味方全体は封じ・状態異常を{f801}受けた時、強化1つを代償に無効化する{f801}</source>
+    <target>このターン、味方全体は封じ・状態異常を{f801}受けた時、強化1つを代償に無効化する{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>魔法属性防御力が上昇する{f801}</source>
+    <target>魔法属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>自身が生存中、強化が付与されている味方は{f801}ダメージを受けるとターン中一度だけ回復する{f801}</source>
+    <target>自身が生存中、強化が付与されている味方は{f801}ダメージを受けるとターン中一度だけ回復する{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>戦闘中のハーブスキルの回復量が上昇する{f801}</source>
+    <target>戦闘中のハーブスキルの回復量が上昇する{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>封じ・状態異常の自然回復率が上昇する{f801}</source>
+    <target>封じ・状態異常の自然回復率が上昇する{f801}</target>
+  </entry>
+  <entry id="184">
+    <source>味方1人のHPを回復する{f801}</source>
+    <target>味方1人のHPを回復する{f801}</target>
+  </entry>
+  <entry id="185">
+    <source>味方1列のHPを回復する{f801}</source>
+    <target>味方1列のHPを回復する{f801}</target>
+  </entry>
+  <entry id="186">
+    <source>味方{f85a}{5900}に付着した状態異常を回復する{f801}</source>
+    <target>味方{f85a}{5900}に付着した状態異常を回復する{f801}</target>
+  </entry>
+  <entry id="187">
+    <source>味方1人を戦闘不能から回復する{f801}</source>
+    <target>味方1人を戦闘不能から回復する{f801}</target>
+  </entry>
+  <entry id="188">
+    <source>敵1列に一定確率で毒効果が発動し{f801}{f85b}{9701}{7c03}ターンの間、毒耐性を低下させる{f801}</source>
+    <target>敵1列に一定確率で毒効果が発動し{f801}{f85b}{9701}{7c03}ターンの間、毒耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="189">
+    <source>敵1列に一定確率で盲目効果が発動し{f801}{f85b}{9801}{7c03}ターンの間、盲目耐性を低下させる{f801}</source>
+    <target>敵1列に一定確率で盲目効果が発動し{f801}{f85b}{9801}{7c03}ターンの間、盲目耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>{f85a}{7c03}ターンの間{f801}敵1列の魔法属性防御力を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間{f801}敵1列の魔法属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>採取、伐採、採掘時に{f801}味方全体のHPとTPが回復する{f801}</source>
+    <target>採取、伐採、採掘時に{f801}味方全体のHPとTPが回復する{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>戦闘中にハーブスキルで回復する時{f801}最大HPを超えて一定割合まで回復する{f801}</source>
+    <target>戦闘中にハーブスキルで回復する時{f801}最大HPを超えて一定割合まで回復する{f801}</target>
+  </entry>
+  <entry id="193">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="194">
+    <source>{f85a}{7c03}ターンの間、ハーブスキルの行動速度と{f801}回復量を低下させる代わりに範囲を拡大する{f801}</source>
+    <target>{f85a}{7c03}ターンの間、ハーブスキルの行動速度と{f801}回復量を低下させる代わりに範囲を拡大する{f801}</target>
+  </entry>
+  <entry id="195">
+    <source>味方全体のHPを回復する{f801}</source>
+    <target>味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="196">
+    <source>このターン、味方全体が敵からダメージを{f801}受ける度に対象のHPを回復する{f801}</source>
+    <target>このターン、味方全体が敵からダメージを{f801}受ける度に対象のHPを回復する{f801}</target>
+  </entry>
+  <entry id="197">
+    <source>次のターン開始時{f801}味方全体のHPを回復する{f801}</source>
+    <target>次のターン開始時{f801}味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="198">
+    <source>味方{f85a}{5900}に付着した封じを回復する{f801}</source>
+    <target>味方{f85a}{5900}に付着した封じを回復する{f801}</target>
+  </entry>
+  <entry id="199">
+    <source>{f85a}{7c03}ターンの間、味方全体は最後に受けた{f801}ハーブスキルをターン終了時に再度受ける{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体は最後に受けた{f801}ハーブスキルをターン終了時に再度受ける{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>味方が戦闘不能になる度に{f801}一定確率で復活させる{f801}</source>
+    <target>味方が戦闘不能になる度に{f801}一定確率で復活させる{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>スモークスキルの行動速度が上昇し{f801}消費TPが減少する{f801}</source>
+    <target>スモークスキルの行動速度が上昇し{f801}消費TPが減少する{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>敵1列に一定確率で麻痺効果が発動し{f801}{f85b}{9c01}{7c03}ターンの間、麻痺耐性を低下させる{f801}</source>
+    <target>敵1列に一定確率で麻痺効果が発動し{f801}{f85b}{9c01}{7c03}ターンの間、麻痺耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>敵1列に一定確率で混乱効果が発動し{f801}{f85b}{9d01}{7c03}ターンの間、混乱耐性を低下させる{f801}</source>
+    <target>敵1列に一定確率で混乱効果が発動し{f801}{f85b}{9d01}{7c03}ターンの間、混乱耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>状態異常の敵1体の弱体を1つ解除し{f801}遠隔炎攻撃{f801}</source>
+    <target>状態異常の敵1体の弱体を1つ解除し{f801}遠隔炎攻撃{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>スモークスキル効果中の敵1体を{f801}一定確率でスタンさせる{f801}</source>
+    <target>スモークスキル効果中の敵1体を{f801}一定確率でスタンさせる{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>スモークスキル効果中の敵1体を{f801}一定確率で石化させる{f801}</source>
+    <target>スモークスキル効果中の敵1体を{f801}一定確率で石化させる{f801}</target>
+  </entry>
+  <entry id="209">
+    <source>{f85a}{7c03}ターンの間、敵全体に効果中のスモークの{f801}状態異常をターン終了時に一定確率で付与{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵全体に効果中のスモークの{f801}状態異常をターン終了時に一定確率で付与{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>戦闘開始時、敵前列に一定確率で{f801}何れかのスモークスキルを使用する{f801}</source>
+    <target>戦闘開始時、敵前列に一定確率で{f801}何れかのスモークスキルを使用する{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>物理属性攻撃力が上昇する{f801}</source>
+    <target>物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>自身のHPが減少する度に一定確率で{f801}敵に武器属性攻撃を行う{f801}</source>
+    <target>自身のHPが減少する度に一定確率で{f801}敵に武器属性攻撃を行う{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>拳甲装備時の物理属性攻撃力が上昇する{f801}</source>
+    <target>拳甲装備時の物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>敵1体に近接壊攻撃。一定確率で封じられて{f801}いない部位を封じるスキルが追加発動する{f801}</source>
+    <target>敵1体に近接壊攻撃。一定確率で封じられて{f801}いない部位を封じるスキルが追加発動する{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>敵1体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で頭封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で腕封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="218">
+    <source>敵1体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="219">
+    <source>敵1体に近接雷+壊の複合属性攻撃。対象を{f801}倒せなかった場合、自身もダメージを受ける{f801}</source>
+    <target>敵1体に近接雷+壊の複合属性攻撃。対象を{f801}倒せなかった場合、自身もダメージを受ける{f801}</target>
+  </entry>
+  <entry id="220">
+    <source>自身のHPを消費して{f801}敵1体から左右に拡散する近接壊攻撃{f801}</source>
+    <target>自身のHPを消費して{f801}敵1体から左右に拡散する近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="221">
+    <source>{f85a}{7c03}ターンの間、味方1人は行動時にHPを{f801}消費する代わりに物理属性攻撃力が上昇する{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方1人は行動時にHPを{f801}消費する代わりに物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="222">
+    <source>単発のスキルによる封じ・状態異常に{f801}失敗した時、一定確率で再度発動する{f801}</source>
+    <target>単発のスキルによる封じ・状態異常に{f801}失敗した時、一定確率で再度発動する{f801}</target>
+  </entry>
+  <entry id="223">
+    <source>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}封じ・状態異常耐性を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}封じ・状態異常耐性を上昇させる{f801}</target>
+  </entry>
+  <entry id="224">
+    <source>自身の封じ・状態異常を回復し{f801}次ターンの全攻撃力を上昇させる{f801}</source>
+    <target>自身の封じ・状態異常を回復し{f801}次ターンの全攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="225">
+    <source>自身と敵1体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</source>
+    <target>自身と敵1体に一定確率で{f801}頭+腕+脚封じ効果が発動する{f801}</target>
+  </entry>
+  <entry id="226">
+    <source>同列の味方が物理属性攻撃を受けた時{f801}近接壊攻撃で反撃し、攻撃時の部位を封じる{f801}</source>
+    <target>同列の味方が物理属性攻撃を受けた時{f801}近接壊攻撃で反撃し、攻撃時の部位を封じる{f801}</target>
+  </entry>
+  <entry id="227">
+    <source>敵1体に近接壊攻撃。封じ・状態異常の敵に{f801}同じ封じ・状態異常のスキルが追加発動する{f801}</source>
+    <target>敵1体に近接壊攻撃。封じ・状態異常の敵に{f801}同じ封じ・状態異常のスキルが追加発動する{f801}</target>
+  </entry>
+  <entry id="228">
+    <source>敵1体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="229">
+    <source>敵1体に、前ターンの自身の攻撃回数と{f801}同数の近接壊攻撃{f801}</source>
+    <target>敵1体に、前ターンの自身の攻撃回数と{f801}同数の近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="230">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="231">
+    <source>命中率・回避率・行動速度が上昇する{f801}</source>
+    <target>命中率・回避率・行動速度が上昇する{f801}</target>
+  </entry>
+  <entry id="232">
+    <source>自身のHPが一定割合以下の時{f801}与えるダメージが増加する{f801}</source>
+    <target>自身のHPが一定割合以下の時{f801}与えるダメージが増加する{f801}</target>
+  </entry>
+  <entry id="233">
+    <source>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}物理属性防御力を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、自身と同列の味方の{f801}物理属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="234">
+    <source>自身のHPを消費して敵1列に近接壊攻撃{f801}</source>
+    <target>自身のHPを消費して敵1列に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="235">
+    <source>敵1体に近接壊攻撃。残りHP割合が{f801}自身より高い敵に対して威力が上昇する{f801}</source>
+    <target>敵1体に近接壊攻撃。残りHP割合が{f801}自身より高い敵に対して威力が上昇する{f801}</target>
+  </entry>
+  <entry id="236">
+    <source>敵全体に近接壊攻撃。与えたダメージの{f801}一定割合、自身のHPを回復する{f801}</source>
+    <target>敵全体に近接壊攻撃。与えたダメージの{f801}一定割合、自身のHPを回復する{f801}</target>
+  </entry>
+  <entry id="237">
+    <source>敵1体に近接壊攻撃。味方全体の{f801}HPが少ないほど威力が上昇する{f801}</source>
+    <target>敵1体に近接壊攻撃。味方全体の{f801}HPが少ないほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="238">
+    <source>致死ダメージを受けると一度だけ耐え{f801}次ターンに与えるダメージが上昇する{f801}</source>
+    <target>致死ダメージを受けると一度だけ耐え{f801}次ターンに与えるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="239">
+    <source>自身のHPが回復するほど{f801}次ターンに与えるダメージが上昇する{f801}</source>
+    <target>自身のHPが回復するほど{f801}次ターンに与えるダメージが上昇する{f801}</target>
+  </entry>
+  <entry id="240">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="241">
+    <source>封じ・状態異常耐性が上昇する{f801}</source>
+    <target>封じ・状態異常耐性が上昇する{f801}</target>
+  </entry>
+  <entry id="242">
+    <source>鎌装備時の物理属性攻撃力が上昇する{f801}</source>
+    <target>鎌装備時の物理属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="243">
+    <source>弱体スキルを使用時、{f801}一定の確率で「瘴気の兵装」を使用する{f801}</source>
+    <target>弱体スキルを使用時、{f801}一定の確率で「瘴気の兵装」を使用する{f801}</target>
+  </entry>
+  <entry id="244">
+    <source>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で麻痺効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で麻痺効果が発動する{f801}</target>
+  </entry>
+  <entry id="245">
+    <source>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で呪い効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="246">
+    <source>自身のHPを消費して3ターンの間、{f801}「瘴気兵装」状態をとる{f801}</source>
+    <target>自身のHPを消費して3ターンの間、{f801}「瘴気兵装」状態をとる{f801}</target>
+  </entry>
+  <entry id="247">
+    <source>{f85a}{7c03}ターンの間、敵全体の{f801}全攻撃力を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵全体の{f801}全攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="248">
+    <source>{f85a}{7c03}ターンの間、敵全体の{f801}封じ・状態異常耐性を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵全体の{f801}封じ・状態異常耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="249">
+    <source>瘴気兵装時、自身のHPが減少するたびに{f801}一定確率で敵1体に睡眠効果が発動する{f801}</source>
+    <target>瘴気兵装時、自身のHPが減少するたびに{f801}一定確率で敵1体に睡眠効果が発動する{f801}</target>
+  </entry>
+  <entry id="250">
+    <source>瘴気兵装時、自身が敵を状態異常にする毎に{f801}全攻撃力が上昇する{f801}</source>
+    <target>瘴気兵装時、自身が敵を状態異常にする毎に{f801}全攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="251">
+    <source>一定歩数の間、エンカウント率を上昇させ{f801}戦闘で得られる経験値を上昇させる{f801}</source>
+    <target>一定歩数の間、エンカウント率を上昇させ{f801}戦闘で得られる経験値を上昇させる{f801}</target>
+  </entry>
+  <entry id="252">
+    <source>瘴気兵装時、自身が敵を状態異常にする毎に{f801}全防御力が上昇する{f801}</source>
+    <target>瘴気兵装時、自身が敵を状態異常にする毎に{f801}全防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="253">
+    <source>戦闘開始時{f801}一定確率で「瘴気の兵装」を使用する{f801}</source>
+    <target>戦闘開始時{f801}一定確率で「瘴気の兵装」を使用する{f801}</target>
+  </entry>
+  <entry id="254">
+    <source>敵1列に近接斬+氷の複合属性攻撃{f801}対象が状態異常であった場合、追加攻撃{f801}</source>
+    <target>敵1列に近接斬+氷の複合属性攻撃{f801}対象が状態異常であった場合、追加攻撃{f801}</target>
+  </entry>
+  <entry id="255">
+    <source>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で毒効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="256">
+    <source>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}瘴気兵装時、一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="257">
+    <source>瘴気兵装時、自身のHPを消費し{f801}{f85a}{c700}〜{f85a}{c800}回ランダムに近接斬攻撃{f801}</source>
+    <target>瘴気兵装時、自身のHPを消費し{f801}{f85a}{c700}〜{f85a}{c800}回ランダムに近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="258">
+    <source>瘴気兵装を身代わりとして戦闘離脱し{f801}ターン終了時に敵1体に近接斬攻撃し復帰{f801}</source>
+    <target>瘴気兵装を身代わりとして戦闘離脱し{f801}ターン終了時に敵1体に近接斬攻撃し復帰{f801}</target>
+  </entry>
+  <entry id="259">
+    <source>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="260">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="261">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="262">
+    <source>敵に弱体を付与した時、自身のHPが{f801}最大HPを超えて一定割合まで回復する{f801}</source>
+    <target>敵に弱体を付与した時、自身のHPが{f801}最大HPを超えて一定割合まで回復する{f801}</target>
+  </entry>
+  <entry id="263">
+    <source>自身が弱体・状態異常にかかった際{f801}一定確率で無効化できる{f801}</source>
+    <target>自身が弱体・状態異常にかかった際{f801}一定確率で無効化できる{f801}</target>
+  </entry>
+  <entry id="264">
+    <source>{f85a}{7c03}ターンの間、敵全体の{f801}全防御力を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵全体の{f801}全防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="265">
+    <source>{f85a}{7c03}ターンの間、敵全体の{f801}命中率を低下させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、敵全体の{f801}命中率を低下させる{f801}</target>
+  </entry>
+  <entry id="266">
+    <source>瘴気兵装を解除して味方全体のHPを回復する{f801}一定の確率で状態異常も回復する{f801}</source>
+    <target>瘴気兵装を解除して味方全体のHPを回復する{f801}一定の確率で状態異常も回復する{f801}</target>
+  </entry>
+  <entry id="267">
+    <source>瘴気兵装を解除し、このターン味方全体の{f801}封じ・状態異常を一定確率で防ぐ{f801}</source>
+    <target>瘴気兵装を解除し、このターン味方全体の{f801}封じ・状態異常を一定確率で防ぐ{f801}</target>
+  </entry>
+  <entry id="268">
+    <source>敵1体の弱体を全て解除し{f801}弱体と同数の近接斬攻撃{f801}</source>
+    <target>敵1体の弱体を全て解除し{f801}弱体と同数の近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="269">
+    <source>敵1体の弱体を全て解除し、このターン味方{f801}が戦闘不能になると一定確率で復活させる{f801}</source>
+    <target>敵1体の弱体を全て解除し、このターン味方{f801}が戦闘不能になると一定確率で復活させる{f801}</target>
+  </entry>
+  <entry id="270">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="271">
+    <source>魔法属性防御力が上昇する{f801}</source>
+    <target>魔法属性防御力が上昇する{f801}</target>
+  </entry>
+  <entry id="272">
+    <source>死霊の攻撃力と{f801}状態異常成功率が上昇する{f801}</source>
+    <target>死霊の攻撃力と{f801}状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="273">
+    <source>戦闘中に死霊が消滅した時{f801}一定確率で死霊を召喚する{f801}</source>
+    <target>戦闘中に死霊が消滅した時{f801}一定確率で死霊を召喚する{f801}</target>
+  </entry>
+  <entry id="274">
+    <source>ダメージを受けなかったターン終了時{f801}一定確率で死霊を召喚する{f801}</source>
+    <target>ダメージを受けなかったターン終了時{f801}一定確率で死霊を召喚する{f801}</target>
+  </entry>
+  <entry id="275">
+    <source>自身のHPを消費して{f801}空き枠にHPボーナスを得た死霊を呼び出す{f801}</source>
+    <target>自身のHPを消費して{f801}空き枠にHPボーナスを得た死霊を呼び出す{f801}</target>
+  </entry>
+  <entry id="276">
+    <source>死霊1体を消滅させ、敵全体を{f801}一定確率で毒状態にする{f801}</source>
+    <target>死霊1体を消滅させ、敵全体を{f801}一定確率で毒状態にする{f801}</target>
+  </entry>
+  <entry id="277">
+    <source>死霊1体を消滅させ、敵全体に遠隔炎攻撃{f801}</source>
+    <target>死霊1体を消滅させ、敵全体に遠隔炎攻撃{f801}</target>
+  </entry>
+  <entry id="278">
+    <source>死霊1体を消滅させ、{f85a}{7c03}ターンの間{f801}敵1体の全防御力を低下させる{f801}</source>
+    <target>死霊1体を消滅させ、{f85a}{7c03}ターンの間{f801}敵1体の全防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="279">
+    <source>死霊1体を消滅させ、{f85a}{7c03}ターンの間{f801}味方全体の魔法属性防御力を上昇させる{f801}</source>
+    <target>死霊1体を消滅させ、{f85a}{7c03}ターンの間{f801}味方全体の魔法属性防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="280">
+    <source>使用したターン、指定した死霊1体に{f801}味方全体への攻撃を庇わせる{f801}</source>
+    <target>使用したターン、指定した死霊1体に{f801}味方全体への攻撃を庇わせる{f801}</target>
+  </entry>
+  <entry id="281">
+    <source>死霊1体を消滅させ{f801}味方全体のHPを回復する{f801}</source>
+    <target>死霊1体を消滅させ{f801}味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="282">
+    <source>誰かが死亡する度に{f801}一定確率で死霊を召喚する{f801}</source>
+    <target>誰かが死亡する度に{f801}一定確率で死霊を召喚する{f801}</target>
+  </entry>
+  <entry id="283">
+    <source>死霊がいる時に致死ダメージを受けると{f801}一定確率で死霊を消滅させ自身のHPを回復{f801}</source>
+    <target>死霊がいる時に致死ダメージを受けると{f801}一定確率で死霊を消滅させ自身のHPを回復{f801}</target>
+  </entry>
+  <entry id="284">
+    <source>死霊1体を消滅させ、敵全体を{f801}一定確率で呪い状態にする{f801}</source>
+    <target>死霊1体を消滅させ、敵全体を{f801}一定確率で呪い状態にする{f801}</target>
+  </entry>
+  <entry id="285">
+    <source>死霊1体を消滅させ、敵全体に遠隔氷攻撃{f801}</source>
+    <target>死霊1体を消滅させ、敵全体に遠隔氷攻撃{f801}</target>
+  </entry>
+  <entry id="286">
+    <source>全ての死霊を消滅させ{f801}敵1体を一定確率で石化させる{f801}</source>
+    <target>全ての死霊を消滅させ{f801}敵1体を一定確率で石化させる{f801}</target>
+  </entry>
+  <entry id="287">
+    <source>このターン、指定した味方1人を{f801}攻撃した敵に死霊が反撃を行う{f801}</source>
+    <target>このターン、指定した味方1人を{f801}攻撃した敵に死霊が反撃を行う{f801}</target>
+  </entry>
+  <entry id="288">
+    <source>死霊1体を消滅させ、一定確率で{f801}戦闘不能の味方全体を復活させる{f801}</source>
+    <target>死霊1体を消滅させ、一定確率で{f801}戦闘不能の味方全体を復活させる{f801}</target>
+  </entry>
+  <entry id="289">
+    <source>このターン、死霊の攻撃回数を増加させ{f801}与えるダメージを上昇させる{f801}</source>
+    <target>このターン、死霊の攻撃回数を増加させ{f801}与えるダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="290">
+    <source>最大HPが上昇する{f801}</source>
+    <target>最大HPが上昇する{f801}</target>
+  </entry>
+  <entry id="291">
+    <source>封じ・状態異常成功率が上昇する{f801}</source>
+    <target>封じ・状態異常成功率が上昇する{f801}</target>
+  </entry>
+  <entry id="292">
+    <source>HPが一定割合以下の時{f801}ターン終了時、一定確率で死霊を召喚する{f801}</source>
+    <target>HPが一定割合以下の時{f801}ターン終了時、一定確率で死霊を召喚する{f801}</target>
+  </entry>
+  <entry id="293">
+    <source>戦闘開始時{f801}一定確率で「死霊召喚」を使用する{f801}</source>
+    <target>戦闘開始時{f801}一定確率で「死霊召喚」を使用する{f801}</target>
+  </entry>
+  <entry id="294">
+    <source>敵1体に遠隔無属性攻撃。発動までに{f801}死亡・消滅した数が多いほど威力が上昇する{f801}</source>
+    <target>敵1体に遠隔無属性攻撃。発動までに{f801}死亡・消滅した数が多いほど威力が上昇する{f801}</target>
+  </entry>
+  <entry id="295">
+    <source>死霊1体を消滅させ、次ターン終了時まで{f801}自身が与えるダメージを上昇させる{f801}</source>
+    <target>死霊1体を消滅させ、次ターン終了時まで{f801}自身が与えるダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="296">
+    <source>敵1体に遠隔壊攻撃{f801}与えたダメージをHPとした死霊を召喚する{f801}</source>
+    <target>敵1体に遠隔壊攻撃{f801}与えたダメージをHPとした死霊を召喚する{f801}</target>
+  </entry>
+  <entry id="297">
+    <source>死霊1体を消滅させ、敵1体に{f801}死霊のHPの一定割合のダメージを与える{f801}</source>
+    <target>死霊1体を消滅させ、敵1体に{f801}死霊のHPの一定割合のダメージを与える{f801}</target>
+  </entry>
+  <entry id="298">
+    <source>全ての死霊を消滅させ、敵全体に{f801}遠隔壊+炎の複合属性攻撃{f801}</source>
+    <target>全ての死霊を消滅させ、敵全体に{f801}遠隔壊+炎の複合属性攻撃{f801}</target>
+  </entry>
+  <entry id="299">
+    <source>敵1体を一定確率で即死させ{f801}死霊として空き枠に召喚する{f801}</source>
+    <target>敵1体を一定確率で即死させ{f801}死霊として空き枠に召喚する{f801}</target>
+  </entry>
+  <entry id="300">
+    <source>最大TPが上昇する{f801}</source>
+    <target>最大TPが上昇する{f801}</target>
+  </entry>
+  <entry id="301">
+    <source>魔法属性攻撃力が上昇する{f801}</source>
+    <target>魔法属性攻撃力が上昇する{f801}</target>
+  </entry>
+  <entry id="545">
+    <source>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}一定確率で毒効果が発動する{f801}</target>
+  </entry>
+  <entry id="546">
+    <source>敵1体に近接斬攻撃{f801}与えたダメージの一部を吸収する{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}与えたダメージの一部を吸収する{f801}</target>
+  </entry>
+  <entry id="547">
+    <source>敵1体に近接斬攻撃をし、{f85a}{7c03}ターンの間{f801}全攻撃力を低下させる{f801}</source>
+    <target>敵1体に近接斬攻撃をし、{f85a}{7c03}ターンの間{f801}全攻撃力を低下させる{f801}</target>
+  </entry>
+  <entry id="548">
+    <source>敵1体に近接斬攻撃{f801}</source>
+    <target>敵1体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="549">
+    <source>敵1列に近接斬+炎の複合属性攻撃{f801}</source>
+    <target>敵1列に近接斬+炎の複合属性攻撃{f801}</target>
+  </entry>
+  <entry id="550">
+    <source>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回近接斬攻撃し{f801}自身の物理属性攻撃力を上昇させる{f801}</source>
+    <target>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回近接斬攻撃し{f801}自身の物理属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="551">
+    <source>敵全体に近接斬攻撃{f801}</source>
+    <target>敵全体に近接斬攻撃{f801}</target>
+  </entry>
+  <entry id="552">
+    <source>敵1体に耐性を無視した遠隔突攻撃{f801}</source>
+    <target>敵1体に耐性を無視した遠隔突攻撃{f801}</target>
+  </entry>
+  <entry id="553">
+    <source>敵1体に遠隔突攻撃{f801}一定確率で石化効果が発動する{f801}</source>
+    <target>敵1体に遠隔突攻撃{f801}一定確率で石化効果が発動する{f801}</target>
+  </entry>
+  <entry id="554">
+    <source>敵1体に近接突攻撃{f801}一定確率で即死効果が発動する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で即死効果が発動する{f801}</target>
+  </entry>
+  <entry id="555">
+    <source>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}命中率が低めの近接突攻撃{f801}</source>
+    <target>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}命中率が低めの近接突攻撃{f801}</target>
+  </entry>
+  <entry id="556">
+    <source>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率でスタン効果が発動する{f801}</target>
+  </entry>
+  <entry id="557">
+    <source>敵1体に近接壊攻撃{f801}一定確率で混乱効果が発動する{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}一定確率で混乱効果が発動する{f801}</target>
+  </entry>
+  <entry id="558">
+    <source>敵1体に近接壊攻撃{f801}</source>
+    <target>敵1体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="559">
+    <source>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}遠隔壊攻撃{f801}</source>
+    <target>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回{f801}遠隔壊攻撃{f801}</target>
+  </entry>
+  <entry id="560">
+    <source>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</source>
+    <target>前後の敵2体を貫通する遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="561">
+    <source>敵1体に遠隔炎属性攻撃{f801}</source>
+    <target>敵1体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="562">
+    <source>敵1列に遠隔炎属性攻撃{f801}一定確率で呪い効果が発動する{f801}</source>
+    <target>敵1列に遠隔炎属性攻撃{f801}一定確率で呪い効果が発動する{f801}</target>
+  </entry>
+  <entry id="563">
+    <source>敵全体へ遠隔炎属性攻撃{f801}</source>
+    <target>敵全体へ遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="564">
+    <source>敵1体に遠隔氷属性攻撃{f801}</source>
+    <target>敵1体に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="565">
+    <source>敵1列に遠隔氷属性攻撃{f801}</source>
+    <target>敵1列に遠隔氷属性攻撃{f801}</target>
+  </entry>
+  <entry id="566">
+    <source>敵1体に遠隔雷属性攻撃{f801}</source>
+    <target>敵1体に遠隔雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="567">
+    <source>敵1列に一定確率で腕封じ効果が発生する{f801}</source>
+    <target>敵1列に一定確率で腕封じ効果が発生する{f801}</target>
+  </entry>
+  <entry id="568">
+    <source>敵1体に一定確率で{f801}頭+腕+脚封じ効果が発生する{f801}</source>
+    <target>敵1体に一定確率で{f801}頭+腕+脚封じ効果が発生する{f801}</target>
+  </entry>
+  <entry id="569">
+    <source>自身の全防御力を上昇させる{f801}</source>
+    <target>自身の全防御力を上昇させる{f801}</target>
+  </entry>
+  <entry id="570">
+    <source>このターン、味方全体への{f801}物理属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}物理属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="571">
+    <source>このターン、味方全体への{f801}炎属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}炎属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="572">
+    <source>このターン、味方全体への{f801}氷属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}氷属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="573">
+    <source>このターン、味方全体への{f801}雷属性攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}雷属性攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="574">
+    <source>次ターンに与えるダメージを上昇させる{f801}</source>
+    <target>次ターンに与えるダメージを上昇させる{f801}</target>
+  </entry>
+  <entry id="575">
+    <source>味方1人のHPを回復する{f801}</source>
+    <target>味方1人のHPを回復する{f801}</target>
+  </entry>
+  <entry id="576">
+    <source>自身のHPを回復する{f801}</source>
+    <target>自身のHPを回復する{f801}</target>
+  </entry>
+  <entry id="577">
+    <source>味方1人を戦闘不能から回復する{f801}</source>
+    <target>味方1人を戦闘不能から回復する{f801}</target>
+  </entry>
+  <entry id="578">
+    <source>味方1人に付着した封じを回復する{f801}</source>
+    <target>味方1人に付着した封じを回復する{f801}</target>
+  </entry>
+  <entry id="579">
+    <source>味方全体を一定確率で戦闘不能から回復する{f801}</source>
+    <target>味方全体を一定確率で戦闘不能から回復する{f801}</target>
+  </entry>
+  <entry id="580">
+    <source>このターン、{f801}追跡中のFOEを足止めする{f801}</source>
+    <target>このターン、{f801}追跡中のFOEを足止めする{f801}</target>
+  </entry>
+  <entry id="581">
+    <source>希少個体の出現率が上昇する{f801}</source>
+    <target>希少個体の出現率が上昇する{f801}</target>
+  </entry>
+  <entry id="582">
+    <source>一定確率で敵の不意打ちを無効化する{f801}</source>
+    <target>一定確率で敵の不意打ちを無効化する{f801}</target>
+  </entry>
+  <entry id="583">
+    <source>探索時、歩くたびに自身のTPが回復する{f801}</source>
+    <target>探索時、歩くたびに自身のTPが回復する{f801}</target>
+  </entry>
+  <entry id="584">
+    <source>探索時、時間が進むのが早くなる{f801}</source>
+    <target>探索時、時間が進むのが早くなる{f801}</target>
+  </entry>
+  <entry id="585">
+    <source>探索時、歩くたびに経験値を得る{f801}</source>
+    <target>探索時、歩くたびに経験値を得る{f801}</target>
+  </entry>
+  <entry id="586">
+    <source>周囲にある歩ける床を地図上に{f801}自動で塗る{f801}</source>
+    <target>周囲にある歩ける床を地図上に{f801}自動で塗る{f801}</target>
+  </entry>
+  <entry id="587">
+    <source>周囲の宝箱、隠し通路{f801}階段、FOE、採集ポイントを地図に表示{f801}</source>
+    <target>周囲の宝箱、隠し通路{f801}階段、FOE、採集ポイントを地図に表示{f801}</target>
+  </entry>
+  <entry id="588">
+    <source>戦闘で得た経験の一部を伝えて{f801}ギルド内の経験へと昇華する{f801}</source>
+    <target>戦闘で得た経験の一部を伝えて{f801}ギルド内の経験へと昇華する{f801}</target>
+  </entry>
+  <entry id="589">
+    <source>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回近接斬攻撃し{f801}自身の物理属性攻撃力を上昇させる{f801}</source>
+    <target>敵全体へランダム{f85a}{c700}〜{f85a}{c800}回近接斬攻撃し{f801}自身の物理属性攻撃力を上昇させる{f801}</target>
+  </entry>
+  <entry id="590">
+    <source>敵1列に遠隔突攻撃をし、{f85a}{7c03}ターンの間{f801}全防御力を低下させる{f801}</source>
+    <target>敵1列に遠隔突攻撃をし、{f85a}{7c03}ターンの間{f801}全防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="591">
+    <source>敵1列に近接斬攻撃{f801}一定確率で腕封じ効果が発生する{f801}</source>
+    <target>敵1列に近接斬攻撃{f801}一定確率で腕封じ効果が発生する{f801}</target>
+  </entry>
+  <entry id="592">
+    <source>敵全体に近接壊攻撃{f801}</source>
+    <target>敵全体に近接壊攻撃{f801}</target>
+  </entry>
+  <entry id="593">
+    <source>敵全体に{f85a}{c700}〜{f85a}{c800}回遠隔雷属性攻撃{f801}一定確率でスタン効果が発生する{f801}</source>
+    <target>敵全体に{f85a}{c700}〜{f85a}{c800}回遠隔雷属性攻撃{f801}一定確率でスタン効果が発生する{f801}</target>
+  </entry>
+  <entry id="594">
+    <source>{f85a}{7c03}ターンの間、味方全体の{f801}回避率を上昇させる{f801}</source>
+    <target>{f85a}{7c03}ターンの間、味方全体の{f801}回避率を上昇させる{f801}</target>
+  </entry>
+  <entry id="595">
+    <source>敵全体に一定確率で混乱効果が発動し{f801}{f85a}{7c03}ターンの間、封じ耐性を低下させる{f801}</source>
+    <target>敵全体に一定確率で混乱効果が発動し{f801}{f85a}{7c03}ターンの間、封じ耐性を低下させる{f801}</target>
+  </entry>
+  <entry id="596">
+    <source>敵全体に遠隔炎属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎属性攻撃{f801}</target>
+  </entry>
+  <entry id="597">
+    <source>敵1体に近接突攻撃{f801}一定確率で頭+腕+脚封じ効果が発生する{f801}</source>
+    <target>敵1体に近接突攻撃{f801}一定確率で頭+腕+脚封じ効果が発生する{f801}</target>
+  </entry>
+  <entry id="598">
+    <source>敵1列に遠隔炎属性攻撃をし、{f85a}{7c03}ターンの間{f801}魔法属性防御力を低下させる{f801}</source>
+    <target>敵1列に遠隔炎属性攻撃をし、{f85a}{7c03}ターンの間{f801}魔法属性防御力を低下させる{f801}</target>
+  </entry>
+  <entry id="599">
+    <source>周囲に魔法がかかったものがあれば{f801}発見する さらにINTが少し上昇する{f801}</source>
+    <target>周囲に魔法がかかったものがあれば{f801}発見する さらにINTが少し上昇する{f801}</target>
+  </entry>
+</mbm>

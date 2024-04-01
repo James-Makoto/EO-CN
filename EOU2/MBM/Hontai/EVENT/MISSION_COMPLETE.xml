@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>迷宮1階の奥に存在する札を1枚入手し、{f801}1階の地図を完成させる。{f801}</source>
+    <target>迷宮1階の奥に存在する札を1枚入手し、{f801}1階の地図を完成させる。{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>行方不明の衛士を探す。{f801}</source>
+    <target>行方不明の衛士を探す。{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>百獣の王と呼ばれるキマイラを退治する。{f801}</source>
+    <target>百獣の王と呼ばれるキマイラを退治する。{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>火トカゲの羽毛を探し出せ。{f801}</source>
+    <target>火トカゲの羽毛を探し出せ。{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>炎の魔人を討伐せよ!{f801}</source>
+    <target>炎の魔人を討伐せよ!{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>氷の花を4つ探し出せ。{f801}</source>
+    <target>氷の花を4つ探し出せ。{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>天空の城にあるという、諸王の聖杯を{f801}手に入れろ!{f801}</source>
+    <target>天空の城にあるという、諸王の聖杯を{f801}手に入れろ!{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>ギンヌンガ深部に起きた異変を調査せよ!{f801}</source>
+    <target>ギンヌンガ深部に起きた異変を調査せよ!{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>ダミー08{f801}</source>
+    <target>ダミー08{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>ダミー09{f801}</source>
+    <target>ダミー09{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>深紅の鎌を持つ魔物を退治する。{f801}</source>
+    <target>深紅の鎌を持つ魔物を退治する。{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>地下1階の地図を完成させる。{f801}</source>
+    <target>地下1階の地図を完成させる。{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>謎の遺跡内の迷宮の調査をする。{f801}</source>
+    <target>謎の遺跡内の迷宮の調査をする。{f801}</target>
+  </entry>
+</mbm>

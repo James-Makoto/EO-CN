@@ -1,0 +1,1490 @@
+<mbm>
+  <entry id="0">
+    <source>−−{f801}</source>
+    <target>−−{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>ウィンドカーテン{f801}【回避】回避率UP{f801}</source>
+    <target>ウィンドカーテン{f801}【回避】回避率UP{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>幻惑の剣舞{f801}【命中】命中率DOWN{f801}</source>
+    <target>幻惑の剣舞{f801}【命中】命中率DOWN{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>チェインプラス{f801}【攻撃】攻撃力UP{f801}</source>
+    <target>チェインプラス{f801}【攻撃】攻撃力UP{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>防衛陣地{f801}【防御】物理属性防御UP{f801}</source>
+    <target>防衛陣地{f801}【防御】物理属性防御UP{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>竜の咆哮{f801}【標的】狙われ率UP{f801}</source>
+    <target>竜の咆哮{f801}【標的】狙われ率UP{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>バラージウォール{f801}【攻撃】物理属性攻撃DOWN{f801}</source>
+    <target>バラージウォール{f801}【攻撃】物理属性攻撃DOWN{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>アンプリファー{f801}【攻撃】魔法属性攻撃UP{f801}</source>
+    <target>アンプリファー{f801}【攻撃】魔法属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>アーススパイク{f801}【攻撃】魔法属性攻撃DOWN{f801}</source>
+    <target>アーススパイク{f801}【攻撃】魔法属性攻撃DOWN{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>マジックリーク{f801}【回復】TP受け渡し{f801}</source>
+    <target>マジックリーク{f801}【回復】TP受け渡し{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>鎧通し{f801}【防御】物理属性防御DOWN{f801}</source>
+    <target>鎧通し{f801}【防御】物理属性防御DOWN{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="129">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>地の利{f801}【攻撃】物理属性攻撃UP{f801}</source>
+    <target>地の利{f801}【攻撃】物理属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="137">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="139">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="145">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="147">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="148">
+    <source>裾払い{f801}【回避】回避率DOWN{f801}</source>
+    <target>裾払い{f801}【回避】回避率DOWN{f801}</target>
+  </entry>
+  <entry id="149">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="151">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="154">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="155">
+    <source>祈祷:焔{f801}【耐性】炎属性耐性UP{f801}</source>
+    <target>祈祷:焔{f801}【耐性】炎属性耐性UP{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>祈祷:氷雨{f801}【耐性】氷属性耐性UP{f801}</source>
+    <target>祈祷:氷雨{f801}【耐性】氷属性耐性UP{f801}</target>
+  </entry>
+  <entry id="157">
+    <source>祈祷:紫電{f801}【耐性】雷属性耐性UP{f801}</source>
+    <target>祈祷:紫電{f801}【耐性】雷属性耐性UP{f801}</target>
+  </entry>
+  <entry id="158">
+    <source>祈祷:討滅{f801}【攻撃】全攻撃UP{f801}</source>
+    <target>祈祷:討滅{f801}【攻撃】全攻撃UP{f801}</target>
+  </entry>
+  <entry id="159">
+    <source>祈祷:鎮守{f801}【防御】全防御UP{f801}</source>
+    <target>祈祷:鎮守{f801}【防御】全防御UP{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>祈祷:適中{f801}【命中】命中率UP{f801}</source>
+    <target>祈祷:適中{f801}【命中】命中率UP{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="163">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="165">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="166">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="168">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="169">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="172">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="173">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="174">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="175">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="176">
+    <source>祈祷:破邪{f801}【状態】封じ・状態異常耐性UP{f801}</source>
+    <target>祈祷:破邪{f801}【状態】封じ・状態異常耐性UP{f801}</target>
+  </entry>
+  <entry id="177">
+    <source>祈祷:脱兎{f801}【回避】回避率UP{f801}</source>
+    <target>祈祷:脱兎{f801}【回避】回避率UP{f801}</target>
+  </entry>
+  <entry id="178">
+    <source>祈祷:長寿{f801}【MAXHP】MAXHPUP{f801}</source>
+    <target>祈祷:長寿{f801}【MAXHP】MAXHPUP{f801}</target>
+  </entry>
+  <entry id="179">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="184">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="185">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="186">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="187">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="188">
+    <source>ポイズンスモーク{f801}【状態】毒耐性DOWN{f801}</source>
+    <target>ポイズンスモーク{f801}【状態】毒耐性DOWN{f801}</target>
+  </entry>
+  <entry id="189">
+    <source>ダークスモーク{f801}【状態】盲目耐性DOWN{f801}</source>
+    <target>ダークスモーク{f801}【状態】盲目耐性DOWN{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="193">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="194">
+    <source>秘薬調合{f801}【回復】範囲UP{f801}</source>
+    <target>秘薬調合{f801}【回復】範囲UP{f801}</target>
+  </entry>
+  <entry id="195">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="196">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="197">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="198">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="199">
+    <source>残り香{f801}【回復】ハーブスキル自動発動{f801}</source>
+    <target>残り香{f801}【回復】ハーブスキル自動発動{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>パラライスモーク{f801}【状態】麻痺耐性DOWN{f801}</source>
+    <target>パラライスモーク{f801}【状態】麻痺耐性DOWN{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>マズルスモーク{f801}【状態】混乱耐性DOWN{f801}</source>
+    <target>マズルスモーク{f801}【状態】混乱耐性DOWN{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="209">
+    <source>移り香{f801}【状態】スモークスキル自動発動{f801}</source>
+    <target>移り香{f801}【状態】スモークスキル自動発動{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="218">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="219">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="220">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="221">
+    <source>粉骨砕身{f801}【攻撃】物理属性攻撃UP{f801}</source>
+    <target>粉骨砕身{f801}【攻撃】物理属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="222">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="223">
+    <source>アームブロック{f801}【状態】封じ・状態異常耐性UP{f801}</source>
+    <target>アームブロック{f801}【状態】封じ・状態異常耐性UP{f801}</target>
+  </entry>
+  <entry id="224">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="225">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="226">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="227">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="228">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="229">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="230">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="231">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="232">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="233">
+    <source>金剛の構え{f801}【防御】物理属性防御UP{f801}</source>
+    <target>金剛の構え{f801}【防御】物理属性防御UP{f801}</target>
+  </entry>
+  <entry id="234">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="235">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="236">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="237">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="238">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="239">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="240">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="241">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="242">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="243">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="244">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="245">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="246">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="247">
+    <source>繊弱の瘴気{f801}【攻撃】全攻撃DOWN{f801}</source>
+    <target>繊弱の瘴気{f801}【攻撃】全攻撃DOWN{f801}</target>
+  </entry>
+  <entry id="248">
+    <source>虚弱の瘴気{f801}【状態】状態異常耐性DOWN{f801}</source>
+    <target>虚弱の瘴気{f801}【状態】状態異常耐性DOWN{f801}</target>
+  </entry>
+  <entry id="249">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="250">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="251">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="252">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="253">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="254">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="255">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="256">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="257">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="258">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="259">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="260">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="261">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="262">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="263">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="264">
+    <source>削弱の瘴気{f801}【防御】全防御DOWN{f801}</source>
+    <target>削弱の瘴気{f801}【防御】全防御DOWN{f801}</target>
+  </entry>
+  <entry id="265">
+    <source>闇弱の瘴気{f801}【命中】命中率DOWN{f801}</source>
+    <target>闇弱の瘴気{f801}【命中】命中率DOWN{f801}</target>
+  </entry>
+  <entry id="266">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="267">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="268">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="269">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="270">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="271">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="272">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="273">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="274">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="275">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="276">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="277">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="278">
+    <source>死霊の呻き{f801}【防御】全防御DOWN{f801}</source>
+    <target>死霊の呻き{f801}【防御】全防御DOWN{f801}</target>
+  </entry>
+  <entry id="279">
+    <source>魂の糧{f801}【防御】魔法属性防御UP{f801}</source>
+    <target>魂の糧{f801}【防御】魔法属性防御UP{f801}</target>
+  </entry>
+  <entry id="280">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="281">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="282">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="283">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="284">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="285">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="286">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="287">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="288">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="289">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="290">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="291">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="292">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="293">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="294">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="295">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="296">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="297">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="298">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="299">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="300">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="301">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="407">
+    <source>ポイズンスモーク{f801}【状態】毒耐性DOWN{f801}</source>
+    <target>ポイズンスモーク{f801}【状態】毒耐性DOWN{f801}</target>
+  </entry>
+  <entry id="408">
+    <source>ダークスモーク{f801}【状態】盲目耐性DOWN{f801}</source>
+    <target>ダークスモーク{f801}【状態】盲目耐性DOWN{f801}</target>
+  </entry>
+  <entry id="412">
+    <source>パラライスモーク{f801}【状態】麻痺耐性DOWN{f801}</source>
+    <target>パラライスモーク{f801}【状態】麻痺耐性DOWN{f801}</target>
+  </entry>
+  <entry id="413">
+    <source>マズルスモーク{f801}【状態】混乱耐性DOWN{f801}</source>
+    <target>マズルスモーク{f801}【状態】混乱耐性DOWN{f801}</target>
+  </entry>
+  <entry id="490">
+    <source>ブレイバント{f801}【攻撃】物理属性攻撃UP{f801}</source>
+    <target>ブレイバント{f801}【攻撃】物理属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="491">
+    <source>ストナード{f801}【防御】物理属性防御UP{f801}</source>
+    <target>ストナード{f801}【防御】物理属性防御UP{f801}</target>
+  </entry>
+  <entry id="492">
+    <source>耐熱ミスト{f801}【耐性】炎属性耐性UP{f801}</source>
+    <target>耐熱ミスト{f801}【耐性】炎属性耐性UP{f801}</target>
+  </entry>
+  <entry id="493">
+    <source>耐氷ミスト{f801}【耐性】氷属性耐性UP{f801}</source>
+    <target>耐氷ミスト{f801}【耐性】氷属性耐性UP{f801}</target>
+  </entry>
+  <entry id="494">
+    <source>耐雷ミスト{f801}【耐性】雷属性耐性UP{f801}</source>
+    <target>耐雷ミスト{f801}【耐性】雷属性耐性UP{f801}</target>
+  </entry>
+  <entry id="495">
+    <source>耐斬ミスト{f801}【耐性】斬攻撃耐性UP{f801}</source>
+    <target>耐斬ミスト{f801}【耐性】斬攻撃耐性UP{f801}</target>
+  </entry>
+  <entry id="496">
+    <source>耐壊ミスト{f801}【耐性】壊攻撃耐性UP{f801}</source>
+    <target>耐壊ミスト{f801}【耐性】壊攻撃耐性UP{f801}</target>
+  </entry>
+  <entry id="497">
+    <source>耐突ミスト{f801}【耐性】突攻撃耐性UP{f801}</source>
+    <target>耐突ミスト{f801}【耐性】突攻撃耐性UP{f801}</target>
+  </entry>
+  <entry id="498">
+    <source>絶耐ミスト{f801}【耐性】魔法属性耐性UP{f801}</source>
+    <target>絶耐ミスト{f801}【耐性】魔法属性耐性UP{f801}</target>
+  </entry>
+  <entry id="499">
+    <source>ファイアオイル{f801}【付与】炎属性付与{f801}</source>
+    <target>ファイアオイル{f801}【付与】炎属性付与{f801}</target>
+  </entry>
+  <entry id="500">
+    <source>フリーズオイル{f801}【付与】氷属性付与{f801}</source>
+    <target>フリーズオイル{f801}【付与】氷属性付与{f801}</target>
+  </entry>
+  <entry id="501">
+    <source>ショックオイル{f801}【付与】雷属性付与{f801}</source>
+    <target>ショックオイル{f801}【付与】雷属性付与{f801}</target>
+  </entry>
+  <entry id="545">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="546">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="547">
+    <source>爪削ぎ{f801}【攻撃】全攻撃DOWN{f801}</source>
+    <target>爪削ぎ{f801}【攻撃】全攻撃DOWN{f801}</target>
+  </entry>
+  <entry id="548">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="549">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="550">
+    <source>血滑りの太刀{f801}【攻撃】物理属性攻撃UP{f801}</source>
+    <target>血滑りの太刀{f801}【攻撃】物理属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="551">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="552">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="553">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="554">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="555">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="556">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="557">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="558">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="559">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="560">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="561">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="562">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="563">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="564">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="565">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="566">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="567">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="568">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="569">
+    <source>甲羅の守り・改{f801}【防御】全防御UP{f801}</source>
+    <target>甲羅の守り・改{f801}【防御】全防御UP{f801}</target>
+  </entry>
+  <entry id="570">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="571">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="572">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="573">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="574">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="575">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="576">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="577">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="578">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="579">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="580">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="581">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="582">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="583">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="584">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="585">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="586">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="587">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="588">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="589">
+    <source>血滑りの太刀{f801}【攻撃】物理属性攻撃UP{f801}</source>
+    <target>血滑りの太刀{f801}【攻撃】物理属性攻撃UP{f801}</target>
+  </entry>
+  <entry id="590">
+    <source>脆弱の矢雨{f801}【防御】全防御DOWN{f801}</source>
+    <target>脆弱の矢雨{f801}【防御】全防御DOWN{f801}</target>
+  </entry>
+  <entry id="591">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="592">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="593">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="594">
+    <source>高速移動{f801}【回避】回避率UP{f801}</source>
+    <target>高速移動{f801}【回避】回避率UP{f801}</target>
+  </entry>
+  <entry id="595">
+    <source>魅惑のボディ{f801}【状態】封じ耐性DOWN{f801}</source>
+    <target>魅惑のボディ{f801}【状態】封じ耐性DOWN{f801}</target>
+  </entry>
+  <entry id="596">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="597">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+  <entry id="598">
+    <source>衰弱の燃息{f801}【防御】魔法属性防御DOWN{f801}</source>
+    <target>衰弱の燃息{f801}【防御】魔法属性防御DOWN{f801}</target>
+  </entry>
+  <entry id="599">
+    <source>仮強化スキル文{f801}</source>
+    <target>仮強化スキル文{f801}</target>
+  </entry>
+</mbm>

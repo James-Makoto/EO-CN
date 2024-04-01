@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>迷宮1階の地図を作成し、世界樹の根と{f801}土壌を持ち帰る。{f801}</source>
+    <target>迷宮1階の地図を作成し、世界樹の根と{f801}土壌を持ち帰る。{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>ルナリア族の魔法結界を解除する。{f801}</source>
+    <target>ルナリア族の魔法結界を解除する。{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>オリファントの生息地域を調査する。{f801}</source>
+    <target>オリファントの生息地域を調査する。{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>魔獣ヒポグリフの討伐。{f801}</source>
+    <target>魔獣ヒポグリフの討伐。{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>{f804}{0500}12階{f804}{0000}に眠る英雄の遺品を集め、{f801}評議会へと持ち帰る。{f801}</source>
+    <target>{f804}{0500}12階{f804}{0000}に眠る英雄の遺品を集め、{f801}評議会へと持ち帰る。{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>二人組の冒険者ソロルとリリに{f801}助力し、彼女たちの目的を果たせ。{f801}</source>
+    <target>二人組の冒険者ソロルとリリに{f801}助力し、彼女たちの目的を果たせ。{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>第四階層の奥にいるという水晶竜を{f801}見つけ出し討伐せよ。{f801}</source>
+    <target>第四階層の奥にいるという水晶竜を{f801}見つけ出し討伐せよ。{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+</mbm>

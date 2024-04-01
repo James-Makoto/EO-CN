@@ -1,0 +1,282 @@
+<mbm>
+  <entry id="0">
+    <source>奇岩ノ山道{f801}</source>
+    <target>奇岩ノ山道{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>奇岩ノ山道に到達した証{f801}</source>
+    <target>奇岩ノ山道に到達した証{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>晦冥ノ墓所{f801}</source>
+    <target>晦冥ノ墓所{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>晦冥ノ墓所に到達した証{f801}</source>
+    <target>晦冥ノ墓所に到達した証{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>虹霓ノ晶洞{f801}</source>
+    <target>虹霓ノ晶洞{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>虹霓ノ晶洞に到達した証{f801}</source>
+    <target>虹霓ノ晶洞に到達した証{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>円環ノ原生林{f801}</source>
+    <target>円環ノ原生林{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>円環ノ原生林に到達した証{f801}</source>
+    <target>円環ノ原生林に到達した証{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>赤方偏移ノ回廊{f801}</source>
+    <target>赤方偏移ノ回廊{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>赤方偏移ノ回廊に到達した証{f801}</source>
+    <target>赤方偏移ノ回廊に到達した証{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>星喰撃破{f801}</source>
+    <target>星喰撃破{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>自らの力で最奥の魔物を倒した証{f801}</source>
+    <target>自らの力で最奥の魔物を倒した証{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>初級お宝ハンター{f801}</source>
+    <target>初級お宝ハンター{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>迷宮に踏み入り、{f801}いくつかの宝箱の中身を手に入れた証{f801}</source>
+    <target>迷宮に踏み入り、{f801}いくつかの宝箱の中身を手に入れた証{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>トレジャーゲッター{f801}</source>
+    <target>トレジャーゲッター{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>迷宮を進み、およそ半数の宝箱の中身を{f801}手に入れた証{f801}</source>
+    <target>迷宮を進み、およそ半数の宝箱の中身を{f801}手に入れた証{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>トレジャーハンター{f801}</source>
+    <target>トレジャーハンター{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>迷宮にある全ての宝箱の中身を{f801}手に入れた証{f801}</source>
+    <target>迷宮にある全ての宝箱の中身を{f801}手に入れた証{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>アイオリスの便利屋{f801}</source>
+    <target>アイオリスの便利屋{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>酒場で出されるクエストを{f801}いくつか達成した証{f801}</source>
+    <target>酒場で出されるクエストを{f801}いくつか達成した証{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>アイオリスの用心棒{f801}</source>
+    <target>アイオリスの用心棒{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>酒場で出されるクエストの{f801}およそ半数を達成した証{f801}</source>
+    <target>酒場で出されるクエストの{f801}およそ半数を達成した証{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>クエストコンプリート{f801}</source>
+    <target>クエストコンプリート{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>酒場で出される全てのクエストを{f801}達成した証{f801}</source>
+    <target>酒場で出される全てのクエストを{f801}達成した証{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>初級狩人{f801}</source>
+    <target>初級狩人{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>迷宮に棲む{f801}モンスターの一部を図鑑に登録した証{f801}</source>
+    <target>迷宮に棲む{f801}モンスターの一部を図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>ベテラン狩人{f801}</source>
+    <target>ベテラン狩人{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>迷宮のおよそ半数の{f801}モンスターを図鑑に登録した証{f801}</source>
+    <target>迷宮のおよそ半数の{f801}モンスターを図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>世界樹の狩人{f801}</source>
+    <target>世界樹の狩人{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>迷宮に存在する全ての{f801}モンスターを図鑑に登録した証{f801}</source>
+    <target>迷宮に存在する全ての{f801}モンスターを図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>収集家初心者{f801}</source>
+    <target>収集家初心者{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>迷宮で手に入る素材アイテムの一部を{f801}図鑑に登録した証{f801}</source>
+    <target>迷宮で手に入る素材アイテムの一部を{f801}図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>博識の収集家{f801}</source>
+    <target>博識の収集家{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>入手できる素材アイテムのおよそ半数を{f801}図鑑に登録した証{f801}</source>
+    <target>入手できる素材アイテムのおよそ半数を{f801}図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>世界樹の収集家{f801}</source>
+    <target>世界樹の収集家{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>迷宮に存在するあらゆる素材を全て集め{f801}図鑑に登録した証{f801}</source>
+    <target>迷宮に存在するあらゆる素材を全て集め{f801}図鑑に登録した証{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>駆け出し測量士{f801}</source>
+    <target>駆け出し測量士{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>迷宮の地図をひとつ描き、記した証{f801}</source>
+    <target>迷宮の地図をひとつ描き、記した証{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>アイオリスの水先案内人{f801}</source>
+    <target>アイオリスの水先案内人{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>迷宮の地図を半数描き、記した証{f801}</source>
+    <target>迷宮の地図を半数描き、記した証{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>世界樹の地図職人{f801}</source>
+    <target>世界樹の地図職人{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>迷宮の地図を全て描き、記した証{f801}</source>
+    <target>迷宮の地図を全て描き、記した証{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>かけだし秘宝ハンター{f801}</source>
+    <target>かけだし秘宝ハンター{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>世界各地に眠る秘宝をいくつか手にした証{f801}</source>
+    <target>世界各地に眠る秘宝をいくつか手にした証{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>秘宝コレクター{f801}</source>
+    <target>秘宝コレクター{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>世界各地に眠る秘宝の半分を手にした証{f801}</source>
+    <target>世界各地に眠る秘宝の半分を手にした証{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>秘宝コンプリート{f801}</source>
+    <target>秘宝コンプリート{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>世界各地に眠る全ての秘宝を手にした証{f801}</source>
+    <target>世界各地に眠る全ての秘宝を手にした証{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>??????{f801}</source>
+    <target>??????{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>????????????????{f801}</source>
+    <target>????????????????{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>宝箱コレクト勲章{f801}</source>
+    <target>宝箱コレクト勲章{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>一定の数の宝箱を開け中身を入手する{f801}</source>
+    <target>一定の数の宝箱を開け中身を入手する{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>クエスト達成勲章{f801}</source>
+    <target>クエスト達成勲章{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>一定の数のクエストを達成する{f801}</source>
+    <target>一定の数のクエストを達成する{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>図鑑コレクト勲章{f801}</source>
+    <target>図鑑コレクト勲章{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>モンスター図鑑を10%埋める{f801}</source>
+    <target>モンスター図鑑を10%埋める{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>アイテムコレクト勲章{f801}</source>
+    <target>アイテムコレクト勲章{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>アイテム図鑑の素材を10%埋める{f801}</source>
+    <target>アイテム図鑑の素材を10%埋める{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>地図コレクト勲章{f801}</source>
+    <target>地図コレクト勲章{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>1フロア地図を完成させる{f801}</source>
+    <target>1フロア地図を完成させる{f801}</target>
+  </entry>
+</mbm>

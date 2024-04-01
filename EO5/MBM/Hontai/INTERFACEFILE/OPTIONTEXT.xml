@@ -1,0 +1,446 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>BGMの音量が変更できます{f801}</source>
+    <target>BGMの音量が変更できます{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>SEの音量が変更できます{f801}</source>
+    <target>SEの音量が変更できます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>VOICEの音量が変更できます{f801}</source>
+    <target>VOICEの音量が変更できます{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>イベント中のメッセージ速度が変更できます{f801}</source>
+    <target>イベント中のメッセージ速度が変更できます{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>戦闘中のメッセージウェイトが変更できます{f801}</source>
+    <target>戦闘中のメッセージウェイトが変更できます{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>戦闘中のアニメーション速度が変更できます{f801}</source>
+    <target>戦闘中のアニメーション速度が変更できます{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>戦闘中のオートバトル時の速度が変更できます{f801}</source>
+    <target>戦闘中のオートバトル時の速度が変更できます{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>戦闘中にAボタンを押した際の速度が変更できます{f801}</source>
+    <target>戦闘中にAボタンを押した際の速度が変更できます{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>戦闘中にオートバトルを選択した時の確認を変更できます{f801}</source>
+    <target>戦闘中にオートバトルを選択した時の確認を変更できます{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>戦闘中にコマンド入力を終了した時の確認を変更できます{f801}</source>
+    <target>戦闘中にコマンド入力を終了した時の確認を変更できます{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>左右のカメラ操作が変更できます{f801}</source>
+    <target>左右のカメラ操作が変更できます{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>上下のカメラ操作が変更できます{f801}</source>
+    <target>上下のカメラ操作が変更できます{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>踏破した床や周囲の壁が自動的に塗られる機能を変更できます{f801}</source>
+    <target>踏破した床や周囲の壁が自動的に塗られる機能を変更できます{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>ダンジョン内での移動速度が変更できます{f801}</source>
+    <target>ダンジョン内での移動速度が変更できます{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>宿屋宿泊時に自動でセーブを行う方式を変更できます{f801}</source>
+    <target>宿屋宿泊時に自動でセーブを行う方式を変更できます{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>LボタンをAボタンに変更できます{f801}</source>
+    <target>LボタンをAボタンに変更できます{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>難易度が変更できます{f801}</source>
+    <target>難易度が変更できます{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>BGM音源を変更できます{f801}</source>
+    <target>BGM音源を変更できます{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>ゲームカードのセーブデータを削除し初期化できます{f801}</source>
+    <target>ゲームカードのセーブデータを削除し初期化できます{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>タイトル画面へ戻れます{f801}</source>
+    <target>タイトル画面へ戻れます{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>オプション画面を終了してゲームへ戻ります{f801}</source>
+    <target>オプション画面を終了してゲームへ戻ります{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>体験版のセーブデータを削除し初期化できます{f801}</source>
+    <target>体験版のセーブデータを削除し初期化できます{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>ゲーム中の流れているBGMの音量を{f801}変更することができます{f801}</source>
+    <target>ゲーム中の流れているBGMの音量を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>ゲーム中のSEの音量を{f801}変更することができます{f801}</source>
+    <target>ゲーム中のSEの音量を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>ゲーム中のVOICEの音量を{f801}変更することができます{f801}</source>
+    <target>ゲーム中のVOICEの音量を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>イベント中に表示されるメッセージの速度を{f801}変更することができます{f801}</source>
+    <target>イベント中に表示されるメッセージの速度を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>戦闘中に表示されるメッセージウェイトを{f801}変更することができます{f801}{f802}PAUSEにすると{f801}ボタンを押さないとメッセージが送られず{f801}戦闘が先に進まなくなります{f801}</source>
+    <target>戦闘中に表示されるメッセージウェイトを{f801}変更することができます{f801}{f802}PAUSEにすると{f801}ボタンを押さないとメッセージが送られず{f801}戦闘が先に進まなくなります{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>戦闘中のアニメーションの速度を{f801}変更することができます{f801}</source>
+    <target>戦闘中のアニメーションの速度を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>戦闘中にオートバトルを行った際の{f801}アニメーションの速度を{f801}変更することができます{f801}</source>
+    <target>戦闘中にオートバトルを行った際の{f801}アニメーションの速度を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>戦闘中にAボタンを押した際の{f801}アニメーションの速度を{f801}変更することができます{f801}{f802}コマンド入力後から次のコマンド入力の{f801}間までにAボタンを押すことで{f801}アニメーション速度を変更できる機能です{f801}</source>
+    <target>戦闘中にAボタンを押した際の{f801}アニメーションの速度を{f801}変更することができます{f801}{f802}コマンド入力後から次のコマンド入力の{f801}間までにAボタンを押すことで{f801}アニメーション速度を変更できる機能です{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>戦闘中、Lボタンを押した際の{f801}オートバトル開始時に確認を行うように{f801}変更することができます{f801}</source>
+    <target>戦闘中、Lボタンを押した際の{f801}オートバトル開始時に確認を行うように{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>戦闘中、全員分のコマンド入力終了時に{f801}確認を行うように変更することができます{f801}</source>
+    <target>戦闘中、全員分のコマンド入力終了時に{f801}確認を行うように変更することができます{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの左右入力の挙動を{f801}変更することができます{f801}</source>
+    <target>ダンジョン内でカメラを操作する際{f801}スライドパッドの左右入力の挙動を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</source>
+    <target>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</source>
+    <target>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>ダンジョン内での移動速度を{f801}変更することができます{f801}{f802}NORMALにすると通常の速度で移動し{f801}Bボタンを押しながら移動すると{f801}高速に移動が行えます{f801}{f802}FASTにすると常に高速で移動し{f801}Bボタンを押しながら移動すると{f801}通常の速度で移動が行えます{f801}</source>
+    <target>ダンジョン内での移動速度を{f801}変更することができます{f801}{f802}NORMALにすると通常の速度で移動し{f801}Bボタンを押しながら移動すると{f801}高速に移動が行えます{f801}{f802}FASTにすると常に高速で移動し{f801}Bボタンを押しながら移動すると{f801}通常の速度で移動が行えます{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊した際に{f801}セーブスロットが表示されて{f801}好きなスロットにセーブが行え{f801}{f802}OFFにすると宿泊しても{f801}セーブスロットが表示されず{f801}セーブもされません{f801}</source>
+    <target>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊した際に{f801}セーブスロットが表示されて{f801}好きなスロットにセーブが行え{f801}{f802}OFFにすると宿泊しても{f801}セーブスロットが表示されず{f801}セーブもされません{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>LボタンをAボタンに{f801}変更することができます{f801}{f802}ONにするとAボタンとして扱われるため{f801}左へのスライド移動やオートバトルが{f801}行えなくなります{f801}{f802}DOUBLEにすると{f801}短く押すとAボタンとなり{f801}長く押すとLボタンとして扱われます{f801}</source>
+    <target>LボタンをAボタンに{f801}変更することができます{f801}{f802}ONにするとAボタンとして扱われるため{f801}左へのスライド移動やオートバトルが{f801}行えなくなります{f801}{f802}DOUBLEにすると{f801}短く押すとAボタンとなり{f801}長く押すとLボタンとして扱われます{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>難易度は{f801}「BASIC」と「ADVANCED」の{f801}二種類あります{f801}{f802}「BASIC」は基本となるモードで{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけ戦闘直前の状況から再開できます{f801}{f802}「ADVANCED」は高難易度のモードで{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}{f802}また難易度の変更は{f801}街の中でだけしか行えません{f801}</source>
+    <target>難易度は{f801}「BASIC」と「ADVANCED」の{f801}二種類あります{f801}{f802}「BASIC」は基本となるモードで{f801}RPGを楽しんで遊びたい方向けとなります{f801}{f802}またパーティが全滅しても{f801}「ゲームオーバー」ではなく{f801}一度だけ戦闘直前の状況から再開できます{f801}{f802}「ADVANCED」は高難易度のモードで{f801}過去の世界樹をやり込んだ方や歯応えある{f801}RPGが好きな方向けとなります{f801}{f802}難易度の違いによる{f801}ストーリーの変化は一切ありませんが、{f801}勲章が一部獲得できない場合があります{f801}{f802}また難易度の変更は{f801}街の中でだけしか行えません{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>BGMの音源を変更できます{f801}{f802}FMはFM音源でBGM再生を行い{f801}ORIGINALはORIGINAL音源で{f801}BGM再生を行います{f801}</source>
+    <target>BGMの音源を変更できます{f801}{f802}FMはFM音源でBGM再生を行い{f801}ORIGINALはORIGINAL音源で{f801}BGM再生を行います{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>ゲームカードのセーブデータの削除を行い{f801}セーブデータの初期化を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</source>
+    <target>ゲームカードのセーブデータの削除を行い{f801}セーブデータの初期化を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>タイトル画面へ戻ることができます{f801}プレイした内容は保存されませんので{f801}ご注意ください{f801}</source>
+    <target>タイトル画面へ戻ることができます{f801}プレイした内容は保存されませんので{f801}ご注意ください{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>設定した変更内容を保存し{f801}ゲームへ戻ります{f801}</source>
+    <target>設定した変更内容を保存し{f801}ゲームへ戻ります{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>体験版のセーブデータの削除を行い{f801}セーブデータの初期化を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</source>
+    <target>体験版のセーブデータの削除を行い{f801}セーブデータの初期化を行います{f801}{f802}一度削除してしまうと{f801}元には戻せなくなりますので{f801}使用時にはご注意ください{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</source>
+    <target>現在プレイ中のデータを破棄し{f801}タイトルへ戻りますがよろしいですか?{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>ゲームカード内の全データを消去し{f801}ゲームデータの初期化を行いますか?{f801}</source>
+    <target>ゲームカード内の全データを消去し{f801}ゲームデータの初期化を行いますか?{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
+    <target>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>ゲームデータの初期化に成功しました{f801}</source>
+    <target>ゲームデータの初期化に成功しました{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>ゲームデータの初期化に失敗しました{f801}</source>
+    <target>ゲームデータの初期化に失敗しました{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>体験版のセーブデータを消去し{f801}ゲームデータの初期化を行いますか?{f801}</source>
+    <target>体験版のセーブデータを消去し{f801}ゲームデータの初期化を行いますか?{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>BGMを無音にします{f801}</source>
+    <target>BGMを無音にします{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>BGMの音量を小にします{f801}</source>
+    <target>BGMの音量を小にします{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>BGMの音量を中にします{f801}</source>
+    <target>BGMの音量を中にします{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>BGMの音量を大にします{f801}</source>
+    <target>BGMの音量を大にします{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>SEを無音にします{f801}</source>
+    <target>SEを無音にします{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>SEの音量を小にします{f801}</source>
+    <target>SEの音量を小にします{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>SEの音量を中にします{f801}</source>
+    <target>SEの音量を中にします{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>SEの音量を大にします{f801}</source>
+    <target>SEの音量を大にします{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>VOICEを無音にします{f801}</source>
+    <target>VOICEを無音にします{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>VOICEの音量を小にします{f801}</source>
+    <target>VOICEの音量を小にします{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>VOICEの音量を中にします{f801}</source>
+    <target>VOICEの音量を中にします{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>VOICEの音量を大にします{f801}</source>
+    <target>VOICEの音量を大にします{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>イベント中のメッセージ速度を遅いにします{f801}</source>
+    <target>イベント中のメッセージ速度を遅いにします{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>イベント中のメッセージ速度を標準にします{f801}</source>
+    <target>イベント中のメッセージ速度を標準にします{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>イベント中のメッセージ速度を速いにします{f801}</source>
+    <target>イベント中のメッセージ速度を速いにします{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>イベント中のメッセージ速度を高速にします{f801}</source>
+    <target>イベント中のメッセージ速度を高速にします{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>戦闘中のメッセージウェイトを一時停止にします{f801}</source>
+    <target>戦闘中のメッセージウェイトを一時停止にします{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>戦闘中のメッセージウェイトを遅いにします{f801}</source>
+    <target>戦闘中のメッセージウェイトを遅いにします{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>戦闘中のメッセージウェイトを標準にします{f801}</source>
+    <target>戦闘中のメッセージウェイトを標準にします{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>戦闘中のメッセージウェイトを速いにします{f801}</source>
+    <target>戦闘中のメッセージウェイトを速いにします{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>戦闘中のアニメーション速度を標準にします{f801}</source>
+    <target>戦闘中のアニメーション速度を標準にします{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>戦闘中のアニメーション速度を速いにします{f801}</source>
+    <target>戦闘中のアニメーション速度を速いにします{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>戦闘中のアニメーション速度を高速にします{f801}</source>
+    <target>戦闘中のアニメーション速度を高速にします{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>戦闘中のオートバトル時の速度を標準にします{f801}</source>
+    <target>戦闘中のオートバトル時の速度を標準にします{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>戦闘中のオートバトル時の速度を速いにします{f801}</source>
+    <target>戦闘中のオートバトル時の速度を速いにします{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>戦闘中のオートバトル時の速度を高速にします{f801}</source>
+    <target>戦闘中のオートバトル時の速度を高速にします{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>戦闘中にAボタンを押しても速度は変化しなくなります{f801}</source>
+    <target>戦闘中にAボタンを押しても速度は変化しなくなります{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>戦闘中にAボタンを押した際の速度を標準にします{f801}</source>
+    <target>戦闘中にAボタンを押した際の速度を標準にします{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>戦闘中にAボタンを押した際の速度を速いにします{f801}</source>
+    <target>戦闘中にAボタンを押した際の速度を速いにします{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>戦闘中にAボタンを押した際の速度を高速にします{f801}</source>
+    <target>戦闘中にAボタンを押した際の速度を高速にします{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>戦闘中のオートバトル選択時に確認を行います{f801}</source>
+    <target>戦闘中のオートバトル選択時に確認を行います{f801}</target>
+  </entry>
+  <entry id="151">
+    <source>戦闘中のオートバトル選択時に確認を行いません{f801}</source>
+    <target>戦闘中のオートバトル選択時に確認を行いません{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>戦闘中のコマンド入力終了時に確認を行います{f801}</source>
+    <target>戦闘中のコマンド入力終了時に確認を行います{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>戦闘中のコマンド入力終了時に確認を行いません{f801}</source>
+    <target>戦闘中のコマンド入力終了時に確認を行いません{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>操作と順方向にカメラを回転させます{f801}</source>
+    <target>操作と順方向にカメラを回転させます{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>操作と逆方向にカメラを回転させます{f801}</source>
+    <target>操作と逆方向にカメラを回転させます{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>操作と順方向にカメラを回転させます{f801}</source>
+    <target>操作と順方向にカメラを回転させます{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>操作と逆方向にカメラを回転させます{f801}</source>
+    <target>操作と逆方向にカメラを回転させます{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>踏破した床のみが自動的に塗られます{f801}</source>
+    <target>踏破した床のみが自動的に塗られます{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>踏破しても自動的に塗られないようにします{f801}</source>
+    <target>踏破しても自動的に塗られないようにします{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>踏破した床と周囲の壁が自動的に塗られます{f801}</source>
+    <target>踏破した床と周囲の壁が自動的に塗られます{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>ダンジョン内の移動速度を通常にします{f801}</source>
+    <target>ダンジョン内の移動速度を通常にします{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>ダンジョン内の移動速度を高速にします{f801}</source>
+    <target>ダンジョン内の移動速度を高速にします{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>宿屋宿泊時に自動で指定したスロットにセーブを行います{f801}</source>
+    <target>宿屋宿泊時に自動で指定したスロットにセーブを行います{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>宿屋宿泊時にスロットを選択してセーブを行います{f801}</source>
+    <target>宿屋宿泊時にスロットを選択してセーブを行います{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>宿屋宿泊時にセーブを行いません{f801}</source>
+    <target>宿屋宿泊時にセーブを行いません{f801}</target>
+  </entry>
+  <entry id="220">
+    <source>LボタンをAボタンに変更します{f801}</source>
+    <target>LボタンをAボタンに変更します{f801}</target>
+  </entry>
+  <entry id="221">
+    <source>Lボタンの機能はそのままです{f801}</source>
+    <target>Lボタンの機能はそのままです{f801}</target>
+  </entry>
+  <entry id="222">
+    <source>短く押すとAボタンとなり長く押すとLボタンとして扱われます{f801}</source>
+    <target>短く押すとAボタンとなり長く押すとLボタンとして扱われます{f801}</target>
+  </entry>
+  <entry id="230">
+    <source>難易度を「PICNIC」にします{f801}</source>
+    <target>難易度を「PICNIC」にします{f801}</target>
+  </entry>
+  <entry id="231">
+    <source>難易度を「BASIC」にします{f801}</source>
+    <target>難易度を「BASIC」にします{f801}</target>
+  </entry>
+  <entry id="232">
+    <source>難易度を「ADVANCED」にします{f801}</source>
+    <target>難易度を「ADVANCED」にします{f801}</target>
+  </entry>
+  <entry id="240">
+    <source>FM音源でBGM再生を行います{f801}</source>
+    <target>FM音源でBGM再生を行います{f801}</target>
+  </entry>
+  <entry id="241">
+    <source>ORIGINAL音源でBGM再生を行います{f801}</source>
+    <target>ORIGINAL音源でBGM再生を行います{f801}</target>
+  </entry>
+  <entry id="242">
+    <source>新規音源でBGM再生を行います{f801}</source>
+    <target>新規音源でBGM再生を行います{f801}</target>
+  </entry>
+  <entry id="250">
+    <source>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</source>
+    <target>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</target>
+  </entry>
+  <entry id="251">
+    <source>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊した際に{f801}セーブスロットが表示されて{f801}好きなスロットにセーブが行え{f801}{f802}OFFにすると宿泊しても{f801}セーブスロットが表示されず{f801}セーブもされません{f801}{f802}体験版ではセーブが1つしかできませんが{f801}製品版ではSDカードに複数のセーブが{f801}行えるようになります{f801}</source>
+    <target>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊した際に{f801}セーブスロットが表示されて{f801}好きなスロットにセーブが行え{f801}{f802}OFFにすると宿泊しても{f801}セーブスロットが表示されず{f801}セーブもされません{f801}{f802}体験版ではセーブが1つしかできませんが{f801}製品版ではSDカードに複数のセーブが{f801}行えるようになります{f801}</target>
+  </entry>
+  <entry id="252">
+    <source>宿屋宿泊時にセーブを行います{f801}</source>
+    <target>宿屋宿泊時にセーブを行います{f801}</target>
+  </entry>
+  <entry id="253">
+    <source>宿屋宿泊時にセーブを行いません{f801}</source>
+    <target>宿屋宿泊時にセーブを行いません{f801}</target>
+  </entry>
+  <entry id="260">
+    <source>オートセーブする場所を変更しますか?{f801}</source>
+    <target>オートセーブする場所を変更しますか?{f801}</target>
+  </entry>
+</mbm>

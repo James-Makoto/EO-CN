@@ -1,0 +1,118 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>宿屋に泊ることで{f801}HP・TPが全回復します{f801}</source>
+    <target>宿屋に泊ることで{f801}HP・TPが全回復します{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>傷付いたパーティメンバーの治療や{f801}状態異常の回復ができます{f801}</source>
+    <target>傷付いたパーティメンバーの治療や{f801}状態異常の回復ができます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>宿屋の店員と話をします{f801}</source>
+    <target>宿屋の店員と話をします{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>これまでの冒険を記録します{f801}</source>
+    <target>これまでの冒険を記録します{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>AM7時まで宿泊し、{f801}HP・TPが全回復します{f801}</source>
+    <target>AM7時まで宿泊し、{f801}HP・TPが全回復します{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>PM7時まで宿泊し、{f801}HP・TPが全回復します{f801}</source>
+    <target>PM7時まで宿泊し、{f801}HP・TPが全回復します{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>荷物を預けたり{f801}受け取ることができます{f801}</source>
+    <target>荷物を預けたり{f801}受け取ることができます{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>受け取るアイテムがありません!{f801}</source>
+    <target>受け取るアイテムがありません!{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>預けるアイテムがありません!{f801}</source>
+    <target>預けるアイテムがありません!{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>アイテムを{f811}{0000}個預けました{f801}</source>
+    <target>アイテムを{f811}{0000}個預けました{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>アイテムを{f811}{0000}個引き出しました{f801}</source>
+    <target>アイテムを{f811}{0000}個引き出しました{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>アイテムを{f811}{0000}個{f801}預けますがよろしいですか?{f801}</source>
+    <target>アイテムを{f811}{0000}個{f801}預けますがよろしいですか?{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>アイテムを{f811}{0000}個引き出します{f801}よろしいですか?{f801}</source>
+    <target>アイテムを{f811}{0000}個引き出します{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>預かり所が一杯です!{f801}</source>
+    <target>預かり所が一杯です!{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>{f811}{0000}はこれ以上預けられません!{f801}</source>
+    <target>{f811}{0000}はこれ以上預けられません!{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>預ける荷物を選択してください{f801}</source>
+    <target>預ける荷物を選択してください{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>受け取る荷物を選択してください{f801}</source>
+    <target>受け取る荷物を選択してください{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>{f811}{0000}エンかかりますが{f801}よろしいですか?{f801}</source>
+    <target>{f811}{0000}エンかかりますが{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>所持金がたりません!!{f801}</source>
+    <target>所持金がたりません!!{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>誰を治療しますか?{f801}</source>
+    <target>誰を治療しますか?{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>治療の必要がありません{f801}</source>
+    <target>治療の必要がありません{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>治療が終わりました{f801}</source>
+    <target>治療が終わりました{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>セーブしますか?{f801}</source>
+    <target>セーブしますか?{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>アイテムを倉庫に預けますが{f801}よろしいですか?{f801}</source>
+    <target>アイテムを倉庫に預けますが{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>受け取りますがよろしいですか?{f801}</source>
+    <target>受け取りますがよろしいですか?{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>所持アイテムが一杯です!{f801}</source>
+    <target>所持アイテムが一杯です!{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>倉庫が一杯です!{f801}</source>
+    <target>倉庫が一杯です!{f801}</target>
+  </entry>
+</mbm>

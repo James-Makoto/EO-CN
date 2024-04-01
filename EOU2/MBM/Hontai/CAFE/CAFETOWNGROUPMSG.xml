@@ -1,0 +1,890 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>土はやせとるし、ジャリも多いでな、{f801}ハァ、仕事するにも一苦労だべ。{f801}</source>
+    <target>土はやせとるし、ジャリも多いでな、{f801}ハァ、仕事するにも一苦労だべ。{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>道が整備されたで、仕事すんのが{f801}だいぶ楽になったでよ。{f801}</source>
+    <target>道が整備されたで、仕事すんのが{f801}だいぶ楽になったでよ。{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>用水路が引かれたで、畑も使えるようんなったし{f801}土も作物も活き活きしとるべさ!{f801}</source>
+    <target>用水路が引かれたで、畑も使えるようんなったし{f801}土も作物も活き活きしとるべさ!{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>あーあ、遊ぶところも少ないし、{f801}相手もろくにいないから、つまんないよぉ。{f801}</source>
+    <target>あーあ、遊ぶところも少ないし、{f801}相手もろくにいないから、つまんないよぉ。{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>隣に同い年のヤツが引っ越してきたんだ!{f801}どこに遊びに行こうかなあ?{f801}</source>
+    <target>隣に同い年のヤツが引っ越してきたんだ!{f801}どこに遊びに行こうかなあ?{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>へへっ、いい街だろ?{f801}遊ぶところも友達もたくさんいるんだぞ!{f801}</source>
+    <target>へへっ、いい街だろ?{f801}遊ぶところも友達もたくさんいるんだぞ!{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>調剤は地道にコツコツ…。{f801}…来てはみたけど施設がまだまだ少ないのね。{f801}</source>
+    <target>調剤は地道にコツコツ…。{f801}…来てはみたけど施設がまだまだ少ないのね。{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>調合用の機材を扱う店がたくさん…。{f801}コツコツと作った薬品もいっぱい…ウフフ。{f801}</source>
+    <target>調合用の機材を扱う店がたくさん…。{f801}コツコツと作った薬品もいっぱい…ウフフ。{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>調剤は地道にコツコツ…。{f801}…ここの薬草は質もいいし最高だわ。{f801}</source>
+    <target>調剤は地道にコツコツ…。{f801}…ここの薬草は質もいいし最高だわ。{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>ふぅん、ちょっと店が増えたみたいだけど…{f801}まだまだ少ないなあ。{f801}</source>
+    <target>ふぅん、ちょっと店が増えたみたいだけど…{f801}まだまだ少ないなあ。{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>まさかアレが肥料になるとはな…。{f801}素材の買い取り店が増えて助かるよ。{f801}</source>
+    <target>まさかアレが肥料になるとはな…。{f801}素材の買い取り店が増えて助かるよ。{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>どんな素材でも引き取ってくれるから{f801}変わったものを集める俺らはホント助かるよ。{f801}</source>
+    <target>どんな素材でも引き取ってくれるから{f801}変わったものを集める俺らはホント助かるよ。{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>ふむ、少し建物が増えてきたの。{f801}じゃが…見回りするほどじゃないのう。{f801}</source>
+    <target>ふむ、少し建物が増えてきたの。{f801}じゃが…見回りするほどじゃないのう。{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>見回りのし甲斐があるのう!{f801}この地区の治安はワシが守るぞい!{f801}</source>
+    <target>見回りのし甲斐があるのう!{f801}この地区の治安はワシが守るぞい!{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>兵隊さんと一緒に回るようになったんじゃよ。{f801}まだまだワシらの力が必要なんじゃな!{f801}</source>
+    <target>兵隊さんと一緒に回るようになったんじゃよ。{f801}まだまだワシらの力が必要なんじゃな!{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>この辺りは、やっぱり店が少ないですね。{f801}ヘンなおじいさん達もいるし、気をつけないと。{f801}</source>
+    <target>この辺りは、やっぱり店が少ないですね。{f801}ヘンなおじいさん達もいるし、気をつけないと。{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>気のいい人たちばっかりで楽しいですよ!{f801}今日も新しく出来た酒場で一杯です!{f801}</source>
+    <target>気のいい人たちばっかりで楽しいですよ!{f801}今日も新しく出来た酒場で一杯です!{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>人は少ないが、材料を集めやすいし土地も安い。{f801}とりあえずの活動拠点ってとこか。{f801}</source>
+    <target>人は少ないが、材料を集めやすいし土地も安い。{f801}とりあえずの活動拠点ってとこか。{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>あー! 一気に人が増えて仕事がおっつかん!{f801}事業拡大に踏み切っちまうか!?{f801}</source>
+    <target>あー! 一気に人が増えて仕事がおっつかん!{f801}事業拡大に踏み切っちまうか!?{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>あら、意外といい野菜がそろってるのね。{f801}痩せた荒れ地だとばかり思ってたけど…。{f801}</source>
+    <target>あら、意外といい野菜がそろってるのね。{f801}痩せた荒れ地だとばかり思ってたけど…。{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>ここの野菜は今や一大ブランドなのよ。{f801}気合入れて並ばなきゃ、ろくに買えやしないわ!{f801}</source>
+    <target>ここの野菜は今や一大ブランドなのよ。{f801}気合入れて並ばなきゃ、ろくに買えやしないわ!{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>ウチの学校、歴史はあるらしいんだけど{f801}もう校舎がボッロボロ…改築すりゃいいのに。{f801}</source>
+    <target>ウチの学校、歴史はあるらしいんだけど{f801}もう校舎がボッロボロ…改築すりゃいいのに。{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>この校舎、修繕の手が入って見違えるようでしょ?{f801}歴史ある風格を保ちつつ、隙間風ナシです!{f801}</source>
+    <target>この校舎、修繕の手が入って見違えるようでしょ?{f801}歴史ある風格を保ちつつ、隙間風ナシです!{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>ウチの学校、増築されて研究棟もあるんですよ。{f801}ミズガルズにだって負けない設備ですね!{f801}</source>
+    <target>ウチの学校、増築されて研究棟もあるんですよ。{f801}ミズガルズにだって負けない設備ですね!{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>生徒は少なく、その少ない生徒もやる気がない。{f801}…こちらのやる気もなくなるというモンさ。{f801}</source>
+    <target>生徒は少なく、その少ない生徒もやる気がない。{f801}…こちらのやる気もなくなるというモンさ。{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>生徒たちが増えてきて、心なしか顔も明るく…{f801}…いいや、まだまだ。まだ分からんぞ。{f801}</source>
+    <target>生徒たちが増えてきて、心なしか顔も明るく…{f801}…いいや、まだまだ。まだ分からんぞ。{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>設備がシッカリしたおかげか、生徒にも意欲が{f801}出てきたようだな。…私もそろそろ本腰入れるか。{f801}</source>
+    <target>設備がシッカリしたおかげか、生徒にも意欲が{f801}出てきたようだな。…私もそろそろ本腰入れるか。{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>冒険者が集まるというから期待して来たが…{f801}フン、学術はカラキシのようだな。{f801}</source>
+    <target>冒険者が集まるというから期待して来たが…{f801}フン、学術はカラキシのようだな。{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>うむうむ、本の品ぞろえが良くなってきたぞ。{f801}資料集めもはかどるというものだ。{f801}</source>
+    <target>うむうむ、本の品ぞろえが良くなってきたぞ。{f801}資料集めもはかどるというものだ。{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>学問をするには最適の場所だよ、ここは。{f801}…ミズガルズ並、というのは褒めすぎかな?{f801}</source>
+    <target>学問をするには最適の場所だよ、ここは。{f801}…ミズガルズ並、というのは褒めすぎかな?{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>ここ、寂れてるね…。{f801}まあ、ボクには関係ないか。{f801}</source>
+    <target>ここ、寂れてるね…。{f801}まあ、ボクには関係ないか。{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>…ちょっと、騒がしくなった。{f801}まあ、ボクには関係ないけど。{f801}</source>
+    <target>…ちょっと、騒がしくなった。{f801}まあ、ボクには関係ないけど。{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>同じ系統の儀式を調べてる人がいたんだよ!{f801}ま、まあ…ボクには、関係ないけど?{f801}</source>
+    <target>同じ系統の儀式を調べてる人がいたんだよ!{f801}ま、まあ…ボクには、関係ないけど?{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>はー、将来この場所を守るのか。{f801}…なんかテンションあがらないな。{f801}</source>
+    <target>はー、将来この場所を守るのか。{f801}…なんかテンションあがらないな。{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>最近、このへんも人が増えたよな。{f801}危ない人もいるかもしれないし、注意しないと。{f801}</source>
+    <target>最近、このへんも人が増えたよな。{f801}危ない人もいるかもしれないし、注意しないと。{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>なあ、スゴイ街並みだろ!?{f801}この街を守る衛士になるって思うと胸が躍るぜ!{f801}</source>
+    <target>なあ、スゴイ街並みだろ!?{f801}この街を守る衛士になるって思うと胸が躍るぜ!{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>ボクほどのアーティストにもなると{f801}居を構える場所にもこだわりたいんだよ、キミ。{f801}</source>
+    <target>ボクほどのアーティストにもなると{f801}居を構える場所にもこだわりたいんだよ、キミ。{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>ボクのミューズが求める全てがここにある!{f801}ああ…筆よ、走れ! どこまでも!{f801}</source>
+    <target>ボクのミューズが求める全てがここにある!{f801}ああ…筆よ、走れ! どこまでも!{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>ここなら仕事があると聞いて、移ってきたんだ。{f801}景気が良くなきゃ、ウチに人は来ないからね。{f801}</source>
+    <target>ここなら仕事があると聞いて、移ってきたんだ。{f801}景気が良くなきゃ、ウチに人は来ないからね。{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>いい仕事を分かってもらえる街ってのはいいね。{f801}世界樹のおかげで変わった素材も手に入るし!{f801}</source>
+    <target>いい仕事を分かってもらえる街ってのはいいね。{f801}世界樹のおかげで変わった素材も手に入るし!{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>へー、この街にこんな場所があったんだな。{f801}面白そうだなあ…。{f801}</source>
+    <target>へー、この街にこんな場所があったんだな。{f801}面白そうだなあ…。{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>ここはいいトコだぜ〜、見つからない物はない!{f801}すっかり常連になっちまったよ。{f801}</source>
+    <target>ここはいいトコだぜ〜、見つからない物はない!{f801}すっかり常連になっちまったよ。{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>…景気が悪かね。新しい物を誰も作らん。{f801}修理の依頼が来るのを待つばかりとは情けなか。{f801}</source>
+    <target>…景気が悪かね。新しい物を誰も作らん。{f801}修理の依頼が来るのを待つばかりとは情けなか。{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>最近、新しい物を頼む客ば、多か。{f801}よかことよ。いくらでも作るたい。{f801}</source>
+    <target>最近、新しい物を頼む客ば、多か。{f801}よかことよ。いくらでも作るたい。{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>どんな注文も、オイに任せとけ!{f801}質も量も一級品なのはオイんとこだけたい!{f801}</source>
+    <target>どんな注文も、オイに任せとけ!{f801}質も量も一級品なのはオイんとこだけたい!{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>木を切っても、買い手がつかねえんだよ。{f801}もういっそ店をたたんじまおうか…。{f801}</source>
+    <target>木を切っても、買い手がつかねえんだよ。{f801}もういっそ店をたたんじまおうか…。{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>へへ…切るぜ切るぜー!{f801}新しい建物がたつなら、いくらでも切るぜ!{f801}</source>
+    <target>へへ…切るぜ切るぜー!{f801}新しい建物がたつなら、いくらでも切るぜ!{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>切って儲けたあとは、きちんと植林…ってな。{f801}また来る稼ぎ時まで、大事にしねえと!{f801}</source>
+    <target>切って儲けたあとは、きちんと植林…ってな。{f801}また来る稼ぎ時まで、大事にしねえと!{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>会を立ち上げてみたッス!{f801}きっと、もっとこの辺も発展するッスよね!?{f801}</source>
+    <target>会を立ち上げてみたッス!{f801}きっと、もっとこの辺も発展するッスよね!?{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>人が来てくれるようになったッスよ!{f801}新人に負けないよう、オレも頑張るッス!{f801}</source>
+    <target>人が来てくれるようになったッスよ!{f801}新人に負けないよう、オレも頑張るッス!{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>新しく来た後輩に剣を教えてもらってるッス!{f801}みんなも楽しく教わるッスよ!{f801}</source>
+    <target>新しく来た後輩に剣を教えてもらってるッス!{f801}みんなも楽しく教わるッスよ!{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>銃の扱いを教えてくれって頼まれたんだけど{f801}…この街、そもそも人がいないじゃない。{f801}</source>
+    <target>銃の扱いを教えてくれって頼まれたんだけど{f801}…この街、そもそも人がいないじゃない。{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>そこそこ人が増えてきたみたいね。{f801}私もちょっと忙しくなったかも。{f801}</source>
+    <target>そこそこ人が増えてきたみたいね。{f801}私もちょっと忙しくなったかも。{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>うん、組合員も増えてきたし技術も伝えた。{f801}私の役目はこれでおしまいかしらね。{f801}</source>
+    <target>うん、組合員も増えてきたし技術も伝えた。{f801}私の役目はこれでおしまいかしらね。{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>レジェンドである俺が新米を支えてやろうと{f801}やってきたわけだが…人、少ねぇなぁ。{f801}</source>
+    <target>レジェンドである俺が新米を支えてやろうと{f801}やってきたわけだが…人、少ねぇなぁ。{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>なかなか人が増えてきたが…{f801}レジェンドたる俺がいた前の街には敵わねえ…。{f801}</source>
+    <target>なかなか人が増えてきたが…{f801}レジェンドたる俺がいた前の街には敵わねえ…。{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>よく考えれば支援は十分ギルドがやってる…か。{f801}そこに気付かなかったとは…、レジェンドだぜ。{f801}</source>
+    <target>よく考えれば支援は十分ギルドがやってる…か。{f801}そこに気付かなかったとは…、レジェンドだぜ。{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>イイのが獲れたんでな、景気がいいってこの街に{f801}わざわざ売りに来たんだわ。さあ、買ってけろ!{f801}</source>
+    <target>イイのが獲れたんでな、景気がいいってこの街に{f801}わざわざ売りに来たんだわ。さあ、買ってけろ!{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>この街に来たら、飛ぶように売れるからなぁ。{f801}ホントこの街に来るのが楽しみだよぉ。{f801}</source>
+    <target>この街に来たら、飛ぶように売れるからなぁ。{f801}ホントこの街に来るのが楽しみだよぉ。{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>ここん所、開発が増えてるだろ?{f801}仕事がたんまりあると思って移住してきたんだ!{f801}</source>
+    <target>ここん所、開発が増えてるだろ?{f801}仕事がたんまりあると思って移住してきたんだ!{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>いやあ、いい街だ! 俺が建てただけはある!{f801}寝ずに図面引いてた甲斐があるってもんよ!{f801}</source>
+    <target>いやあ、いい街だ! 俺が建てただけはある!{f801}寝ずに図面引いてた甲斐があるってもんよ!{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>ちょいと手伝い頼まれて来たんだがね。{f801}悪くない街だ。気に入ったよ、俺ぁ。{f801}</source>
+    <target>ちょいと手伝い頼まれて来たんだがね。{f801}悪くない街だ。気に入ったよ、俺ぁ。{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>一通り建てるもんは建てたが、今度はメンテの{f801}仕事が大量だし、当分は食いっぱぐれねえな。{f801}</source>
+    <target>一通り建てるもんは建てたが、今度はメンテの{f801}仕事が大量だし、当分は食いっぱぐれねえな。{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>うちはそれなりに老舗の酒蔵なんですがね、{f801}老舗以外のウリが…トホホ。{f801}</source>
+    <target>うちはそれなりに老舗の酒蔵なんですがね、{f801}老舗以外のウリが…トホホ。{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>うちも世界樹素材の酒を作ってみたんですよ。{f801}に、二番煎じなんかじゃないですよ?{f801}</source>
+    <target>うちも世界樹素材の酒を作ってみたんですよ。{f801}に、二番煎じなんかじゃないですよ?{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>ちょいと、あなたも世界樹酒いかがです?{f801}…いやあ、こんなに売れるとは思わなかった。{f801}</source>
+    <target>ちょいと、あなたも世界樹酒いかがです?{f801}…いやあ、こんなに売れるとは思わなかった。{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>あかん、店が在庫でいっぱいやないか!{f801}人が来ぉへんと売ることも出来へんよ…。{f801}</source>
+    <target>あかん、店が在庫でいっぱいやないか!{f801}人が来ぉへんと売ることも出来へんよ…。{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>在庫一掃セール、大成功や!{f801}まだまだ商売、続けてくでー!{f801}</source>
+    <target>在庫一掃セール、大成功や!{f801}まだまだ商売、続けてくでー!{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>さーあ、トレンド先取りならこの店やで!{f801}在庫なんか残らへんよ、買うなら今や!{f801}</source>
+    <target>さーあ、トレンド先取りならこの店やで!{f801}在庫なんか残らへんよ、買うなら今や!{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>アナタのためにー、歌いたいー。{f801}寂しい街でもー、歌いたい〜。{f801}</source>
+    <target>アナタのためにー、歌いたいー。{f801}寂しい街でもー、歌いたい〜。{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>アナタのためにー、歌いたいー。{f801}もっと栄えて、ハイ・ラガード〜。{f801}</source>
+    <target>アナタのためにー、歌いたいー。{f801}もっと栄えて、ハイ・ラガード〜。{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>アナタのためにー、歌うからー{f801}もっとおひねりー、ちょうだいな〜。{f801}</source>
+    <target>アナタのためにー、歌うからー{f801}もっとおひねりー、ちょうだいな〜。{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>静かなのは良いことではあるが…{f801}道場の名簿も静かなまま、か。{f801}</source>
+    <target>静かなのは良いことではあるが…{f801}道場の名簿も静かなまま、か。{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>道場にも教えを請う人間が増えてきたようだ。{f801}我が師もホッとしておられる…。{f801}</source>
+    <target>道場にも教えを請う人間が増えてきたようだ。{f801}我が師もホッとしておられる…。{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>他の流派の道場も建ち始めたのだ!{f801}キェェェ! 腕が鳴るぞ!{f801}</source>
+    <target>他の流派の道場も建ち始めたのだ!{f801}キェェェ! 腕が鳴るぞ!{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>来てはみたけど、ショボくれてるなあ。{f801}なんでうちの座長はこんなトコに来たんだろ。{f801}</source>
+    <target>来てはみたけど、ショボくれてるなあ。{f801}なんでうちの座長はこんなトコに来たんだろ。{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>きしし、人が増えてきたねえ! 座長ってばコレを{f801}予想してたとか? …そりゃないか。{f801}</source>
+    <target>きしし、人が増えてきたねえ! 座長ってばコレを{f801}予想してたとか? …そりゃないか。{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>きしし、前からいただけなのに、ウチの一座が{f801}ここいらの元締め扱いよ。時期って大事だね!{f801}</source>
+    <target>きしし、前からいただけなのに、ウチの一座が{f801}ここいらの元締め扱いよ。時期って大事だね!{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>土はいいんだが…問題は窯だな。腕に覚えの{f801}ある職人がいたらこさえてもらうんだが。{f801}</source>
+    <target>土はいいんだが…問題は窯だな。腕に覚えの{f801}ある職人がいたらこさえてもらうんだが。{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>新しく来た、鉄工所はいいね!{f801}窯を作ってもらってウハウハよ!{f801}</source>
+    <target>新しく来た、鉄工所はいいね!{f801}窯を作ってもらってウハウハよ!{f801}</target>
+  </entry>
+  <entry id="129">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>近頃、ここからの発注が多いからね。{f801}いっそ引っ越してここで仕事はじめてみたんよ。{f801}</source>
+    <target>近頃、ここからの発注が多いからね。{f801}いっそ引っ越してここで仕事はじめてみたんよ。{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>出張せんで楽になるかと思ったのに{f801}次から次へと仕事が増える一方だわな!{f801}</source>
+    <target>出張せんで楽になるかと思ったのに{f801}次から次へと仕事が増える一方だわな!{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>ウワサを聞いて来たんだけど、いい街だねえ!{f801}アタイ、なんだかワクワクしてきたよ!{f801}</source>
+    <target>ウワサを聞いて来たんだけど、いい街だねえ!{f801}アタイ、なんだかワクワクしてきたよ!{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>アタイ、ここ気に入っちゃった!{f801}たんまり売れたから、また来るね!{f801}</source>
+    <target>アタイ、ここ気に入っちゃった!{f801}たんまり売れたから、また来るね!{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="137">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="139">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="145">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="147">
+    <source>城下町がこのありさまとはな。{f801}父に進言しておくべきではないだろうか。{f801}</source>
+    <target>城下町がこのありさまとはな。{f801}父に進言しておくべきではないだろうか。{f801}</target>
+  </entry>
+  <entry id="148">
+    <source>ふむ、だいぶ見れる街並みになったな。{f801}私の進言も多少は意味があったかな。{f801}</source>
+    <target>ふむ、だいぶ見れる街並みになったな。{f801}私の進言も多少は意味があったかな。{f801}</target>
+  </entry>
+  <entry id="149">
+    <source>正直ここまで急速に立派な城下町になるとは、{f801}これまでの行政の怠慢を恥じるべきだな…。{f801}</source>
+    <target>正直ここまで急速に立派な城下町になるとは、{f801}これまでの行政の怠慢を恥じるべきだな…。{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>せっかくの城付きなのにさ、{f801}ここらへん、なんかパッとしないよなー。{f801}</source>
+    <target>せっかくの城付きなのにさ、{f801}ここらへん、なんかパッとしないよなー。{f801}</target>
+  </entry>
+  <entry id="151">
+    <source>だいぶ城下町っぽくなったなー。{f801}警備のしがいがあるよ。{f801}</source>
+    <target>だいぶ城下町っぽくなったなー。{f801}警備のしがいがあるよ。{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>仕事は大変になったけど、ここの警備出来る{f801}のは名誉だからがんばるよー。{f801}</source>
+    <target>仕事は大変になったけど、ここの警備出来る{f801}のは名誉だからがんばるよー。{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>城壁の手入れは始まったが…まだまだである。{f801}国の象徴として、もう少し手入れせねば…!{f801}</source>
+    <target>城壁の手入れは始まったが…まだまだである。{f801}国の象徴として、もう少し手入れせねば…!{f801}</target>
+  </entry>
+  <entry id="154">
+    <source>やはり国の中心はこうでなくては!{f801}国の象徴を民が誇れないようでは話にならん!{f801}</source>
+    <target>やはり国の中心はこうでなくては!{f801}国の象徴を民が誇れないようでは話にならん!{f801}</target>
+  </entry>
+  <entry id="155">
+    <source>急な発展は治安の低下を招く物だが…{f801}今のところ、我が盾を曇らせる影はなし!{f801}</source>
+    <target>急な発展は治安の低下を招く物だが…{f801}今のところ、我が盾を曇らせる影はなし!{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>請われて訪れたものの、このみすぼらしさ。{f801}歴史を感じる街並みとは言いますが…ねえ。{f801}</source>
+    <target>請われて訪れたものの、このみすぼらしさ。{f801}歴史を感じる街並みとは言いますが…ねえ。{f801}</target>
+  </entry>
+  <entry id="157">
+    <source>散策するにはうってつけの美しい街です。{f801}ああ、レディをお誘いしたい…。{f801}</source>
+    <target>散策するにはうってつけの美しい街です。{f801}ああ、レディをお誘いしたい…。{f801}</target>
+  </entry>
+  <entry id="158">
+    <source>我が国と比べても劣る事ない美しい国です。{f801}レディにもそうお伝えしましたよ、フフフ…。{f801}</source>
+    <target>我が国と比べても劣る事ない美しい国です。{f801}レディにもそうお伝えしましたよ、フフフ…。{f801}</target>
+  </entry>
+  <entry id="159">
+    <source>はうう、ご主人様の事業がうまくいってないのか{f801}最近の夕食は、毎日スープだけですぅ…。{f801}</source>
+    <target>はうう、ご主人様の事業がうまくいってないのか{f801}最近の夕食は、毎日スープだけですぅ…。{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>あのっ、聞いて下さい! 最近は夕食のスープに{f801}具が入るようになったんですよ!{f801}</source>
+    <target>あのっ、聞いて下さい! 最近は夕食のスープに{f801}具が入るようになったんですよ!{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>うふふ、聞いて下さい。とうとうね、スープが…{f801}なんと、おかわり出来るようになったんです!{f801}</source>
+    <target>うふふ、聞いて下さい。とうとうね、スープが…{f801}なんと、おかわり出来るようになったんです!{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="163">
+    <source>こっちに河岸を変えてみたんだ。{f801}最近ここらへんは景気がいいって聞いたからね。{f801}</source>
+    <target>こっちに河岸を変えてみたんだ。{f801}最近ここらへんは景気がいいって聞いたからね。{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>この国はすごいな、お貴族様だけじゃなく{f801}庶民までいい靴はいてんだもんなあ…。{f801}</source>
+    <target>この国はすごいな、お貴族様だけじゃなく{f801}庶民までいい靴はいてんだもんなあ…。{f801}</target>
+  </entry>
+  <entry id="165">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="166">
+    <source>ウワサのお店があると伺ってやってきたのよ。{f801}うふふ、楽しみだわ。{f801}</source>
+    <target>ウワサのお店があると伺ってやってきたのよ。{f801}うふふ、楽しみだわ。{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>あらあら、どうしましょう。{f801}素敵なお店がたくさんで迷っちゃいますわ…。{f801}</source>
+    <target>あらあら、どうしましょう。{f801}素敵なお店がたくさんで迷っちゃいますわ…。{f801}</target>
+  </entry>
+  <entry id="168">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="169">
+    <source>へえ、あの田舎町がずいぶんと変わったものだ。{f801}これからに期待、かな。{f801}</source>
+    <target>へえ、あの田舎町がずいぶんと変わったものだ。{f801}これからに期待、かな。{f801}</target>
+  </entry>
+  <entry id="170">
+    <source>正直ちょっと羨むくらいの発展ぶりだ。{f801}ノウハウを御教授頂きたいくらいだよ!{f801}</source>
+    <target>正直ちょっと羨むくらいの発展ぶりだ。{f801}ノウハウを御教授頂きたいくらいだよ!{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="172">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="173">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="174">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="175">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="176">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="177">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="178">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="179">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>あー、かったりいなあ。{f801}ラクして稼げる仕事、落ちてねえかな?{f801}</source>
+    <target>あー、かったりいなあ。{f801}ラクして稼げる仕事、落ちてねえかな?{f801}</target>
+  </entry>
+  <entry id="184">
+    <source>この街もずいぶんマトモになっちまったな。{f801}そろそろちゃんと仕事を探そっかな…。{f801}</source>
+    <target>この街もずいぶんマトモになっちまったな。{f801}そろそろちゃんと仕事を探そっかな…。{f801}</target>
+  </entry>
+  <entry id="185">
+    <source>いやー、仕事って落ちてるモンなんだな!{f801}…ラクして稼げはしないケドさ。{f801}</source>
+    <target>いやー、仕事って落ちてるモンなんだな!{f801}…ラクして稼げはしないケドさ。{f801}</target>
+  </entry>
+  <entry id="186">
+    <source>うぃー…ひっく、いい気分だぁ…。{f801}昼間から飲んで寝る幸せ…うぃっくし!{f801}</source>
+    <target>うぃー…ひっく、いい気分だぁ…。{f801}昼間から飲んで寝る幸せ…うぃっくし!{f801}</target>
+  </entry>
+  <entry id="187">
+    <source>ひっく! なんでぇ、キレイな街じゃねぇの。{f801}…なのに、なんでオレぁ飲んでんだ?{f801}</source>
+    <target>ひっく! なんでぇ、キレイな街じゃねぇの。{f801}…なのに、なんでオレぁ飲んでんだ?{f801}</target>
+  </entry>
+  <entry id="188">
+    <source>昼に酒を飲むのもいいけどよ、{f801}仕事のあとの酒ってのも格別じゃねえか!{f801}</source>
+    <target>昼に酒を飲むのもいいけどよ、{f801}仕事のあとの酒ってのも格別じゃねえか!{f801}</target>
+  </entry>
+  <entry id="189">
+    <source>この場所は、我々のようなはぐれ者ですら{f801}少し…息がしづらい。自由には、なれぬな…。{f801}</source>
+    <target>この場所は、我々のようなはぐれ者ですら{f801}少し…息がしづらい。自由には、なれぬな…。{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>以前はくすぶった輩が跋扈していたというのに{f801}ちょっとしたことで随分変わるものだ…。{f801}</source>
+    <target>以前はくすぶった輩が跋扈していたというのに{f801}ちょっとしたことで随分変わるものだ…。{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>もはや昔とは別の街だな。とはいえ{f801}居辛くなったわけでもないのが…面白い。{f801}</source>
+    <target>もはや昔とは別の街だな。とはいえ{f801}居辛くなったわけでもないのが…面白い。{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>大抵のキタネェ仕事はやってきたけどよ…{f801}ここのヨゴレは我慢できねえ! ヤベエよ!{f801}</source>
+    <target>大抵のキタネェ仕事はやってきたけどよ…{f801}ここのヨゴレは我慢できねえ! ヤベエよ!{f801}</target>
+  </entry>
+  <entry id="193">
+    <source>おう、この辺も過ごしやすくなったロ?{f801}ヤベエくらいゴミ拾ってやったからな!{f801}</source>
+    <target>おう、この辺も過ごしやすくなったロ?{f801}ヤベエくらいゴミ拾ってやったからな!{f801}</target>
+  </entry>
+  <entry id="194">
+    <source>すっかりマトモな街になっちまってヨォ…。{f801}あ、ゴミだ。ちゃんと分別して捨てねぇとな!{f801}</source>
+    <target>すっかりマトモな街になっちまってヨォ…。{f801}あ、ゴミだ。ちゃんと分別して捨てねぇとな!{f801}</target>
+  </entry>
+  <entry id="195">
+    <source>お、そこのダンナ! オイシイのアルヨ!{f801}ニクかナニカをヤイタのダヨ!{f801}</source>
+    <target>お、そこのダンナ! オイシイのアルヨ!{f801}ニクかナニカをヤイタのダヨ!{f801}</target>
+  </entry>
+  <entry id="196">
+    <source>ヘイタイさんにオコラレタのでタベモノやめたヨ。{f801}これからはこの、なんかのクサのおちゃうるヨ!{f801}</source>
+    <target>ヘイタイさんにオコラレタのでタベモノやめたヨ。{f801}これからはこの、なんかのクサのおちゃうるヨ!{f801}</target>
+  </entry>
+  <entry id="197">
+    <source>イロイロあったけど、てづくりのアクセサリ{f801}うることにしたよ。これはおこられないヨ。{f801}</source>
+    <target>イロイロあったけど、てづくりのアクセサリ{f801}うることにしたよ。これはおこられないヨ。{f801}</target>
+  </entry>
+  <entry id="198">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="199">
+    <source>ううう…こんな街外れが配属になるなんて{f801}ツイてないなあ。{f801}</source>
+    <target>ううう…こんな街外れが配属になるなんて{f801}ツイてないなあ。{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>見回りのおかげかな、ゴロツキも減ったし{f801}他の地区の人が来ても安心な場所になったよ!{f801}</source>
+    <target>見回りのおかげかな、ゴロツキも減ったし{f801}他の地区の人が来ても安心な場所になったよ!{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>なんだよ、見せモンじゃねーぞ!{f801}ったく、ベンキョーなんかしたくねーのにさぁ…。{f801}</source>
+    <target>なんだよ、見せモンじゃねーぞ!{f801}ったく、ベンキョーなんかしたくねーのにさぁ…。{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>ベンキョー、分かると楽しいよな。{f801}…アイツも好きらしいし、俺もガンバろっと。{f801}</source>
+    <target>ベンキョー、分かると楽しいよな。{f801}…アイツも好きらしいし、俺もガンバろっと。{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>手持ちのないボクらにゃ有難い場所だね。{f801}…まあ、汚い街外れにいるのは慣れてるさ。{f801}</source>
+    <target>手持ちのないボクらにゃ有難い場所だね。{f801}…まあ、汚い街外れにいるのは慣れてるさ。{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>こんな街外れまで整備されてるなんて{f801}この国は良い場所なんだな…早く入国したいよ!{f801}</source>
+    <target>こんな街外れまで整備されてるなんて{f801}この国は良い場所なんだな…早く入国したいよ!{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="209">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>ダミー0{f801}</source>
+    <target>ダミー0{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>ダミー1{f801}</source>
+    <target>ダミー1{f801}</target>
+  </entry>
+  <entry id="218">
+    <source>ダミー2{f801}</source>
+    <target>ダミー2{f801}</target>
+  </entry>
+  <entry id="219">
+    <source>話にならんな。{f801}こんな街で、誠に美食は存在するのか…?{f801}</source>
+    <target>話にならんな。{f801}こんな街で、誠に美食は存在するのか…?{f801}</target>
+  </entry>
+  <entry id="220">
+    <source>ほほう、なかなかの街並み…。{f801}これは食にも期待が持てそうである。{f801}</source>
+    <target>ほほう、なかなかの街並み…。{f801}これは食にも期待が持てそうである。{f801}</target>
+  </entry>
+  <entry id="221">
+    <source>なんとも美しい! 食の偉大さを分かる国は{f801}街並みまでも美しいのであるな!{f801}</source>
+    <target>なんとも美しい! 食の偉大さを分かる国は{f801}街並みまでも美しいのであるな!{f801}</target>
+  </entry>
+</mbm>

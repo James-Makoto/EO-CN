@@ -1,0 +1,514 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>ダンジョン探索中、一定数歩く毎に{f801}HPが少し回復するようになった!{f801}</source>
+    <target>ダンジョン探索中、一定数歩く毎に{f801}HPが少し回復するようになった!{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>LUCが+10された!{f801}</source>
+    <target>LUCが+10された!{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>ダンジョン探索中、一定数歩く毎に{f801}TPが少し回復するようになった!{f801}</source>
+    <target>ダンジョン探索中、一定数歩く毎に{f801}TPが少し回復するようになった!{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>食材の入手数が{f801}増えるようになった!{f801}</source>
+    <target>食材の入手数が{f801}増えるようになった!{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>ダンジョン探索中、一定数歩く毎に{f801}フォースゲージが上昇するようになった!{f801}</source>
+    <target>ダンジョン探索中、一定数歩く毎に{f801}フォースゲージが上昇するようになった!{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>AGIが+10された!{f801}</source>
+    <target>AGIが+10された!{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>VITが+10された!{f801}</source>
+    <target>VITが+10された!{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>採集時に取れる採集物が{f801}増えるようになった!{f801}</source>
+    <target>採集時に取れる採集物が{f801}増えるようになった!{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>稀少個体の出現率が上昇した!{f801}</source>
+    <target>稀少個体の出現率が上昇した!{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>STRが+10された!{f801}</source>
+    <target>STRが+10された!{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>戦闘後に取得する経験値が{f801}増加するようになった!{f801}</source>
+    <target>戦闘後に取得する経験値が{f801}増加するようになった!{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>TECが+10された!{f801}</source>
+    <target>TECが+10された!{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>ターン終了時に{f801}HPが少し回復するようになった!{f801}</source>
+    <target>ターン終了時に{f801}HPが少し回復するようになった!{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>TP最大値が上昇した!{f801}</source>
+    <target>TP最大値が上昇した!{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>逃走成功確率が上昇した!{f801}</source>
+    <target>逃走成功確率が上昇した!{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>全能力値が+5された!{f801}</source>
+    <target>全能力値が+5された!{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>ターン終了時に{f801}TPが少し回復するようになった!{f801}</source>
+    <target>ターン終了時に{f801}TPが少し回復するようになった!{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>HP最大値が上昇した!{f801}</source>
+    <target>HP最大値が上昇した!{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>特殊な場合を除き、{f801}戦闘で先制も不意打ちも{f801}起きなくなった!{f801}</source>
+    <target>特殊な場合を除き、{f801}戦闘で先制も不意打ちも{f801}起きなくなった!{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>通常攻撃時、与えたダメージに応じて{f801}HPが回復するようになった!{f801}</source>
+    <target>通常攻撃時、与えたダメージに応じて{f801}HPが回復するようになった!{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>ターン終了時に{f801}HPとTPが少し回復するようになった!{f801}</source>
+    <target>ターン終了時に{f801}HPとTPが少し回復するようになった!{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>アイテムドロップ率が上昇した!{f801}</source>
+    <target>アイテムドロップ率が上昇した!{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>戦闘中にダメージを受けた時、{f801}受けたダメージに応じて{f801}TPが回復するようになった!{f801}</source>
+    <target>戦闘中にダメージを受けた時、{f801}受けたダメージに応じて{f801}TPが回復するようになった!{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>ゲームオーバー時の{f801}リトライ回数が+1された!{f801}</source>
+    <target>ゲームオーバー時の{f801}リトライ回数が+1された!{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}戦闘終了後に一定確率でブレイク状態の{f801}フォースゲージが復活するようになった!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}戦闘終了後に一定確率でブレイク状態の{f801}フォースゲージが復活するようになった!{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>状態異常や封じ状態の{f801}自然回復率が上昇した!{f801}</source>
+    <target>状態異常や封じ状態の{f801}自然回復率が上昇した!{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>毒耐性がかなり上昇した!{f801}</source>
+    <target>毒耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>戦闘開始時{f801}封じを一度だけ防ぐ強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時{f801}封じを一度だけ防ぐ強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>盲目耐性がかなり上昇した!{f801}</source>
+    <target>盲目耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>戦闘開始時{f801}状態異常を一度だけ防ぐ強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時{f801}状態異常を一度だけ防ぐ強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>脚封じ耐性がかなり上昇した!{f801}</source>
+    <target>脚封じ耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>毒、呪い、テラーダメージが{f801}半減するようになった!{f801}</source>
+    <target>毒、呪い、テラーダメージが{f801}半減するようになった!{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>麻痺耐性がかなり上昇した!{f801}</source>
+    <target>麻痺耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>状態異常や封じが付着した際{f801}HPが回復するようになった!{f801}</source>
+    <target>状態異常や封じが付着した際{f801}HPが回復するようになった!{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>睡眠耐性がかなり上昇した!{f801}</source>
+    <target>睡眠耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>戦闘中、単体の状態異常、封じを{f801}回復するアイテムの効果範囲が{f801}列に拡大されるようになった!{f801}</source>
+    <target>戦闘中、単体の状態異常、封じを{f801}回復するアイテムの効果範囲が{f801}列に拡大されるようになった!{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>腕封じ耐性がかなり上昇した!{f801}</source>
+    <target>腕封じ耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>状態異常や封じが付着した際{f801}TPが回復するようになった!{f801}</source>
+    <target>状態異常や封じが付着した際{f801}TPが回復するようになった!{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>混乱耐性がかなり上昇した!{f801}</source>
+    <target>混乱耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>戦闘開始時、1度のみ致死ダメージを{f801}受けた時、HP1で踏みとどまる{f801}強化が発生するようになった!{f801}</source>
+    <target>戦闘開始時、1度のみ致死ダメージを{f801}受けた時、HP1で踏みとどまる{f801}強化が発生するようになった!{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>呪い耐性がかなり上昇した!{f801}</source>
+    <target>呪い耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>状態異常や封じが付着した際{f801}フォースゲージが上昇するようになった!{f801}</source>
+    <target>状態異常や封じが付着した際{f801}フォースゲージが上昇するようになった!{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>頭封じ耐性がかなり上昇した!{f801}</source>
+    <target>頭封じ耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>状態異常や封じが付着後、{f801}遅くとも3T目には必ず{f801}自然回復するようになった!{f801}</source>
+    <target>状態異常や封じが付着後、{f801}遅くとも3T目には必ず{f801}自然回復するようになった!{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>テラー耐性がかなり上昇した!{f801}</source>
+    <target>テラー耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>敵側のみ状態異常や封じが付着後、{f801}早くとも3T目までは必ず{f801}自然回復しなくなった!{f801}</source>
+    <target>敵側のみ状態異常や封じが付着後、{f801}早くとも3T目までは必ず{f801}自然回復しなくなった!{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>石化耐性がかなり上昇した!{f801}</source>
+    <target>石化耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>ターン終了時、戦闘不能者がいた場合{f801}低確率で回復するようになった!{f801}</source>
+    <target>ターン終了時、戦闘不能者がいた場合{f801}低確率で回復するようになった!{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>即死耐性がかなり上昇した!{f801}</source>
+    <target>即死耐性がかなり上昇した!{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>{f804}{0500}次に街に帰るまでの間に一度だけ{f804}{0000}{f801}戦闘で全滅した時に{f801}復活するようになった!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間に一度だけ{f804}{0000}{f801}戦闘で全滅した時に{f801}復活するようになった!{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>戦闘開始時、武器に1Tのみ{f801}雷属性が付与される強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時、武器に1Tのみ{f801}雷属性が付与される強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>グリモアチャンス発生率が{f801}少し上昇した!{f801}</source>
+    <target>グリモアチャンス発生率が{f801}少し上昇した!{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>敵に付着し発生する毒ダメージが{f801}2倍になった!{f801}</source>
+    <target>敵に付着し発生する毒ダメージが{f801}2倍になった!{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>戦闘開始時、1Tのみ{f801}行動速度が2倍になる強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時、1Tのみ{f801}行動速度が2倍になる強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>戦闘開始時、武器に1Tのみ{f801}炎属性が付与される強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時、武器に1Tのみ{f801}炎属性が付与される強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>ACTIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
+    <target>ACTIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>敵に付着し発生する呪いダメージが{f801}3倍になった!{f801}</source>
+    <target>敵に付着し発生する呪いダメージが{f801}3倍になった!{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>生成されるグリモアのスキルレベルが{f801}極端な値になり易くなった!{f801}</source>
+    <target>生成されるグリモアのスキルレベルが{f801}極端な値になり易くなった!{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>戦闘開始時、武器に1Tのみ{f801}氷属性が付与される強化が{f801}発生するようになった!{f801}</source>
+    <target>戦闘開始時、武器に1Tのみ{f801}氷属性が付与される強化が{f801}発生するようになった!{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>ENEMYのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
+    <target>ENEMYのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>戦闘中、ブレイバントと{f801}ストナードの効果範囲が{f801}列に拡大されるようになった!{f801}</source>
+    <target>戦闘中、ブレイバントと{f801}ストナードの効果範囲が{f801}列に拡大されるようになった!{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>敵が盲目になった際{f801}命中率がさらに下がるようになった!{f801}</source>
+    <target>敵が盲目になった際{f801}命中率がさらに下がるようになった!{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>攻撃アイテム使用時の{f801}ダメージが3倍になった!{f801}</source>
+    <target>攻撃アイテム使用時の{f801}ダメージが3倍になった!{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>PASSIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
+    <target>PASSIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>敵が眠った際{f801}攻撃しても起きにくくなった!{f801}</source>
+    <target>敵が眠った際{f801}攻撃しても起きにくくなった!{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>グリモア付加効果の付着率が{f801}大幅に上昇した!{f801}</source>
+    <target>グリモア付加効果の付着率が{f801}大幅に上昇した!{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>稀少個体が出現しなくなった!{f801}</source>
+    <target>稀少個体が出現しなくなった!{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>生成されるグリモアの{f801}スキルレベルが高くなり易くなった!{f801}</source>
+    <target>生成されるグリモアの{f801}スキルレベルが高くなり易くなった!{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>敵が麻痺になった際{f801}行動不能になる確率が{f801}大幅に上昇した!{f801}</source>
+    <target>敵が麻痺になった際{f801}行動不能になる確率が{f801}大幅に上昇した!{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>状態異常や封じを付着させる{f801}アイテム使用時の付着率が上昇した!{f801}</source>
+    <target>状態異常や封じを付着させる{f801}アイテム使用時の付着率が上昇した!{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>グリモアフィーバーの{f801}発生、継続率が上昇した!{f801}</source>
+    <target>グリモアフィーバーの{f801}発生、継続率が上昇した!{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>装備しているグリモアのスキルレベルを{f801}+2されているものとして{f801}扱うようになった!{f801}</source>
+    <target>装備しているグリモアのスキルレベルを{f801}+2されているものとして{f801}扱うようになった!{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>FOEとの接触時、ほぼ確実に{f801}先制が取れるようになった!{f801}</source>
+    <target>FOEとの接触時、ほぼ確実に{f801}先制が取れるようになった!{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>単体攻撃アイテム使用時、{f801}アイテムが無くならなくなった!{f801}</source>
+    <target>単体攻撃アイテム使用時、{f801}アイテムが無くならなくなった!{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}エンカウント率が{f801}0%になった!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}エンカウント率が{f801}0%になった!{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}PREMIUMのグリモアチャンス発生率が{f801}著しく上昇した!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}PREMIUMのグリモアチャンス発生率が{f801}著しく上昇した!{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}素材ドロップ率が著しく上昇し、さらに採集時に{f801}レア素材を追加で入手するようになった!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}素材ドロップ率が著しく上昇し、さらに採集時に{f801}レア素材を追加で入手するようになった!{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}経験値入手時にギルド待機メンバーも含め{f801}全員に追加経験値が入るようになった!{f801}</source>
+    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}経験値入手時にギルド待機メンバーも含め{f801}全員に追加経験値が入るようになった!{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+</mbm>

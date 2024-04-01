@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="1">
+    <source>職業を選択してください{f801}</source>
+    <target>職業を選択してください{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>外見を選択してください{f801}</source>
+    <target>外見を選択してください{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>このキャラクターで登録します{f801}いいですか?{f801}</source>
+    <target>このキャラクターで登録します{f801}いいですか?{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>キャラクターを登録しました{f801}</source>
+    <target>キャラクターを登録しました{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>続けて冒険者を登録しますか?{f801}ギルド登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</source>
+    <target>続けて冒険者を登録しますか?{f801}ギルド登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>サブクラスを選択してください{f801}</source>
+    <target>サブクラスを選択してください{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>このクラスを習得します{f801}よろしいですか?{f801}</source>
+    <target>このクラスを習得します{f801}よろしいですか?{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>この職業でよろしいですか?{f801}</source>
+    <target>この職業でよろしいですか?{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>この職業に転職しました{f801}</source>
+    <target>この職業に転職しました{f801}</target>
+  </entry>
+</mbm>

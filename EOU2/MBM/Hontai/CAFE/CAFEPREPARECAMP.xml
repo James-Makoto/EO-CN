@@ -1,0 +1,514 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>歩行中にHPが回復{f801}</source>
+    <target>歩行中にHPが回復{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>LUC+10{f801}</source>
+    <target>LUC+10{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>歩行中にTPが回復{f801}</source>
+    <target>歩行中にTPが回復{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>食材入手数↑↑{f801}</source>
+    <target>食材入手数↑↑{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>歩行中フォースが上昇する{f801}</source>
+    <target>歩行中フォースが上昇する{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>AGI+10{f801}</source>
+    <target>AGI+10{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>VIT+10{f801}</source>
+    <target>VIT+10{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>採集数増加{f801}</source>
+    <target>採集数増加{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>稀少個体出現率↑{f801}</source>
+    <target>稀少個体出現率↑{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>STR+10{f801}</source>
+    <target>STR+10{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>取得経験値↑{f801}</source>
+    <target>取得経験値↑{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>TEC+10{f801}</source>
+    <target>TEC+10{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>ターン終了時HP回復{f801}</source>
+    <target>ターン終了時HP回復{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>TP最大値↑{f801}</source>
+    <target>TP最大値↑{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>逃走確率↑↑{f801}</source>
+    <target>逃走確率↑↑{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>全能力値+5{f801}</source>
+    <target>全能力値+5{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>ターン終了時TP回復{f801}</source>
+    <target>ターン終了時TP回復{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>HP最大値↑{f801}</source>
+    <target>HP最大値↑{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>先制と不意打ちが起きない{f801}</source>
+    <target>先制と不意打ちが起きない{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>通常攻撃でHP回復{f801}</source>
+    <target>通常攻撃でHP回復{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>ターン終了時HPTP回復{f801}</source>
+    <target>ターン終了時HPTP回復{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>アイテムドロップ率↑{f801}</source>
+    <target>アイテムドロップ率↑{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>被ダメージ時TP回復{f801}</source>
+    <target>被ダメージ時TP回復{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>リトライ回数+1{f801}</source>
+    <target>リトライ回数+1{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>確率でフォースゲージ復活{f801}</source>
+    <target>確率でフォースゲージ復活{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>状態異常封じ自然回復率↑{f801}</source>
+    <target>状態異常封じ自然回復率↑{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>毒耐性↑↑↑{f801}</source>
+    <target>毒耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>封じ一度防御3T{f801}</source>
+    <target>封じ一度防御3T{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>盲目耐性↑↑↑{f801}</source>
+    <target>盲目耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>状態異常一度防御3T{f801}</source>
+    <target>状態異常一度防御3T{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>脚封じ耐性↑↑↑{f801}</source>
+    <target>脚封じ耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>状態異常ダメージ軽減{f801}</source>
+    <target>状態異常ダメージ軽減{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>麻痺耐性↑↑↑{f801}</source>
+    <target>麻痺耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>状態異常封じ時にHP回復{f801}</source>
+    <target>状態異常封じ時にHP回復{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>睡眠耐性↑↑↑{f801}</source>
+    <target>睡眠耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>テリアカ効果範囲拡大{f801}</source>
+    <target>テリアカ効果範囲拡大{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>腕封じ耐性↑↑↑{f801}</source>
+    <target>腕封じ耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>状態異常封じ時にTP回復{f801}</source>
+    <target>状態異常封じ時にTP回復{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>混乱耐性↑↑↑{f801}</source>
+    <target>混乱耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>1度のみ食いしばり3T{f801}</source>
+    <target>1度のみ食いしばり3T{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>呪い耐性↑↑↑{f801}</source>
+    <target>呪い耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>状態異常封じ時にフォース↑{f801}</source>
+    <target>状態異常封じ時にフォース↑{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>頭封じ耐性↑↑↑{f801}</source>
+    <target>頭封じ耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>状態異常封じが3Tで回復{f801}</source>
+    <target>状態異常封じが3Tで回復{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>テラー耐性↑↑↑{f801}</source>
+    <target>テラー耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>敵の状態異常封じ3T持続{f801}</source>
+    <target>敵の状態異常封じ3T持続{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>石化耐性↑↑↑{f801}</source>
+    <target>石化耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>確率で戦闘不能が回復{f801}</source>
+    <target>確率で戦闘不能が回復{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>即死耐性↑↑↑{f801}</source>
+    <target>即死耐性↑↑↑{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>探索中に一度だけ全滅防止{f801}</source>
+    <target>探索中に一度だけ全滅防止{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>雷属性付与1T{f801}</source>
+    <target>雷属性付与1T{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>グリモアチャンス発生率↑{f801}</source>
+    <target>グリモアチャンス発生率↑{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>敵への毒ダメージが2倍{f801}</source>
+    <target>敵への毒ダメージが2倍{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>行動速度強化1T{f801}</source>
+    <target>行動速度強化1T{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>炎属性付与1T{f801}</source>
+    <target>炎属性付与1T{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>ACTIVEチャンス↑{f801}</source>
+    <target>ACTIVEチャンス↑{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>敵への呪いダメージが3倍{f801}</source>
+    <target>敵への呪いダメージが3倍{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>グリモアの質が不安定化{f801}</source>
+    <target>グリモアの質が不安定化{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>氷属性付与1T{f801}</source>
+    <target>氷属性付与1T{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>ENEMYチャンス↑{f801}</source>
+    <target>ENEMYチャンス↑{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>強化アイテム効果が列に{f801}</source>
+    <target>強化アイテム効果が列に{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>敵への盲目効果↑↑{f801}</source>
+    <target>敵への盲目効果↑↑{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>攻撃アイテム効果3倍{f801}</source>
+    <target>攻撃アイテム効果3倍{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>PASSIVEチャンス↑{f801}</source>
+    <target>PASSIVEチャンス↑{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>敵への睡眠効果↑↑{f801}</source>
+    <target>敵への睡眠効果↑↑{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>グリモア付加効果付着率↑{f801}</source>
+    <target>グリモア付加効果付着率↑{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>稀少個体が出現しなくなる{f801}</source>
+    <target>稀少個体が出現しなくなる{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>生成グリモアの優良化{f801}</source>
+    <target>生成グリモアの優良化{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>敵への麻痺効果↑↑{f801}</source>
+    <target>敵への麻痺効果↑↑{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>状態異常封じアイテム効果↑{f801}</source>
+    <target>状態異常封じアイテム効果↑{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>グリモアフィーバー↑{f801}</source>
+    <target>グリモアフィーバー↑{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>グリモアスキルレベル+2{f801}</source>
+    <target>グリモアスキルレベル+2{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>FOEに先制{f801}</source>
+    <target>FOEに先制{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>単体攻撃アイテム無限{f801}</source>
+    <target>単体攻撃アイテム無限{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>エンカウント率が0%{f801}</source>
+    <target>エンカウント率が0%{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>PREMIUMチャンス↑↑{f801}</source>
+    <target>PREMIUMチャンス↑↑{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>素材+採集入手数↑↑↑{f801}</source>
+    <target>素材+採集入手数↑↑↑{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>ギルド全員に追加経験値{f801}</source>
+    <target>ギルド全員に追加経験値{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+</mbm>

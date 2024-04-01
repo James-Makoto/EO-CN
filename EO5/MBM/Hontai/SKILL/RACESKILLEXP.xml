@@ -1,0 +1,386 @@
+<mbm>
+  <entry id="1">
+    <source>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>自身の斬・突・壊耐性が少し上昇する{f801}</source>
+    <target>自身の斬・突・壊耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>周囲を探索し、異変や目ぼしいものを{f801}発見する さらにAGIが少し上昇する{f801}</source>
+    <target>周囲を探索し、異変や目ぼしいものを{f801}発見する さらにAGIが少し上昇する{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</source>
+    <target>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>樹海の釣り場で魚を釣る能力{f801}</source>
+    <target>樹海の釣り場で魚を釣る能力{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>イベントで入手する家畜を{f801}飼育することができる{f801}</source>
+    <target>イベントで入手する家畜を{f801}飼育することができる{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>自身の頭封じ、腕封じ、脚封じ耐性が{f801}少し上昇する{f801}</source>
+    <target>自身の頭封じ、腕封じ、脚封じ耐性が{f801}少し上昇する{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</source>
+    <target>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>採取、伐採、採掘時に追加で素材を入手可能{f801}</source>
+    <target>採取、伐採、採掘時に追加で素材を入手可能{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>STRとVITが少し上昇する{f801}</source>
+    <target>STRとVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>AGIとLUCが少し上昇する{f801}</source>
+    <target>AGIとLUCが少し上昇する{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>INTとWISが少し上昇する{f801}</source>
+    <target>INTとWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>敵の素材ドロップ率がスキル所持者の人数に{f801}応じ上昇する さらにINTが少し上昇する{f801}</source>
+    <target>敵の素材ドロップ率がスキル所持者の人数に{f801}応じ上昇する さらにINTが少し上昇する{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</source>
+    <target>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</source>
+    <target>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</source>
+    <target>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>戦闘から高確率で逃走し来た道を戻る{f801}</source>
+    <target>戦闘から高確率で逃走し来た道を戻る{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>味方全体のTPが少し回復する{f801}</source>
+    <target>味方全体のTPが少し回復する{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>このターン終了時{f801}味方全体のHPを少し回復する{f801}</source>
+    <target>このターン終了時{f801}味方全体のHPを少し回復する{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>味方一人の戦闘不能を回復する{f801}</source>
+    <target>味方一人の戦闘不能を回復する{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>このターン、敵の攻撃を3回まで無効化する{f801}</source>
+    <target>このターン、敵の攻撃を3回まで無効化する{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>このターン、敵の封じ・状態異常耐性を下げる{f801}</source>
+    <target>このターン、敵の封じ・状態異常耐性を下げる{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>このターン、封じ・状態異常を無効化し{f801}致死ダメージ時一定の確率で耐える{f801}</source>
+    <target>このターン、封じ・状態異常を無効化し{f801}致死ダメージ時一定の確率で耐える{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>伐採時に追加で素材を入手可能{f801}</source>
+    <target>伐採時に追加で素材を入手可能{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>周囲に魔法がかかったものがあれば{f801}発見する さらにINTが少し上昇する{f801}</source>
+    <target>周囲に魔法がかかったものがあれば{f801}発見する さらにINTが少し上昇する{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>敵の素材ドロップ率がスキル所持者の人数に{f801}応じ上昇する さらにINTが少し上昇する{f801}</source>
+    <target>敵の素材ドロップ率がスキル所持者の人数に{f801}応じ上昇する さらにINTが少し上昇する{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>暗闇を見通せるようになる{f801}さらに攻撃命中率が少し上昇する{f801}</source>
+    <target>暗闇を見通せるようになる{f801}さらに攻撃命中率が少し上昇する{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</source>
+    <target>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>戦闘用の攻撃アイテムのダメージが上昇する{f801}さらにLUCが少し上昇する{f801}</source>
+    <target>戦闘用の攻撃アイテムのダメージが上昇する{f801}さらにLUCが少し上昇する{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</source>
+    <target>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>自身の炎・氷・雷耐性が少し上昇する{f801}</source>
+    <target>自身の炎・氷・雷耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>STRとVITが少し上昇する{f801}</source>
+    <target>STRとVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>AGIとLUCが少し上昇する{f801}</source>
+    <target>AGIとLUCが少し上昇する{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>INTとWISが少し上昇する{f801}</source>
+    <target>INTとWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>イベントで入手する家畜を{f801}飼育することができる{f801}</source>
+    <target>イベントで入手する家畜を{f801}飼育することができる{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>自身への睡眠の付着を一定確率で無効化する{f801}</source>
+    <target>自身への睡眠の付着を一定確率で無効化する{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</source>
+    <target>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</source>
+    <target>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>戦闘から高確率で逃走し来た道を戻る{f801}</source>
+    <target>戦闘から高確率で逃走し来た道を戻る{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>味方全体のTPが少し回復する{f801}</source>
+    <target>味方全体のTPが少し回復する{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>このターン、味方全体の{f801}武器属性に炎・氷・雷属性を追加する{f801}</source>
+    <target>このターン、味方全体の{f801}武器属性に炎・氷・雷属性を追加する{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>味方一人の状態異常・封じを{f801}敵全体へ移す{f801}</source>
+    <target>味方一人の状態異常・封じを{f801}敵全体へ移す{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>このターン、炎・氷・雷属性のダメージ時{f801}一定の確率でいずれかの状態異常にする{f801}</source>
+    <target>このターン、炎・氷・雷属性のダメージ時{f801}一定の確率でいずれかの状態異常にする{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>敵全体に遠隔炎と氷と雷属性攻撃{f801}</source>
+    <target>敵全体に遠隔炎と氷と雷属性攻撃{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>敵全体に遠隔無属性攻撃+全封じ{f801}</source>
+    <target>敵全体に遠隔無属性攻撃+全封じ{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>樹海で食用となる獣を入手することができる{f801}さらにSTRが少し上昇する{f801}</source>
+    <target>樹海で食用となる獣を入手することができる{f801}さらにSTRが少し上昇する{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>採掘時に追加で素材を入手可能{f801}</source>
+    <target>採掘時に追加で素材を入手可能{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>身のこなしで対応可能な危機に対処できる{f801}また攻撃回避率が少し上昇する{f801}</source>
+    <target>身のこなしで対応可能な危機に対処できる{f801}また攻撃回避率が少し上昇する{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>先制攻撃の発生率がスキル所有者の数に応じて{f801}上昇する さらにWISが少し上昇する{f801}</source>
+    <target>先制攻撃の発生率がスキル所有者の数に応じて{f801}上昇する さらにWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>樹海で何かを動かしたり運ぶことができる{f801}さらにSTRが少し上昇する{f801}</source>
+    <target>樹海で何かを動かしたり運ぶことができる{f801}さらにSTRが少し上昇する{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>周囲を探索し、異変や目ぼしいものを{f801}発見する さらにAGIが少し上昇する{f801}</source>
+    <target>周囲を探索し、異変や目ぼしいものを{f801}発見する さらにAGIが少し上昇する{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>樹海の釣り場で魚を釣る能力{f801}</source>
+    <target>樹海の釣り場で魚を釣る能力{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>自身への盲目の付着を一定確率で無効化する{f801}さらにAGIが少し上昇する{f801}</source>
+    <target>自身への盲目の付着を一定確率で無効化する{f801}さらにAGIが少し上昇する{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>STRとVITが少し上昇する{f801}</source>
+    <target>STRとVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>AGIとLUCが少し上昇する{f801}</source>
+    <target>AGIとLUCが少し上昇する{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>INTとWISが少し上昇する{f801}</source>
+    <target>INTとWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>自身の斬・突・壊耐性が少し上昇する{f801}</source>
+    <target>自身の斬・突・壊耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</source>
+    <target>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</source>
+    <target>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</source>
+    <target>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>戦闘から高確率で逃走し来た道を戻る{f801}</source>
+    <target>戦闘から高確率で逃走し来た道を戻る{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>味方全体のTPが少し回復する{f801}</source>
+    <target>味方全体のTPが少し回復する{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>敵全体に使用者が所持武器で攻撃する{f801}</source>
+    <target>敵全体に使用者が所持武器で攻撃する{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>このターン、斬・突・壊属性のダメージ時{f801}一定の確率でいずれかを封じる{f801}</source>
+    <target>このターン、斬・突・壊属性のダメージ時{f801}一定の確率でいずれかを封じる{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>このターン、ダメージを与えると{f801}味方全体のHPを回復する{f801}</source>
+    <target>このターン、ダメージを与えると{f801}味方全体のHPを回復する{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>敵単体に遠隔斬と壊と突属性攻撃{f801}</source>
+    <target>敵単体に遠隔斬と壊と突属性攻撃{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>敵単体に参加者が所持武器で{f801}合計5回攻撃+スタン{f801}</source>
+    <target>敵単体に参加者が所持武器で{f801}合計5回攻撃+スタン{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にベーシックスキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>採取時に追加で素材を入手可能{f801}</source>
+    <target>採取時に追加で素材を入手可能{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</source>
+    <target>自身の石化、呪い、睡眠、混乱、麻痺、{f801}毒、盲目耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>イベントで入手する家畜を飼育する能力{f801}</source>
+    <target>イベントで入手する家畜を飼育する能力{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>樹海の釣り場で魚を釣る能力{f801}</source>
+    <target>樹海の釣り場で魚を釣る能力{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>戦闘中、自身が使用した回復アイテムの{f801}HP回復効果が上昇する{f801}</source>
+    <target>戦闘中、自身が使用した回復アイテムの{f801}HP回復効果が上昇する{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</source>
+    <target>アイテムの最大所有数がスキル所有者1名に{f801}つき+5される さらにVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>自身の炎・氷・雷耐性が少し上昇する{f801}</source>
+    <target>自身の炎・氷・雷耐性が少し上昇する{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>身のこなしで対応可能な危機に対処できる{f801}また攻撃回避率が少し上昇する{f801}</source>
+    <target>身のこなしで対応可能な危機に対処できる{f801}また攻撃回避率が少し上昇する{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>STRとVITが少し上昇する{f801}</source>
+    <target>STRとVITが少し上昇する{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>AGIとLUCが少し上昇する{f801}</source>
+    <target>AGIとLUCが少し上昇する{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>INTとWISが少し上昇する{f801}</source>
+    <target>INTとWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</source>
+    <target>戦闘中にマスタースキル使用時、{f801}一定確率でTPが少量回復する{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>販売アイテムの売値を5%減少させる 効果は{f801}重複しない さらにWISが少し上昇する{f801}</source>
+    <target>販売アイテムの売値を5%減少させる 効果は{f801}重複しない さらにWISが少し上昇する{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</source>
+    <target>自身に対する食材の{f801}HPTP回復量が2倍になる{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</source>
+    <target>敵単体の情報を一時的に{f801}モンスター図鑑に登録する{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</source>
+    <target>敵単体にスキル参加者が{f801}所持武器で合計2回攻撃する{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>戦闘から高確率で逃走し来た道を戻る{f801}</source>
+    <target>戦闘から高確率で逃走し来た道を戻る{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>味方全体のTPが少し回復する{f801}</source>
+    <target>味方全体のTPが少し回復する{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>このターン、味方全体への{f801}全ての攻撃を軽減する{f801}</source>
+    <target>このターン、味方全体への{f801}全ての攻撃を軽減する{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>このターン、味方全体の{f801}行動速度を上昇させる{f801}</source>
+    <target>このターン、味方全体の{f801}行動速度を上昇させる{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>敵味方全体の全ての{f801}強化弱体を1ターン伸ばす{f801}</source>
+    <target>敵味方全体の全ての{f801}強化弱体を1ターン伸ばす{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>味方全体のHPと戦闘不能・{f801}封じ・状態異常を回復する{f801}</source>
+    <target>味方全体のHPと戦闘不能・{f801}封じ・状態異常を回復する{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>このターン、味方全体への{f801}全ての攻撃を無効化する{f801}</source>
+    <target>このターン、味方全体への{f801}全ての攻撃を無効化する{f801}</target>
+  </entry>
+</mbm>

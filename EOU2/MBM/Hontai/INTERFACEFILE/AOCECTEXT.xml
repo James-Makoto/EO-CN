@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="1">
+    <source>インターネットへの接続を許可しますか?{f801}</source>
+    <target>允许连接到互联网吗?{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>追加コンテンツの購入にはインターネット{f801}への接続を許可していただく必要があります。{f801}</source>
+    <target>要购买DLC{f801}必须连接到互联网。{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>追加コンテンツの一覧を更新中です{f801}</source>
+    <target>正在更新DLC列表。{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>この追加コンテンツを{f801}購入しますか?{f801}</source>
+    <target>要购买{f801}这个DLC吗?{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>この追加コンテンツをSDカードに{f801}ダウンロードしますか?{f801}</source>
+    <target>要将这个DLC{f801}下载到SD卡吗?{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>この追加コンテンツを{f801}SDカードから削除しますか?{f801}</source>
+    <target>要将这个DLC{f801}从SD卡中删除吗?{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>SDカードが{f801}本体に挿入されていません。{f801}{f802}SDカードの挿入は本体の電源を{f801}切ってから行ってください。{f801}</source>
+    <target>主机没有插入SD卡。{f801}{f802}请关闭主机电源{f801}并插入SD卡。{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>SDカードが認識できません。{f801}{f802}SDカードの挿入は本体の電源を{f801}切ってから行ってください。{f801}</source>
+    <target>无法识别SD卡。{f801}{f802}请关闭主机电源{f801}并插入SD卡。{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>インターネットに接続中です。{f801}</source>
+    <target>正在连接到互联网。{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>追加コンテンツの販売が{f801}開始されていません。{f801}</source>
+    <target>DLC尚未开始贩售。{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>SDカードのフォーマットが不正。{f801}または書き込み不可に設定されています。{f801}{f802}SDカードの挿入は本体の電源を{f801}切ってから行ってください。{f801}</source>
+    <target>SD卡格式不正确。{f801}或者是被设置为不可读取。{f801}{f802}请关闭主机电源{f801}并重新插入SD卡。{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>選択した追加コンテンツを{f801}SDカードから削除しています。{f801}</source>
+    <target>所选的DLC{f801}将会从SD卡中删除。{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>選択した追加コンテンツを{f801}SDカードから削除しました。{f801}</source>
+    <target>所选的DLC{f801}已经从SD卡中删除。{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>追加コンテンツを認識できませんでした{f801}</source>
+    <target>无法识别DLC。{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>追加コンテンツの購入を終了し{f801}タイトルに戻りますか?{f801}</source>
+    <target>已完成DLC购买{f801}要回到标题画面吗?{f801}</target>
+  </entry>
+</mbm>

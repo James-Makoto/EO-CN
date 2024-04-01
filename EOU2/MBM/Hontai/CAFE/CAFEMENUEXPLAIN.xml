@@ -1,0 +1,514 @@
+<mbm>
+  <entry id="0">
+    <source>完成した料理説明文{f801}ダミー{f801}</source>
+    <target>完成した料理説明文{f801}ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>煮出された根菜の糖分が非常にまろやかで{f801}アゲハの独特な味とよく合う甘めの煮物{f801}</source>
+    <target>煮出された根菜の糖分が非常にまろやかで{f801}アゲハの独特な味とよく合う甘めの煮物{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>コリコリとした独特の食感を楽しみつつ{f801}さっぱりした塩の味わいが後を引く揚げ物{f801}</source>
+    <target>コリコリとした独特の食感を楽しみつつ{f801}さっぱりした塩の味わいが後を引く揚げ物{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>香ばしいクルミの程よい食感と苦みが{f801}羊羹の柔らかさと甘さを際立たせる蒸し菓子{f801}</source>
+    <target>香ばしいクルミの程よい食感と苦みが{f801}羊羹の柔らかさと甘さを際立たせる蒸し菓子{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>軽く焼かれた鹿肉がとろけるように柔らかく{f801}一緒に煮込まれた野菜に旨みが凝縮された鍋物{f801}</source>
+    <target>軽く焼かれた鹿肉がとろけるように柔らかく{f801}一緒に煮込まれた野菜に旨みが凝縮された鍋物{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>瞬間的に沸騰する様子が見た目にも楽しく{f801}ふっくらと煮あがったもも肉が非常に旨い鍋物{f801}</source>
+    <target>瞬間的に沸騰する様子が見た目にも楽しく{f801}ふっくらと煮あがったもも肉が非常に旨い鍋物{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>柔らかく煮込まれた太い腱が口の中でとろけ{f801}食感のいい野菜が味噌味とよく合う汁物{f801}</source>
+    <target>柔らかく煮込まれた太い腱が口の中でとろけ{f801}食感のいい野菜が味噌味とよく合う汁物{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>裏ごしされた栗と芋の舌触りが非常に滑らかで{f801}素材の持つ甘さをそのまま味わえるスイーツ{f801}</source>
+    <target>裏ごしされた栗と芋の舌触りが非常に滑らかで{f801}素材の持つ甘さをそのまま味わえるスイーツ{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>団子の甘みと酸味の効いたソースがよく合い{f801}色鮮やかな見た目にも楽しめるデザート{f801}</source>
+    <target>団子の甘みと酸味の効いたソースがよく合い{f801}色鮮やかな見た目にも楽しめるデザート{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>よく焼かれた香ばしい身に大根おろしが合う{f801}目の部分は好みが分かれるが栄養価は高い{f801}</source>
+    <target>よく焼かれた香ばしい身に大根おろしが合う{f801}目の部分は好みが分かれるが栄養価は高い{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>大きな鍋で各食材が一緒に煮込まれたため{f801}お互いの旨みが具材に染み込んだ煮物{f801}</source>
+    <target>大きな鍋で各食材が一緒に煮込まれたため{f801}お互いの旨みが具材に染み込んだ煮物{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>蟹の身からしみ出るエキスが濃厚だが{f801}香り高いお茶であっさりと食べられる汁物{f801}</source>
+    <target>蟹の身からしみ出るエキスが濃厚だが{f801}香り高いお茶であっさりと食べられる汁物{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>粗く削られた氷がふわっと盛られ{f801}甘みの後の苦みが程良い冷たい甘味{f801}</source>
+    <target>粗く削られた氷がふわっと盛られ{f801}甘みの後の苦みが程良い冷たい甘味{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>余分な脂が甲羅の丸みで落ちるため{f801}色々なお肉があっさりと食べられる焼き物{f801}</source>
+    <target>余分な脂が甲羅の丸みで落ちるため{f801}色々なお肉があっさりと食べられる焼き物{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>蜜によって上品に仕上げられた餡と{f801}巨大なイチゴの甘みの相性がいい甘味{f801}</source>
+    <target>蜜によって上品に仕上げられた餡と{f801}巨大なイチゴの甘みの相性がいい甘味{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>渋みのあるお茶に蜜の甘みで飲みやすくした{f801}花の香りでリラックスもできる飲み物{f801}</source>
+    <target>渋みのあるお茶に蜜の甘みで飲みやすくした{f801}花の香りでリラックスもできる飲み物{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>ほっこりと煮上がった桜芋や肉に味が染み{f801}添えたサヤエンドウの色合いもいい煮物{f801}</source>
+    <target>ほっこりと煮上がった桜芋や肉に味が染み{f801}添えたサヤエンドウの色合いもいい煮物{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>特別製の大釜で炊き上げたため{f801}ふっくらとしつつも味わい深い一品{f801}</source>
+    <target>特別製の大釜で炊き上げたため{f801}ふっくらとしつつも味わい深い一品{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>だし汁で潜らせたため余分な脂が落ち{f801}あっさりと食べやすくなった鍋物{f801}</source>
+    <target>だし汁で潜らせたため余分な脂が落ち{f801}あっさりと食べやすくなった鍋物{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>プルプルとした卵とコリコリとした茸と{f801}プリプリした肉の食感がたまらない蒸し料理{f801}</source>
+    <target>プルプルとした卵とコリコリとした茸と{f801}プリプリした肉の食感がたまらない蒸し料理{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>冷えて固まった肉の旨みが詰まった出汁に{f801}食感のいいツバメの巣の相性がいい一品{f801}</source>
+    <target>冷えて固まった肉の旨みが詰まった出汁に{f801}食感のいいツバメの巣の相性がいい一品{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>取り出した甘みの強い身が酸味と相性が良く{f801}今にも動き出しそうな姿が目を引く一品{f801}</source>
+    <target>取り出した甘みの強い身が酸味と相性が良く{f801}今にも動き出しそうな姿が目を引く一品{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>あっさりとした味付けの中に肉の旨みがあり{f801}筍の食感や柚子の香りが食欲をそそる汁物{f801}</source>
+    <target>あっさりとした味付けの中に肉の旨みがあり{f801}筍の食感や柚子の香りが食欲をそそる汁物{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>良く煮込まれた具材は柔らかくお互いの味が{f801}調和したスープが特徴の芯から温まる鍋料理{f801}</source>
+    <target>良く煮込まれた具材は柔らかくお互いの味が{f801}調和したスープが特徴の芯から温まる鍋料理{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>長時間煮込まれた具材には味が染み込み{f801}風味づけした蜜が後を引く煮物{f801}</source>
+    <target>長時間煮込まれた具材には味が染み込み{f801}風味づけした蜜が後を引く煮物{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>表面をカリッと焼かれた球獣は淡白だが{f801}アスパラとの相性が非常にいい炒め物{f801}</source>
+    <target>表面をカリッと焼かれた球獣は淡白だが{f801}アスパラとの相性が非常にいい炒め物{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>小さく揚げられた軟骨はカリコリと食感が良く{f801}酸味の効いた餡がさっぱりとさせてくれる丼物{f801}</source>
+    <target>小さく揚げられた軟骨はカリコリと食感が良く{f801}酸味の効いた餡がさっぱりとさせてくれる丼物{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>じっくりと火を通した鹿肉が口の中でとろけ{f801}塩やシトロンで味わいが増す一品{f801}</source>
+    <target>じっくりと火を通した鹿肉が口の中でとろけ{f801}塩やシトロンで味わいが増す一品{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>巨花の独特な香りが心地いい{f801}甘く渋みの少ない黒い色をした茶{f801}</source>
+    <target>巨花の独特な香りが心地いい{f801}甘く渋みの少ない黒い色をした茶{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>火を噴くような辛いスープの中に{f801}肉等のうまみが凝縮されたアツアツの鍋物{f801}</source>
+    <target>火を噴くような辛いスープの中に{f801}肉等のうまみが凝縮されたアツアツの鍋物{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>カラッと揚げられたもも肉のコッテリ感が{f801}野菜の甘酢餡であっさり食べれる炒め物{f801}</source>
+    <target>カラッと揚げられたもも肉のコッテリ感が{f801}野菜の甘酢餡であっさり食べれる炒め物{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>舌触りのいい程よい甘さの餡と{f801}食感のいい栗がベストマッチなお菓子{f801}</source>
+    <target>舌触りのいい程よい甘さの餡と{f801}食感のいい栗がベストマッチなお菓子{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>柿の味わいがある中にドラゴンフルーツの{f801}酸味と食感が際立つスイーツ{f801}</source>
+    <target>柿の味わいがある中にドラゴンフルーツの{f801}酸味と食感が際立つスイーツ{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>ツルっとした滑らかな食感の中に{f801}リンゴの食感が心地いい冷たいデザート{f801}</source>
+    <target>ツルっとした滑らかな食感の中に{f801}リンゴの食感が心地いい冷たいデザート{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>丁寧に作られた腰のある麺は歯切れがよく{f801}香ばしく焼かれた肉が絶品な麺料理{f801}</source>
+    <target>丁寧に作られた腰のある麺は歯切れがよく{f801}香ばしく焼かれた肉が絶品な麺料理{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>ふわっふわっの皮の中に味付けされた{f801}具材の汁が詰まっている蒸し料理{f801}</source>
+    <target>ふわっふわっの皮の中に味付けされた{f801}具材の汁が詰まっている蒸し料理{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>ふっくらと焼かれた卵は口の中でとろけて{f801}口いっぱいに蟹の風味が広がる一品{f801}</source>
+    <target>ふっくらと焼かれた卵は口の中でとろけて{f801}口いっぱいに蟹の風味が広がる一品{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>カリッと揚げられた蜘蛛とナッツの食感が{f801}良く合うが見た目に人を選ぶ一品{f801}</source>
+    <target>カリッと揚げられた蜘蛛とナッツの食感が{f801}良く合うが見た目に人を選ぶ一品{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>米と具材をパラパラになるように炒めた{f801}シンプルな中に味わいがある炒め料理{f801}</source>
+    <target>米と具材をパラパラになるように炒めた{f801}シンプルな中に味わいがある炒め料理{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>柔らかく煮込まれた肩肉は口の中でとろけ{f801}蜜の甘みと照りが更に食欲をそそる煮物{f801}</source>
+    <target>柔らかく煮込まれた肩肉は口の中でとろけ{f801}蜜の甘みと照りが更に食欲をそそる煮物{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>切り揃えられた具材の見た目が鮮やかで{f801}炙られた具材の食感が程良い炒め物{f801}</source>
+    <target>切り揃えられた具材の見た目が鮮やかで{f801}炙られた具材の食感が程良い炒め物{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>長時間煮込まれたノヅチは骨まで軟らかく{f801}良く出汁の出たスープが絶品なスープ料理{f801}</source>
+    <target>長時間煮込まれたノヅチは骨まで軟らかく{f801}良く出汁の出たスープが絶品なスープ料理{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>良く味の染み込んだツバメの巣と{f801}小さく切った岩茸の食感を楽しむ汁物{f801}</source>
+    <target>良く味の染み込んだツバメの巣と{f801}小さく切った岩茸の食感を楽しむ汁物{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>包まれた皮の中にじっくりと蒸された具材の{f801}旨み汁がたっぷり詰まった蒸し料理{f801}</source>
+    <target>包まれた皮の中にじっくりと蒸された具材の{f801}旨み汁がたっぷり詰まった蒸し料理{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>粘土を割って取り出す演出を楽しみながら{f801}ふっくらと蒸し焼かれた肉がたまらない一品{f801}</source>
+    <target>粘土を割って取り出す演出を楽しみながら{f801}ふっくらと蒸し焼かれた肉がたまらない一品{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>香り高く甘みがあるため飲みやすいが{f801}一部の冒険者には危険な香りが漂うお茶{f801}</source>
+    <target>香り高く甘みがあるため飲みやすいが{f801}一部の冒険者には危険な香りが漂うお茶{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>ふっくらと蒸しあげられた肉は柔らかく{f801}茸や筍の食感や味わいが程良い蒸し料理{f801}</source>
+    <target>ふっくらと蒸しあげられた肉は柔らかく{f801}茸や筍の食感や味わいが程良い蒸し料理{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>強火で炒められた食材は食感が良く{f801}濃い目の味付けなためご飯にも合う炒め物{f801}</source>
+    <target>強火で炒められた食材は食感が良く{f801}濃い目の味付けなためご飯にも合う炒め物{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>じっくり蒸されて柔らかくなった肉の塩加減と{f801}蜜や葱で作られた甘いタレが抜群に合う一品{f801}</source>
+    <target>じっくり蒸されて柔らかくなった肉の塩加減と{f801}蜜や葱で作られた甘いタレが抜群に合う一品{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>焼かれたマイマイはプリッとした食感で{f801}酸味の効いたソースが抜群に合う一品{f801}</source>
+    <target>焼かれたマイマイはプリッとした食感で{f801}酸味の効いたソースが抜群に合う一品{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>麦の独特な香りが香ばしく{f801}甘味を入れて飲みやすくした飲み物{f801}</source>
+    <target>麦の独特な香りが香ばしく{f801}甘味を入れて飲みやすくした飲み物{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>風味のいい塩と麦の香りが高く{f801}クルミの食感が心地いいパン{f801}</source>
+    <target>風味のいい塩と麦の香りが高く{f801}クルミの食感が心地いいパン{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>強火で焼かれた鹿肉は厚切りでも柔らかく{f801}添えられたアスパラの食感も抜群な焼き料理{f801}</source>
+    <target>強火で焼かれた鹿肉は厚切りでも柔らかく{f801}添えられたアスパラの食感も抜群な焼き料理{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>柔らかく茹でられた植物の頭と{f801}香ばしく焼かれたもも肉の相性がいい一品{f801}</source>
+    <target>柔らかく茹でられた植物の頭と{f801}香ばしく焼かれたもも肉の相性がいい一品{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>長時間煮込まれた肉や野菜は柔らかく{f801}凝縮されたスープが絶品な煮込み料理{f801}</source>
+    <target>長時間煮込まれた肉や野菜は柔らかく{f801}凝縮されたスープが絶品な煮込み料理{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>ゼラチンの食感と柿の風味が独特で{f801}酸味のあるソースが後引くデザート{f801}</source>
+    <target>ゼラチンの食感と柿の風味が独特で{f801}酸味のあるソースが後引くデザート{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>鹿肉や赤い芋が柔らかく煮込まれており{f801}辛いが味わい深いとろみのある煮込み料理{f801}</source>
+    <target>鹿肉や赤い芋が柔らかく煮込まれており{f801}辛いが味わい深いとろみのある煮込み料理{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>魔物を模して作られた形は見た目に楽しいが{f801}発酵した切り身は癖が強く好みが分かれる{f801}</source>
+    <target>魔物を模して作られた形は見た目に楽しいが{f801}発酵した切り身は癖が強く好みが分かれる{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>いい加減に焼かれた肉は香ばしくも柔らかく{f801}リンゴの酸味でさっぱりと食べられる焼き物{f801}</source>
+    <target>いい加減に焼かれた肉は香ばしくも柔らかく{f801}リンゴの酸味でさっぱりと食べられる焼き物{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>トロッとした中身にサクサクした衣が{f801}特徴的で蟹の風味がたまらない揚げ物{f801}</source>
+    <target>トロッとした中身にサクサクした衣が{f801}特徴的で蟹の風味がたまらない揚げ物{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>お互いの具材の出汁が染み込み合った{f801}深みのある味わいが楽しめる一品{f801}</source>
+    <target>お互いの具材の出汁が染み込み合った{f801}深みのある味わいが楽しめる一品{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>鮮やかなグリーンの麺はもちもちの食感で{f801}サソリから取れる出汁と相性のいい麺料理{f801}</source>
+    <target>鮮やかなグリーンの麺はもちもちの食感で{f801}サソリから取れる出汁と相性のいい麺料理{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>カリカリの芋の中はホクホクとしており{f801}蜜で作ったソースとの相性は抜群な一品{f801}</source>
+    <target>カリカリの芋の中はホクホクとしており{f801}蜜で作ったソースとの相性は抜群な一品{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>強火で焼かれたモモ肉は表面がパリッとし{f801}苺と花弁の香るソースとの相性がいい焼き物{f801}</source>
+    <target>強火で焼かれたモモ肉は表面がパリッとし{f801}苺と花弁の香るソースとの相性がいい焼き物{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>煮込まれた肉や野菜から染み出るエキスが{f801}絶妙なバランスで調和された煮込み料理{f801}</source>
+    <target>煮込まれた肉や野菜から染み出るエキスが{f801}絶妙なバランスで調和された煮込み料理{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>プルプルのゼラチンに旨みが詰まっているが{f801}その見た目から好みが分かれる料理{f801}</source>
+    <target>プルプルのゼラチンに旨みが詰まっているが{f801}その見た目から好みが分かれる料理{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>異なる肉をそれぞれ個別に調理したため{f801}複数の味わいが楽しめる欲張りな焼き物{f801}</source>
+    <target>異なる肉をそれぞれ個別に調理したため{f801}複数の味わいが楽しめる欲張りな焼き物{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>荒く切られた生肉に付けられた下味が{f801}黄身と混ぜる事によって旨みが増す一品{f801}</source>
+    <target>荒く切られた生肉に付けられた下味が{f801}黄身と混ぜる事によって旨みが増す一品{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>床材から作った生地はパリパリに焼かれ{f801}包まれた具材はふんわりとした焼き料理{f801}</source>
+    <target>床材から作った生地はパリパリに焼かれ{f801}包まれた具材はふんわりとした焼き料理{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>特殊な鍋で煮込まれた芋虫は柔らかく{f801}野菜との相性もいい煮込み料理{f801}</source>
+    <target>特殊な鍋で煮込まれた芋虫は柔らかく{f801}野菜との相性もいい煮込み料理{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>表面をこんがりと焼かれた肉は香ばしく{f801}酸味の効いたソースとの相性が抜群な焼き物{f801}</source>
+    <target>表面をこんがりと焼かれた肉は香ばしく{f801}酸味の効いたソースとの相性が抜群な焼き物{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>柔らかく煮込まれた葉包みを噛むと{f801}中から具材と旨みが染み出る煮込み料理{f801}</source>
+    <target>柔らかく煮込まれた葉包みを噛むと{f801}中から具材と旨みが染み出る煮込み料理{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>サクサクした生地と滑らかなカボチャが{f801}まろやかな樹液の甘さと合うデザート{f801}</source>
+    <target>サクサクした生地と滑らかなカボチャが{f801}まろやかな樹液の甘さと合うデザート{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>柔らかい新芽から煮出された{f801}ほんのり甘く不思議な力が湧くお茶{f801}</source>
+    <target>柔らかい新芽から煮出された{f801}ほんのり甘く不思議な力が湧くお茶{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>繊細な双葉をすり潰して作った{f801}ものすごい甘く不思議な力が湧くお茶{f801}</source>
+    <target>繊細な双葉をすり潰して作った{f801}ものすごい甘く不思議な力が湧くお茶{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>力強い四つ葉から煮出された{f801}青臭く苦みのある不思議な力が湧くお茶{f801}</source>
+    <target>力強い四つ葉から煮出された{f801}青臭く苦みのある不思議な力が湧くお茶{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>宮廷で出されていた伝統的なコース料理を{f801}誰にでも食べやすくアレンジした究極の一品{f801}</source>
+    <target>宮廷で出されていた伝統的なコース料理を{f801}誰にでも食べやすくアレンジした究極の一品{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>東国で古くから作られている数々の料理を{f801}詰め合わせてひとつにした究極の一品{f801}</source>
+    <target>東国で古くから作られている数々の料理を{f801}詰め合わせてひとつにした究極の一品{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>その昔、皇帝に献上されていた数々の料理を{f801}再現してひとつの料理にした究極の一品{f801}</source>
+    <target>その昔、皇帝に献上されていた数々の料理を{f801}再現してひとつの料理にした究極の一品{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="113">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="115">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="118">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="119">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>料理説明文ダミー{f801}</source>
+    <target>料理説明文ダミー{f801}</target>
+  </entry>
+</mbm>

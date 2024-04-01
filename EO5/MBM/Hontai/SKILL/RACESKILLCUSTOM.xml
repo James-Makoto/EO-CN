@@ -1,0 +1,1166 @@
+<mbm>
+  <entry id="0">
+    <source />
+    <target />
+  </entry>
+  <entry id="1">
+    <source />
+    <target />
+  </entry>
+  <entry id="2">
+    <source />
+    <target />
+  </entry>
+  <entry id="3">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="4">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="5">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="7">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="8">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="16">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="17">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="19">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="20">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="22">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="23">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="25">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="26">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="28">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="29">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="40">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="41">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="46">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="47">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>観察眼を発揮し、敵の情報を見極めるスキル{f801}</source>
+    <target>観察眼を発揮し、敵の情報を見極めるスキル{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</source>
+    <target>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</source>
+    <target>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>魔力の光で心を癒すスキル{f801}</source>
+    <target>魔力の光で心を癒すスキル{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>祝福を受け、味方を回復するスキル{f801}同ターンに複数回スキルを使用しても{f801}一度しか発動しない{f801}</source>
+    <target>祝福を受け、味方を回復するスキル{f801}同ターンに複数回スキルを使用しても{f801}一度しか発動しない{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>二人がかりで味方を蘇生させるスキル{f801}</source>
+    <target>二人がかりで味方を蘇生させるスキル{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>ダメージの無いスキルは防げない{f801}同ターンに複数回スキルを使用しても{f801}攻撃を無効化できるのは3回まで{f801}</source>
+    <target>ダメージの無いスキルは防げない{f801}同ターンに複数回スキルを使用しても{f801}攻撃を無効化できるのは3回まで{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>病への抵抗力を奪う霧を発生させるスキル{f801}</source>
+    <target>病への抵抗力を奪う霧を発生させるスキル{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>発動のたびに耐えにくくなる{f801}</source>
+    <target>発動のたびに耐えにくくなる{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="76">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="77">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="79">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="80">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="88">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="89">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="91">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="92">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="97">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="98">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="100">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="101">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="108">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="110">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="111">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="112">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="113">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="114">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="115">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="116">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="117">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="118">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="119">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="121">
+    <source>観察眼を発揮し、敵の情報を見極めるスキル{f801}</source>
+    <target>観察眼を発揮し、敵の情報を見極めるスキル{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="123">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</source>
+    <target>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</target>
+  </entry>
+  <entry id="125">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="127">
+    <source>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</source>
+    <target>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="129">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>魔力の光で心を癒すスキル{f801}</source>
+    <target>魔力の光で心を癒すスキル{f801}</target>
+  </entry>
+  <entry id="131">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="133">
+    <source>味方の武器に魔法を宿すスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</source>
+    <target>味方の武器に魔法を宿すスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="135">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>古代魔法を応用し{f801}味方の病を敵に蔓延させるスキル{f801}</source>
+    <target>古代魔法を応用し{f801}味方の病を敵に蔓延させるスキル{f801}</target>
+  </entry>
+  <entry id="137">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="139">
+    <source>味方の魔法攻撃に病を載せるスキル{f801}同ターンに複数回スキルを使用しても{f801}状態異常付着率は変化しない{f801}</source>
+    <target>味方の魔法攻撃に病を載せるスキル{f801}同ターンに複数回スキルを使用しても{f801}状態異常付着率は変化しない{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="141">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>仲間と協力し3連続で魔法を放つスキル{f801}</source>
+    <target>仲間と協力し3連続で魔法を放つスキル{f801}</target>
+  </entry>
+  <entry id="143">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="145">
+    <source>全員が心を重ね、敵の動きを封じるスキル{f801}</source>
+    <target>全員が心を重ね、敵の動きを封じるスキル{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="147">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="148">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="149">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="151">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="153">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="154">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="155">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="157">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="158">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="159">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="161">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="163">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="165">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="166">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="168">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="169">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="170">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="172">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="173">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="174">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="175">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="176">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="177">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="178">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="179">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="180">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="181">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="182">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="183">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="184">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="185">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="186">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="187">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="188">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="189">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="190">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="191">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="192">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="193">
+    <source>観察眼を発揮し、敵の情報を見極めるスキル{f801}</source>
+    <target>観察眼を発揮し、敵の情報を見極めるスキル{f801}</target>
+  </entry>
+  <entry id="194">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="195">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="196">
+    <source>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</source>
+    <target>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</target>
+  </entry>
+  <entry id="197">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="198">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="199">
+    <source>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</source>
+    <target>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>魔力の光で心を癒すスキル{f801}</source>
+    <target>魔力の光で心を癒すスキル{f801}</target>
+  </entry>
+  <entry id="203">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="204">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="205">
+    <source>ありったけの力で武器を振り回すスキル{f801}</source>
+    <target>ありったけの力で武器を振り回すスキル{f801}</target>
+  </entry>
+  <entry id="206">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="207">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="208">
+    <source>気魄を載せた攻撃で敵の動きを封じるスキル{f801}同ターンに複数回スキルを使用しても{f801}封じ付着率は変化しない{f801}</source>
+    <target>気魄を載せた攻撃で敵の動きを封じるスキル{f801}同ターンに複数回スキルを使用しても{f801}封じ付着率は変化しない{f801}</target>
+  </entry>
+  <entry id="209">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="210">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="211">
+    <source>敵の生命力を味方全員に還元するスキル{f801}同ターンに複数回スキルを使用しても{f801}回復量は変化しない{f801}</source>
+    <target>敵の生命力を味方全員に還元するスキル{f801}同ターンに複数回スキルを使用しても{f801}回復量は変化しない{f801}</target>
+  </entry>
+  <entry id="212">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="213">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="214">
+    <source>大地を破壊するほどの衝撃で攻撃するスキル{f801}</source>
+    <target>大地を破壊するほどの衝撃で攻撃するスキル{f801}</target>
+  </entry>
+  <entry id="215">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="216">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="217">
+    <source>全員が息を合わせ攻撃を仕掛けるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</source>
+    <target>全員が息を合わせ攻撃を仕掛けるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</target>
+  </entry>
+  <entry id="218">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="219">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="220">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="221">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="222">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="223">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="224">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="225">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="226">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="227">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="228">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="229">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="230">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="231">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="232">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="233">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="234">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="235">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="236">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="237">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="238">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="239">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="240">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="241">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="242">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="243">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="244">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="245">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="246">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="247">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="248">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="249">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="250">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="251">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="252">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="253">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="254">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="255">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="256">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="257">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="258">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="259">
+    <source>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</source>
+    <target>上昇するパラメータの値は{f801}冒険者のLVに応じて増加する{f801}</target>
+  </entry>
+  <entry id="260">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="261">
+    <source>種族スキル{f801}</source>
+    <target>種族スキル{f801}</target>
+  </entry>
+  <entry id="262">
+    <source> {f801}</source>
+    <target> {f801}</target>
+  </entry>
+  <entry id="263">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="264">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="265">
+    <source>観察眼を発揮し、敵の情報を見極めるスキル{f801}</source>
+    <target>観察眼を発揮し、敵の情報を見極めるスキル{f801}</target>
+  </entry>
+  <entry id="266">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="267">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="268">
+    <source>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</source>
+    <target>仲間と協力して敵に2連撃を浴びせるスキル{f801}遠すぎる敵は対象にできず、武器が届かない{f801}参加者は発動時に攻撃しない{f801}</target>
+  </entry>
+  <entry id="269">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="270">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="271">
+    <source>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</source>
+    <target>全力で走り敵を振り切るスキル{f801}そのフロアの侵入口まで移動する{f801}</target>
+  </entry>
+  <entry id="272">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="273">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="274">
+    <source>魔力の光で心を癒すスキル{f801}</source>
+    <target>魔力の光で心を癒すスキル{f801}</target>
+  </entry>
+  <entry id="275">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="276">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="277">
+    <source>号令をかけて味方を統率するスキル{f801}同ターンに複数回スキルを使用しても{f801}軽減率は変化しない{f801}</source>
+    <target>号令をかけて味方を統率するスキル{f801}同ターンに複数回スキルを使用しても{f801}軽減率は変化しない{f801}</target>
+  </entry>
+  <entry id="278">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="279">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="280">
+    <source>一時的に瞬発力を高める術を伝えるスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</source>
+    <target>一時的に瞬発力を高める術を伝えるスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</target>
+  </entry>
+  <entry id="281">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="282">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="283">
+    <source>禁術を用い、体感時間を引き延ばすスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</source>
+    <target>禁術を用い、体感時間を引き延ばすスキル{f801}同ターンに複数回スキルを使用しても{f801}1回分の効果しか得られない{f801}</target>
+  </entry>
+  <entry id="284">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="285">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="286">
+    <source>仲間たちと協力し、特別製の霊薬を作り{f801}味方を回復するスキル{f801}</source>
+    <target>仲間たちと協力し、特別製の霊薬を作り{f801}味方を回復するスキル{f801}</target>
+  </entry>
+  <entry id="287">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+  <entry id="288">
+    <source>ユニオンスキル{f801}</source>
+    <target>ユニオンスキル{f801}</target>
+  </entry>
+  <entry id="289">
+    <source>ダメージの無いスキルは防げない{f801}</source>
+    <target>ダメージの無いスキルは防げない{f801}</target>
+  </entry>
+  <entry id="290">
+    <source>スキル習得{f801}</source>
+    <target>スキル習得{f801}</target>
+  </entry>
+</mbm>

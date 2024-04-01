@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2024/3/25\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "森マイマイ"
+msgstr ""
+
+msgctxt "2"
+msgid "マイマイダイオウ"
+msgstr ""
+
+msgctxt "3"
+msgid "ひっかきモグラ"
+msgstr ""
+
+msgctxt "4"
+msgid "はさみカブト"
+msgstr ""
+
+msgctxt "5"
+msgid "毒吹きアゲハ"
+msgstr ""
+
+msgctxt "6"
+msgid "ライチョウ"
+msgstr ""
+
+msgctxt "7"
+msgid "狂乱の角鹿"
+msgstr ""
+
+msgctxt "8"
+msgid "ボールアニマル"
+msgstr ""
+
+msgctxt "9"
+msgid "マンドレイク"
+msgstr ""
+
+msgctxt "10"
+msgid "針ネズミ"
+msgstr ""
+
+msgctxt "11"
+msgid "暴れ野牛"
+msgstr ""
+
+msgctxt "12"
+msgid "ノヅチ"
+msgstr ""
+
+msgctxt "13"
+msgid "ガラガラノヅチ"
+msgstr ""
+
+msgctxt "14"
+msgid "軍隊バチ"
+msgstr ""
+
+msgctxt "15"
+msgid "ベノムスパイダー"
+msgstr ""
+
+msgctxt "16"
+msgid "ディアトリマ"
+msgstr ""
+
+msgctxt "17"
+msgid "かみつき草"
+msgstr ""
+
+msgctxt "18"
+msgid "大キノコ"
+msgstr ""
+
+msgctxt "19"
+msgid "ダイオウキノコ"
+msgstr ""
+
+msgctxt "20"
+msgid "超危険な花びら"
+msgstr ""
+
+msgctxt "21"
+msgid "デスストーカー"
+msgstr ""
+
+msgctxt "22"
+msgid "カマイタチ"
+msgstr ""
+
+msgctxt "23"
+msgid "破滅を呼ぶ光鳥"
+msgstr ""
+
+msgctxt "24"
+msgid "レイヴン"
+msgstr ""
+
+msgctxt "25"
+msgid "スノーバード"
+msgstr ""
+
+msgctxt "26"
+msgid "エリマキトカゲ"
+msgstr ""
+
+msgctxt "27"
+msgid "エリマキブラッド"
+msgstr ""
+
+msgctxt "28"
+msgid "カーバンクル"
+msgstr ""
+
+msgctxt "29"
+msgid "ジュエルリザード"
+msgstr ""
+
+msgctxt "30"
+msgid "フォレストバット"
+msgstr ""
+
+msgctxt "31"
+msgid "スノーゴースト"
+msgstr ""
+
+msgctxt "32"
+msgid "モリヤンマ"
+msgstr ""
+
+msgctxt "33"
+msgid "オオテントウ"
+msgstr ""
+
+msgctxt "34"
+msgid "七色テントウ"
+msgstr ""
+
+msgctxt "35"
+msgid "シザースクラブ"
+msgstr ""
+
+msgctxt "36"
+msgid "モモンガトカゲ"
+msgstr ""
+
+msgctxt "37"
+msgid "焔トカゲ"
+msgstr ""
+
+msgctxt "38"
+msgid "雪トカゲ"
+msgstr ""
+
+msgctxt "39"
+msgid "オオヤドカリ"
+msgstr ""
+
+msgctxt "40"
+msgid "古代ヤドカリ"
+msgstr ""
+
+msgctxt "41"
+msgid "キューブゼラチン"
+msgstr ""
+
+msgctxt "42"
+msgid "レッドゼラチン"
+msgstr ""
+
+msgctxt "43"
+msgid "青嵐の粘塊"
+msgstr ""
+
+msgctxt "44"
+msgid "イエローゼラチン"
+msgstr ""
+
+msgctxt "45"
+msgid "ゼラチンキング"
+msgstr ""
+
+msgctxt "46"
+msgid "シロショウジョウ"
+msgstr ""
+
+msgctxt "47"
+msgid "ブラックネイル"
+msgstr ""
+
+msgctxt "48"
+msgid "突き進む犀角"
+msgstr ""
+
+msgctxt "49"
+msgid "トリプルホーン"
+msgstr ""
+
+msgctxt "50"
+msgid "コカトリス"
+msgstr ""
+
+msgctxt "51"
+msgid "サイミンフクロウ"
+msgstr ""
+
+msgctxt "52"
+msgid "サクランフクロウ"
+msgstr ""
+
+msgctxt "53"
+msgid "アクタイオン"
+msgstr ""
+
+msgctxt "54"
+msgid "グリュプス"
+msgstr ""
+
+msgctxt "55"
+msgid "虚空を視る邪眼"
+msgstr ""
+
+msgctxt "56"
+msgid "さまよう魔眼"
+msgstr ""
+
+msgctxt "57"
+msgid "ビッグモス"
+msgstr ""
+
+msgctxt "58"
+msgid "モスロード"
+msgstr ""
+
+msgctxt "59"
+msgid "大イノシシ"
+msgstr ""
+
+msgctxt "60"
+msgid "銀板の監視者"
+msgstr ""
+
+msgctxt "61"
+msgid "クローラー"
+msgstr ""
+
+msgctxt "62"
+msgid "マッドキャタピラ"
+msgstr ""
+
+msgctxt "63"
+msgid "ハイクローラー"
+msgstr ""
+
+msgctxt "64"
+msgid "スレイプニル"
+msgstr ""
+
+msgctxt "65"
+msgid "闇夜の魔馬"
+msgstr ""
+
+msgctxt "66"
+msgid "死霊の兵士"
+msgstr ""
+
+msgctxt "67"
+msgid "鮮血の兵士"
+msgstr ""
+
+msgctxt "68"
+msgid "漆黒の魔騎士"
+msgstr ""
+
+msgctxt "69"
+msgid "駆け寄る襲撃者"
+msgstr ""
+
+msgctxt "70"
+msgid "ラプターロード"
+msgstr ""
+
+msgctxt "71"
+msgid "ヨロイリュウ"
+msgstr ""
+
+msgctxt "72"
+msgid "アイアンアーマー"
+msgstr ""
+
+msgctxt "73"
+msgid "迎え撃つ覇王樹"
+msgstr ""
+
+msgctxt "74"
+msgid "ロードサワロ"
+msgstr ""
+
+msgctxt "75"
+msgid "怪しい石像"
+msgstr ""
+
+msgctxt "76"
+msgid "危ない石像"
+msgstr ""
+
+msgctxt "77"
+msgid "巨大な石像"
+msgstr ""
+
+msgctxt "78"
+msgid "ワイルドウイング"
+msgstr ""
+
+msgctxt "79"
+msgid "ブラックウイング"
+msgstr ""
+
+msgctxt "80"
+msgid "白銀の銃兵"
+msgstr ""
+
+msgctxt "81"
+msgid "緋緋色の剣兵"
+msgstr ""
+
+msgctxt "82"
+msgid "フィッシュマン"
+msgstr ""
+
+msgctxt "83"
+msgid "レッドフィッシュ"
+msgstr ""
+
+msgctxt "84"
+msgid "デスパンプキン"
+msgstr ""
+
+msgctxt "85"
+msgid "幻惑の飛南瓜"
+msgstr ""
+
+msgctxt "86"
+msgid "三頭飛南瓜"
+msgstr ""
+
+msgctxt "87"
+msgid "シユウ"
+msgstr ""
+
+msgctxt "88"
+msgid "アステリオス"
+msgstr ""
+
+msgctxt "89"
+msgid "魔界の邪竜"
+msgstr ""
+
+msgctxt "90"
+msgid "ドレッドヒュドラ"
+msgstr ""
+
+msgctxt "91"
+msgid "サウロポセイドン"
+msgstr ""
+
+msgctxt "92"
+msgid "モケーレムベンベ"
+msgstr ""
+
+msgctxt "93"
+msgid "樹海の炎王"
+msgstr ""
+
+msgctxt "94"
+msgid "アイスドレイク"
+msgstr ""
+
+msgctxt "95"
+msgid "サンダードレイク"
+msgstr ""
+
+msgctxt "96"
+msgid "ラフレシア"
+msgstr ""
+
+msgctxt "97"
+msgid "巨大な邪花"
+msgstr ""
+
+msgctxt "98"
+msgid "突貫する大蛙"
+msgstr ""
+
+msgctxt "99"
+msgid "怒れる猛禽"
+msgstr ""
+
+msgctxt "100"
+msgid "冷獄の傍観者"
+msgstr ""
+
+msgctxt "101"
+msgid "蒼翼の踊り手"
+msgstr ""
+
+msgctxt "102"
+msgid "螺旋の水泡樹"
+msgstr ""
+
+msgctxt "103"
+msgid "ベビーサラマンダ"
+msgstr ""
+
+msgctxt "104"
+msgid "ジャムクリーパー"
+msgstr ""
+
+msgctxt "105"
+msgid "自走型爆弾"
+msgstr ""
+
+msgctxt "106"
+msgid "ワーボア"
+msgstr ""
+
+msgctxt "107"
+msgid "猪勇の大親分"
+msgstr ""
+
+msgctxt "108"
+msgid "ニチリンソウ"
+msgstr ""
+
+msgctxt "109"
+msgid "バグベア"
+msgstr ""
+
+msgctxt "110"
+msgid "ジャッカロープ"
+msgstr ""
+
+msgctxt "111"
+msgid "アホロートル"
+msgstr ""
+
+msgctxt "112"
+msgid "ハギス"
+msgstr ""
+
+msgctxt "113"
+msgid "狩り立てる圧壊者"
+msgstr ""
+
+msgctxt "114"
+msgid "NONE"
+msgstr ""
+
+msgctxt "115"
+msgid "レッドハギス"
+msgstr ""
+
+msgctxt "116"
+msgid "嗅ぎまわる大飛鼠"
+msgstr ""
+
+msgctxt "117"
+msgid "飛躍する大蛙"
+msgstr ""
+
+msgctxt "118"
+msgid "烈烈たる溶岩獣"
+msgstr ""
+
+msgctxt "119"
+msgid "烈烈たる溶岩獣"
+msgstr ""
+
+msgctxt "120"
+msgid "残酷なる蹂躙者"
+msgstr ""
+
+msgctxt "121"
+msgid "ビッグスノー"
+msgstr ""
+
+msgctxt "122"
+msgid "恨み募る蛙"
+msgstr ""
+
+msgctxt "123"
+msgid "ナイトフラワー"
+msgstr ""
+
+msgctxt "124"
+msgid "ラクライウサギ"
+msgstr ""
+
+msgctxt "125"
+msgid "ロンギスクアマ"
+msgstr ""
+
+msgctxt "126"
+msgid "駆け寄る襲撃者"
+msgstr ""
+
+msgctxt "127"
+msgid "残酷なる蹂躙者"
+msgstr ""
+
+msgctxt "128"
+msgid "ブラックボア"
+msgstr ""
+
+msgctxt "129"
+msgid "イルベア"
+msgstr ""
+
+msgctxt "130"
+msgid "ルーカサイト"
+msgstr ""
+
+msgctxt "131"
+msgid "メタルニードル"
+msgstr ""
+
+msgctxt "132"
+msgid "ヘルパピヨン"
+msgstr ""
+
+msgctxt "133"
+msgid "レッドコーパスル"
+msgstr ""
+
+msgctxt "134"
+msgid "さすらいの剣猪"
+msgstr ""
+
+msgctxt "135"
+msgid "シロップベアー"
+msgstr ""
+
+msgctxt "136"
+msgid "スウォームスノー"
+msgstr ""
+
+msgctxt "137"
+msgid "ムベンガ"
+msgstr ""
+
+msgctxt "138"
+msgid "固き鎧の主"
+msgstr ""
+
+msgctxt "139"
+msgid "手負いのバビルサ"
+msgstr ""
+
+msgctxt "140"
+msgid "ドンムベンガ"
+msgstr ""
+
+msgctxt "141"
+msgid "洗脳されし労働者"
+msgstr ""
+
+msgctxt "142"
+msgid "NONE"
+msgstr ""
+
+msgctxt "143"
+msgid "幸災楽禍の処刑針"
+msgstr ""
+
+msgctxt "144"
+msgid "義憤の断罪鎌"
+msgstr ""
+
+msgctxt "145"
+msgid "貫禄の大角"
+msgstr ""
+
+msgctxt "146"
+msgid "引き裂きモグラ"
+msgstr ""
+
+msgctxt "147"
+msgid "クランパー"
+msgstr ""
+
+msgctxt "148"
+msgid "ヘールフラワー"
+msgstr ""
+
+msgctxt "149"
+msgid "NONE"
+msgstr ""
+
+msgctxt "150"
+msgid "NONE"
+msgstr ""
+
+msgctxt "151"
+msgid "NONE"
+msgstr ""
+
+msgctxt "152"
+msgid "束縛する毒蜘蛛"
+msgstr ""
+
+msgctxt "153"
+msgid "潜伏の白狼"
+msgstr ""
+
+msgctxt "154"
+msgid "NONE"
+msgstr ""
+
+msgctxt "155"
+msgid "グリムマンティス"
+msgstr ""
+
+msgctxt "156"
+msgid "NONE"
+msgstr ""
+
+msgctxt "157"
+msgid "ジャイアントモア"
+msgstr ""
+
+msgctxt "158"
+msgid "NONE"
+msgstr ""
+
+msgctxt "159"
+msgid "エビルマンモス"
+msgstr ""
+
+msgctxt "160"
+msgid "世界樹の芽"
+msgstr ""
+
+msgctxt "161"
+msgid "世界樹の双葉"
+msgstr ""
+
+msgctxt "162"
+msgid "世界樹の四つ葉"
+msgstr ""
+
+msgctxt "163"
+msgid "NONE"
+msgstr ""
+
+msgctxt "164"
+msgid "アイアンタートル"
+msgstr ""
+
+msgctxt "165"
+msgid "ディノゲーター"
+msgstr ""
+
+msgctxt "166"
+msgid "うごめく毒樹"
+msgstr ""
+
+msgctxt "167"
+msgid "NONE"
+msgstr ""
+
+msgctxt "168"
+msgid "NONE"
+msgstr ""
+
+msgctxt "169"
+msgid "NONE"
+msgstr ""
+
+msgctxt "170"
+msgid "NONE"
+msgstr ""
+
+msgctxt "171"
+msgid "NONE"
+msgstr ""
+
+msgctxt "172"
+msgid "NONE"
+msgstr ""
+
+msgctxt "173"
+msgid "ディノティラノ"
+msgstr ""
+
+msgctxt "174"
+msgid "NONE"
+msgstr ""
+
+msgctxt "175"
+msgid "NONE"
+msgstr ""
+
+msgctxt "176"
+msgid "NONE"
+msgstr ""
+
+msgctxt "177"
+msgid "NONE"
+msgstr ""
+
+msgctxt "178"
+msgid "NONE"
+msgstr ""
+
+msgctxt "179"
+msgid "NONE"
+msgstr ""
+
+msgctxt "180"
+msgid "NONE"
+msgstr ""
+
+msgctxt "181"
+msgid "NONE"
+msgstr ""
+
+msgctxt "182"
+msgid "NONE"
+msgstr ""
+
+msgctxt "183"
+msgid "NONE"
+msgstr ""
+
+msgctxt "184"
+msgid "NONE"
+msgstr ""
+
+msgctxt "185"
+msgid "NONE"
+msgstr ""
+
+msgctxt "186"
+msgid "NONE"
+msgstr ""
+
+msgctxt "187"
+msgid "NONE"
+msgstr ""
+
+msgctxt "188"
+msgid "NONE"
+msgstr ""
+
+msgctxt "189"
+msgid "NONE"
+msgstr ""
+
+msgctxt "190"
+msgid "NONE"
+msgstr ""
+
+msgctxt "191"
+msgid "NONE"
+msgstr ""
+
+msgctxt "192"
+msgid "NONE"
+msgstr ""
+
+msgctxt "193"
+msgid "NONE"
+msgstr ""
+
+msgctxt "194"
+msgid "オーバーロード"
+msgstr ""
+
+msgctxt "195"
+msgid "フォレスト・セル"
+msgstr ""
+
+msgctxt "196"
+msgid "セル・イーラ"
+msgstr ""
+
+msgctxt "197"
+msgid "セル・イーラ"
+msgstr ""
+
+msgctxt "198"
+msgid "セル・オディウム"
+msgstr ""
+
+msgctxt "199"
+msgid "セル・オディウム"
+msgstr ""
+
+msgctxt "200"
+msgid "フォレスト・セル"
+msgstr ""
+
+msgctxt "201"
+msgid "キマイラ"
+msgstr ""
+
+msgctxt "202"
+msgid "サラマンドラ"
+msgstr ""
+
+msgctxt "203"
+msgid "炎の魔人"
+msgstr ""
+
+msgctxt "204"
+msgid "ヘカトンケイル"
+msgstr ""
+
+msgctxt "205"
+msgid "スキュレー"
+msgstr ""
+
+msgctxt "206"
+msgid "始原の幼子"
+msgstr ""
+
+msgctxt "207"
+msgid "ハルピュイア"
+msgstr ""
+
+msgctxt "208"
+msgid "ジャガーノート"
+msgstr ""
+
+msgctxt "209"
+msgid "ゴーレム"
+msgstr ""
+
+msgctxt "210"
+msgid "ワイバーン"
+msgstr ""
+
+msgctxt "211"
+msgid "オーバーロード"
+msgstr ""
+
+msgctxt "212"
+msgid "オーバーロード"
+msgstr ""
+
+msgctxt "213"
+msgid "偉大なる赤竜"
+msgstr ""
+
+msgctxt "214"
+msgid "氷嵐の支配者"
+msgstr ""
+
+msgctxt "215"
+msgid "雷鳴と共に現る者"
+msgstr ""
+
+msgctxt "216"
+msgid "ライシュッツ"
+msgstr ""
+
+msgctxt "217"
+msgid "アーテリンデ"
+msgstr ""
+
+msgctxt "218"
+msgid "バジリスク"
+msgstr ""
+
+msgctxt "219"
+msgid "アラクネー"
+msgstr ""
+
+msgctxt "220"
+msgid "NONE"
+msgstr ""
+
+msgctxt "221"
+msgid "NONE"
+msgstr ""
+
+msgctxt "222"
+msgid "デミファフニール"
+msgstr ""
+
+msgctxt "223"
+msgid "キマイラ"
+msgstr ""
+
+msgctxt "224"
+msgid "フレイムキューブ"
+msgstr ""
+
+msgctxt "225"
+msgid "ルインクリーパー"
+msgstr ""
+
+msgctxt "226"
+msgid "ロードコア"
+msgstr ""
+
+msgctxt "227"
+msgid "サテライトキラー"
+msgstr ""
+
+msgctxt "228"
+msgid "始原の萌芽"
+msgstr ""
+
+msgctxt "229"
+msgid "バジリスクアイ"
+msgstr ""
+
+msgctxt "230"
+msgid "NONE"
+msgstr ""
+
+msgctxt "231"
+msgid "制御装置"
+msgstr ""
+
+msgctxt "232"
+msgid "制御装置"
+msgstr ""
+
+msgctxt "233"
+msgid "ドラゴンハート紅"
+msgstr ""
+
+msgctxt "234"
+msgid "ドラゴンハート蒼"
+msgstr ""
+
+msgctxt "235"
+msgid "ドラゴンハート輝"
+msgstr ""
+
+msgctxt "236"
+msgid "物欲を欺く者"
+msgstr ""
+
+msgctxt "237"
+msgid "闇黒に揺らめく者"
+msgstr ""
+
+msgctxt "238"
+msgid "マスターバード"
+msgstr ""
+
+msgctxt "239"
+msgid "ジェントルトード"
+msgstr ""
+
+msgctxt "240"
+msgid "氷の大王"
+msgstr ""
+
+msgctxt "241"
+msgid "氷の鎧"
+msgstr ""
+
+msgctxt "242"
+msgid "雷の女王"
+msgstr ""
+
+msgctxt "243"
+msgid "ティンダロス"
+msgstr ""
+
+msgctxt "244"
+msgid "スノードリフト"
+msgstr ""
+
+msgctxt "245"
+msgid "スノーウルフ"
+msgstr ""
+
+msgctxt "246"
+msgid "ケルヌンノス"
+msgstr ""
+
+msgctxt "247"
+msgid "ヒーラーボール"
+msgstr ""
+
+msgctxt "248"
+msgid "クイーンアント"
+msgstr ""
+
+msgctxt "249"
+msgid "ハイキラーアント"
+msgstr ""
+
+msgctxt "250"
+msgid "ハイガードアント"
+msgstr ""
+
+msgctxt "251"
+msgid "コロトラングル"
+msgstr ""
+
+msgctxt "252"
+msgid "マンティコア"
+msgstr ""
+
+msgctxt "253"
+msgid "イワオロペネレプ"
+msgstr ""
+
+msgctxt "254"
+msgid "アルルーナ"
+msgstr ""
+
+msgctxt "255"
+msgid "始原の魔神"
+msgstr ""
+
+msgctxt "256"
+msgid "カエルの袋"
+msgstr ""
+
+msgctxt "257"
+msgid "トキシンコンテナ"
+msgstr ""
+
+msgctxt "258"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "259"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "260"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "261"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "262"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "263"
+msgid "始原の瞳"
+msgstr ""
+
+msgctxt "264"
+msgid "NONE"
+msgstr ""
+
+msgctxt "265"
+msgid "NONE"
+msgstr ""
+
+msgctxt "266"
+msgid "NONE"
+msgstr ""
+
+msgctxt "267"
+msgid "NONE"
+msgstr ""
+
+msgctxt "268"
+msgid "NONE"
+msgstr ""
+
+msgctxt "269"
+msgid "NONE"
+msgstr ""
+
+msgctxt "270"
+msgid "NONE"
+msgstr ""

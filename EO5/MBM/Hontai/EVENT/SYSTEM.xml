@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="1">
+    <source>システムテスト{f801}</source>
+    <target>システムテスト{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>追加コンテンツのBGM再生に{f801}失敗しました{f801}{f802}本体の電源を切りSDカードを{f801}挿し直してください{f801}</source>
+    <target>追加コンテンツのBGM再生に{f801}失敗しました{f801}{f802}本体の電源を切りSDカードを{f801}挿し直してください{f801}</target>
+  </entry>
+</mbm>

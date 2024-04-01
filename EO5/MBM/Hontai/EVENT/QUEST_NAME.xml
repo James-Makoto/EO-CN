@@ -1,0 +1,418 @@
+<mbm>
+  <entry id="0">
+    <source>デバッククエスト{f801}</source>
+    <target>デバッククエスト{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>工芸職人からの依頼{f801}</source>
+    <target>工芸職人からの依頼{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>ドングリ集め{f801}</source>
+    <target>ドングリ集め{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>冒険の準備{f801}</source>
+    <target>冒険の準備{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>初めての採集{f801}</source>
+    <target>初めての採集{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>太陽の光、月の光{f801}</source>
+    <target>太陽の光、月の光{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>成長の証明{f801}</source>
+    <target>成長の証明{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>稀少個体ハンター!{f801}</source>
+    <target>稀少個体ハンター!{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>幻の巨大ローパー{f801}</source>
+    <target>幻の巨大ローパー{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>グリフォンの家{f801}</source>
+    <target>グリフォンの家{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>害獣駆除{f801}</source>
+    <target>害獣駆除{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>新メニュー開発記録{f801}</source>
+    <target>新メニュー開発記録{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>更なる冒険の準備{f801}</source>
+    <target>更なる冒険の準備{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>狩人の矜持{f801}</source>
+    <target>狩人の矜持{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>三度の飯より魔物が好き{f801}</source>
+    <target>三度の飯より魔物が好き{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>魔物との対話{f801}</source>
+    <target>魔物との対話{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>ジェネッタの想い{f801}</source>
+    <target>ジェネッタの想い{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>土竜作戦{f801}</source>
+    <target>土竜作戦{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>毒を以て毒を制す{f801}</source>
+    <target>毒を以て毒を制す{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>最高のドレス作り{f801}</source>
+    <target>最高のドレス作り{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>戦いは黄昏を越えて{f801}</source>
+    <target>戦いは黄昏を越えて{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>新メニュー開発記録{8755}{f801}</source>
+    <target>新メニュー開発記録{8755}{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>セリクの頼みごと{8754}{f801}</source>
+    <target>セリクの頼みごと{8754}{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>新薬実験のために{f801}</source>
+    <target>新薬実験のために{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>千軍万馬の勇者{f801}</source>
+    <target>千軍万馬の勇者{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>まだ見ぬ鉱石を求めて{f801}</source>
+    <target>まだ見ぬ鉱石を求めて{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>嘘か真か、動く骸骨{f801}</source>
+    <target>嘘か真か、動く骸骨{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>セリクの頼みごと{8755}{f801}</source>
+    <target>セリクの頼みごと{8755}{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>正体不明の種{f801}</source>
+    <target>正体不明の種{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>至極のヴェール作り{f801}</source>
+    <target>至極のヴェール作り{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>若き冒険者たちの壁{f801}</source>
+    <target>若き冒険者たちの壁{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>魔物の侵攻を阻止せよ!{f801}</source>
+    <target>魔物の侵攻を阻止せよ!{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>評議会からの依頼{8754}{f801}</source>
+    <target>評議会からの依頼{8754}{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>過ぎ去りし日々{f801}</source>
+    <target>過ぎ去りし日々{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>新メニュー開発記録{8756}{f801}</source>
+    <target>新メニュー開発記録{8756}{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>樹海にあるロマン{f801}</source>
+    <target>樹海にあるロマン{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>グリフォンの剣士を探れ{f801}</source>
+    <target>グリフォンの剣士を探れ{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>輝く家に必要なもの{f801}</source>
+    <target>輝く家に必要なもの{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>水晶の輝き{f801}</source>
+    <target>水晶の輝き{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>消えた衛兵隊を追って{f801}</source>
+    <target>消えた衛兵隊を追って{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>暗い暗い穴の中{f801}</source>
+    <target>暗い暗い穴の中{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>セリクの頼みごと{8756}{f801}</source>
+    <target>セリクの頼みごと{8756}{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>樹海の長い午後{f801}</source>
+    <target>樹海の長い午後{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>うっかりジェネッタ{f801}</source>
+    <target>うっかりジェネッタ{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>樹海生命体捕獲{f801}</source>
+    <target>樹海生命体捕獲{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>爬虫類との闘争{f801}</source>
+    <target>爬虫類との闘争{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>評議会からの依頼{8755}{f801}</source>
+    <target>評議会からの依頼{8755}{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>旅商人の矜持{f801}</source>
+    <target>旅商人の矜持{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>愛は全ての人に{f801}</source>
+    <target>愛は全ての人に{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>爬虫類との決着{f801}</source>
+    <target>爬虫類との決着{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>ジェネッタの大冒険{f801}</source>
+    <target>ジェネッタの大冒険{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>暗中模索のウィーディング{f801}</source>
+    <target>暗中模索のウィーディング{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>鋭き刃、研ぐものは{f801}</source>
+    <target>鋭き刃、研ぐものは{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>罪の行き先{f801}</source>
+    <target>罪の行き先{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>ヴァーノン昆虫日誌{f801}</source>
+    <target>ヴァーノン昆虫日誌{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>再会そして依頼{f801}</source>
+    <target>再会そして依頼{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>絶体絶命武士{f801}</source>
+    <target>絶体絶命武士{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>野獣への憧憬{f801}</source>
+    <target>野獣への憧憬{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>愛はすべての人に{f801}</source>
+    <target>愛はすべての人に{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>食事と会話{f801}</source>
+    <target>食事と会話{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>賽は投げられた{f801}</source>
+    <target>賽は投げられた{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>樹海でもっともドジな鳥{f801}</source>
+    <target>樹海でもっともドジな鳥{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>生兵法は大怪我のもと{f801}</source>
+    <target>生兵法は大怪我のもと{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>英雄色を好む?{f801}</source>
+    <target>英雄色を好む?{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>釣り人の心得{f801}</source>
+    <target>釣り人の心得{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>水辺の超人{f801}</source>
+    <target>水辺の超人{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>疾風迅雷の如く{f801}</source>
+    <target>疾風迅雷の如く{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>至高なる時のために{f801}</source>
+    <target>至高なる時のために{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>檻を崩す一振り{f801}</source>
+    <target>檻を崩す一振り{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>ジェネッタ、友達を作るの巻{f801}</source>
+    <target>ジェネッタ、友達を作るの巻{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>侵略者現る{f801}</source>
+    <target>侵略者現る{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>古戦場に眠る竜{f801}</source>
+    <target>古戦場に眠る竜{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>ゴウツクバリ{f801}</source>
+    <target>ゴウツクバリ{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>水晶の森の蛇女{f801}</source>
+    <target>水晶の森の蛇女{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>悪魔の証明{f801}</source>
+    <target>悪魔の証明{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>武の集大成!{f801}</source>
+    <target>武の集大成!{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>行商人セリク{f801}</source>
+    <target>行商人セリク{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>冒険者育成計画{f801}</source>
+    <target>冒険者育成計画{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>冒険者開運計画{f801}</source>
+    <target>冒険者開運計画{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>未実装{f801}</source>
+    <target>未実装{f801}</target>
+  </entry>
+</mbm>

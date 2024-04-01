@@ -1,0 +1,418 @@
+<mbm>
+  <entry id="0">
+    <source>デバッククエスト{f801}</source>
+    <target>デバッククエスト{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>こぼれ出ずる清廉{f801}</source>
+    <target>こぼれ出ずる清廉{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>まだ、名もない花{f801}</source>
+    <target>まだ、名もない花{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>皮職人の依頼{f801}</source>
+    <target>皮職人の依頼{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>商店からの依頼{8754}{f801}</source>
+    <target>商店からの依頼{8754}{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>商店からの依頼{8755}{f801}</source>
+    <target>商店からの依頼{8755}{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>所有せざる衛士{f801}</source>
+    <target>所有せざる衛士{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>青い碑{f801}</source>
+    <target>青い碑{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>ホラ吹きチャップの一つの真実{f801}</source>
+    <target>ホラ吹きチャップの一つの真実{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>聖者の研究{f801}</source>
+    <target>聖者の研究{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>薬泉院の依頼{8754}{f801}</source>
+    <target>薬泉院の依頼{8754}{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>薬泉院の依頼{8755}{f801}</source>
+    <target>薬泉院の依頼{8755}{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>樹海の食卓{f801}</source>
+    <target>樹海の食卓{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>至福の果実{f801}</source>
+    <target>至福の果実{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>トムソン職人の頑固な依頼{f801}</source>
+    <target>トムソン職人の頑固な依頼{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>術式を我らに{f801}</source>
+    <target>術式を我らに{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>フロースの宿からの依頼{f801}</source>
+    <target>フロースの宿からの依頼{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>美しき公女の為に{f801}</source>
+    <target>美しき公女の為に{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>樹海の石材を運べたら{f801}</source>
+    <target>樹海の石材を運べたら{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>樹海の彼方へ{f801}</source>
+    <target>樹海の彼方へ{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>神を讃えるその背に光を{f801}</source>
+    <target>神を讃えるその背に光を{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>擬態と捕食{f801}</source>
+    <target>擬態と捕食{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>誰が為に陽光は輝く{f801}</source>
+    <target>誰が為に陽光は輝く{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>酒の眠る森{f801}</source>
+    <target>酒の眠る森{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>愛しき者の心を射る物は{8754}{f801}</source>
+    <target>愛しき者の心を射る物は{8754}{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>愛しき者の心を射る物は{8755}{f801}</source>
+    <target>愛しき者の心を射る物は{8755}{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>愛しき者の心を射る物は{8756}{f801}</source>
+    <target>愛しき者の心を射る物は{8756}{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>蒼駆けし翼は忘却の罪痕{f801}</source>
+    <target>蒼駆けし翼は忘却の罪痕{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>模倣より生まれ来る創造{f801}</source>
+    <target>模倣より生まれ来る創造{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>後進を導くは先人の義務{f801}</source>
+    <target>後進を導くは先人の義務{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>群れを成し襲い来る森の恐怖たち{f801}</source>
+    <target>群れを成し襲い来る森の恐怖たち{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>愛と憎悪は紙一重{f801}</source>
+    <target>愛と憎悪は紙一重{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>商店からの依頼{8756}{f801}</source>
+    <target>商店からの依頼{8756}{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>猛き者、喰らうは飽くなき欲望{f801}</source>
+    <target>猛き者、喰らうは飽くなき欲望{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>輝きの陰{f801}</source>
+    <target>輝きの陰{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>彼の者、瞳は魔導を映すのみ{f801}</source>
+    <target>彼の者、瞳は魔導を映すのみ{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>野山駆け巡るものに甘い蜜を{f801}</source>
+    <target>野山駆け巡るものに甘い蜜を{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>木漏れ日の育む嫋やかな日常{f801}</source>
+    <target>木漏れ日の育む嫋やかな日常{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>気高き峰に立つ勇者に名誉を{f801}</source>
+    <target>気高き峰に立つ勇者に名誉を{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>白き夜も温もりを消さぬ為{f801}</source>
+    <target>白き夜も温もりを消さぬ為{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>新たなる癒しを求めて{f801}</source>
+    <target>新たなる癒しを求めて{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>豪傑の過去{f801}</source>
+    <target>豪傑の過去{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>頼もしく愛らしき伴侶達{f801}</source>
+    <target>頼もしく愛らしき伴侶達{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>樹海の朝、父の面影{f801}</source>
+    <target>樹海の朝、父の面影{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>祈る者、猛る者の心知らず{f801}</source>
+    <target>祈る者、猛る者の心知らず{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>眠り居る野生、我が真の力を見よ{f801}</source>
+    <target>眠り居る野生、我が真の力を見よ{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>麗しくも強き女王の駒{f801}</source>
+    <target>麗しくも強き女王の駒{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>欲しけりゃ取って来い{f801}</source>
+    <target>欲しけりゃ取って来い{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>鉄壁を成す城兵の駒{f801}</source>
+    <target>鉄壁を成す城兵の駒{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>知略に富むは王者の駒{f801}</source>
+    <target>知略に富むは王者の駒{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>敵陣へ斬り入るは騎士の駒{f801}</source>
+    <target>敵陣へ斬り入るは騎士の駒{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>学を好むは知に近し{f801}</source>
+    <target>学を好むは知に近し{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>終焉で踊る{f801}</source>
+    <target>終焉で踊る{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>銃士の呼び声{f801}</source>
+    <target>銃士の呼び声{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>飛竜の影{f801}</source>
+    <target>飛竜の影{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>もう一つの聖杯{f801}</source>
+    <target>もう一つの聖杯{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>啜れ、古なる血の杯{f801}</source>
+    <target>啜れ、古なる血の杯{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>死の扉、先に待つものは{f801}</source>
+    <target>死の扉、先に待つものは{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>浮遊城の闇、悪食の亡霊{f801}</source>
+    <target>浮遊城の闇、悪食の亡霊{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>優しさの代償は恩か仇か{f801}</source>
+    <target>優しさの代償は恩か仇か{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>金色の幻影{f801}</source>
+    <target>金色の幻影{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>崩壊までの秒読み{f801}</source>
+    <target>崩壊までの秒読み{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>天砕き、荒れ狂うは雷の王{f801}</source>
+    <target>天砕き、荒れ狂うは雷の王{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>お店番少女{f801}</source>
+    <target>お店番少女{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>祝い歌うこの日君の為に{f801}</source>
+    <target>祝い歌うこの日君の為に{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>差し伸べる手、尊き命{f801}</source>
+    <target>差し伸べる手、尊き命{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>小さき命を支える物{f801}</source>
+    <target>小さき命を支える物{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>氷王の眠り居る場所{f801}</source>
+    <target>氷王の眠り居る場所{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>凍土に眠る永久の残酷{f801}</source>
+    <target>凍土に眠る永久の残酷{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>古き傷跡の主{f801}</source>
+    <target>古き傷跡の主{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>白刃よ蘇れ{f801}</source>
+    <target>白刃よ蘇れ{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>望み尽きる事も無く{f801}</source>
+    <target>望み尽きる事も無く{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>古の刃{f801}</source>
+    <target>古の刃{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>紅き者、其の名は絶対の死{f801}</source>
+    <target>紅き者、其の名は絶対の死{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>シカ肉ステーキを広めてくれ!{f801}</source>
+    <target>シカ肉ステーキを広めてくれ!{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>東区都市開発依頼{f801}</source>
+    <target>東区都市開発依頼{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>新規メニュー開発依頼{f801}</source>
+    <target>新規メニュー開発依頼{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>祭りの前に{f801}</source>
+    <target>祭りの前に{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>公国料理店、最後の試練{f801}</source>
+    <target>公国料理店、最後の試練{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>戦いに生きる空の王者{f801}</source>
+    <target>戦いに生きる空の王者{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>名湯、六花氷樹海!{f801}</source>
+    <target>名湯、六花氷樹海!{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>雷放つは女帝の弓{f801}</source>
+    <target>雷放つは女帝の弓{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>強襲! 異界の猟犬{f801}</source>
+    <target>強襲! 異界の猟犬{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>箱に封ぜしは全ての贈りもの{f801}</source>
+    <target>箱に封ぜしは全ての贈りもの{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>冒険者に捧ぐ、黄金の新芽{f801}</source>
+    <target>冒険者に捧ぐ、黄金の新芽{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>冒険者に捧ぐ、幸運の双葉{f801}</source>
+    <target>冒険者に捧ぐ、幸運の双葉{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>冒険者に捧ぐ、恵みの四つ葉{f801}</source>
+    <target>冒険者に捧ぐ、恵みの四つ葉{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>桜ノ立橋に降る雪の怪異{f801}</source>
+    <target>桜ノ立橋に降る雪の怪異{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>最凶なる迷宮と始原の魔神{f801}</source>
+    <target>最凶なる迷宮と始原の魔神{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>冒険者の絆{f801}</source>
+    <target>冒険者の絆{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>戦いに生きる空の王者{f801}</source>
+    <target>戦いに生きる空の王者{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>名湯、六花氷樹海!{f801}</source>
+    <target>名湯、六花氷樹海!{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>雷放つは女帝の弓{f801}</source>
+    <target>雷放つは女帝の弓{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>強襲! 異界の猟犬{f801}</source>
+    <target>強襲! 異界の猟犬{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>箱に封ぜしは全ての贈りもの{f801}</source>
+    <target>箱に封ぜしは全ての贈りもの{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>冒険者に捧ぐ、黄金の新芽{f801}</source>
+    <target>冒険者に捧ぐ、黄金の新芽{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>冒険者に捧ぐ、幸運の双葉{f801}</source>
+    <target>冒険者に捧ぐ、幸運の双葉{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>冒険者に捧ぐ、恵みの四つ葉{f801}</source>
+    <target>冒険者に捧ぐ、恵みの四つ葉{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>桜ノ立橋に降る雪の怪異{f801}</source>
+    <target>桜ノ立橋に降る雪の怪異{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>最凶なる迷宮と始原の魔神{f801}</source>
+    <target>最凶なる迷宮と始原の魔神{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>謎の遺跡の魔物を倒せ{f801}</source>
+    <target>謎の遺跡の魔物を倒せ{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>遺跡の脅威を排除しろ{f801}</source>
+    <target>遺跡の脅威を排除しろ{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>謎の遺跡を解明しろ{f801}</source>
+    <target>謎の遺跡を解明しろ{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ギンヌンガの禍{f801}</source>
+    <target>ギンヌンガの禍{f801}</target>
+  </entry>
+</mbm>

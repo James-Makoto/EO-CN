@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{f801}</source>
+    <target>ダミー{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</source>
+    <target>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>選択した迷宮へ行きます{f801}</source>
+    <target>選択した迷宮へ行きます{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>ギンヌンガの遺跡へ行きます{f801}</source>
+    <target>ギンヌンガの遺跡へ行きます{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>第一階層 古跡ノ樹海に移動します{f801}</source>
+    <target>第一階層 古跡ノ樹海に移動します{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>第二階層 常緋ノ樹林に移動します{f801}</source>
+    <target>第二階層 常緋ノ樹林に移動します{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>第三階層 六花氷樹海に移動します{f801}</source>
+    <target>第三階層 六花氷樹海に移動します{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>第四階層 桜ノ立橋に移動します{f801}</source>
+    <target>第四階層 桜ノ立橋に移動します{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>第五階層 天ノ磐座に移動します{f801}</source>
+    <target>第五階層 天ノ磐座に移動します{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>第六階層 禁忌ノ森に移動します{f801}</source>
+    <target>第六階層 禁忌ノ森に移動します{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>追加ダンジョンに移動します{f801}</source>
+    <target>追加ダンジョンに移動します{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>携帯磁軸を使用する{f801}</source>
+    <target>携帯磁軸を使用する{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>ギンヌンガの遺跡に移動します{f801}</source>
+    <target>ギンヌンガの遺跡に移動します{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>ギンヌンガ 地下3階に移動します{f801}</source>
+    <target>ギンヌンガ 地下3階に移動します{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>ギンヌンガ 地下4階に移動します{f801}</source>
+    <target>ギンヌンガ 地下4階に移動します{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</source>
+    <target>選択した迷宮から冒険をスタートできます{f801}移動しますか?{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</source>
+    <target>選択したエリアから冒険をスタートできます{f801}移動しますか?{f801}</target>
+  </entry>
+</mbm>

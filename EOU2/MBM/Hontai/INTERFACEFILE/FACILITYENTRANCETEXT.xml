@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>ダミー{8001}</source>
+    <target>ダミー{8001}</target>
+  </entry>
+  <entry id="1">
+    <source>選択階層から冒険をスタートできます{8001}樹海に移動しますか?{8001}</source>
+    <target>選択階層から冒険をスタートできます{8001}樹海に移動しますか?{8001}</target>
+  </entry>
+  <entry id="2">
+    <source>選択した階層へ行きます{8001}</source>
+    <target>選択した階層へ行きます{8001}</target>
+  </entry>
+  <entry id="3">
+    <source>深都に移動します{8001}</source>
+    <target>深都に移動します{8001}</target>
+  </entry>
+  <entry id="4">
+    <source>広場に戻ります{8001}</source>
+    <target>広場に戻ります{8001}</target>
+  </entry>
+  <entry id="5">
+    <source>アーモロードに移動します{8001}</source>
+    <target>アーモロードに移動します{8001}</target>
+  </entry>
+  <entry id="11">
+    <source>第一階層に移動します{8001}</source>
+    <target>第一階層に移動します{8001}</target>
+  </entry>
+  <entry id="12">
+    <source>第二階層に移動します{8001}</source>
+    <target>第二階層に移動します{8001}</target>
+  </entry>
+  <entry id="13">
+    <source>第三階層に移動します{8001}</source>
+    <target>第三階層に移動します{8001}</target>
+  </entry>
+  <entry id="14">
+    <source>第四階層に移動します{8001}</source>
+    <target>第四階層に移動します{8001}</target>
+  </entry>
+  <entry id="15">
+    <source>第五階層に移動します{8001}</source>
+    <target>第五階層に移動します{8001}</target>
+  </entry>
+  <entry id="16">
+    <source>第六階層に移動します{8001}</source>
+    <target>第六階層に移動します{8001}</target>
+  </entry>
+  <entry id="17">
+    <source>第二階層最後に移動します{8001}</source>
+    <target>第二階層最後に移動します{8001}</target>
+  </entry>
+  <entry id="21">
+    <source>第一階層  垂水ノ樹海{8001}</source>
+    <target>第一階層  垂水ノ樹海{8001}</target>
+  </entry>
+  <entry id="22">
+    <source>第二階層  海嶺ノ水林{8001}</source>
+    <target>第二階層  海嶺ノ水林{8001}</target>
+  </entry>
+  <entry id="23">
+    <source>第三階層  光輝ノ石窟{8001}</source>
+    <target>第三階層  光輝ノ石窟{8001}</target>
+  </entry>
+  <entry id="24">
+    <source>第四階層  深洋祭祀殿{8001}</source>
+    <target>第四階層  深洋祭祀殿{8001}</target>
+  </entry>
+  <entry id="25">
+    <source>第五階層  白亜ノ森{8001}</source>
+    <target>第五階層  白亜ノ森{8001}</target>
+  </entry>
+  <entry id="26">
+    <source>第六階層  昏き海淵の禍神{8001}</source>
+    <target>第六階層  昏き海淵の禍神{8001}</target>
+  </entry>
+  <entry id="27">
+    <source>第二階層最後{8001}</source>
+    <target>第二階層最後{8001}</target>
+  </entry>
+</mbm>

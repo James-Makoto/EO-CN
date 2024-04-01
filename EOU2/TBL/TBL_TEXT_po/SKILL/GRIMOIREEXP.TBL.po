@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2024/3/25\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "NONE"
+msgstr ""
+
+msgctxt "1"
+msgid "所有者の肉体に強靭性を<zbr>付与する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "2"
+msgid "所有者の精神に強靭性を<zbr>付与する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "3"
+msgid "所有者の物理攻撃力を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "4"
+msgid "所有者の物理防御力を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "5"
+msgid "凄まじい剣技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "6"
+msgid "凄まじい斧技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "7"
+msgid "戦いを有利に運ぶ戦技を<zbr>秘めた魔石。"
+msgstr ""
+
+msgctxt "8"
+msgid "冒険中の採集技術を<zbr>秘めた魔石。"
+msgstr ""
+
+msgctxt "9"
+msgid "所有者の付与成功率を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "10"
+msgid "所有者の肉体に敏捷性を<zbr>付与する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "11"
+msgid "凄まじい弓技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "12"
+msgid "傷ついた身体を治癒する技術<zbr>を秘めた魔石。"
+msgstr ""
+
+msgctxt "13"
+msgid "迷宮探索を有利に運ぶ力を<zbr>秘めた魔石。"
+msgstr ""
+
+msgctxt "14"
+msgid "所有者の属性防御力を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "15"
+msgid "凄まじい盾技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "16"
+msgid "凄まじい鞭技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "17"
+msgid "傷ついた身体を治癒する<zbr>技術を秘めた魔石。"
+msgstr ""
+
+msgctxt "18"
+msgid "凄まじい杖技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "19"
+msgid "所有者の属性攻撃力を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "20"
+msgid "凄まじい術式を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "21"
+msgid "凄まじい術掌を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "22"
+msgid "戦いを有利に運ぶ歌を<zbr>秘めた魔石。"
+msgstr ""
+
+msgctxt "23"
+msgid "凄まじい刀技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "24"
+msgid "所有者の付与抵抗率を<zbr>高める力を秘めた魔石。"
+msgstr ""
+
+msgctxt "25"
+msgid "戦いを有利に運ぶ呪言を<zbr>秘めた魔石。"
+msgstr ""
+
+msgctxt "26"
+msgid "凄まじい槍技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "27"
+msgid "凄まじい銃技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "28"
+msgid "所有者の肉体に精神力を<zbr>付与する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "29"
+msgid "凄まじい巫剣技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "30"
+msgid "凄まじい巫術を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "31"
+msgid "凄まじい号令技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "32"
+msgid "凄まじい刀剣技を<zbr>発動する力を秘めた魔石。"
+msgstr ""
+
+msgctxt "33"
+msgid "特殊なスキルを記録した魔石。"
+msgstr ""
+
+msgctxt "34"
+msgid "樹海に生息する魔物の技を<zbr>秘めた魔石。"
+msgstr ""

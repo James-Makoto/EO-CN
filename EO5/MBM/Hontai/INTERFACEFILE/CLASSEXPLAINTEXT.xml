@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="1">
+    <source>{f804}{0200}フェンサー{f801}</source>
+    <target>{f804}{0200}フェンサー{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>{f804}{0200}ドラグーン{f801}</source>
+    <target>{f804}{0200}ドラグーン{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>{f804}{0200}ウォーロック{f801}</source>
+    <target>{f804}{0200}ウォーロック{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>{f804}{0200}ハウンド{f801}</source>
+    <target>{f804}{0200}ハウンド{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>{f804}{0200}マスラオ{f801}</source>
+    <target>{f804}{0200}マスラオ{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>{f804}{0200}シャーマン{f801}</source>
+    <target>{f804}{0200}シャーマン{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>{f804}{0200}ハーバリスト{f801}</source>
+    <target>{f804}{0200}ハーバリスト{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>{f804}{0200}セスタス{f801}</source>
+    <target>{f804}{0200}セスタス{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>{f804}{0200}リーパー{f801}</source>
+    <target>{f804}{0200}リーパー{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>{f804}{0200}ネクロマンサー{f801}</source>
+    <target>{f804}{0200}ネクロマンサー{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>{f804}{0200}だみー{f801}</source>
+    <target>{f804}{0200}だみー{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>{f804}{0200}だみー{f801}</source>
+    <target>{f804}{0200}だみー{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>{f804}{0200}だみー{f801}</source>
+    <target>{f804}{0200}だみー{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>{f804}{0200}主人公説明文{f801}{f801}{f804}{0600}得意武器:剣・カタナ{f801}前列で戦う攻撃型{f801}</source>
+    <target>{f804}{0200}主人公説明文{f801}{f801}{f804}{0600}得意武器:剣・カタナ{f801}前列で戦う攻撃型{f801}</target>
+  </entry>
+</mbm>

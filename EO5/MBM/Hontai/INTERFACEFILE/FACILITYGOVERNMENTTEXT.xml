@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>発動したミッションを{f801}引き受けることができます{f801}</source>
+    <target>発動したミッションを{f801}引き受けることができます{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>ミッションの結果を報告します{f801}</source>
+    <target>ミッションの結果を報告します{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>ラガード公宮のメンバーと話します{f801}</source>
+    <target>ラガード公宮のメンバーと話します{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>広場へ戻ります{f801}</source>
+    <target>広場へ戻ります{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>依頼はありません{f801}</source>
+    <target>依頼はありません{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>この依頼を引き受けますか?{f801}</source>
+    <target>この依頼を引き受けますか?{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>依頼を引き受けました{f801}</source>
+    <target>依頼を引き受けました{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>引き受けている依頼がありません{f801}</source>
+    <target>引き受けている依頼がありません{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</source>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</source>
+    <target>{f804}{0500}{f811}{0000}{f804}{0000}を報告した!{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>{f804}{0500}{f811}{0000}F{f804}{0000}のマップを報告した!{f801}</source>
+    <target>{f804}{0500}{f811}{0000}F{f804}{0000}のマップを報告した!{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>サブクラスが習得可能です{f801}</source>
+    <target>サブクラスが習得可能です{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>天極殿の住人と話をします{f801}</source>
+    <target>天極殿の住人と話をします{f801}</target>
+  </entry>
+</mbm>
