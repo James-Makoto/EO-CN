@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2024/4/1\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "1"
+msgid "ジェネッタ"
+msgstr ""
+
+msgctxt "2"
+msgid "セリク"
+msgstr ""
+
+msgctxt "3"
+msgid "メリーナ"
+msgstr ""
+
+msgctxt "4"
+msgid "エドガー"
+msgstr ""
+
+msgctxt "5"
+msgid "レムス"
+msgstr ""
+
+msgctxt "6"
+msgid "ソロル"
+msgstr ""
+
+msgctxt "7"
+msgid "リリ"
+msgstr ""
+
+msgctxt "8"
+msgid "アルコン"
+msgstr ""
+
+msgctxt "9"
+msgid "衛兵"
+msgstr ""
+
+msgctxt "10"
+msgid "タウンクライヤー"
+msgstr ""
+
+msgctxt "11"
+msgid "黒背景"
+msgstr ""
+
+msgctxt "12"
+msgid "未使用"
+msgstr ""
+
+msgctxt "13"
+msgid "未使用"
+msgstr ""
+
+msgctxt "14"
+msgid "未使用"
+msgstr ""
+
+msgctxt "15"
+msgid "未使用"
+msgstr ""
+
+msgctxt "16"
+msgid "未使用"
+msgstr ""
+
+msgctxt "17"
+msgid "未使用"
+msgstr ""
+
+msgctxt "18"
+msgid "未使用"
+msgstr ""
+
+msgctxt "19"
+msgid "未使用"
+msgstr ""
+
+msgctxt "20"
+msgid "未使用"
+msgstr ""
+
+msgctxt "21"
+msgid "未使用"
+msgstr ""
+
+msgctxt "22"
+msgid "未使用"
+msgstr ""
+
+msgctxt "23"
+msgid "未使用"
+msgstr ""
+
+msgctxt "24"
+msgid "未使用"
+msgstr ""
+
+msgctxt "25"
+msgid "未使用"
+msgstr ""
+
+msgctxt "26"
+msgid "未使用"
+msgstr ""

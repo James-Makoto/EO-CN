@@ -1,0 +1,3712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrian Odyssey IV\n"
+"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
+"POT-Creation-Date: 2024/4/1\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "1"
+msgid "ダガー"
+msgstr ""
+
+msgctxt "2"
+msgid "ショートソード"
+msgstr ""
+
+msgctxt "3"
+msgid "コピス"
+msgstr ""
+
+msgctxt "4"
+msgid "スクラマサクス"
+msgstr ""
+
+msgctxt "5"
+msgid "パラッシュ"
+msgstr ""
+
+msgctxt "6"
+msgid "マンダウ"
+msgstr ""
+
+msgctxt "7"
+msgid "カットラス"
+msgstr ""
+
+msgctxt "8"
+msgid "ウルミ"
+msgstr ""
+
+msgctxt "9"
+msgid "カンピラン"
+msgstr ""
+
+msgctxt "10"
+msgid "シャムシール"
+msgstr ""
+
+msgctxt "11"
+msgid "バスタードソード"
+msgstr ""
+
+msgctxt "12"
+msgid "アスラト"
+msgstr ""
+
+msgctxt "13"
+msgid "アークラフェナ"
+msgstr ""
+
+msgctxt "14"
+msgid "ビラオ"
+msgstr ""
+
+msgctxt "15"
+msgid "氷蝙蝠の牙剣"
+msgstr ""
+
+msgctxt "16"
+msgid "ジョノ"
+msgstr ""
+
+msgctxt "17"
+msgid "ニアボル"
+msgstr ""
+
+msgctxt "18"
+msgid "パニアード"
+msgstr ""
+
+msgctxt "19"
+msgid "ベローズブレイド"
+msgstr ""
+
+msgctxt "20"
+msgid "アンサラー"
+msgstr ""
+
+msgctxt "21"
+msgid "ペトラフリッサ"
+msgstr ""
+
+msgctxt "22"
+msgid "スタンナイフ"
+msgstr ""
+
+msgctxt "23"
+msgid "クトネシリカ"
+msgstr ""
+
+msgctxt "24"
+msgid "治療ナイフ"
+msgstr ""
+
+msgctxt "25"
+msgid "シールグリーブ"
+msgstr ""
+
+msgctxt "26"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "27"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "28"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "29"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "30"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "31"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "32"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "33"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "34"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "35"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "36"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "37"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "38"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "39"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "40"
+msgid "確認用最強剣"
+msgstr ""
+
+msgctxt "41"
+msgid "縄のバンデージ"
+msgstr ""
+
+msgctxt "42"
+msgid "メリケンサック"
+msgstr ""
+
+msgctxt "43"
+msgid "棘付きバンデージ"
+msgstr ""
+
+msgctxt "44"
+msgid "クリーパフィスト"
+msgstr ""
+
+msgctxt "45"
+msgid "寸鉄"
+msgstr ""
+
+msgctxt "46"
+msgid "レイオマノ"
+msgstr ""
+
+msgctxt "47"
+msgid "ナックルドギー"
+msgstr ""
+
+msgctxt "48"
+msgid "カステット"
+msgstr ""
+
+msgctxt "49"
+msgid "クオーツナックル"
+msgstr ""
+
+msgctxt "50"
+msgid "アンガーフィスト"
+msgstr ""
+
+msgctxt "51"
+msgid "バグズバンデージ"
+msgstr ""
+
+msgctxt "52"
+msgid "点穴針"
+msgstr ""
+
+msgctxt "53"
+msgid "スファイライ"
+msgstr ""
+
+msgctxt "54"
+msgid "ナックルガーダー"
+msgstr ""
+
+msgctxt "55"
+msgid "クロウラーナックル"
+msgstr ""
+
+msgctxt "56"
+msgid "プラズマフィスト"
+msgstr ""
+
+msgctxt "57"
+msgid "ミラージフィスト"
+msgstr ""
+
+msgctxt "58"
+msgid "手之内"
+msgstr ""
+
+msgctxt "59"
+msgid "ブラストパイル"
+msgstr ""
+
+msgctxt "60"
+msgid "ポリュデウケス"
+msgstr ""
+
+msgctxt "61"
+msgid "ポイズンナックル"
+msgstr ""
+
+msgctxt "62"
+msgid "グリフバスター"
+msgstr ""
+
+msgctxt "63"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "64"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "65"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "66"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "67"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "68"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "69"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "70"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "71"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "72"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "73"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "74"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "75"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "76"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "77"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "78"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "79"
+msgid "確認用最強拳"
+msgstr ""
+
+msgctxt "80"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "81"
+msgid "ワンド"
+msgstr ""
+
+msgctxt "82"
+msgid "スタッフ"
+msgstr ""
+
+msgctxt "83"
+msgid "ラクタリウスの杖"
+msgstr ""
+
+msgctxt "84"
+msgid "アムードの杖"
+msgstr ""
+
+msgctxt "85"
+msgid "金剛杖"
+msgstr ""
+
+msgctxt "86"
+msgid "パロットワディ"
+msgstr ""
+
+msgctxt "87"
+msgid "バクルス"
+msgstr ""
+
+msgctxt "88"
+msgid "スカルスタッフ"
+msgstr ""
+
+msgctxt "89"
+msgid "ジェズル"
+msgstr ""
+
+msgctxt "90"
+msgid "レプタイルロッド"
+msgstr ""
+
+msgctxt "91"
+msgid "ルーンワンド"
+msgstr ""
+
+msgctxt "92"
+msgid "プディンスタッフ"
+msgstr ""
+
+msgctxt "93"
+msgid "笠花の権杖"
+msgstr ""
+
+msgctxt "94"
+msgid "創魔の杖"
+msgstr ""
+
+msgctxt "95"
+msgid "フェザースタッフ"
+msgstr ""
+
+msgctxt "96"
+msgid "カースセプター"
+msgstr ""
+
+msgctxt "97"
+msgid "アラートバクルス"
+msgstr ""
+
+msgctxt "98"
+msgid "フィリアの権杖"
+msgstr ""
+
+msgctxt "99"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "100"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "101"
+msgid "封頭の杖"
+msgstr ""
+
+msgctxt "102"
+msgid "キングスロッド"
+msgstr ""
+
+msgctxt "103"
+msgid "ラタトスクの杖"
+msgstr ""
+
+msgctxt "104"
+msgid "スコピオロッド"
+msgstr ""
+
+msgctxt "105"
+msgid "アサルトワディ"
+msgstr ""
+
+msgctxt "106"
+msgid "シールブレイク"
+msgstr ""
+
+msgctxt "107"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "108"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "109"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "110"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "111"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "112"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "113"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "114"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "115"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "116"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "117"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "118"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "119"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "120"
+msgid "確認用最強杖"
+msgstr ""
+
+msgctxt "121"
+msgid "脇差"
+msgstr ""
+
+msgctxt "122"
+msgid "ヤマガタナ"
+msgstr ""
+
+msgctxt "123"
+msgid "打刀"
+msgstr ""
+
+msgctxt "124"
+msgid "小太刀"
+msgstr ""
+
+msgctxt "125"
+msgid "波遊"
+msgstr ""
+
+msgctxt "126"
+msgid "篠ノ雪"
+msgstr ""
+
+msgctxt "127"
+msgid "火車切"
+msgstr ""
+
+msgctxt "128"
+msgid "ワラビテ刀"
+msgstr ""
+
+msgctxt "129"
+msgid "鬼神大王"
+msgstr ""
+
+msgctxt "130"
+msgid "稲葉郷"
+msgstr ""
+
+msgctxt "131"
+msgid "猪切"
+msgstr ""
+
+msgctxt "132"
+msgid "大包平"
+msgstr ""
+
+msgctxt "133"
+msgid "モノホシ竿"
+msgstr ""
+
+msgctxt "134"
+msgid "丙辰真改"
+msgstr ""
+
+msgctxt "135"
+msgid "焼甲羅の短刀"
+msgstr ""
+
+msgctxt "136"
+msgid "燭台切"
+msgstr ""
+
+msgctxt "137"
+msgid "唐柏"
+msgstr ""
+
+msgctxt "138"
+msgid "山焼亡"
+msgstr ""
+
+msgctxt "139"
+msgid "ソボロ"
+msgstr ""
+
+msgctxt "140"
+msgid "天羽々斬"
+msgstr ""
+
+msgctxt "141"
+msgid "小手切"
+msgstr ""
+
+msgctxt "142"
+msgid "慈悲の短刀"
+msgstr ""
+
+msgctxt "143"
+msgid "朝嵐"
+msgstr ""
+
+msgctxt "144"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "145"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "146"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "147"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "148"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "149"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "150"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "151"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "152"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "153"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "154"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "155"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "156"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "157"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "158"
+msgid "確認用最強刀"
+msgstr ""
+
+msgctxt "159"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "160"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "161"
+msgid "雀小弓"
+msgstr ""
+
+msgctxt "162"
+msgid "ウッドボウ"
+msgstr ""
+
+msgctxt "163"
+msgid "ショートボウ"
+msgstr ""
+
+msgctxt "164"
+msgid "毒蛭の短弓"
+msgstr ""
+
+msgctxt "165"
+msgid "ヘペライ"
+msgstr ""
+
+msgctxt "166"
+msgid "クロスボウ"
+msgstr ""
+
+msgctxt "167"
+msgid "ヒンディ"
+msgstr ""
+
+msgctxt "168"
+msgid "摸摸具和之弓"
+msgstr ""
+
+msgctxt "169"
+msgid "コンパウンドボウ"
+msgstr ""
+
+msgctxt "170"
+msgid "ロングボウ"
+msgstr ""
+
+msgctxt "171"
+msgid "獣の大弓"
+msgstr ""
+
+msgctxt "172"
+msgid "ハンティングボウ"
+msgstr ""
+
+msgctxt "173"
+msgid "フィッシャーズ"
+msgstr ""
+
+msgctxt "174"
+msgid "ヘルシューター"
+msgstr ""
+
+msgctxt "175"
+msgid "老木の弓"
+msgstr ""
+
+msgctxt "176"
+msgid "キリングショット"
+msgstr ""
+
+msgctxt "177"
+msgid "ファントムアーチ"
+msgstr ""
+
+msgctxt "178"
+msgid "デモンズアーチ"
+msgstr ""
+
+msgctxt "179"
+msgid "インパルスアロー"
+msgstr ""
+
+msgctxt "180"
+msgid "フェイルノート"
+msgstr ""
+
+msgctxt "181"
+msgid "睡魔の弓"
+msgstr ""
+
+msgctxt "182"
+msgid "蒼月の戦弓"
+msgstr ""
+
+msgctxt "183"
+msgid "ゴルゴンアロー"
+msgstr ""
+
+msgctxt "184"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "185"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "186"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "187"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "188"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "189"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "190"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "191"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "192"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "193"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "194"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "195"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "196"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "197"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "198"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "199"
+msgid "確認用最強弓"
+msgstr ""
+
+msgctxt "200"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "201"
+msgid "縄切り鎌"
+msgstr ""
+
+msgctxt "202"
+msgid "草刈り鎌"
+msgstr ""
+
+msgctxt "203"
+msgid "鉱石の鎌"
+msgstr ""
+
+msgctxt "204"
+msgid "バニーシックル"
+msgstr ""
+
+msgctxt "205"
+msgid "陣鎌"
+msgstr ""
+
+msgctxt "206"
+msgid "マギーイラナ"
+msgstr ""
+
+msgctxt "207"
+msgid "ハルパー"
+msgstr ""
+
+msgctxt "208"
+msgid "ザルクヤクト"
+msgstr ""
+
+msgctxt "209"
+msgid "薙鎌"
+msgstr ""
+
+msgctxt "210"
+msgid "サビット"
+msgstr ""
+
+msgctxt "211"
+msgid "モノクロシックル"
+msgstr ""
+
+msgctxt "212"
+msgid "カラミティサイズ"
+msgstr ""
+
+msgctxt "213"
+msgid "妖魔の狩鎌"
+msgstr ""
+
+msgctxt "214"
+msgid "エイプシックル"
+msgstr ""
+
+msgctxt "215"
+msgid "芋虫の大鎌"
+msgstr ""
+
+msgctxt "216"
+msgid "レブナントフォ"
+msgstr ""
+
+msgctxt "217"
+msgid "双頭の鎌"
+msgstr ""
+
+msgctxt "218"
+msgid "月鎌"
+msgstr ""
+
+msgctxt "219"
+msgid "プレイングサイス"
+msgstr ""
+
+msgctxt "220"
+msgid "クレイドル"
+msgstr ""
+
+msgctxt "221"
+msgid "パニックサイズ"
+msgstr ""
+
+msgctxt "222"
+msgid "脚斬りの鎌"
+msgstr ""
+
+msgctxt "223"
+msgid "大和鎌"
+msgstr ""
+
+msgctxt "224"
+msgid "深闇の大鎌"
+msgstr ""
+
+msgctxt "225"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "226"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "227"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "228"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "229"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "230"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "231"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "232"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "233"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "234"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "235"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "236"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "237"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "238"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "239"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "240"
+msgid "確認用最強鎌"
+msgstr ""
+
+msgctxt "241"
+msgid "火槍銃"
+msgstr ""
+
+msgctxt "242"
+msgid "ハンドカノン"
+msgstr ""
+
+msgctxt "243"
+msgid "マドファ"
+msgstr ""
+
+msgctxt "244"
+msgid "ハーケンビュクゼ"
+msgstr ""
+
+msgctxt "245"
+msgid "震天雷砲"
+msgstr ""
+
+msgctxt "246"
+msgid "ハウザー"
+msgstr ""
+
+msgctxt "247"
+msgid "国崩し"
+msgstr ""
+
+msgctxt "248"
+msgid "アークウィバス"
+msgstr ""
+
+msgctxt "249"
+msgid "五雷神機"
+msgstr ""
+
+msgctxt "250"
+msgid "ダルグレーテ"
+msgstr ""
+
+msgctxt "251"
+msgid "ザールカノン"
+msgstr ""
+
+msgctxt "252"
+msgid "セイカー"
+msgstr ""
+
+msgctxt "253"
+msgid "スターバズーカ"
+msgstr ""
+
+msgctxt "254"
+msgid "ザムザマ"
+msgstr ""
+
+msgctxt "255"
+msgid "シザースカノン"
+msgstr ""
+
+msgctxt "256"
+msgid "オウム砲"
+msgstr ""
+
+msgctxt "257"
+msgid "モルター"
+msgstr ""
+
+msgctxt "258"
+msgid "トロルハウザー"
+msgstr ""
+
+msgctxt "259"
+msgid "魔線砲"
+msgstr ""
+
+msgctxt "260"
+msgid "グスタフ"
+msgstr ""
+
+msgctxt "261"
+msgid "ペッパーカノン"
+msgstr ""
+
+msgctxt "262"
+msgid "パラライモルター"
+msgstr ""
+
+msgctxt "263"
+msgid "百敵砲"
+msgstr ""
+
+msgctxt "264"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "265"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "266"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "267"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "268"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "269"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "270"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "271"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "272"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "273"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "274"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "275"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "276"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "277"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "278"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "279"
+msgid "確認用最強砲"
+msgstr ""
+
+msgctxt "280"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "281"
+msgid "カメ棺"
+msgstr ""
+
+msgctxt "282"
+msgid "布張棺"
+msgstr ""
+
+msgctxt "283"
+msgid "石棺"
+msgstr ""
+
+msgctxt "284"
+msgid "リブズコフィン"
+msgstr ""
+
+msgctxt "285"
+msgid "キトゥンコフィン"
+msgstr ""
+
+msgctxt "286"
+msgid "ジーシーガーミ"
+msgstr ""
+
+msgctxt "287"
+msgid "フロートコフィン"
+msgstr ""
+
+msgctxt "288"
+msgid "霊柩"
+msgstr ""
+
+msgctxt "289"
+msgid "猛獣の棺"
+msgstr ""
+
+msgctxt "290"
+msgid "カルニッシュ"
+msgstr ""
+
+msgctxt "291"
+msgid "コクピット"
+msgstr ""
+
+msgctxt "292"
+msgid "七星棺"
+msgstr ""
+
+msgctxt "293"
+msgid "サッドサイプレス"
+msgstr ""
+
+msgctxt "294"
+msgid "サルコファガス"
+msgstr ""
+
+msgctxt "295"
+msgid "紅甲の棺"
+msgstr ""
+
+msgctxt "296"
+msgid "カロート"
+msgstr ""
+
+msgctxt "297"
+msgid "ル・セルクイユ"
+msgstr ""
+
+msgctxt "298"
+msgid "アイアンメイデン"
+msgstr ""
+
+msgctxt "299"
+msgid "レリクアリー"
+msgstr ""
+
+msgctxt "300"
+msgid "ブラフマギリ"
+msgstr ""
+
+msgctxt "301"
+msgid "呪われし棺"
+msgstr ""
+
+msgctxt "302"
+msgid "五〇〇六式巨石棺"
+msgstr ""
+
+msgctxt "303"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "304"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "305"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "306"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "307"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "308"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "309"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "310"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "311"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "312"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "313"
+msgid "確認用最強棺"
+msgstr ""
+
+msgctxt "314"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "315"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "316"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "317"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "318"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "319"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "320"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "321"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "322"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "323"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "324"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "325"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "326"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "327"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "328"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "329"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "330"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "331"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "332"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "333"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "334"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "335"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "336"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "337"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "338"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "339"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "340"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "341"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "342"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "343"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "344"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "345"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "346"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "347"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "348"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "349"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "350"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "351"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "352"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "353"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "354"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "355"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "356"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "357"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "358"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "359"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "360"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "361"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "362"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "363"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "364"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "365"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "366"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "367"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "368"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "369"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "370"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "371"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "372"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "373"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "374"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "375"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "376"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "377"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "378"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "379"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "380"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "381"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "382"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "383"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "384"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "385"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "386"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "387"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "388"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "389"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "390"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "391"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "392"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "393"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "394"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "395"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "396"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "397"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "398"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "399"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "400"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "401"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "402"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "403"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "404"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "405"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "406"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "407"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "408"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "409"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "410"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "411"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "412"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "413"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "414"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "415"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "416"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "417"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "418"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "419"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "420"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "421"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "422"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "423"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "424"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "425"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "426"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "427"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "428"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "429"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "430"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "431"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "432"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "433"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "434"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "435"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "436"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "437"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "438"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "439"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "440"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "441"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "442"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "443"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "444"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "445"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "446"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "447"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "448"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "449"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "450"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "451"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "452"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "453"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "454"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "455"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "456"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "457"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "458"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "459"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "460"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "461"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "462"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "463"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "464"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "465"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "466"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "467"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "468"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "469"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "470"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "471"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "472"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "473"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "474"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "475"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "476"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "477"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "478"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "479"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "480"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "481"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "482"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "483"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "484"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "485"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "486"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "487"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "488"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "489"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "490"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "491"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "492"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "493"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "494"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "495"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "496"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "497"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "498"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "499"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "500"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "501"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "502"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "503"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "504"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "505"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "506"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "507"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "508"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "509"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "510"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "511"
+msgid "MSソード"
+msgstr ""
+
+msgctxt "512"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "513"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "514"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "515"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "516"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "517"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "518"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "519"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "520"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "521"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "522"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "523"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "524"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "525"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "526"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "527"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "528"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "529"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "530"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "531"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "532"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "533"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "534"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "535"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "536"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "537"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "538"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "539"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "540"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "541"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "542"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "543"
+msgid "MSアーマー"
+msgstr ""
+
+msgctxt "544"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "545"
+msgid "ハーフアーマー"
+msgstr ""
+
+msgctxt "546"
+msgid "ブレストプレート"
+msgstr ""
+
+msgctxt "547"
+msgid "トータスアーマー"
+msgstr ""
+
+msgctxt "548"
+msgid "土竜の鎧"
+msgstr ""
+
+msgctxt "549"
+msgid "スライスアーマー"
+msgstr ""
+
+msgctxt "550"
+msgid "リングメイル"
+msgstr ""
+
+msgctxt "551"
+msgid "棺の鎧"
+msgstr ""
+
+msgctxt "552"
+msgid "コンポジットアーマー"
+msgstr ""
+
+msgctxt "553"
+msgid "プラカート"
+msgstr ""
+
+msgctxt "554"
+msgid "ジョストアーマー"
+msgstr ""
+
+msgctxt "555"
+msgid "黄核の鎧"
+msgstr ""
+
+msgctxt "556"
+msgid "マクシミリアン"
+msgstr ""
+
+msgctxt "557"
+msgid "ジャザラント"
+msgstr ""
+
+msgctxt "558"
+msgid "ノーズメイル"
+msgstr ""
+
+msgctxt "559"
+msgid "ブラックプリンス"
+msgstr ""
+
+msgctxt "560"
+msgid "クリュッグ"
+msgstr ""
+
+msgctxt "561"
+msgid "レントナー"
+msgstr ""
+
+msgctxt "562"
+msgid "トネルアーマー"
+msgstr ""
+
+msgctxt "563"
+msgid "ドラグナーメイル"
+msgstr ""
+
+msgctxt "564"
+msgid "武者装束"
+msgstr ""
+
+msgctxt "565"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "566"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "567"
+msgid "駆け出しの金属鎧"
+msgstr ""
+
+msgctxt "568"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "569"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "570"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "571"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "572"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "573"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "574"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "575"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "576"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "577"
+msgid "ハイドアーマー"
+msgstr ""
+
+msgctxt "578"
+msgid "ドングリベスト"
+msgstr ""
+
+msgctxt "579"
+msgid "ヴァインアーマー"
+msgstr ""
+
+msgctxt "580"
+msgid "レザーベスト"
+msgstr ""
+
+msgctxt "581"
+msgid "ホバルジェオン"
+msgstr ""
+
+msgctxt "582"
+msgid "フースカンプ"
+msgstr ""
+
+msgctxt "583"
+msgid "グランベスト"
+msgstr ""
+
+msgctxt "584"
+msgid "クオーツアーマー"
+msgstr ""
+
+msgctxt "585"
+msgid "カラビニエール"
+msgstr ""
+
+msgctxt "586"
+msgid "ジェネラルレザー"
+msgstr ""
+
+msgctxt "587"
+msgid "ブリガンダイン"
+msgstr ""
+
+msgctxt "588"
+msgid "カステンブラスト"
+msgstr ""
+
+msgctxt "589"
+msgid "ブラッドベスト"
+msgstr ""
+
+msgctxt "590"
+msgid "フェザーアーマー"
+msgstr ""
+
+msgctxt "591"
+msgid "ヲモダカ"
+msgstr ""
+
+msgctxt "592"
+msgid "魔人の鎧"
+msgstr ""
+
+msgctxt "593"
+msgid "プロテクトベスト"
+msgstr ""
+
+msgctxt "594"
+msgid "フレアレザー"
+msgstr ""
+
+msgctxt "595"
+msgid "ハスカールレザー"
+msgstr ""
+
+msgctxt "596"
+msgid "サバイヴベスト"
+msgstr ""
+
+msgctxt "597"
+msgid "五行祈装"
+msgstr ""
+
+msgctxt "598"
+msgid "禁忌の狭衣"
+msgstr ""
+
+msgctxt "599"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "600"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "601"
+msgid "初心者の皮鎧"
+msgstr ""
+
+msgctxt "602"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "603"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "604"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "605"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "606"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "607"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "608"
+msgid "ツイード"
+msgstr ""
+
+msgctxt "609"
+msgid "モコモコなボレロ"
+msgstr ""
+
+msgctxt "610"
+msgid "ラバードレス"
+msgstr ""
+
+msgctxt "611"
+msgid "シミーズ"
+msgstr ""
+
+msgctxt "612"
+msgid "グリーンリーフ"
+msgstr ""
+
+msgctxt "613"
+msgid "ドゥドゥヌ"
+msgstr ""
+
+msgctxt "614"
+msgid "カフタンブラウス"
+msgstr ""
+
+msgctxt "615"
+msgid "リーチプリス"
+msgstr ""
+
+msgctxt "616"
+msgid "ルバシカ"
+msgstr ""
+
+msgctxt "617"
+msgid "カザック"
+msgstr ""
+
+msgctxt "618"
+msgid "ランバージャック"
+msgstr ""
+
+msgctxt "619"
+msgid "魔鳥の羽衣"
+msgstr ""
+
+msgctxt "620"
+msgid "ルーンチュニック"
+msgstr ""
+
+msgctxt "621"
+msgid "ジラフサーコート"
+msgstr ""
+
+msgctxt "622"
+msgid "ファントムローブ"
+msgstr ""
+
+msgctxt "623"
+msgid "ポルカ"
+msgstr ""
+
+msgctxt "624"
+msgid "獄長の外套"
+msgstr ""
+
+msgctxt "625"
+msgid "ナインティスリィ"
+msgstr ""
+
+msgctxt "626"
+msgid "パルマコンローブ"
+msgstr ""
+
+msgctxt "627"
+msgid "屍操士の衣"
+msgstr ""
+
+msgctxt "628"
+msgid "エンディマ"
+msgstr ""
+
+msgctxt "629"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "630"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "631"
+msgid "ビギナーのローブ"
+msgstr ""
+
+msgctxt "632"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "633"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "634"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "635"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "636"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "637"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "638"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "639"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "640"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "641"
+msgid "木彫りの髪飾り"
+msgstr ""
+
+msgctxt "642"
+msgid "革の帽子"
+msgstr ""
+
+msgctxt "643"
+msgid "蔓編みの冠"
+msgstr ""
+
+msgctxt "644"
+msgid "ターキーバレッタ"
+msgstr ""
+
+msgctxt "645"
+msgid "ヘアバンド"
+msgstr ""
+
+msgctxt "646"
+msgid "黒曜の仮面"
+msgstr ""
+
+msgctxt "647"
+msgid "スカルヘルム"
+msgstr ""
+
+msgctxt "648"
+msgid "カプトウ"
+msgstr ""
+
+msgctxt "649"
+msgid "紅翅の冠"
+msgstr ""
+
+msgctxt "650"
+msgid "カラカルメット"
+msgstr ""
+
+msgctxt "651"
+msgid "モリオン"
+msgstr ""
+
+msgctxt "652"
+msgid "ルーンサークレット"
+msgstr ""
+
+msgctxt "653"
+msgid "鳥獣の大兜"
+msgstr ""
+
+msgctxt "654"
+msgid "ピスヘルメット"
+msgstr ""
+
+msgctxt "655"
+msgid "サプリングハット"
+msgstr ""
+
+msgctxt "656"
+msgid "ピッケルハウベ"
+msgstr ""
+
+msgctxt "657"
+msgid "バウンスヘッド"
+msgstr ""
+
+msgctxt "658"
+msgid "ファングヘルム"
+msgstr ""
+
+msgctxt "659"
+msgid "思念の冠"
+msgstr ""
+
+msgctxt "660"
+msgid "ラミュロスマスク"
+msgstr ""
+
+msgctxt "661"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "662"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "663"
+msgid "見習いの帽子"
+msgstr ""
+
+msgctxt "664"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "665"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "666"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "667"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "668"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "669"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "670"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "671"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "672"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "673"
+msgid "毛糸の手袋"
+msgstr ""
+
+msgctxt "674"
+msgid "スタデッドグローブ"
+msgstr ""
+
+msgctxt "675"
+msgid "亀甲羅の手甲"
+msgstr ""
+
+msgctxt "676"
+msgid "プディングローブ"
+msgstr ""
+
+msgctxt "677"
+msgid "ウィングミット"
+msgstr ""
+
+msgctxt "678"
+msgid "ホイールグローブ"
+msgstr ""
+
+msgctxt "679"
+msgid "幽雅の手袋"
+msgstr ""
+
+msgctxt "680"
+msgid "チェイングローブ"
+msgstr ""
+
+msgctxt "681"
+msgid "テイルミット"
+msgstr ""
+
+msgctxt "682"
+msgid "ネイチャーミット"
+msgstr ""
+
+msgctxt "683"
+msgid "フレアグローブ"
+msgstr ""
+
+msgctxt "684"
+msgid "フローラルミトン"
+msgstr ""
+
+msgctxt "685"
+msgid "オミナスグローブ"
+msgstr ""
+
+msgctxt "686"
+msgid "老木の手蓋"
+msgstr ""
+
+msgctxt "687"
+msgid "結晶の手甲"
+msgstr ""
+
+msgctxt "688"
+msgid "ヴァンブレイス"
+msgstr ""
+
+msgctxt "689"
+msgid "ルチルグローブ"
+msgstr ""
+
+msgctxt "690"
+msgid "オーブガントレット"
+msgstr ""
+
+msgctxt "691"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "692"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "693"
+msgid "初陣の小手"
+msgstr ""
+
+msgctxt "694"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "695"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "696"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "697"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "698"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "699"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "700"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "701"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "702"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "703"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "704"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "705"
+msgid "リーフサンダル"
+msgstr ""
+
+msgctxt "706"
+msgid "フカフカモカシン"
+msgstr ""
+
+msgctxt "707"
+msgid "木彫りの靴"
+msgstr ""
+
+msgctxt "708"
+msgid "シカラブーツ"
+msgstr ""
+
+msgctxt "709"
+msgid "コーシカ"
+msgstr ""
+
+msgctxt "710"
+msgid "ギリー"
+msgstr ""
+
+msgctxt "711"
+msgid "キルトタッセル"
+msgstr ""
+
+msgctxt "712"
+msgid "ブローガン"
+msgstr ""
+
+msgctxt "713"
+msgid "クリスタルブーツ"
+msgstr ""
+
+msgctxt "714"
+msgid "パンダモカシン"
+msgstr ""
+
+msgctxt "715"
+msgid "怪猪の甲掛"
+msgstr ""
+
+msgctxt "716"
+msgid "ミルキーブーツ"
+msgstr ""
+
+msgctxt "717"
+msgid "レオンシンガード"
+msgstr ""
+
+msgctxt "718"
+msgid "レッドブーツ"
+msgstr ""
+
+msgctxt "719"
+msgid "バネ草履"
+msgstr ""
+
+msgctxt "720"
+msgid "巨亀の甲掛"
+msgstr ""
+
+msgctxt "721"
+msgid "バッドブーツ"
+msgstr ""
+
+msgctxt "722"
+msgid "グリーズブーツ"
+msgstr ""
+
+msgctxt "723"
+msgid "トランプルブーツ"
+msgstr ""
+
+msgctxt "724"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "725"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "726"
+msgid "旅立ちの靴"
+msgstr ""
+
+msgctxt "727"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "728"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "729"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "730"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "731"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "732"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "733"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "734"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "735"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "736"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "737"
+msgid "バックラー"
+msgstr ""
+
+msgctxt "738"
+msgid "レザーシールド"
+msgstr ""
+
+msgctxt "739"
+msgid "ラバーシールド"
+msgstr ""
+
+msgctxt "740"
+msgid "レジンタージェ"
+msgstr ""
+
+msgctxt "741"
+msgid "ティンベー"
+msgstr ""
+
+msgctxt "742"
+msgid "目競の盾"
+msgstr ""
+
+msgctxt "743"
+msgid "ゾンビシールド"
+msgstr ""
+
+msgctxt "744"
+msgid "クルビット"
+msgstr ""
+
+msgctxt "745"
+msgid "ラウンドシールド"
+msgstr ""
+
+msgctxt "746"
+msgid "サラワク"
+msgstr ""
+
+msgctxt "747"
+msgid "ボイオティア"
+msgstr ""
+
+msgctxt "748"
+msgid "ストライプパネル"
+msgstr ""
+
+msgctxt "749"
+msgid "ボディブンカー"
+msgstr ""
+
+msgctxt "750"
+msgid "ダンパーシールド"
+msgstr ""
+
+msgctxt "751"
+msgid "アスピス"
+msgstr ""
+
+msgctxt "752"
+msgid "パヴィス"
+msgstr ""
+
+msgctxt "753"
+msgid "星壊樹の盾"
+msgstr ""
+
+msgctxt "754"
+msgid "シールドファング"
+msgstr ""
+
+msgctxt "755"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "756"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "757"
+msgid "ルーキーの盾"
+msgstr ""
+
+msgctxt "758"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "759"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "760"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "761"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "762"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "763"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "764"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "765"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "766"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "767"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "768"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "769"
+msgid "毒犬のピアス"
+msgstr ""
+
+msgctxt "770"
+msgid "赤猫の首飾り"
+msgstr ""
+
+msgctxt "771"
+msgid "小妖精のリング"
+msgstr ""
+
+msgctxt "772"
+msgid "ヤギのピアス"
+msgstr ""
+
+msgctxt "773"
+msgid "コウモリの首飾り"
+msgstr ""
+
+msgctxt "774"
+msgid "禍山羊の指輪"
+msgstr ""
+
+msgctxt "775"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "776"
+msgid "キノコ型の飾り"
+msgstr ""
+
+msgctxt "777"
+msgid "彗星の飾り"
+msgstr ""
+
+msgctxt "778"
+msgid "ヘッドガード"
+msgstr ""
+
+msgctxt "779"
+msgid "アームガード"
+msgstr ""
+
+msgctxt "780"
+msgid "レッグガード"
+msgstr ""
+
+msgctxt "781"
+msgid "斬撃の守り"
+msgstr ""
+
+msgctxt "782"
+msgid "壊撃の守り"
+msgstr ""
+
+msgctxt "783"
+msgid "突撃の守り"
+msgstr ""
+
+msgctxt "784"
+msgid "炎の守り"
+msgstr ""
+
+msgctxt "785"
+msgid "氷の守り"
+msgstr ""
+
+msgctxt "786"
+msgid "雷の守り"
+msgstr ""
+
+msgctxt "787"
+msgid "エレメントガード"
+msgstr ""
+
+msgctxt "788"
+msgid "ダイレクトガード"
+msgstr ""
+
+msgctxt "789"
+msgid "強健のお守り"
+msgstr ""
+
+msgctxt "790"
+msgid "随意の飾り"
+msgstr ""
+
+msgctxt "791"
+msgid "命のベルト"
+msgstr ""
+
+msgctxt "792"
+msgid "生命のベルト"
+msgstr ""
+
+msgctxt "793"
+msgid "英気のオーブ"
+msgstr ""
+
+msgctxt "794"
+msgid "神気のオーブ"
+msgstr ""
+
+msgctxt "795"
+msgid "光輝の腕輪"
+msgstr ""
+
+msgctxt "796"
+msgid "運のネックレス"
+msgstr ""
+
+msgctxt "797"
+msgid "幸運のネックレス"
+msgstr ""
+
+msgctxt "798"
+msgid "力の指輪"
+msgstr ""
+
+msgctxt "799"
+msgid "怪力の指輪"
+msgstr ""
+
+msgctxt "800"
+msgid "体力の腕輪"
+msgstr ""
+
+msgctxt "801"
+msgid "活力の腕輪"
+msgstr ""
+
+msgctxt "802"
+msgid "脱兎のお守り"
+msgstr ""
+
+msgctxt "803"
+msgid "疾風のお守り"
+msgstr ""
+
+msgctxt "804"
+msgid "知恵のピアス"
+msgstr ""
+
+msgctxt "805"
+msgid "英知のピアス"
+msgstr ""
+
+msgctxt "806"
+msgid "全能の指輪"
+msgstr ""
+
+msgctxt "807"
+msgid "アルカディアの王冠"
+msgstr ""
+
+msgctxt "808"
+msgid "アルカディアの佩玉"
+msgstr ""
+
+msgctxt "809"
+msgid "世界樹の指輪"
+msgstr ""
+
+msgctxt "810"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "811"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "812"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "813"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "814"
+msgid "スタンシール"
+msgstr ""
+
+msgctxt "815"
+msgid "精気の勾玉"
+msgstr ""
+
+msgctxt "816"
+msgid "気魂の勾玉"
+msgstr ""
+
+msgctxt "817"
+msgid "奇跡の指輪"
+msgstr ""
+
+msgctxt "818"
+msgid "閃光のペンダント"
+msgstr ""
+
+msgctxt "819"
+msgid "鍛錬の珠"
+msgstr ""
+
+msgctxt "820"
+msgid "見晴らし水晶"
+msgstr ""
+
+msgctxt "821"
+msgid "追憶の音貝"
+msgstr ""
+
+msgctxt "822"
+msgid "魔光の首飾り"
+msgstr ""
+
+msgctxt "823"
+msgid "冒険の手引き"
+msgstr ""
+
+msgctxt "824"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "825"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "826"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "827"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "828"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "829"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "830"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "831"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "832"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "833"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "834"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "835"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "836"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "837"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "838"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "839"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "840"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "841"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "842"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "843"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "844"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "845"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "846"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "847"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "848"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "849"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "850"
+msgid "グロースバッジ"
+msgstr ""
+
+msgctxt "851"
+msgid "ドロップカメオ"
+msgstr ""
+
+msgctxt "852"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "853"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "854"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "855"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "856"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "857"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "858"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "859"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "860"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "861"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "862"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "863"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "864"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "865"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "866"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "867"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "868"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "869"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "870"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "871"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "872"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "873"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "874"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "875"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "876"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "877"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "878"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "879"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "880"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "881"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "882"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "883"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "884"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "885"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "886"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "887"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "888"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "889"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "890"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "891"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "892"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "893"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "894"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "895"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "896"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "897"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "898"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "899"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "900"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "901"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "902"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "903"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "904"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "905"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "906"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "907"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "908"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "909"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "910"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "911"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "912"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "913"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "914"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "915"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "916"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "917"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "918"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "919"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "920"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "921"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "922"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "923"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "924"
+msgid "ダミー"
+msgstr ""
