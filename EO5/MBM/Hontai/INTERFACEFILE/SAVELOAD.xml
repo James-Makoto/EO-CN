@@ -157,7 +157,7 @@
   </entry>
   <entry id="46">
     <source>システムデータを新規作成します{f801}</source>
-    <target>システムデータを新規作成します{f801}</target>
+    <target>正在创建系统数据。{f801}</target>
   </entry>
   <entry id="47">
     <source>漢字変換学習辞書をセーブしています{f801}</source>
