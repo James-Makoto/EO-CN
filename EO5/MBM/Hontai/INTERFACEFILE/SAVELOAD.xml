@@ -1,7 +1,7 @@
 <mbm>
   <entry id="1">
     <source>システムデータをセーブしています{f801}</source>
-    <target>システムデータをセーブしています{f801}</target>
+    <target>正在保存系统数据。{f801}</target>
   </entry>
   <entry id="2">
     <source>システムデータの読み込みに失敗しました{f801}システムデータを初期化します{f801}</source>
