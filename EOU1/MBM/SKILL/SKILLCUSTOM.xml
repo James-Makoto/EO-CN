@@ -3317,7 +3317,7 @@
   </entry>
   <entry id="829">
     <source>逃走失敗時はHPの減少はしない{f801}ボス戦等の逃げられない戦闘の場合{f801}必ず失敗となる{f801}</source>
-    <target>逃脱失败时不会损失HP{f801}BOSS战等不可逃脱的战斗时{f801}必定失败{f801}</target>
+    <target>逃脱失败时不会损失HP{f801}头目战等不可逃脱的战斗时{f801}必定失败{f801}</target>
   </entry>
   <entry id="830">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -8069,7 +8069,7 @@
   </entry>
   <entry id="2017">
     <source>逃走失敗時はHPの減少はしない{f801}ボス戦等の逃げられない戦闘の場合{f801}必ず失敗となる{f801}</source>
-    <target>逃脱失败时不会损失HP{f801}BOSS战等不可逃脱的战斗时{f801}必定失败{f801}</target>
+    <target>逃脱失败时不会损失HP{f801}头目战等不可逃脱的战斗时{f801}必定失败{f801}</target>
   </entry>
   <entry id="2018">
     <source>スキル習得{f801}消費TP3{f801}</source>
