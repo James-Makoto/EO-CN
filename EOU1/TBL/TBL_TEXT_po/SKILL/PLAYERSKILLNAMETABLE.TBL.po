@@ -1045,15 +1045,15 @@ msgstr "畏惧吾身吧"
 
 msgctxt "258"
 msgid "命ず、言動能わず"
-msgstr "听从吾命，切莫妄动"
+msgstr "听令，切莫妄动"
 
 msgctxt "259"
 msgid "命ず、輩を喰らえ"
-msgstr "听从吾命，啃食战友"
+msgstr "听令，啃食战友"
 
 msgctxt "260"
 msgid "命ず、自ら裁せよ"
-msgstr "听从吾命，自我了断"
+msgstr "听令，自我了断"
 
 msgctxt "261"
 msgid "殺気解放"
