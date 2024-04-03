@@ -13,1024 +13,1024 @@ msgstr ""
 
 msgctxt "0"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "1"
 msgid "樹海魚"
-msgstr ""
+msgstr "树海鱼"
 
 msgctxt "2"
 msgid "焼き魚"
-msgstr ""
+msgstr "烤鱼"
 
 msgctxt "3"
 msgid "獣肉"
-msgstr ""
+msgstr "兽肉"
 
 msgctxt "4"
 msgid "ロースト肉"
-msgstr ""
+msgstr "烤肉"
 
 msgctxt "5"
 msgid "樹海コムギ"
-msgstr ""
+msgstr "树海小麦"
 
 msgctxt "6"
 msgid "マンドラジャガ"
-msgstr ""
+msgstr "曼德拉马铃薯"
 
 msgctxt "7"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "8"
 msgid "旅人のシチュー"
-msgstr ""
+msgstr "旅行者的炖菜"
 
 msgctxt "9"
 msgid "山都のつみれ汁"
-msgstr ""
+msgstr "山都的鱼丸汤"
 
 msgctxt "10"
 msgid "白パン"
-msgstr ""
+msgstr "白面包"
 
 msgctxt "11"
 msgid "干し魚"
-msgstr ""
+msgstr "鱼干"
 
 msgctxt "12"
 msgid "ゆでザリガニ"
-msgstr ""
+msgstr "水煮龙虾"
 
 msgctxt "13"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "14"
 msgid "樹海ベリー"
-msgstr ""
+msgstr "树海浆果"
 
 msgctxt "15"
 msgid "タマゴ"
-msgstr ""
+msgstr "鸡蛋"
 
 msgctxt "16"
 msgid "フルーツパン"
-msgstr ""
+msgstr "水果面包"
 
 msgctxt "17"
 msgid "目玉焼きパン"
-msgstr ""
+msgstr "煎蛋面包"
 
 msgctxt "18"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "19"
 msgid "月リンゴ"
-msgstr ""
+msgstr "月苹果"
 
 msgctxt "20"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "21"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "22"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "23"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "24"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "25"
 msgid "ミルク"
-msgstr ""
+msgstr "牛奶"
 
 msgctxt "26"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "27"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "28"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "29"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "30"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "31"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "32"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "33"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "34"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "35"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "36"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "37"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "38"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "39"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "40"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "41"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "42"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "43"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "44"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "45"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "46"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "47"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "48"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "49"
 msgid "焼きリンゴ"
-msgstr ""
+msgstr "烤苹果"
 
 msgctxt "50"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "51"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "52"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "53"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "54"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "55"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "56"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "57"
 msgid "オリーブ"
-msgstr ""
+msgstr "橄榄油"
 
 msgctxt "58"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "59"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "60"
 msgid "樹海ハチミツ"
-msgstr ""
+msgstr "树海蜂蜜"
 
 msgctxt "61"
 msgid "ガイコツ魚"
-msgstr ""
+msgstr "骨架鱼"
 
 msgctxt "62"
 msgid "パンケーキ"
-msgstr ""
+msgstr "薄饼"
 
 msgctxt "63"
 msgid "果実の蜂蜜漬け"
-msgstr ""
+msgstr "蜜饯果实"
 
 msgctxt "64"
 msgid "蜂蜜ヨーグルト"
-msgstr ""
+msgstr "蜂蜜酸奶"
 
 msgctxt "65"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "66"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "67"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "68"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "69"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "70"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "71"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "72"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "73"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "74"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "75"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "76"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "77"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "78"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "79"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "80"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "81"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "82"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "83"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "84"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "85"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "86"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "87"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "88"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "89"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "90"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "91"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "92"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "93"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "94"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "95"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "96"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "97"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "98"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "99"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "100"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "101"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "102"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "103"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "104"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "105"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "106"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "107"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "108"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "109"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "110"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "111"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "112"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "113"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "114"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "115"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "116"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "117"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "118"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "119"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "120"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "121"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "122"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "123"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "124"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "125"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "126"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "127"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "128"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "129"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "130"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "131"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "132"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "133"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "134"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "135"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "136"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "137"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "138"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "139"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "140"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "141"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "142"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "143"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "144"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "145"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "146"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "147"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "148"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "149"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "150"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "151"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "152"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "153"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "154"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "155"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "156"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "157"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "158"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "159"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "160"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "161"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "162"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "163"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "164"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "165"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "166"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "167"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "168"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "169"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "170"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "171"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "172"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "173"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "174"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "175"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "176"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "177"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "178"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "179"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "180"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "181"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "182"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "183"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "184"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "185"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "186"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "187"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "188"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "189"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "190"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "191"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "192"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "193"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "194"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "195"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "196"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "197"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "198"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "199"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "200"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "201"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "202"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "203"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "204"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "205"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "206"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "207"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "208"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "209"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "210"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "211"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "212"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "213"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "214"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "215"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "216"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "217"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "218"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "219"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "220"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "221"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "222"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "223"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "224"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "225"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "226"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "227"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "228"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "229"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "230"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "231"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "232"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "233"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "234"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "235"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "236"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "237"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "238"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "239"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "240"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "241"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "242"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "243"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "244"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "245"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "246"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "247"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "248"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "249"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "250"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "251"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "252"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "253"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "254"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "255"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
