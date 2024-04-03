@@ -577,7 +577,7 @@
   </entry>
   <entry id="174">
     <source>所持している素材を捨てると{f801}enに換金されるようになるスキル{f801}</source>
-    <target>丢弃所持素材时{f801}可换钱的技能{f801}</target>
+    <target>可将丢弃的所持素材{f801}换钱的技能{f801}</target>
   </entry>
   <entry id="175">
     <source>{f811}{0000}ターンの間{f801}敵全体の属性防御力を低下させる{f801}</source>
