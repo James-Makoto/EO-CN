@@ -997,7 +997,7 @@
   </entry>
   <entry id="308">
     <source>戦闘中一定確率で{f801}使用したスキル分のTPが回復する{f801}</source>
-    <target>战斗中一定几率{f801}恢复以使用技能的TP{f801}</target>
+    <target>战斗中一定几率{f801}恢复已使用技能的TP{f801}</target>
   </entry>
   <entry id="309">
     <source>味方1人の状態異常とHPを回復する{f801}</source>
