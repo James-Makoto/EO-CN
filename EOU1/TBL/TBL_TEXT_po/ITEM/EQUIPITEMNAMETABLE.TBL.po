@@ -3249,7 +3249,7 @@ msgstr "埃托利亚王冠"
 
 msgctxt "809"
 msgid "グリモア"
-msgstr "魔法书"
+msgstr "魔导石"
 
 msgctxt "810"
 msgid "スカルンバレッタ"
