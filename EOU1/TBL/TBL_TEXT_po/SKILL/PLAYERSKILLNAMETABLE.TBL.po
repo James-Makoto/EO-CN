@@ -1871,6 +1871,10 @@ msgctxt "464"
 msgid "ライザーファング"
 msgstr "雷射獠牙"
 
+msgctxt "465"
+msgid "ＤＵＭＭＹ"
+msgstr "ＤＵＭＭＹ"
+
 msgctxt "466"
 msgid "からみつき"
 msgstr "缠络"
