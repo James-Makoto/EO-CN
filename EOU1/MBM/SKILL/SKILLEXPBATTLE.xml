@@ -1073,7 +1073,7 @@
   </entry>
   <entry id="333">
     <source>このターン{f801}味方全体への物理・属性ダメージを軽減する{f801}</source>
-    <target>本回合{f801}降低我方全体物理・属性伤害{f801}</target>
+    <target>本回合{f801}降低我方全体受到的物理・属性伤害{f801}</target>
   </entry>
   <entry id="334">
     <source>このターン{f801}味方全体を最遅行動させる{f801}</source>
