@@ -1433,11 +1433,11 @@ msgstr "万能药α"
 
 msgctxt "355"
 msgid "テアリカα"
-msgstr "万能药β"
+msgstr "万能药α"
 
 msgctxt "356"
 msgid "テアリカα"
-msgstr "万能药β"
+msgstr "万能药α"
 
 msgctxt "357"
 msgid "ラストチェイス"
