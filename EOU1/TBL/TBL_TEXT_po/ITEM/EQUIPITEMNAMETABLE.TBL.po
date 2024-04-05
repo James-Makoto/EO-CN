@@ -2058,7 +2058,7 @@ msgstr "ダミー"
 
 msgctxt "511"
 msgid "テストナイフ"
-msgstr "テストナイフ"
+msgstr "测试小刀"
 
 msgctxt "512"
 msgid "ダミー"

@@ -1538,7 +1538,7 @@ msgstr "素材バッファ80"
 
 msgctxt "381"
 msgid "素材バッファ81"
-msgstr "素材バッファ81"
+msgstr "素材バッファ81 "
 
 msgctxt "382"
 msgid "素材バッファ82"

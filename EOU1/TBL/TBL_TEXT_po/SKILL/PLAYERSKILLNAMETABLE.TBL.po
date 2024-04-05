@@ -1462,7 +1462,7 @@ msgstr "刚硬石胶"
 
 msgctxt "362"
 msgid "耐熱ミスト"
-msgstr "抗热喷雾 "
+msgstr "抗热喷雾"
 
 msgctxt "363"
 msgid "耐氷ミスト"
