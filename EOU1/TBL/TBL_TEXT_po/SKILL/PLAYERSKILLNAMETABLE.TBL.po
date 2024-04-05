@@ -141,11 +141,11 @@ msgstr "追击号令"
 
 msgctxt "32"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "33"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "34"
 msgid "ＡＧＩブースト"
@@ -261,11 +261,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "62"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "63"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "64"
 msgid "ＤＥＦブースト"
@@ -381,11 +381,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "92"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "93"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "94"
 msgid "ＡＴＫブースト"
@@ -501,11 +501,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "122"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "123"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "124"
 msgid "ＡＴＫブースト"
@@ -621,7 +621,7 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "152"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "153"
 msgid "術式マスタリー"
@@ -741,11 +741,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "182"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "183"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "184"
 msgid "歌マスタリー"
@@ -861,11 +861,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "212"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "213"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "214"
 msgid "ＡＴＫブースト"
@@ -981,11 +981,11 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "242"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "243"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "244"
 msgid "呪言マスタリー"
@@ -1101,7 +1101,7 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "272"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "273"
 msgid "ＡＴＫブースト"
@@ -1221,7 +1221,7 @@ msgstr "ＤＵＭＭＹ"
 
 msgctxt "302"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "303"
 msgid "ＡＴＫブースト"
