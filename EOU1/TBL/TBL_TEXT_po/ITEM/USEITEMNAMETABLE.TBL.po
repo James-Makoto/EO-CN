@@ -2157,7 +2157,7 @@ msgstr "深红镰刀"
 
 msgctxt "536"
 msgid "モリビトへの手紙"
-msgstr "守林人的信"
+msgstr "森守族的信"
 
 msgctxt "537"
 msgid "熊への贈り物"
