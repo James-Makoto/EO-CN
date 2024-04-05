@@ -1821,15 +1821,15 @@ msgstr "睡眠之香"
 
 msgctxt "452"
 msgid "縺れ糸:頭"
-msgstr "结绳:头"
+msgstr "捆缚索:头"
 
 msgctxt "453"
 msgid "縺れ糸:腕"
-msgstr "结绳:臂"
+msgstr "捆缚索:臂"
 
 msgctxt "454"
 msgid "縺れ糸:脚"
-msgstr "结绳:腿"
+msgstr "捆缚索:腿"
 
 msgctxt "455"
 msgid "輪廻の護符"
@@ -2157,7 +2157,7 @@ msgstr "深红镰刀"
 
 msgctxt "536"
 msgid "モリビトへの手紙"
-msgstr "森守族的信"
+msgstr "给森守族的信"
 
 msgctxt "537"
 msgid "熊への贈り物"
@@ -2521,7 +2521,7 @@ msgstr "贯穿之锤"
 
 msgctxt "627"
 msgid "拡散のハンマー"
-msgstr "拡扩散之锤"
+msgstr "扩散之锤"
 
 msgctxt "628"
 msgid "アザー478"

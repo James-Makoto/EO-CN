@@ -21,11 +21,11 @@ msgstr "攻击"
 
 msgctxt "2"
 msgid "ＨＰブースト"
-msgstr "ＨＰ提升"
+msgstr "最大ＨＰ提升"
 
 msgctxt "3"
 msgid "ＴＰブースト"
-msgstr "ＴＰ提升"
+msgstr "最大ＴＰ提升"
 
 msgctxt "4"
 msgid "ＡＴＫブースト"
@@ -49,7 +49,7 @@ msgstr "双重攻击"
 
 msgctxt "9"
 msgid "ウォークライ"
-msgstr "战争咆哮"
+msgstr "战吼"
 
 msgctxt "10"
 msgid "追撃の号令"
@@ -105,7 +105,7 @@ msgstr "挖掘"
 
 msgctxt "23"
 msgid "パワースラップ"
-msgstr "威力挥砍"
+msgstr "奋力挥砍"
 
 msgctxt "24"
 msgid "サベージクライ"
@@ -185,7 +185,7 @@ msgstr "脑内啡"
 
 msgctxt "43"
 msgid "アザーズステップ"
-msgstr "战术步法"
+msgstr "调整步调"
 
 msgctxt "44"
 msgid "パワーショット"
@@ -197,11 +197,11 @@ msgstr "双重射击"
 
 msgctxt "46"
 msgid "エイミングフット"
-msgstr "瞄准腿部"
+msgstr "狙击腿部"
 
 msgctxt "47"
 msgid "サジタリウスの矢"
-msgstr "射手座之箭"
+msgstr "射手座之矢"
 
 msgctxt "48"
 msgid "オウルアイ"
@@ -229,7 +229,7 @@ msgstr "高效利用"
 
 msgctxt "54"
 msgid "シュアヒット"
-msgstr "命中必定"
+msgstr "必中"
 
 msgctxt "55"
 msgid "簡易蘇生"
@@ -237,7 +237,7 @@ msgstr "简易苏生"
 
 msgctxt "56"
 msgid "サジタリウスの矢"
-msgstr "射手座之箭"
+msgstr "射手座之矢"
 
 msgctxt "57"
 msgid "ＤＵＭＭＹ"
@@ -305,11 +305,11 @@ msgstr "防御阵型"
 
 msgctxt "73"
 msgid "フロントガード"
-msgstr "前排守护"
+msgstr "前列守护"
 
 msgctxt "74"
 msgid "バックガード"
-msgstr "后排守护"
+msgstr "后列守护"
 
 msgctxt "75"
 msgid "ファイアガード"
@@ -345,7 +345,7 @@ msgstr "挖掘"
 
 msgctxt "83"
 msgid "シールドラッシュ"
-msgstr "盾冲击"
+msgstr "盾冲"
 
 msgctxt "84"
 msgid "警戒斥候"
@@ -353,7 +353,7 @@ msgstr "警戒斥候"
 
 msgctxt "85"
 msgid "パワーディバイド"
-msgstr "威力庇佑"
+msgstr "强力庇佑"
 
 msgctxt "86"
 msgid "ＤＵＭＭＹ"
@@ -413,7 +413,7 @@ msgstr "暗影潜藏"
 
 msgctxt "100"
 msgid "アナコンダ"
-msgstr "森蚺毒击"
+msgstr "蚺蛇毒击"
 
 msgctxt "101"
 msgid "ヘッドボンデージ"
@@ -429,7 +429,7 @@ msgstr "手臂束缚"
 
 msgctxt "104"
 msgid "エクスタシー"
-msgstr "忘我一击"
+msgstr "嗜虐狂喜"
 
 msgctxt "105"
 msgid "ジエンド"
@@ -441,7 +441,7 @@ msgstr "睡神突刺"
 
 msgctxt "107"
 msgid "ショックバイト"
-msgstr "休克突刺"
+msgstr "麻痹突刺"
 
 msgctxt "108"
 msgid "ミラージュバイト"
@@ -469,11 +469,11 @@ msgstr "黑暗诅咒"
 
 msgctxt "114"
 msgid "ハートバインド"
-msgstr "艰难束缚"
+msgstr "心流扰乱"
 
 msgctxt "115"
 msgid "ソウルリベレイト"
-msgstr "灵魂解放"
+msgstr "魂之解放"
 
 msgctxt "116"
 msgid "トラッピング"
@@ -513,7 +513,7 @@ msgstr "ＡＴＫ提升"
 
 msgctxt "125"
 msgid "回復マスタリー"
-msgstr "恢复精通"
+msgstr "治疗精通"
 
 msgctxt "126"
 msgid "パライズドラッグ"
@@ -553,11 +553,11 @@ msgstr "复苏"
 
 msgctxt "135"
 msgid "バインドリカバリ"
-msgstr "捆缚解除"
+msgstr "束缚解除"
 
 msgctxt "136"
 msgid "リフレッシュ"
-msgstr "重振"
+msgstr "重振精神"
 
 msgctxt "137"
 msgid "医術防御"
@@ -881,7 +881,7 @@ msgstr "一刀两断"
 
 msgctxt "217"
 msgid "一閃ブースト"
-msgstr "一闪提升"
+msgstr "一闪强化"
 
 msgctxt "218"
 msgid "息吹"
@@ -953,11 +953,11 @@ msgstr "无双架势"
 
 msgctxt "235"
 msgid "阿吽の尾撃"
-msgstr "阿吽尾击"
+msgstr "阿吽追击"
 
 msgctxt "236"
 msgid "阿吽の尾撃"
-msgstr "阿吽尾击"
+msgstr "阿吽追击"
 
 msgctxt "237"
 msgid "一刀両断"
@@ -1121,7 +1121,7 @@ msgstr "血之暴走"
 
 msgctxt "277"
 msgid "ハーベスト"
-msgstr "成果收割"
+msgstr "生命收割"
 
 msgctxt "278"
 msgid "防衛本能"
@@ -1189,11 +1189,11 @@ msgstr "羁绊恩惠"
 
 msgctxt "294"
 msgid "不可視の霊盾"
-msgstr "不可见的灵盾"
+msgstr "隐形灵盾"
 
 msgctxt "295"
 msgid "ブラッドウェポン"
-msgstr "血腥武器"
+msgstr "缠血之刃"
 
 msgctxt "296"
 msgid "血の暴走"
@@ -1313,7 +1313,7 @@ msgstr "充能射击"
 
 msgctxt "325"
 msgid "アクトブースト"
-msgstr "二次行动"
+msgstr "行动加速"
 
 msgctxt "326"
 msgid "ＤＵＭＭＹ"
@@ -1349,7 +1349,7 @@ msgstr "深森的守护"
 
 msgctxt "334"
 msgid "女王の先触れ"
-msgstr "女王的触碰"
+msgstr "女王的先兆"
 
 msgctxt "335"
 msgid "深海の祈り"
@@ -1441,7 +1441,7 @@ msgstr "万能药α"
 
 msgctxt "357"
 msgid "ラストチェイス"
-msgstr "最后追逐"
+msgstr "最后追击"
 
 msgctxt "358"
 msgid "ラウダナム"
@@ -1581,15 +1581,15 @@ msgstr "睡眠之香"
 
 msgctxt "392"
 msgid "縺れ糸:頭"
-msgstr "结绳:头"
+msgstr "捆缚索:头"
 
 msgctxt "393"
 msgid "縺れ糸:腕"
-msgstr "结绳:臂"
+msgstr "捆缚索:臂"
 
 msgctxt "394"
 msgid "縺れ糸:脚"
-msgstr "结绳:腿"
+msgstr "捆缚索:腿"
 
 msgctxt "395"
 msgid "輪廻の護符"
@@ -2109,7 +2109,7 @@ msgstr "盲目横劈"
 
 msgctxt "524"
 msgid "鋸刃薙ぎ"
-msgstr "锯刃薙刀"
+msgstr "锯刃横斩"
 
 msgctxt "525"
 msgid "フリーズ"
@@ -2769,7 +2769,7 @@ msgstr "火龙猛攻"
 
 msgctxt "689"
 msgid "ドラゴンクロー"
-msgstr "巨龙克隆"
+msgstr "龙之爪击"
 
 msgctxt "690"
 msgid "メッセージ付待機"
@@ -2881,7 +2881,7 @@ msgstr "三连锤击"
 
 msgctxt "717"
 msgid "リジェネ"
-msgstr "重注生命"
+msgstr "再生"
 
 msgctxt "718"
 msgid "フォースウォール"

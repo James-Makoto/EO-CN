@@ -2057,7 +2057,7 @@ msgstr "ダミー"
 
 msgctxt "511"
 msgid "テストナイフ"
-msgstr "テストナイフ"
+msgstr "测试小刀"
 
 msgctxt "512"
 msgid "ダミー"
@@ -2893,7 +2893,7 @@ msgstr "狩猎短靴"
 
 msgctxt "720"
 msgid "カクタスブーツ"
-msgstr "多肉短靴"
+msgstr "仙人掌短靴"
 
 msgctxt "721"
 msgid "キルトタッセル"
