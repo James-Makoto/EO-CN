@@ -13,108 +13,108 @@ msgstr ""
 
 msgctxt "0"
 msgid "ダミー"
-msgstr ""
+msgstr "不知名"
 
 msgctxt "1"
 msgid "ジェネッタ"
-msgstr ""
+msgstr "洁涅塔"
 
 msgctxt "2"
 msgid "セリク"
-msgstr ""
+msgstr "赛利克"
 
 msgctxt "3"
 msgid "メリーナ"
-msgstr ""
+msgstr "梅莉娜"
 
 msgctxt "4"
 msgid "エドガー"
-msgstr ""
+msgstr "艾德格"
 
 msgctxt "5"
 msgid "レムス"
-msgstr ""
+msgstr "雷姆斯"
 
 msgctxt "6"
 msgid "ソロル"
-msgstr ""
+msgstr "索罗尔"
 
 msgctxt "7"
 msgid "リリ"
-msgstr ""
+msgstr "莉莉"
 
 msgctxt "8"
 msgid "アルコン"
-msgstr ""
+msgstr "亚尔柯"
 
 msgctxt "9"
 msgid "衛兵"
-msgstr ""
+msgstr "卫兵"
 
 msgctxt "10"
 msgid "タウンクライヤー"
-msgstr ""
+msgstr "城市传令官"
 
 msgctxt "11"
 msgid "黒背景"
-msgstr ""
+msgstr "黑背景"
 
 msgctxt "12"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "13"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "14"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "15"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "16"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "17"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "18"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "19"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "20"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "21"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "22"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "23"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "24"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "25"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "26"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"

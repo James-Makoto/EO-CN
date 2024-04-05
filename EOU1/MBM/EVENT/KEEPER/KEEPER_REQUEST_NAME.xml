@@ -9,7 +9,7 @@
   </entry>
   <entry id="2">
     <source>モリビトからの討伐依頼{f801}</source>
-    <target>守林人发布的讨伐委托{f801}</target>
+    <target>森守族发布的讨伐委托{f801}</target>
   </entry>
   <entry id="3">
     <source>メイドからの納品依頼{f801}</source>
@@ -21,7 +21,7 @@
   </entry>
   <entry id="5">
     <source>モリビトからの納品依頼{f801}</source>
-    <target>守林人发布的物品委托{f801}</target>
+    <target>森守族发布的物品委托{f801}</target>
   </entry>
   <entry id="6">
     <source>メイドからの採集依頼{f801}</source>
@@ -33,6 +33,6 @@
   </entry>
   <entry id="8">
     <source>モリビトからの採集依頼{f801}</source>
-    <target>守林人发布的收集委托{f801}</target>
+    <target>森守族发布的收集委托{f801}</target>
   </entry>
 </mbm>
