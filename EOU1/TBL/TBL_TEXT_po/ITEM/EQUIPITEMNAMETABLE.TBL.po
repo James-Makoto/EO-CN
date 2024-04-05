@@ -3269,7 +3269,7 @@ msgstr "世界树胸针"
 
 msgctxt "814"
 msgid "呪牙のアミュレット"
-msgstr "咒牙护符ト"
+msgstr "咒牙护符"
 
 msgctxt "815"
 msgid "蠢くたて琴"
