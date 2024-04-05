@@ -10,7 +10,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
 
 msgctxt "0"
 msgid "ブランク"
@@ -1434,11 +1433,11 @@ msgstr "万能药α"
 
 msgctxt "355"
 msgid "テアリカα"
-msgstr "万能药β"
+msgstr "万能药α"
 
 msgctxt "356"
 msgid "テアリカα"
-msgstr "万能药β"
+msgstr "万能药α"
 
 msgctxt "357"
 msgid "ラストチェイス"
@@ -1871,6 +1870,10 @@ msgstr "奋力猛进"
 msgctxt "464"
 msgid "ライザーファング"
 msgstr "雷射獠牙"
+
+msgctxt "465"
+msgid "ＤＵＭＭＹ"
+msgstr "ＤＵＭＭＹ"
 
 msgctxt "466"
 msgid "からみつき"
