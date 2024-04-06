@@ -189,7 +189,7 @@
   </entry>
   <entry id="55">
     <source>{f811}{0100}は{f801}{f811}{0000}を起動した!{f801}</source>
-    <target>{f811}{0100}{f801}{f811}{0000}已经启动了!{f801}</target>
+    <target>{f811}{0100}使用了{f801}{f811}{0000}!{f801}</target>
   </entry>
   <entry id="56">
     <source>貴重品はありません{f801}</source>
