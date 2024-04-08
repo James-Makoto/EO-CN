@@ -1,7 +1,7 @@
 <mbm>
   <entry id="1">
     <source>新・世界樹の迷宮のQRコードでは{f801}ありません。{f801}</source>
-    <target>这不是《新・世界树迷宫》的QR码。{f801}</target>
+    <target>这不是《新・世界树的迷宫》的QR码。{f801}</target>
   </entry>
   <entry id="2">
     <source>ギルドカードの登録数が上限に{f801}達しているため登録できません。{f801}{f802}ギルドカードの管理で削除してください。{f801}</source>
@@ -73,7 +73,7 @@
   </entry>
   <entry id="28">
     <source>外側カメラで新・世界樹の迷宮の{f801}QRコードを写してください。{f801}</source>
-    <target>请使用外侧摄像头扫描{f801}《新・世界树迷宫》的QR码。{f801}</target>
+    <target>请使用外侧摄像头扫描{f801}《新・世界树的迷宫》的QR码。{f801}</target>
   </entry>
   <entry id="29">
     <source>このクエストは既にクリアしているため、{f801}受領できません。{f801}</source>
@@ -97,14 +97,14 @@
   </entry>
   <entry id="40">
     <source>新・世界樹の迷宮では世界樹の迷宮{8757}の{f801}QRコードは受け取ることができません。{f801}</source>
-    <target>《新・世界树迷宫》无法接收{f801}世界树迷宫{8757}的QR码。{f801}</target>
+    <target>《新・世界树的迷宫》无法接收{f801}世界树迷宫{8757}的QR码。{f801}</target>
   </entry>
   <entry id="41">
     <source>新・世界樹の迷宮ではQRクエストの{f801}QRコードは受け取ることができません。{f801}</source>
-    <target>《新・世界树迷宫》无法通过QR码{f801}接取QR酒馆委托。{f801}</target>
+    <target>《新・世界树的迷宫》无法通过QR码{f801}接取QR酒馆委托。{f801}</target>
   </entry>
   <entry id="42">
     <source>新・世界樹の迷宮ではQRギフトの{f801}QRコードは受け取ることができません。{f801}</source>
-    <target>《新・世界树迷宫》无法通过QR码{f801}接取QR礼物。{f801}</target>
+    <target>《新・世界树的迷宫》无法通过QR码{f801}接取QR礼物。{f801}</target>
   </entry>
 </mbm>

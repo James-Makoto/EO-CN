@@ -5,7 +5,7 @@
   </entry>
   <entry id="1">
     <source>新・世界樹の迷宮のすれちがい通信は{f801}すでに登録されています。{f801}</source>
-    <target>《新・世界树迷宫》的瞬缘通信已登录。{f801}</target>
+    <target>《新・世界树的迷宫》的瞬缘通信已登录。{f801}</target>
   </entry>
   <entry id="2">
     <source>すれちがい通信をやめるときは{f801}HOMEメニューから「本体設定」を選び{f801}</source>
@@ -57,7 +57,7 @@
   </entry>
   <entry id="42">
     <source>ニンテンドー3DS本体に新・世界樹の迷宮{f801}のすれちがい通信を登録しますか?{f801}</source>
-    <target>要在此Nintendo 3DS主机{f801}登录《新・世界树迷宫》的瞬缘通信吗?{f801}</target>
+    <target>要在此Nintendo 3DS主机{f801}登录《新・世界树的迷宫》的瞬缘通信吗?{f801}</target>
   </entry>
   <entry id="50">
     <source>ダミー{f801}</source>
@@ -65,7 +65,7 @@
   </entry>
   <entry id="51">
     <source>新・世界樹の迷宮のすれちがい通信を{f801}ニンテンドー3DS本体に登録しました。{f801}</source>
-    <target>已在此Nintendo 3DS主机{f801}登录《新・世界树迷宫》的瞬缘通信。{f801}</target>
+    <target>已在此Nintendo 3DS主机{f801}登录《新・世界树的迷宫》的瞬缘通信。{f801}</target>
   </entry>
   <entry id="52">
     <source>このゲームを終了しても{f801}すれちがい通信は自動で行われます。{f801}</source>
