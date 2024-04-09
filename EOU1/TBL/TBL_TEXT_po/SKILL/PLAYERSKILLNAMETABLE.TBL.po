@@ -2721,7 +2721,7 @@ msgstr "坏死"
 
 msgctxt "677"
 msgid "ハルマゲドン"
-msgstr "哈米吉多顿"
+msgstr "终末之战"
 
 msgctxt "678"
 msgid "セルメンブレン"
