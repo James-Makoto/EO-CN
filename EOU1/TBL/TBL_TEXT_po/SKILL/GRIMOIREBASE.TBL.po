@@ -29,4 +29,4 @@ msgstr "制作者不明的<zbr>"
 
 msgctxt "4"
 msgid "との戦闘で<zbr>生まれたグリモア石<br>"
-msgstr "战斗后<zbr>生成的魔导石<br>"
+msgstr "之战后<zbr>生成的魔导石<br>"
