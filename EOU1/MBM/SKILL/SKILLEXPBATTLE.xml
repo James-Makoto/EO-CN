@@ -1957,7 +1957,7 @@
   </entry>
   <entry id="641">
     <source>敵複数体に遠隔氷属性攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
-    <target>敵複数体に远隔冰属性攻击{f801}一定几率发动睡眠效果{f801}</target>
+    <target>对敌方全体数次远隔冰属性攻击{f801}一定几率发动睡眠效果{f801}</target>
   </entry>
   <entry id="642">
     <source>敵1体に近接壊攻撃{f801}</source>

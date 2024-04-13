@@ -21,11 +21,11 @@
   </entry>
   <entry id="5">
     <source>このギルドカードを削除します{f801}よろしいですか?{f801}</source>
-    <target>将删除这个公会卡牌。{f801}确定吗?{f801}</target>
+    <target>将删除这个公会名牌。{f801}确定吗?{f801}</target>
   </entry>
   <entry id="6">
     <source>ギルドカードを削除しました。{f801}</source>
-    <target>已删除公会卡牌。{f801}</target>
+    <target>已删除公会名牌。{f801}</target>
   </entry>
   <entry id="7">
     <source>レベルが足りません。{f801}</source>
@@ -65,7 +65,7 @@
   </entry>
   <entry id="20">
     <source>自分のギルドカードのQRコードと{f801}画像データをSDカードに出力します。{f801}{f804}{0300}既にデータが存在する場合は上書きします。{f804}{0000}{f801}</source>
-    <target>将自己的公会卡牌的{f801}QR码图像导出到SD卡内。{f801}{f804}{0300}已存在的数据将会被覆盖。{f804}{0000}{f801}</target>
+    <target>将自己的公会名牌的{f801}QR码图像导出到SD卡内。{f801}{f804}{0300}已存在的数据将会被覆盖。{f804}{0000}{f801}</target>
   </entry>
   <entry id="21">
     <source>SDカードに出力してよろしいですか?{f801}</source>
@@ -89,7 +89,7 @@
   </entry>
   <entry id="26">
     <source>ギルドカードのデータを画像データとして{f801}SDカードに出力してよろしいですか?{f801}</source>
-    <target>要将公会卡牌的数据以图像形式{f801}导出到SD卡中吗?{f801}</target>
+    <target>要将公会名牌的数据以图像形式{f801}导出到SD卡中吗?{f801}</target>
   </entry>
   <entry id="27">
     <source>画像データの出力に失敗しました。{f801}</source>
@@ -97,7 +97,7 @@
   </entry>
   <entry id="28">
     <source>ギルドカードの画像を{f801}SDカードに出力しました。{f801}</source>
-    <target>公会卡牌的图像{f801}已导出到SD卡中。{f801}</target>
+    <target>公会名牌的图像{f801}已导出到SD卡中。{f801}</target>
   </entry>
   <entry id="29">
     <source>グリモアを生成しますか?{f801}</source>
