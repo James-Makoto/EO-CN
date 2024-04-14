@@ -349,7 +349,7 @@
   </entry>
   <entry id="105">
     <source>HPが一定値以下の敵1体を一定確率で{f801}即死させ、HPを吸収する近接斬攻撃{f801}</source>
-    <target>使一定值HP以下的1个敌人一定几率{f801}并且吸收HP的近接斩击攻击{f801}</target>
+    <target>使一定HP值以下的1个敌人一定几率即死{f801}并且吸收HP的近接斩击攻击{f801}</target>
   </entry>
   <entry id="106">
     <source>敵1体に近接斬攻撃{f801}一定確率で睡眠効果が発動する{f801}</source>
