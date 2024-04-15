@@ -41,11 +41,11 @@ msgstr "可赋予持有者<zbr>发动强大剑技力量的魔石。"
 
 msgctxt "7"
 msgid "戦いを有利に運ぶ戦技を<zbr>秘めた魔石。"
-msgstr "蕴含能为战局带来优势<zbr>战技的魔石。"
+msgstr "蕴含能让战局占上风的<zbr>战技的魔石。"
 
 msgctxt "8"
 msgid "冒険中の採集技術を<zbr>秘めた魔石。"
-msgstr "蕴含冒险时<zbr>收集技能的魔石。"
+msgstr "蕴含利于冒险的<zbr>收集技能的魔石。"
 
 msgctxt "9"
 msgid "所有者の肉体に敏捷性を<zbr>付与する力を秘めた魔石。"
@@ -57,11 +57,11 @@ msgstr "可赋予持有者<zbr>发动强大弓技力量的魔石。"
 
 msgctxt "11"
 msgid "迷宮探索を有利に運ぶ力を<zbr>秘めた魔石。"
-msgstr "蕴含使迷宫探索更便利<zbr>力量的魔石。"
+msgstr "蕴含使迷宫探索更便利的<zbr>力量的魔石。"
 
 msgctxt "12"
 msgid "傷ついた身体を治癒する技術<zbr>を秘めた魔石。"
-msgstr "拥有治愈受伤身体<zbr>技能的魔石。"
+msgstr "拥有能治愈受伤身体的<zbr>技能的魔石。"
 
 msgctxt "13"
 msgid "所有者の防御力を高める力を<zbr>秘めた魔石。"
@@ -81,7 +81,7 @@ msgstr "可赋予持有者<zbr>发动强大鞭技力量的魔石。"
 
 msgctxt "17"
 msgid "傷ついた身体を治癒する<zbr>技術を秘めた魔石。"
-msgstr "拥有治愈受伤身体<zbr>技能的魔石。"
+msgstr "拥有能治愈受伤身体的<zbr>技能的魔石。"
 
 msgctxt "18"
 msgid "凄まじい杖技を発動する力を<zbr>秘めた魔石。"
@@ -93,7 +93,7 @@ msgstr "可赋予持有者<zbr>发动强大术式力量的魔石。"
 
 msgctxt "20"
 msgid "戦いを有利に運ぶ歌を<zbr>秘めた魔石。"
-msgstr "蕴含能为战局带来优势<zbr>歌曲的魔石。"
+msgstr "蕴含能让战局占上风的<zbr>歌曲的魔石。"
 
 msgctxt "21"
 msgid "凄まじい刀技を発動する力を<zbr>秘めた魔石。"
@@ -101,7 +101,7 @@ msgstr "可赋予持有者<zbr>发动强大刀技力量的魔石。"
 
 msgctxt "22"
 msgid "戦いを有利に運ぶ呪言を<zbr>秘めた魔石。"
-msgstr "蕴含能为战局带来优势<zbr>咒言的魔石。"
+msgstr "蕴含能让战局占上风的<zbr>咒言的魔石。"
 
 msgctxt "23"
 msgid "凄まじい槍技を発動する力を<zbr>秘めた魔石。"
