@@ -1105,7 +1105,7 @@ msgstr "刺螺"
 
 msgctxt "273"
 msgid "瑠璃イチゴ"
-msgstr "瑠璃草莓"
+msgstr "琉璃草莓"
 
 msgctxt "274"
 msgid "ロサカニナ"
