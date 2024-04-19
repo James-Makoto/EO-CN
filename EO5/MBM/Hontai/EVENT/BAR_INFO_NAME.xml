@@ -120,8 +120,8 @@
     <target>酒を飲んで騒ぐ客{f801}</target>
   </entry>
   <entry id="100">
-    <source>ダミー{f801}</source>
-    <target>ダミー{f801}</target>
+    <source />
+    <target />
   </entry>
   <entry id="101">
     <source>料理人オリーヴ{f801}</source>
