@@ -65,7 +65,7 @@ msgstr "术式"
 
 msgctxt "13"
 msgid "歌"
-msgstr "歌"
+msgstr "咏唱"
 
 msgctxt "14"
 msgid "刀技"
