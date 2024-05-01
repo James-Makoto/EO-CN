@@ -157,19 +157,19 @@
   </entry>
   <entry id="63">
     <source>ギルドキーパーから探索の手助けを受けたり{f801}受けた依頼の報告や確認ができます{f801}</source>
-    <target>接受公会管理员在探索方面的协助{f801}以及确认或接受委托请求。{f801}</target>
+    <target>可接受公会管理员在探索方面的协助{f801}以及确认或接受委托请求。{f801}</target>
   </entry>
   <entry id="64">
     <source>グリモアの装備と合成を行います{f801}</source>
-    <target>装备或合成魔导石。{f801}</target>
+    <target>可装备或合成魔导石。{f801}</target>
   </entry>
   <entry id="65">
     <source>アイテムの保管や受け取りができます{f801}</source>
-    <target>寄存或取出道具。{f801}</target>
+    <target>可寄存或取出道具。{f801}</target>
   </entry>
   <entry id="66">
     <source>通信等のデータ設定を行います{f801}</source>
-    <target>进行通信等数据设置。{f801}</target>
+    <target>可进行通信等数据设置。{f801}</target>
   </entry>
   <entry id="67">
     <source>ギルドキーパーと話します{f801}</source>
