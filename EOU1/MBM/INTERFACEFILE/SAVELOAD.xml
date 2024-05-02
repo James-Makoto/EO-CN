@@ -61,7 +61,7 @@
   </entry>
   <entry id="17">
     <source>集めたギルドカードのセーブに失敗しました{f801}</source>
-    <target>公会名牌收集数据保存失败。{f801}</target>
+    <target>公会名片收集数据保存失败。{f801}</target>
   </entry>
   <entry id="19">
     <source>中断データが破損しています{f801}ロードに失敗しました{f801}データを初期化します{f801}</source>
@@ -81,11 +81,11 @@
   </entry>
   <entry id="24">
     <source>集めたギルドカードのデータが{f801}初期化されました{f801}</source>
-    <target>已初始化公会名牌的收集数据。{f801}</target>
+    <target>已初始化公会名片的收集数据。{f801}</target>
   </entry>
   <entry id="27">
     <source>集めたギルドカードをセーブしています{f801}</source>
-    <target>正在初始化公会名牌的收集数据。{f801}</target>
+    <target>正在初始化公会名片的收集数据。{f801}</target>
   </entry>
   <entry id="28">
     <source>地図データをセーブしています{f801}</source>
@@ -121,7 +121,7 @@
   </entry>
   <entry id="38">
     <source>集めたギルドカードの{f801}読み込みに失敗しました{f801}集めたカードを初期化します{f801}</source>
-    <target>公会名牌收集数据读取失败。{f801}进行名牌收集数据的初始化。{f801}</target>
+    <target>公会名片收集数据读取失败。{f801}进行名牌收集数据的初始化。{f801}</target>
   </entry>
   <entry id="39">
     <source>セーブデータが破損しているため{f801}初期化します{f801}</source>
@@ -325,11 +325,11 @@
   </entry>
   <entry id="200">
     <source>ギルドカードの変更内容をセーブしています{f801}</source>
-    <target>正在保存公会名牌的变更内容。{f801}</target>
+    <target>正在保存公会名片的变更内容。{f801}</target>
   </entry>
   <entry id="201">
     <source>ギルドカードのセーブに失敗しました{f801}</source>
-    <target>公会名牌保存失败。{f801}</target>
+    <target>公会名片保存失败。{f801}</target>
   </entry>
   <entry id="210">
     <source>ゲームデータをバックアップ{f801}しています{f801}</source>
