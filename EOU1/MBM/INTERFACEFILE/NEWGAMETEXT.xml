@@ -45,7 +45,7 @@
   </entry>
   <entry id="11">
     <source>地図のオートパイロット情報を引き継ぐか選択できます{f801}</source>
-    <target>可以选择是否继承地图中的自动导航数据。{f801}</target>
+    <target>可以选择是否继承地图中的自动行进数据。{f801}</target>
   </entry>
   <entry id="12">
     <source>設定した状態でゲームを開始します{f801}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="23">
     <source>地図のオートパイロット記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承{f801}地图中的自动导航记载数据。{f801}</target>
+    <target>选择是否继承{f801}地图中的自动行进记载数据。{f801}</target>
   </entry>
   <entry id="24">
     <source>設定された状態でゲームを開始します{f801}</source>
@@ -181,11 +181,11 @@
   </entry>
   <entry id="45">
     <source>地図のオートパイロット情報を引き継ぎます{f801}</source>
-    <target>继承地图中的自动导航数据{f801}</target>
+    <target>继承地图中的自动行进数据{f801}</target>
   </entry>
   <entry id="46">
     <source>地図のオートパイロット情報を引き継ぎません{f801}</source>
-    <target>不继承地图中的自动导航数据{f801}</target>
+    <target>不继承地图中的自动行进数据{f801}</target>
   </entry>
   <entry id="47">
     <source>初期設定に戻しますが{f801}よろしいですか?{f801}</source>

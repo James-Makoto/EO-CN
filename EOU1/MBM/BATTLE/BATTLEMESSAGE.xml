@@ -73,7 +73,7 @@
   </entry>
   <entry id="18">
     <source>{f811}{0000}は{f801}麻痺して動けない!{f801}</source>
-    <target>{f811}{0000}{f801}陷入麻痹得不能动弹!{f801}</target>
+    <target>{f811}{0000}{f801}陷入麻痹不能动弹!{f801}</target>
   </entry>
   <entry id="20">
     <source>{f811}{0000}は{f801}スタンしている!{f801}</source>
@@ -89,7 +89,7 @@
   </entry>
   <entry id="23">
     <source>{f811}{0000}の脚部は{f801}封じられている!{f801}</source>
-    <target>{f811}{0000}的脚部{f801}被封印了!{f801}</target>
+    <target>{f811}{0000}的腿部{f801}被封印了!{f801}</target>
   </entry>
   <entry id="24">
     <source>{f811}{0100}は息絶えた!{f801}</source>
@@ -209,7 +209,7 @@
   </entry>
   <entry id="53">
     <source>{f811}{0100}の脚部を封じた!{f801}</source>
-    <target>{f811}{0100}的脚部被封印了!{f801}</target>
+    <target>{f811}{0100}的腿部被封印了!{f801}</target>
   </entry>
   <entry id="54">
     <source>{f811}{0100}は{f801}息を吹き返した!{f801}</source>
@@ -257,7 +257,7 @@
   </entry>
   <entry id="65">
     <source>{f811}{0100}の{f801}脚部の封じを消し去った!{f801}</source>
-    <target>{f811}{0100}的{f801}脚部封印消失了!{f801}</target>
+    <target>{f811}{0100}的{f801}腿部封印消失了!{f801}</target>
   </entry>
   <entry id="66">
     <source>{f811}{0000}は逃げ出した!{f801}</source>
