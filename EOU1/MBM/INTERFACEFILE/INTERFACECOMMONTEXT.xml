@@ -237,7 +237,7 @@
   </entry>
   <entry id="61">
     <source>フロアジャンプが解禁されました!{f801}</source>
-    <target>楼层瞬移已解锁!{f801}</target>
+    <target>楼层传送已解锁!{f801}</target>
   </entry>
   <entry id="62">
     <source>BGMの音量を調整します{f801}</source>
