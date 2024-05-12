@@ -2301,7 +2301,7 @@ msgstr "黄金鸟羽"
 
 msgctxt "572"
 msgid "卵の在り処のメモ"
-msgstr "记有蛋位置的字条"
+msgstr "记有蛋位置的笔记"
 
 msgctxt "573"
 msgid "お礼の手紙"
