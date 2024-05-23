@@ -293,7 +293,7 @@
   </entry>
   <entry id="73">
     <source>レベル上昇で斧スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得斧技能{f801}</target>
+    <target>随着等级上升，会习得斧技能{f801}</target>
   </entry>
   <entry id="74">
     <source>スキル習得{f801}</source>
@@ -341,7 +341,7 @@
   </entry>
   <entry id="85">
     <source>レベル上昇で剣スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得剑技能{f801}</target>
+    <target>随着等级上升，会习得剑技能{f801}</target>
   </entry>
   <entry id="86">
     <source>スキル習得{f801}</source>
@@ -725,7 +725,7 @@
   </entry>
   <entry id="181">
     <source>敵陣を駆け抜け、縦横無尽に切り裂くスキル{f801}同じ敵に複数回当たることはない{f801}</source>
-    <target>在敌人之间来回穿梭的技能{f801}同个敌人不会攻击两次{f801}</target>
+    <target>在敌人之间来回穿梭、斩断一切的技能{f801}同个敌人不会攻击两次{f801}</target>
   </entry>
   <entry id="182">
     <source>スキル習得 2〜3体攻撃{f801}消費TP16{f801}</source>
@@ -773,7 +773,7 @@
   </entry>
   <entry id="193">
     <source>所持した武器+炎属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>所持武器+炎属性近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+炎属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="194">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -821,7 +821,7 @@
   </entry>
   <entry id="205">
     <source>所持した武器+氷属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>所持武器+冰属性近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+冰属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="206">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -869,7 +869,7 @@
   </entry>
   <entry id="217">
     <source>所持した武器+雷属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>所持武器+雷属性近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+雷属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="218">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -917,7 +917,7 @@
   </entry>
   <entry id="229">
     <source>力を溜めて叩きつけ、衝撃を走らせるスキル{f801}</source>
-    <target>积蓄力量锤地，发出冲击波的技能{f801}</target>
+    <target>积蓄力量猛击，并冲击其他敌人的技能{f801}</target>
   </entry>
   <entry id="230">
     <source>スキル習得{f801}消費TP14{f801}</source>
@@ -1013,7 +1013,7 @@
   </entry>
   <entry id="253">
     <source>頭を狙いすまして振り下ろすスキル{f801}</source>
-    <target>瞄准头部向下猛击的技能{f801}</target>
+    <target>瞄准头部全力一击的技能{f801}</target>
   </entry>
   <entry id="254">
     <source>スキル習得{f801}消費TP7{f801}</source>
@@ -1205,7 +1205,7 @@
   </entry>
   <entry id="301">
     <source>力を溜めて、次の攻撃に備えるスキル{f801}物理・属性攻撃力と命中率、状態異常成功率{f801}の3つを同時に上昇させる{f801}</source>
-    <target>积蓄力量，为下一次攻击做准备的技能{f801}物理・属性攻击力、命中率、异常状态成功率{f801}3种同时提升{f801}</target>
+    <target>积蓄力量，为下一次攻击做准备的技能{f801}物理・属性攻击力、命中率、异常状态成功率{f801}3种属性同时提升{f801}</target>
   </entry>
   <entry id="302">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -1685,7 +1685,7 @@
   </entry>
   <entry id="421">
     <source>レベル上昇で弓スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得弓技能{f801}</target>
+    <target>随着等级上升，会习得弓技能{f801}</target>
   </entry>
   <entry id="422">
     <source>スキル習得{f801}</source>
@@ -1925,7 +1925,7 @@
   </entry>
   <entry id="481">
     <source>高速なステップで味方を誘導するスキル{f801}レベル上昇で効果ターン数が増加する{f801}</source>
-    <target>用高速步法诱导我方的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
+    <target>用高速步法引导我方的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
   </entry>
   <entry id="482">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -2069,7 +2069,7 @@
   </entry>
   <entry id="517">
     <source>特殊なステップで味方を誘導するスキル{f801}</source>
-    <target>用特殊步法诱导我方的技能{f801}</target>
+    <target>用特殊步法引导我方的技能{f801}</target>
   </entry>
   <entry id="518">
     <source>スキル習得{f801}消費TP10{f801}</source>
@@ -2261,7 +2261,7 @@
   </entry>
   <entry id="565">
     <source>天に矢を放ち、落下する矢で敵を狙うスキル{f801}連続使用はできず、発動までに戦闘不能に{f801}なると効果は失われる{f801}</source>
-    <target>向天放箭，等待落下的箭狙击敌人的技能{f801}不可连续使用，若发动前无法战斗{f801}则失去效果{f801}</target>
+    <target>向天放箭，等待落下的箭射中敌人的技能{f801}不可连续使用，若生效前无法战斗{f801}则失去效果{f801}</target>
   </entry>
   <entry id="566">
     <source>スキル習得{f801}消費TP16{f801}</source>
@@ -3125,7 +3125,7 @@
   </entry>
   <entry id="781">
     <source>レベル上昇で盾スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得盾技能{f801}</target>
+    <target>随着等级上升，会习得盾技能{f801}</target>
   </entry>
   <entry id="782">
     <source>スキル習得{f801}</source>
@@ -3269,7 +3269,7 @@
   </entry>
   <entry id="817">
     <source>敵を引きつけパーティの盾となるスキル{f801}レベル上昇で防御力と{f801}効果ターン数も増加する{f801}</source>
-    <target>引诱敌人攻击成为队伍之盾的技能{f801}随着等级上升，提升防御力{f801}增加效果持续回合数{f801}</target>
+    <target>引诱敌人攻击成为队伍盾牌的技能{f801}随着等级上升，提升防御力{f801}增加效果持续回合数{f801}</target>
   </entry>
   <entry id="818">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -3365,7 +3365,7 @@
   </entry>
   <entry id="841">
     <source>周囲への攻撃を待ち構え、弾くスキル{f801}発動するたびに発動率は低下する{f801}</source>
-    <target>招架周围攻击的技能{f801}每发动一次发动率都会下降{f801}</target>
+    <target>招架周围攻击的技能{f801}每生效一次发动率都会下降{f801}</target>
   </entry>
   <entry id="842">
     <source>スキル習得 最大発動回数1{f801}消費TP7{f801}</source>
@@ -3893,7 +3893,7 @@
   </entry>
   <entry id="973">
     <source>複数のキャラが習得している場合{f801}一番スキルLvの高いものが適用され{f801}効果の重複はしない{f801}</source>
-    <target>如果有多个人物习得该技能{f801}则使用技能等级最高的{f801}效果不会重复{f801}</target>
+    <target>如果有多个人物习得该技能{f801}则仅有技能等级最高的会生效{f801}效果不会叠加{f801}</target>
   </entry>
   <entry id="974">
     <source>スキル習得{f801}</source>
@@ -3989,7 +3989,7 @@
   </entry>
   <entry id="997">
     <source>盾で乱打すると同時に、敵を弱らせるスキル{f801}</source>
-    <target>使用盾牌乱打，同时削弱敌人的技能{f801}</target>
+    <target>使用盾牌乱打的同时削弱敌人的技能{f801}</target>
   </entry>
   <entry id="998">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -4565,7 +4565,7 @@
   </entry>
   <entry id="1141">
     <source>レベル上昇で鞭スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得鞭技能{f801}</target>
+    <target>随着等级上升，会习得鞭技能{f801}</target>
   </entry>
   <entry id="1142">
     <source>スキル習得{f801}</source>
@@ -4613,7 +4613,7 @@
   </entry>
   <entry id="1153">
     <source>レベル上昇で剣スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得剑技能{f801}</target>
+    <target>随着等级上升，会习得剑技能{f801}</target>
   </entry>
   <entry id="1154">
     <source>スキル習得{f801}</source>
@@ -4757,7 +4757,7 @@
   </entry>
   <entry id="1189">
     <source>敵の死角に潜み、狙われにくくなるスキル{f801}</source>
-    <target>潜伏在敌人死角，降低被攻击率的技能{f801}</target>
+    <target>潜伏在敌人死角，降低被攻击几率的技能{f801}</target>
   </entry>
   <entry id="1190">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -4805,7 +4805,7 @@
   </entry>
   <entry id="1201">
     <source>毒を塗った鞭で攻撃するスキル{f801}</source>
-    <target>用毒鞭攻击的技能{f801}</target>
+    <target>用涂了毒的鞭子攻击的技能{f801}</target>
   </entry>
   <entry id="1202">
     <source>スキル習得{f801}消費TP8{f801}</source>
@@ -6005,7 +6005,7 @@
   </entry>
   <entry id="1501">
     <source>レベル上昇で回復スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得恢复技能{f801}</target>
+    <target>随着等级上升，会习得恢复技能{f801}</target>
   </entry>
   <entry id="1502">
     <source>スキル習得{f801}</source>
@@ -7349,7 +7349,7 @@
   </entry>
   <entry id="1837">
     <source>レベル上昇で術式スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得术式技能{f801}</target>
+    <target>随着等级上升，会习得术式技能{f801}</target>
   </entry>
   <entry id="1838">
     <source>スキル習得{f801}</source>
@@ -8838,7 +8838,7 @@
   </entry>
   <entry id="2209">
     <source>レベル上昇で歌唱スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得歌唱技能{f801}</target>
+    <target>随着等级上升，会习得歌唱技能{f801}</target>
   </entry>
   <entry id="2210">
     <source>スキル習得{f801}</source>
@@ -10326,7 +10326,7 @@
   </entry>
   <entry id="2581">
     <source>レベル上昇で刀スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得刀技能{f801}</target>
+    <target>随着等级上升，会刀技能{f801}</target>
   </entry>
   <entry id="2582">
     <source>スキル習得{f801}</source>
@@ -11718,7 +11718,7 @@
   </entry>
   <entry id="2929">
     <source>レベル上昇で呪言スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得咒言技能{f801}</target>
+    <target>随着等级上升，会习得咒言技能{f801}</target>
   </entry>
   <entry id="2930">
     <source>スキル習得{f801}</source>
@@ -13206,7 +13206,7 @@
   </entry>
   <entry id="3301">
     <source>レベル上昇で槍スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得枪技能{f801}</target>
+    <target>随着等级上升，会习得枪技能{f801}</target>
   </entry>
   <entry id="3302">
     <source>スキル習得{f801}</source>
@@ -14598,7 +14598,7 @@
   </entry>
   <entry id="3649">
     <source>レベル上昇で銃スキルが習得される{f801}</source>
-    <target>随着等级上升，可习得铳技能{f801}</target>
+    <target>随着等级上升，会习得铳技能{f801}</target>
   </entry>
   <entry id="3650">
     <source>スキル習得{f801}</source>
