@@ -2241,7 +2241,7 @@ msgstr "打磨机"
 
 msgctxt "557"
 msgid "ブレイクスピン"
-msgstr "量子破坏"
+msgstr "破甲旋击"
 
 msgctxt "558"
 msgid "昏睡への誘い"
