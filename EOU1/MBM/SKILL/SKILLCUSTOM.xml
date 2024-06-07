@@ -581,7 +581,7 @@
   </entry>
   <entry id="145">
     <source>斧を投げつけ、敵を攻撃するスキル{f801}後列の敵にも威力は下がらない{f801}</source>
-    <target>投掷斧头攻击敌人的技能{f801}攻击后排的敌人威力也不下降{f801}</target>
+    <target>投掷斧头攻击敌人的技能{f801}攻击后排的敌人时也不会降低威力{f801}</target>
   </entry>
   <entry id="146">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -629,7 +629,7 @@
   </entry>
   <entry id="157">
     <source>素早く踏み込み、強力な斬撃を放つスキル{f801}</source>
-    <target>迅速前冲释放强力斩击的技能。{f801}</target>
+    <target>迅速上前释放强力斩击的技能。{f801}</target>
   </entry>
   <entry id="158">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -725,7 +725,7 @@
   </entry>
   <entry id="181">
     <source>敵陣を駆け抜け、縦横無尽に切り裂くスキル{f801}同じ敵に複数回当たることはない{f801}</source>
-    <target>在敌人之间来回穿梭、斩断一切的技能{f801}同个敌人不会攻击两次{f801}</target>
+    <target>在敌人之间来回穿梭、斩断一切的技能{f801}同个敌人不会被重复攻击{f801}</target>
   </entry>
   <entry id="182">
     <source>スキル習得 2〜3体攻撃{f801}消費TP16{f801}</source>
@@ -773,7 +773,7 @@
   </entry>
   <entry id="193">
     <source>所持した武器+炎属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>使用所持武器+炎属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+炎属性的近接攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="194">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -821,7 +821,7 @@
   </entry>
   <entry id="205">
     <source>所持した武器+氷属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>使用所持武器+冰属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+冰属性的近接攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="206">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -869,7 +869,7 @@
   </entry>
   <entry id="217">
     <source>所持した武器+雷属性による近接攻撃スキル{f801}追撃するたびに追撃率は低下する{f801}</source>
-    <target>使用所持武器+雷属性的近距离攻击技能{f801}每追击一次追击率都会下降{f801}</target>
+    <target>使用所持武器+雷属性的近接攻击技能{f801}每追击一次追击率都会下降{f801}</target>
   </entry>
   <entry id="218">
     <source>スキル習得 最大追撃回数3{f801}消費TP12{f801}</source>
@@ -1109,7 +1109,7 @@
   </entry>
   <entry id="277">
     <source>大きく振りかぶり力任せに斬りつけるスキル{f801}敵に攻撃が命中した場合{f801}盲目効果は発生しない{f801}</source>
-    <target>用力大范围挥砍的技能{f801}命中敌人时{f801}不会对敌人产生失明效果{f801}</target>
+    <target>用力大范围挥砍的技能{f801}成功命中敌人的场合{f801}不会产生失明效果{f801}</target>
   </entry>
   <entry id="278">
     <source>スキル習得{f801}消費TP10{f801}</source>
@@ -2313,43 +2313,43 @@
   </entry>
   <entry id="578">
     <source>スキル習得 歩数16{f801}消費TP2{f801}</source>
-    <target>习得技能 步数16{f801}消耗TP2{f801}</target>
+    <target>习得技能 生效步数16{f801}消耗TP2{f801}</target>
   </entry>
   <entry id="579">
     <source>歩数18{f801}</source>
-    <target>步数18{f801}</target>
+    <target>生效步数18{f801}</target>
   </entry>
   <entry id="580">
     <source>歩数20{f801}</source>
-    <target>步数20{f801}</target>
+    <target>生效步数20{f801}</target>
   </entry>
   <entry id="581">
     <source>歩数22{f801}</source>
-    <target>步数22{f801}</target>
+    <target>生效步数22{f801}</target>
   </entry>
   <entry id="582">
     <source>歩数30 視界範囲↑{f801}消費TP4{f801}</source>
-    <target>步数30 视野范围↑{f801}消耗TP4{f801}</target>
+    <target>生效步数30 视野范围↑{f801}消耗TP4{f801}</target>
   </entry>
   <entry id="583">
     <source>歩数32{f801}</source>
-    <target>步数32{f801}</target>
+    <target>生效步数32{f801}</target>
   </entry>
   <entry id="584">
     <source>歩数34{f801}</source>
-    <target>步数34{f801}</target>
+    <target>生效步数34{f801}</target>
   </entry>
   <entry id="585">
     <source>歩数36{f801}</source>
-    <target>步数36{f801}</target>
+    <target>生效步数36{f801}</target>
   </entry>
   <entry id="586">
     <source>歩数38{f801}</source>
-    <target>步数38{f801}</target>
+    <target>生效步数38{f801}</target>
   </entry>
   <entry id="587">
     <source>歩数50 視界範囲↑{f801}消費TP6{f801}</source>
-    <target>步数50 视野范围↑{f801}消耗TP6{f801}</target>
+    <target>生效步数50 视野范围↑{f801}消耗TP6{f801}</target>
   </entry>
   <entry id="588">
     <source>探索スキル{f801}</source>
@@ -2361,7 +2361,7 @@
   </entry>
   <entry id="590">
     <source>スキル習得 歩数30{f801}消費TP6{f801}</source>
-    <target>习得技能 步数30{f801}消耗TP6{f801}</target>
+    <target>习得技能 生效步数30{f801}消耗TP6{f801}</target>
   </entry>
   <entry id="591">
     <source>エンカウント率↓{f801}</source>
@@ -2377,7 +2377,7 @@
   </entry>
   <entry id="594">
     <source>歩数60 エンカウント率↓↓{f801}消費TP9{f801}</source>
-    <target>步数60 遇敌率↓↓{f801}消耗TP9{f801}</target>
+    <target>生效步数60 遇敌率↓↓{f801}消耗TP9{f801}</target>
   </entry>
   <entry id="595">
     <source>エンカウント率↓{f801}</source>
@@ -2397,7 +2397,7 @@
   </entry>
   <entry id="599">
     <source>歩数100 エンカウント率↓↓{f801}消費TP12{f801}</source>
-    <target>步数100 遇敌率↓↓{f801}消耗TP12{f801}</target>
+    <target>生效步数100 遇敌率↓↓{f801}消耗TP12{f801}</target>
   </entry>
   <entry id="600">
     <source>探索スキル{f801}</source>
@@ -3365,47 +3365,47 @@
   </entry>
   <entry id="841">
     <source>周囲への攻撃を待ち構え、弾くスキル{f801}発動するたびに発動率は低下する{f801}</source>
-    <target>招架周围攻击的技能{f801}每生效一次发动率都会下降{f801}</target>
+    <target>招架周围攻击的技能{f801}每生效一次成功概率都会下降{f801}</target>
   </entry>
   <entry id="842">
     <source>スキル習得 最大発動回数1{f801}消費TP7{f801}</source>
-    <target>习得技能 最多发动1次{f801}消耗TP7{f801}</target>
+    <target>习得技能 最多生效1次{f801}消耗TP7{f801}</target>
   </entry>
   <entry id="843">
     <source>発動率↑ 最大発動回数1{f801}</source>
-    <target>发动率↑ 最多发动1次{f801}</target>
+    <target>发动率↑ 最多生效1次{f801}</target>
   </entry>
   <entry id="844">
     <source>発動率↑ 最大発動回数1{f801}</source>
-    <target>发动率↑ 最多发动1次{f801}</target>
+    <target>发动率↑ 最多生效1次{f801}</target>
   </entry>
   <entry id="845">
     <source>発動率↑ 最大発動回数1{f801}</source>
-    <target>发动率↑ 最多发动1次{f801}</target>
+    <target>发动率↑ 最多生效1次{f801}</target>
   </entry>
   <entry id="846">
     <source>発動率100% 最大発動回数1{f801}消費TP14{f801}</source>
-    <target>发动率100% 最多发动1次{f801}消耗TP14{f801}</target>
+    <target>发动率100% 最多生效1次{f801}消耗TP14{f801}</target>
   </entry>
   <entry id="847">
     <source>最大発動回数2 連続発動率↑{f801}</source>
-    <target>最多发动2次 连续发动率↑{f801}</target>
+    <target>最多发动2次 连续生效率↑{f801}</target>
   </entry>
   <entry id="848">
     <source>最大発動回数2 連続発動率↑{f801}</source>
-    <target>最多发动2次 连续发动率↑{f801}</target>
+    <target>最多发动2次 连续生效率↑{f801}</target>
   </entry>
   <entry id="849">
     <source>最大発動回数2 連続発動率↑{f801}</source>
-    <target>最多发动2次 连续发动率↑{f801}</target>
+    <target>最多发动2次 连续生效率↑{f801}</target>
   </entry>
   <entry id="850">
     <source>最大発動回数2 連続発動率↑{f801}</source>
-    <target>最多发动2次 连续发动率↑{f801}</target>
+    <target>最多发动2次 连续生效率↑{f801}</target>
   </entry>
   <entry id="851">
     <source>最大発動回数3 連続発動率↑{f801}消費TP22{f801}</source>
-    <target>最多发动3次 连续发动率↑{f801}消耗TP22{f801}</target>
+    <target>最多发动3次 连续生效率↑{f801}消耗TP22{f801}</target>
   </entry>
   <entry id="852">
     <source>強化スキル{f801}</source>
@@ -3645,7 +3645,7 @@
   </entry>
   <entry id="911">
     <source>炎属性攻撃吸収{f801}消費TP12{f801}</source>
-    <target>炎属性攻击吸收{f801}消耗TP12{f801}</target>
+    <target>吸收炎属性攻击{f801}消耗TP12{f801}</target>
   </entry>
   <entry id="912">
     <source>盾専用スキル{f801}</source>
@@ -3693,7 +3693,7 @@
   </entry>
   <entry id="923">
     <source>雷属性攻撃吸収{f801}消費TP12{f801}</source>
-    <target>雷属性攻击吸收{f801}消耗TP12{f801}</target>
+    <target>吸收雷属性攻击{f801}消耗TP12{f801}</target>
   </entry>
   <entry id="924">
     <source>盾専用スキル{f801}</source>
@@ -3741,7 +3741,7 @@
   </entry>
   <entry id="935">
     <source>氷属性攻撃吸収{f801}消費TP12{f801}</source>
-    <target>冰属性攻击吸收{f801}消耗TP12{f801}</target>
+    <target>吸收冰属性攻击{f801}消耗TP12{f801}</target>
   </entry>
   <entry id="936">
     <source>盾専用スキル{f801}</source>
@@ -4009,7 +4009,7 @@
   </entry>
   <entry id="1002">
     <source>攻撃力↑↑ 敵攻撃力↓{f801}消費TP21{f801}</source>
-    <target>攻击力↑↑ 敌攻击力↓{f801}消耗TP21{f801}</target>
+    <target>攻击力↑↑ 敌人攻击力↓{f801}消耗TP21{f801}</target>
   </entry>
   <entry id="1003">
     <source>攻撃力↑{f801}</source>
@@ -4029,7 +4029,7 @@
   </entry>
   <entry id="1007">
     <source>攻撃力↑↑ 敵攻撃力↓{f801}消費TP27{f801}</source>
-    <target>攻击力↑↑ 敌攻击力↓{f801}消耗TP27{f801}</target>
+    <target>攻击力↑↑ 敌人攻击力↓{f801}消耗TP27{f801}</target>
   </entry>
   <entry id="1008">
     <source>探索スキル{f801}</source>
@@ -4041,43 +4041,43 @@
   </entry>
   <entry id="1010">
     <source>スキル習得 歩数25{f801}消費TP3{f801}</source>
-    <target>习得技能 步数25{f801}消耗TP3{f801}</target>
+    <target>习得技能 生效步数25{f801}消耗TP3{f801}</target>
   </entry>
   <entry id="1011">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1012">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1013">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1014">
     <source>ダメージ軽減率↑ 歩数45{f801}消費TP5{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}消耗TP5{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}消耗TP5{f801}</target>
   </entry>
   <entry id="1015">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1016">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1017">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1018">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1019">
     <source>ダメージ軽減率↑↑ 歩数70{f801}消費TP8{f801}</source>
-    <target>伤害降低率↑↑ 步数70{f801}消耗TP8{f801}</target>
+    <target>伤害降低率↑↑ 生效步数70{f801}消耗TP8{f801}</target>
   </entry>
   <entry id="1020">
     <source>防御スキル{f801}</source>
@@ -4713,43 +4713,43 @@
   </entry>
   <entry id="1178">
     <source>スキル習得 発動条件HP30%以下{f801}</source>
-    <target>习得技能 发动条件HP30%以下{f801}</target>
+    <target>习得技能 发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1179">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP30%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1180">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP30%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1181">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP30%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1182">
     <source>発動条件HP40%以下{f801}</source>
-    <target>发动条件HP40%以下{f801}</target>
+    <target>发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1183">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP40%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1184">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP40%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1185">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP40%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1186">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件HP40%以下{f801}</target>
+    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1187">
     <source>発動条件HP50%以下{f801}</source>
-    <target>发动条件HP50%以下{f801}</target>
+    <target>发动条件为HP处于50%以下{f801}</target>
   </entry>
   <entry id="1188">
     <source>強化スキル{f801}</source>
@@ -5237,7 +5237,7 @@
   </entry>
   <entry id="1309">
     <source>与えたダメージで快楽を得るスキル{f801}</source>
-    <target>从伤害中获得愉悦的技能{f801}</target>
+    <target>从给予的伤害中获得愉悦的技能{f801}</target>
   </entry>
   <entry id="1310">
     <source>スキル習得{f801}消費TP8{f801}</source>
@@ -5305,7 +5305,7 @@
   </entry>
   <entry id="1326">
     <source>攻撃力↑↑ 最大攻撃回数4{f801}連続発動率↑ 消費TP18{f801}</source>
-    <target>攻击力↑↑ 最多攻击4次{f801}连续发动率↑ 消耗TP18{f801}</target>
+    <target>攻击力↑↑ 最多攻击4次{f801}连续生效率↑ 消耗TP18{f801}</target>
   </entry>
   <entry id="1327">
     <source>攻撃力↑ 最大攻撃回数4{f801}</source>
@@ -5325,7 +5325,7 @@
   </entry>
   <entry id="1331">
     <source>攻撃力↑↑ 最大攻撃回数5{f801}連続発動率↑ 消費TP22{f801}</source>
-    <target>攻击力↑↑ 最多攻击5次{f801}连续发动率↑ 消耗TP22{f801}</target>
+    <target>攻击力↑↑ 最多攻击5次{f801}连续生效率↑ 消耗TP22{f801}</target>
   </entry>
   <entry id="1332">
     <source>剣専用スキル{f801}</source>
@@ -5525,7 +5525,7 @@
   </entry>
   <entry id="1381">
     <source>苦痛から敵を解放するスキル{f801}敵に状態異常が無い場合は威力が減少する{f801}</source>
-    <target>使敌人从痛苦解脱的技能{f801}敌人无异常状态时威力下降{f801}</target>
+    <target>使敌人从痛苦中解脱的技能{f801}敌人无异常状态时威力下降{f801}</target>
   </entry>
   <entry id="1382">
     <source>スキル習得{f801}消費TP10{f801}</source>
@@ -6053,7 +6053,7 @@
   </entry>
   <entry id="1513">
     <source>麻痺効果のある薬品を敵に投げつけるスキル{f801}</source>
-    <target>向敌人投掷有麻痹效果的药的技能{f801}</target>
+    <target>向敌人投掷有麻痹效果药品的技能{f801}</target>
   </entry>
   <entry id="1514">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -6389,7 +6389,7 @@
   </entry>
   <entry id="1597">
     <source>睡眠効果のある薬品を敵に投げつけるスキル{f801}</source>
-    <target>向敌人投掷有睡眠效果的药的技能{f801}</target>
+    <target>向敌人投掷有睡眠效果药品的技能{f801}</target>
   </entry>
   <entry id="1598">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -6485,7 +6485,7 @@
   </entry>
   <entry id="1621">
     <source>治療技術によって味方を回復するスキル{f801}レベルを上昇させると封じ回復箇所が増え{f801}更に列や全体へと効果対象が増える{f801}</source>
-    <target>使用治疗技术治愈我方的技能{f801}随着等级上升，提升解除封印数{f801}且效果目标进一步增加到列或者全体{f801}</target>
+    <target>使用治疗技术治愈我方的技能{f801}随着等级上升，会提升解除封印的数量{f801}且效果目标会增加到列或者全体{f801}</target>
   </entry>
   <entry id="1622">
     <source>スキル習得 最大封じ解除数1{f801}消費TP10{f801}</source>
@@ -6533,7 +6533,7 @@
   </entry>
   <entry id="1633">
     <source>治療技術によって味方を回復するスキル{f801}レベルを上昇させると{f801}列や全体へと効果対象が増える{f801}</source>
-    <target>使用治疗技术治愈我方的技能{f801}随着等级上升{f801}效果目标进一步增加到列或者全体{f801}</target>
+    <target>使用治疗技术治愈我方的技能{f801}随着等级上升{f801}效果目标会增加到列或者全体{f801}</target>
   </entry>
   <entry id="1634">
     <source>スキル習得{f801}消費TP10{f801}</source>
@@ -6581,7 +6581,7 @@
   </entry>
   <entry id="1645">
     <source>医学的見地からの身を守るスキル{f801}レベル上昇で効果ターン数が増加する{f801}</source>
-    <target>以医学知识自保的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
+    <target>使用医学知识保护我方的技能{f801}随着等级上升增加效果持续回合数{f801}</target>
   </entry>
   <entry id="1646">
     <source>スキル習得{f801}消費TP6{f801}</source>
@@ -6629,7 +6629,7 @@
   </entry>
   <entry id="1657">
     <source>医学的見地からの身を守るスキル{f801}効果が発動すると強化は消える{f801}レベル上昇で効果ターン数が増加する{f801}</source>
-    <target>以医学知识自保的技能{f801}效果发动时强化效果会消失{f801}随着等级上升增加效果持续回合数{f801}</target>
+    <target>使用医学知识保护我方的技能{f801}效果生效后强化效果会消失{f801}随着等级上升增加效果持续回合数{f801}</target>
   </entry>
   <entry id="1658">
     <source>スキル習得{f801}消費TP18{f801}</source>
@@ -6773,7 +6773,7 @@
   </entry>
   <entry id="1693">
     <source>毒効果のある薬品を敵に投げつけるスキル{f801}</source>
-    <target>向敌人投掷有中毒效果的药的技能{f801}</target>
+    <target>向敌人投掷有中毒效果药品的技能{f801}</target>
   </entry>
   <entry id="1694">
     <source>スキル習得{f801}消費TP2{f801}</source>
@@ -6873,43 +6873,43 @@
   </entry>
   <entry id="1718">
     <source>スキル習得 歩数25{f801}消費TP3{f801}</source>
-    <target>习得技能 步数25{f801}消耗TP3{f801}</target>
+    <target>习得技能 生效步数25{f801}消耗TP3{f801}</target>
   </entry>
   <entry id="1719">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1720">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1721">
     <source>ダメージ軽減率↑ 歩数25{f801}</source>
-    <target>伤害降低率↑ 步数25{f801}</target>
+    <target>伤害降低率↑ 生效步数25{f801}</target>
   </entry>
   <entry id="1722">
     <source>ダメージ軽減率↑ 歩数45{f801}消費TP5{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}消耗TP5{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}消耗TP5{f801}</target>
   </entry>
   <entry id="1723">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1724">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1725">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1726">
     <source>ダメージ軽減率↑ 歩数45{f801}</source>
-    <target>伤害降低率↑ 步数45{f801}</target>
+    <target>伤害降低率↑ 生效步数45{f801}</target>
   </entry>
   <entry id="1727">
     <source>ダメージ軽減率↑↑ 歩数70{f801}消費TP8{f801}</source>
-    <target>伤害降低率↑↑ 步数70{f801}消耗TP8{f801}</target>
+    <target>伤害降低率↑↑ 生效步数70{f801}消耗TP8{f801}</target>
   </entry>
   <entry id="1728">
     <source>回復スキル{f801}</source>
@@ -6917,7 +6917,7 @@
   </entry>
   <entry id="1729">
     <source>治療技術によって味方を回復するスキル{f801}連続使用はできず、発動までに戦闘不能に{f801}なると効果は失われる{f801}</source>
-    <target>使用治疗技术治愈我方的技能{f801}不可连续使用，发动期间若陷入无法战斗状态{f801}则失去效果{f801}</target>
+    <target>使用治疗技术治愈我方的技能{f801}不可连续使用，若效果生效前陷入无法战斗状态{f801}则效果不会生效{f801}</target>
   </entry>
   <entry id="1730">
     <source>スキル習得{f801}消費TP14{f801}</source>
@@ -7397,7 +7397,7 @@
   </entry>
   <entry id="1849">
     <source>発動するたびに発動率は低下する{f801}</source>
-    <target>每发动一次发动率下降{f801}</target>
+    <target>每生效一次发动率都会下降{f801}</target>
   </entry>
   <entry id="1850">
     <source>スキル習得{f801}消費TP8{f801}</source>
@@ -7877,7 +7877,7 @@
   </entry>
   <entry id="1969">
     <source>錬金術により周囲を凍て付かせるスキル{f801}</source>
-    <target>使用炼金术冰冻周围一切的技能{f801}</target>
+    <target>使用炼金术冻结周围一切的技能{f801}</target>
   </entry>
   <entry id="1970">
     <source>スキル習得{f801}消費TP20{f801}</source>
@@ -8069,7 +8069,7 @@
   </entry>
   <entry id="2017">
     <source>逃走失敗時はHPの減少はしない{f801}ボス戦等の逃げられない戦闘の場合{f801}必ず失敗となる{f801}</source>
-    <target>逃脱失败时不会损失HP{f801}头目战等不可逃脱的战斗时{f801}必定失败{f801}</target>
+    <target>逃脱失败时不会损失HP{f801}面对头目战等无法逃脱的战斗时{f801}必定失败{f801}</target>
   </entry>
   <entry id="2018">
     <source>スキル習得{f801}消費TP3{f801}</source>
@@ -8165,7 +8165,7 @@
   </entry>
   <entry id="2041">
     <source>相学的に周囲環境を調査するスキル{f801}</source>
-    <target>以相学知识调查周围环境的技能{f801}</target>
+    <target>调查周围环境生物的技能{f801}</target>
   </entry>
   <entry id="2042">
     <source>スキル習得{f801}消費TP1{f801}</source>
@@ -8317,15 +8317,15 @@
   </entry>
   <entry id="2079">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2080">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2081">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2082">
     <source>効果ターン数4{f801}消費TP6{f801}</source>
@@ -8333,19 +8333,19 @@
   </entry>
   <entry id="2083">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2084">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2085">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2086">
     <source>弱点攻撃力↑{f801}</source>
-    <target>弱点攻击力↑{f801}</target>
+    <target>攻击弱点时攻击力↑{f801}</target>
   </entry>
   <entry id="2087">
     <source>効果ターン数5{f801}消費TP12{f801}</source>
@@ -8365,40 +8365,40 @@
   </entry>
   <entry id="2091">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2092">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2093">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
 
   </entry>
   <entry id="2094">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2095">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2096">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2097">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2098">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2099">
     <source>習得en↑{f801}</source>
-    <target>习得后获得金钱↑{f801}</target>
+    <target>获得金钱↑{f801}</target>
   </entry>
   <entry id="2100">
     <source>弱体スキル{f801}</source>
@@ -9078,7 +9078,7 @@
   </entry>
   <entry id="2269">
     <source>奇怪なフレーズで敵を驚かせるスキル{f801}レベル上昇で、1体あたりに付与されている{f801}強化解除数が増加する{f801}</source>
-    <target>以奇怪的短曲惊吓敌人的技能{f801}随着等级上升，提升解除{f801}各个个体的强化数{f801}</target>
+    <target>以奇怪的短曲惊吓敌人的技能{f801}随着等级上升，提升解除{f801}每个敌人的强化效果数量{f801}</target>
   </entry>
   <entry id="2270">
     <source>スキル習得 強化解除数1{f801}消費TP40{f801}</source>
@@ -13350,7 +13350,7 @@
   </entry>
   <entry id="3337">
     <source>状態異常を一度防ぐと強化は外れる{f801}パーティ内の誰かが発動すると{f801}他の人は発動しない{f801}</source>
-    <target>防御一次异常状态后强化该解除{f801}队伍内有人发动后{f801}其他人不可发动{f801}</target>
+    <target>防御一次异常状态后解除该强化{f801}队伍内有人发动后{f801}其他人不可发动{f801}</target>
   </entry>
   <entry id="3338">
     <source>スキル習得{f801}</source>
@@ -13590,7 +13590,7 @@
   </entry>
   <entry id="3397">
     <source>生み出した幻霊が時間差で攻撃するスキル{f801}経過ターン数が多い程威力増加。連続使用で{f801}きず発動までに戦闘不能になると効果を失う{f801}</source>
-    <target>激发幻灵释放有时间差攻击的技能{f801}经过回合越长威力越大。不可连续使用{f801}发动期间若陷入无法战斗状态，解除效果{f801}</target>
+    <target>激发幻灵释放有时间差攻击的技能{f801}经过回合越长威力越大。不可连续使用{f801}发动期间若陷入无法战斗状态，就会失去效果{f801}</target>
   </entry>
   <entry id="3398">
     <source>スキル習得 最大ターン数2{f801}消費TP8{f801}</source>
@@ -15078,7 +15078,7 @@
   </entry>
   <entry id="3769">
     <source>発射までに時間のかかる{f801}強力な炎の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射的{f801}使用强大火焰子弹的技能{f801}</target>
+    <target>使用需要一定时间发射的{f801}强大火焰子弹的技能{f801}</target>
   </entry>
   <entry id="3770">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15174,7 +15174,7 @@
   </entry>
   <entry id="3793">
     <source>発射までに時間のかかる{f801}強力な氷の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射的{f801}使用强大寒冰子弹的技能{f801}</target>
+    <target>使用需要一定时间发射的{f801}强大寒冰子弹的技能{f801}</target>
   </entry>
   <entry id="3794">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15270,7 +15270,7 @@
   </entry>
   <entry id="3817">
     <source>発射までに時間のかかる{f801}強力な雷の弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射的{f801}使用强大雷电子弹的技能{f801}</target>
+    <target>使用需要一定时间发射的{f801}强大雷电子弹的技能{f801}</target>
   </entry>
   <entry id="3818">
     <source>スキル習得{f801}消費TP15{f801}</source>
@@ -15558,7 +15558,7 @@
   </entry>
   <entry id="3889">
     <source>発射までに時間のかかる{f801}強力な弾丸を用いたスキル{f801}</source>
-    <target>需要一定时间发射的{f801}使用强力子弹的技能{f801}</target>
+    <target>使用需要一定时间发射的{f801}强力子弹的技能{f801}</target>
   </entry>
   <entry id="3890">
     <source>スキル習得{f801}消費TP15{f801}</source>
