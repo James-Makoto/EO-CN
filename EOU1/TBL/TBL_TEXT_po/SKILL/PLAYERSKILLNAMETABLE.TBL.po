@@ -1473,15 +1473,15 @@ msgstr "抗雷喷雾"
 
 msgctxt "365"
 msgid "耐斬ミスト"
-msgstr "抗斩喷雾"
+msgstr "抗斩击喷雾"
 
 msgctxt "366"
 msgid "耐壊ミスト"
-msgstr "抗坏喷雾"
+msgstr "抗破坏喷雾"
 
 msgctxt "367"
 msgid "耐突ミスト"
-msgstr "抗突喷雾"
+msgstr "抗突击喷雾"
 
 msgctxt "368"
 msgid "絶耐ミスト"
