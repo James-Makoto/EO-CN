@@ -57,7 +57,7 @@
   </entry>
   <entry id="14">
     <source>伐採ポイントがある。{f801}伐採しますか?{f801}</source>
-    <target>这里可以采伐，{f801}要采伐吗?{f801}</target>
+    <target>这里可以砍伐，{f801}要砍伐吗?{f801}</target>
   </entry>
   <entry id="15">
     <source>採掘ポイントがある。{f801}採掘しますか?{f801}</source>
@@ -717,7 +717,7 @@
   </entry>
   <entry id="258">
     <source>草木が凍っているため伐採できない。{f801}</source>
-    <target>草木被冻住了，无法采伐。{f801}</target>
+    <target>草木被冻住了，无法砍伐。{f801}</target>
   </entry>
   <entry id="290">
     <source>・・・{f801}</source>
@@ -761,7 +761,7 @@
   </entry>
   <entry id="306">
     <source>さらに、伐採の技術により・・・{f801}</source>
-    <target>此外，因为练就了采伐的技术・・・{f801}</target>
+    <target>此外，因为练就了砍伐的技术・・・{f801}</target>
   </entry>
   <entry id="307">
     <source>さらに、採掘の技術により・・・{f801}</source>
