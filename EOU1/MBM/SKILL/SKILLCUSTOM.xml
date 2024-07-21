@@ -4713,19 +4713,19 @@
   </entry>
   <entry id="1178">
     <source>スキル習得 発動条件HP30%以下{f801}</source>
-    <target>习得技能 发动条件为HP处于30%以下{f801}</target>
+    <target>习得技能{f801}发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1179">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1180">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1181">
     <source>攻撃力↑ 発動条件HP30%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于30%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于30%以下{f801}</target>
   </entry>
   <entry id="1182">
     <source>発動条件HP40%以下{f801}</source>
@@ -4733,19 +4733,19 @@
   </entry>
   <entry id="1183">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1184">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1185">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1186">
     <source>攻撃力↑ 発動条件HP40%以下{f801}</source>
-    <target>攻击力↑ 发动条件为HP处于40%以下{f801}</target>
+    <target>攻击力↑{f801}发动条件为HP处于40%以下{f801}</target>
   </entry>
   <entry id="1187">
     <source>発動条件HP50%以下{f801}</source>
@@ -6917,7 +6917,7 @@
   </entry>
   <entry id="1729">
     <source>治療技術によって味方を回復するスキル{f801}連続使用はできず、発動までに戦闘不能に{f801}なると効果は失われる{f801}</source>
-    <target>使用治疗技术治愈我方的技能{f801}不可连续使用，若效果生效前陷入无法战斗状态{f801}则效果不会生效{f801}</target>
+    <target>使用治疗技术治愈我方的技能，不可连续{f801}使用，若效果生效前陷入无法战斗状态{f801}则效果不会生效{f801}</target>
   </entry>
   <entry id="1730">
     <source>スキル習得{f801}消費TP14{f801}</source>
