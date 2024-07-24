@@ -1377,7 +1377,7 @@
   </entry>
   <entry id="415">
     <source>{f811}{0100}は{f801}華麗に受け流した!{f801}</source>
-    <target>{f811}{0100}は{f801}华丽的躲开了攻击!{f801}</target>
+    <target>{f811}{0100}{f801}华丽地躲开了攻击!{f801}</target>
   </entry>
   <entry id="416">
     <source>{f811}{0100}は{f801}攻撃を受け止めた!{f801}</source>
@@ -1429,7 +1429,7 @@
   </entry>
   <entry id="428">
     <source>{f811}{0100}の{f801}物理・属性耐性が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}物理・属性抗性提升了!{f801}</target>
+    <target>{f811}{0100}的{f801}物理・属性抗性提升了!{f801}</target>
   </entry>
   <entry id="429">
     <source>{f811}{0000}の{f801}{f811}{0300}は失敗に終わった!{f801}</source>
