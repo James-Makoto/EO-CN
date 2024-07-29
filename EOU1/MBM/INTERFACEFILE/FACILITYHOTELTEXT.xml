@@ -37,19 +37,19 @@
   </entry>
   <entry id="9">
     <source>受け取るアイテムがありません!{f801}</source>
-    <target>没有可取出的道具!{f801}</target>
+    <target>没有可取出的物品!{f801}</target>
   </entry>
   <entry id="10">
     <source>預けるアイテムがありません!{f801}</source>
-    <target>没有可寄存的道具!{f801}</target>
+    <target>没有可寄存的物品!{f801}</target>
   </entry>
   <entry id="11">
     <source>アイテムを{f811}{0000}個預けました{f801}</source>
-    <target>已寄存{f811}{0000}个道具。{f801}</target>
+    <target>已寄存{f811}{0000}个物品。{f801}</target>
   </entry>
   <entry id="12">
     <source>アイテムを{f811}{0000}個引き出しました{f801}</source>
-    <target>已取出{f811}{0000}个道具。{f801}</target>
+    <target>已取出{f811}{0000}个物品。{f801}</target>
   </entry>
   <entry id="13">
     <source>アイテムを{f811}{0000}個{f801}預けますがよろしいですか?{f801}</source>
@@ -73,11 +73,11 @@
   </entry>
   <entry id="18">
     <source>受け取る荷物を選択してください{f801}</source>
-    <target>请选择要取出的行李。{f801}</target>
+    <target>请选择要取出的物品。{f801}</target>
   </entry>
   <entry id="19">
     <source>{f811}{0000}エンかかりますが{f801}よろしいですか?{f801}</source>
-    <target>需要{f811}{0000}元，{f801}确定吗?{f801}</target>
+    <target>需要支付{f811}{0000}元，{f801}可以吗?{f801}</target>
   </entry>
   <entry id="20">
     <source>所持金がたりません!!{f801}</source>
@@ -101,7 +101,7 @@
   </entry>
   <entry id="25">
     <source>預り所に預けますが{f801}よろしいですか?{f801}</source>
-    <target>将寄存到寄存处，{f801}确定吗?{f801}</target>
+    <target>是否要将物品寄放至寄存处?{f801}</target>
   </entry>
   <entry id="26">
     <source>受け取りますがよろしいですか?{f801}</source>
@@ -109,6 +109,6 @@
   </entry>
   <entry id="27">
     <source>所持アイテムが一杯です!{f801}</source>
-    <target>持有道具已满!{f801}</target>
+    <target>持有物品已满!{f801}</target>
   </entry>
 </mbm>

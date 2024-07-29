@@ -217,7 +217,7 @@ msgstr "新月战斧"
 
 msgctxt "51"
 msgid "ハルバード"
-msgstr "斧枪"
+msgstr "长柄斧"
 
 msgctxt "52"
 msgid "ロックブレイカー"
@@ -685,7 +685,7 @@ msgstr "战斗短弓"
 
 msgctxt "168"
 msgid "蚊食鳥の弓"
-msgstr "蚊食鸟之弓"
+msgstr "食蚊鸟之弓"
 
 msgctxt "169"
 msgid "コンポジットボウ"
@@ -2225,7 +2225,7 @@ msgstr "加扎兰鳞甲"
 
 msgctxt "553"
 msgid "ブラッドチェイン"
-msgstr "血红锁甲"
+msgstr "血腥锁甲"
 
 msgctxt "554"
 msgid "コンポジットアーマー"

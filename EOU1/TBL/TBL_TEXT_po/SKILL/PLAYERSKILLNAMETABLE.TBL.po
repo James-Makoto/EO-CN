@@ -1177,7 +1177,7 @@ msgstr "黑色安息日"
 
 msgctxt "291"
 msgid "グッドラック"
-msgstr "好运"
+msgstr "祝君好运"
 
 msgctxt "292"
 msgid "採掘"

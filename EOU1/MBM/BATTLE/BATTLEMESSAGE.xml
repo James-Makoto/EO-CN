@@ -345,7 +345,7 @@
   </entry>
   <entry id="87">
     <source>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</source>
-    <target>但是，对{f811}{0100}{f801}没有效果。{f801}</target>
+    <target>但是，对{f811}{0100}{f801}不起效果。{f801}</target>
   </entry>
   <entry id="88">
     <source>{f811}{0100}は{f801}攻撃をかわした!{f801}</source>
@@ -453,7 +453,7 @@
   </entry>
   <entry id="114">
     <source>しかし、効果が無かった!{f801}</source>
-    <target>但是，没有效果!{f801}</target>
+    <target>但是，没有起效果!{f801}</target>
   </entry>
   <entry id="115">
     <source>{f811}{0100}は{f801}伏兵と化し敵を襲う!{f801}</source>
