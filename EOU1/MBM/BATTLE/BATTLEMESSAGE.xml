@@ -381,7 +381,7 @@
   </entry>
   <entry id="96">
     <source>{f811}{0000}は{f801}行動を一時停止した…!{f801}</source>
-    <target>{f811}{0000}的{f801}行动停止了……!{f801}</target>
+    <target>{f811}{0000}的{f801}行动暂时停止了……!{f801}</target>
   </entry>
   <entry id="97">
     <source>{f811}{0000}は{f801}{f811}{0100}を食いちぎった!{f801}</source>
