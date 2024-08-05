@@ -125,7 +125,7 @@
   </entry>
   <entry id="31">
     <source>迷宮にいる珍しい稀少個体モンスターを{f801}仕留めた証{f801}</source>
-    <target>在迷宫中击杀了{f801}稀少个体的证明{f801}</target>
+    <target>在迷宫中击杀了{f801}稀有个体的证明{f801}</target>
   </entry>
   <entry id="32">
     <source>熟練の狩猟者{f801}</source>
@@ -133,7 +133,7 @@
   </entry>
   <entry id="33">
     <source>迷宮にいる珍しい稀少個体モンスターを{f801}数多く仕留めた証{f801}</source>
-    <target>在迷宫中击杀了{f801}许多稀少个体的证明{f801}</target>
+    <target>在迷宫中击杀了{f801}许多稀有个体的证明{f801}</target>
   </entry>
   <entry id="34">
     <source>輝きを追いかけし者{f801}</source>
@@ -141,7 +141,7 @@
   </entry>
   <entry id="35">
     <source>100体もの稀少個体モンスターを{f801}仕留めた証{f801}</source>
-    <target>击杀了{f801}100个稀少个体的证明{f801}</target>
+    <target>击杀了{f801}100个稀有个体的证明{f801}</target>
   </entry>
   <entry id="36">
     <source>初級狩人{f801}</source>
@@ -333,7 +333,7 @@
   </entry>
   <entry id="123">
     <source>稀少個体モンスターを討伐する{f801}</source>
-    <target>讨伐了稀少个体魔物的证明{f801}</target>
+    <target>讨伐了稀有个体魔物的证明{f801}</target>
   </entry>
   <entry id="124">
     <source>図鑑コレクト勲章{f801}</source>

@@ -1237,7 +1237,7 @@
   </entry>
   <entry id="314">
     <source>{f811}{0100}の列は{f801}追撃に備えた!{f801}</source>
-    <target>{f811}{0100}一列{f801}准备追击!{f801}</target>
+    <target>{f811}{0100}一排{f801}准备追击!{f801}</target>
   </entry>
   <entry id="315">
     <source>{f811}{0100}の列に{f801}回復効果が発生する!{f801}</source>
