@@ -341,7 +341,7 @@
   </entry>
   <entry id="86">
     <source>しかし、攻撃は{f801}届かなかった!{f801}行動者{f801}</source>
-    <target>但是{f801}被没有攻击到!{f801}行动者{f801}</target>
+    <target>但是{f801}攻击没有奏效!{f801}行动者{f801}</target>
   </entry>
   <entry id="87">
     <source>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</source>
