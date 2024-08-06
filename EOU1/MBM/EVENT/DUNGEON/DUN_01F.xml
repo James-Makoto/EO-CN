@@ -285,7 +285,7 @@
   </entry>
   <entry id="125">
     <source>{f843}{0000}の{f801}HPが15回復した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP恢复了15点！{f801}</target>
+    <target>{f843}{0000}的HP{f801}恢复了15点！{f801}</target>
   </entry>
   <entry id="126">
     <source>君たちは、不思議な果実を警戒し{f801}そのままにして立ち去ることにする。{f801}</source>
