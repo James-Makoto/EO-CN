@@ -189,7 +189,7 @@
   </entry>
   <entry id="49">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}回復した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP{f811}{0000}恢复了!{f801}</target>
+    <target>{f843}{0000}的HP{f801}恢复了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="50">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}減少した!{f801}</source>
@@ -197,7 +197,7 @@
   </entry>
   <entry id="51">
     <source>{f843}{0000}の{f801}TPが{f811}{0000}回復した!{f801}</source>
-    <target>{f843}{0000}的{f801}TP{f811}{0000}恢复了!{f801}</target>
+    <target>{f843}{0000}的TP{f801}恢复了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="52">
     <source>{f843}{0000}の{f801}TPが{f811}{0000}減少した!{f801}</source>
@@ -205,7 +205,7 @@
   </entry>
   <entry id="53">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP{f811}{0000}、TP{f811}{0100}恢复了!{f801}</target>
+    <target>{f843}{0000}恢复了{f801}{f811}{0000}点HP与{f811}{0100}点TP!{f801}</target>
   </entry>
   <entry id="54">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</source>
@@ -213,27 +213,27 @@
   </entry>
   <entry id="55">
     <source>全員のHPが{f811}{0000}回復した!{f801}</source>
-    <target>所有人的HP{f811}{0000}恢复了!{f801}</target>
+    <target>所有人的HP恢复了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="56">
     <source>全員のHPが{f811}{0000}減少した!{f801}</source>
-    <target>所有人的HP{f811}{0000}减少了!{f801}</target>
+    <target>所有人的HP减少了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="57">
     <source>全員のTPが{f811}{0000}回復した!{f801}</source>
-    <target>所有人的TP{f811}{0000}恢复了!{f801}</target>
+    <target>所有人的TP恢复了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="58">
     <source>全員のTPが{f811}{0000}減少した!{f801}</source>
-    <target>所有人的TP{f811}{0000}减少了!{f801}</target>
+    <target>所有人的TP减少了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="59">
     <source>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}回復した!{f801}</source>
-    <target>所有人的{f801}HP{f811}{0000}、TP{f811}{0100}恢复了!{f801}</target>
+    <target>所有人恢复了{f801}{f811}{0000}点HP与{f811}{0100}点TP!{f801}</target>
   </entry>
   <entry id="60">
     <source>全員の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</source>
-    <target>所有人的{f801}HP{f811}{0000}、TP{f811}{0100}减少了!{f801}</target>
+    <target>所有人减少了{f801}{f811}{0000}点HP与{f811}{0100}点TP!{f801}</target>
   </entry>
   <entry id="61">
     <source>フロアジャンプが解禁されました!{f801}</source>

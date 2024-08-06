@@ -177,7 +177,7 @@
   </entry>
   <entry id="95">
     <source>{f804}{0300}全員のTPが10回復した!{f801}{f804}{0000}</source>
-    <target>{f804}{0300}你们的TP恢复了10!{f801}{f804}{0000}</target>
+    <target>{f804}{0300}所有人的TP恢复了10点!{f801}{f804}{0000}</target>
   </entry>
   <entry id="96">
     <source>清水を飲み気分がよくなった君たちは{f801}この水場を後にする。{f801}</source>
@@ -285,7 +285,7 @@
   </entry>
   <entry id="125">
     <source>{f843}{0000}の{f801}HPが15回復した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP恢复了15！{f801}</target>
+    <target>{f843}{0000}的HP{f801}恢复了15点！{f801}</target>
   </entry>
   <entry id="126">
     <source>君たちは、不思議な果実を警戒し{f801}そのままにして立ち去ることにする。{f801}</source>
