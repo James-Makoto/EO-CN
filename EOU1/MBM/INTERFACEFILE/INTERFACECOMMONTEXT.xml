@@ -193,7 +193,7 @@
   </entry>
   <entry id="50">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}減少した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP{f811}{0000}减少了!{f801}</target>
+    <target>{f843}{0000}的{f801}HP减少了{f811}{0000}点!{f801}</target>
   </entry>
   <entry id="51">
     <source>{f843}{0000}の{f801}TPが{f811}{0000}回復した!{f801}</source>
@@ -209,7 +209,7 @@
   </entry>
   <entry id="54">
     <source>{f843}{0000}の{f801}HPが{f811}{0000}、TPが{f811}{0100}減少した!{f801}</source>
-    <target>{f843}{0000}的{f801}HP{f811}{0000}、TP{f811}{0100}减少了!{f801}</target>
+    <target>{f843}{0000}的{f801}HP减少了{f811}{0000}点，TP减少了{f811}{0100}点!{f801}</target>
   </entry>
   <entry id="55">
     <source>全員のHPが{f811}{0000}回復した!{f801}</source>
