@@ -5,7 +5,7 @@
   </entry>
   <entry id="2">
     <source>中断セーブしますか?{f801}</source>
-    <target>要中断保存吗?{f801}</target>
+    <target>要进行中断保存吗?{f801}</target>
   </entry>
   <entry id="3">
     <source>お疲れ様でした{f801}電源をお切りください{f801}</source>
