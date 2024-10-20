@@ -3109,7 +3109,7 @@ msgstr "陶笛"
 
 msgctxt "774"
 msgid "リトルシザース"
-msgstr "小蟹钳坠饰"
+msgstr "小镰坠饰"
 
 msgctxt "775"
 msgid "輝石のリング"
