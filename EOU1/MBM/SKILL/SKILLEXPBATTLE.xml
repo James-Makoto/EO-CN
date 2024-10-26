@@ -1037,7 +1037,7 @@
   </entry>
   <entry id="318">
     <source>敵1体に遠隔突+雷属性攻撃{f801}発動まで防御力が低下する{f801}</source>
-    <target>对敌方单体发动远隔突击+雷属性攻击{f801}发动前防御力下降{f801}</target>
+    <target>对敌方单体发动远隔突击+雷属性攻击{f801}发动前自身防御力下降{f801}</target>
   </entry>
   <entry id="319">
     <source>自身が後列でDEFENCEする時{f801}前列の味方のHPが回復する{f801}</source>
