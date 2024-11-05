@@ -6505,7 +6505,7 @@
   </entry>
   <entry id="1626">
     <source>範囲:単体→1列 最大封じ解除数2{f801}消費TP20{f801}</source>
-    <target>范围:单体→1列 最多解除可2个封印{f801}消耗TP20{f801}</target>
+    <target>范围:1个→1列 最多解除可2个封印{f801}消耗TP20{f801}</target>
   </entry>
   <entry id="1627">
     <source>最大封じ解除数2{f801}消費TP10{f801}</source>
@@ -6553,7 +6553,7 @@
   </entry>
   <entry id="1638">
     <source>範囲:単体→1列{f801}消費TP20{f801}</source>
-    <target>范围:单体→1列{f801}消耗TP20{f801}</target>
+    <target>范围:1个→1列{f801}消耗TP20{f801}</target>
   </entry>
   <entry id="1639">
     <source>消費TP17{f801}</source>
