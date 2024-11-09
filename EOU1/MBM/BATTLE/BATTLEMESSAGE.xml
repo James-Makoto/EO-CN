@@ -701,7 +701,7 @@
   </entry>
   <entry id="178">
     <source>{f811}{0000}は{f801}輝きを増している!{f801}</source>
-    <target>{f811}{0000}{f801}使光增多了!{f801}</target>
+    <target>{f811}{0000}{f801}变得更加闪耀了!{f801}</target>
   </entry>
   <entry id="181">
     <source>{f811}{0000}の{f801}耐性が上がった!{f801}</source>
