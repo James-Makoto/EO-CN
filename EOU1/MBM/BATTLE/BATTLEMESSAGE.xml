@@ -537,7 +537,7 @@
   </entry>
   <entry id="137">
     <source>{f811}{0100}に{f801}かかっていた弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}的{f801}弱体效果被消除了!{f801}</target>
+    <target>{f811}{0100}的{f801}弱化效果被消除了!{f801}</target>
   </entry>
   <entry id="138">
     <source>{f811}{0100}の{f801}強化を消し去った!{f801}</source>
@@ -545,7 +545,7 @@
   </entry>
   <entry id="139">
     <source>{f811}{0100}の{f801}弱体を消し去った!{f801}</source>
-    <target>{f811}{0100}的{f801}弱体效果消失了!{f801}</target>
+    <target>{f811}{0100}的{f801}弱化效果消失了!{f801}</target>
   </entry>
   <entry id="140">
     <source>{f811}{0100}の{f801}攻撃力強化を打ち消した!{f801}</source>
@@ -1477,7 +1477,7 @@
   </entry>
   <entry id="440">
     <source>{f811}{0100}の{f801}強化、弱体を消し去った!{f801}</source>
-    <target>{f811}{0100}的{f801}强化、弱体效果消失了!{f801}</target>
+    <target>{f811}{0100}的{f801}强化、弱化效果消失了!{f801}</target>
   </entry>
   <entry id="441">
     <source>{f811}{0000}は攻撃を防いだ{f801}</source>
@@ -1641,7 +1641,7 @@
   </entry>
   <entry id="482">
     <source>{f811}{0100}の{f801}強化・弱体の効果ターンを延長させた!{f801}</source>
-    <target>{f811}{0100}的{f801}强化・弱体效果的回合数延长了!{f801}</target>
+    <target>{f811}{0100}的{f801}强化・弱化效果的回合数延长了!{f801}</target>
   </entry>
   <entry id="483">
     <source>{f811}{0100}の{f801}物理・属性攻撃力が上昇した!{f801}</source>
