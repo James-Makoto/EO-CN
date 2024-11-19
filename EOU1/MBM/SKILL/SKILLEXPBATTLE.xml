@@ -1369,7 +1369,7 @@
   </entry>
   <entry id="494">
     <source>敵1体に一定確率で睡眠効果が発動する{f801}</source>
-    <target>一定几对1个敌人率造成睡眠效果{f801}</target>
+    <target>一定几率对1个敌人率造成睡眠效果{f801}</target>
   </entry>
   <entry id="495">
     <source>敵1列に一定確率で頭封じ効果が発動する{f801}</source>
