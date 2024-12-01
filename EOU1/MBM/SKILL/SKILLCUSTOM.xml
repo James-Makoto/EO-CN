@@ -10325,7 +10325,7 @@
   </entry>
   <entry id="2581">
     <source>レベル上昇で刀スキルが習得される{f801}</source>
-    <target>随着等级上升，会刀技能{f801}</target>
+    <target>随着等级上升，会习得刀技能{f801}</target>
   </entry>
   <entry id="2582">
     <source>スキル習得{f801}</source>
