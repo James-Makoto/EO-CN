@@ -993,7 +993,7 @@
   </entry>
   <entry id="307">
     <source>一定確率で単体攻撃が貫通し{f801}敵後列に当たる{f801}</source>
-    <target>对1个敌人发动攻击并一定几率贯穿{f801}可打中后列敌人{f801}</target>
+    <target>对1个敌人发动的攻击有一定几率贯穿{f801}可打中后列敌人{f801}</target>
   </entry>
   <entry id="308">
     <source>戦闘中一定確率で{f801}使用したスキル分のTPが回復する{f801}</source>
