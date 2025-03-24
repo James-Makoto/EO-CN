@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "4"
 msgid "ネズミの針"
-msgstr ""
+msgstr "老鼠的针"
 
 msgctxt "5"
 msgid "小さな鉄爪"
