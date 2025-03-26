@@ -193,11 +193,11 @@ msgstr "坚紫大尾針"
 
 msgctxt "45"
 msgid "来光鳥の輝嘴"
-msgstr "来光鸟辉嘴"
+msgstr "闪光鸟辉嘴"
 
 msgctxt "46"
 msgid "来光鳥の光爪"
-msgstr "来光鸟光爪"
+msgstr "闪光鸟光爪"
 
 msgctxt "47"
 msgid "虹色ゼラチン"
