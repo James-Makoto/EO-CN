@@ -361,39 +361,39 @@ msgstr "乳菇杖"
 
 msgctxt "87"
 msgid "ラクタリウスモール"
-msgstr ""
+msgstr "乳菇大锤"
 
 msgctxt "88"
 msgid "ガラガラロッド"
-msgstr ""
+msgstr "响尾杖"
 
 msgctxt "89"
 msgid "白の錫杖"
-msgstr ""
+msgstr "白色锡杖"
 
 msgctxt "90"
 msgid "クリスタルメイス"
-msgstr ""
+msgstr "水晶战锤"
 
 msgctxt "91"
 msgid "ブルーライトロッド"
-msgstr ""
+msgstr "蓝光杖"
 
 msgctxt "92"
 msgid "黄金のワンド"
-msgstr ""
+msgstr "黄金短杖"
 
 msgctxt "93"
 msgid "スコーピオンモール"
-msgstr ""
+msgstr "毒蝎大锤"
 
 msgctxt "94"
 msgid "濃紫の錫杖"
-msgstr ""
+msgstr "深紫锡杖"
 
 msgctxt "95"
 msgid "コンバットフレイル"
-msgstr ""
+msgstr "战斗链枷"
 
 msgctxt "96"
 msgid "ブリッツスタッフ"
