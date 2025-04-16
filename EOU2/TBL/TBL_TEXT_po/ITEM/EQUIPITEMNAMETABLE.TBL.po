@@ -17,155 +17,155 @@ msgstr ""
 
 msgctxt "1"
 msgid "ダガー"
-msgstr ""
+msgstr "匕首"
 
 msgctxt "2"
 msgid "ククリナイフ"
-msgstr ""
+msgstr "反曲小刀"
 
 msgctxt "3"
 msgid "ファルカタ"
-msgstr ""
+msgstr "弯钩刀"
 
 msgctxt "4"
 msgid "グラディウス"
-msgstr ""
+msgstr "突刺短剑"
 
 msgctxt "5"
 msgid "ボアスピアソード"
-msgstr ""
+msgstr "猪牙剑"
 
 msgctxt "6"
 msgid "コラ"
-msgstr ""
+msgstr "科拉刀"
 
 msgctxt "7"
 msgid "ブロードソード"
-msgstr ""
+msgstr "双刃阔剑"
 
 msgctxt "8"
 msgid "カッツバルゲル"
-msgstr ""
+msgstr 斗剑""
 
 msgctxt "9"
 msgid "カットラス"
-msgstr ""
+msgstr "短弯刀"
 
 msgctxt "10"
 msgid "タルワール"
-msgstr ""
+msgstr "塔瓦弯刀"
 
 msgctxt "11"
 msgid "純白の石剣"
-msgstr ""
+msgstr "纯白石剑"
 
 msgctxt "12"
 msgid "イクスキューショナー"
-msgstr ""
+msgstr "处刑者"
 
 msgctxt "13"
 msgid "バスタードソード"
-msgstr ""
+msgstr "变种剑"
 
 msgctxt "14"
 msgid "シャムシール"
-msgstr ""
+msgstr "舍施尔弯刀"
 
 msgctxt "15"
 msgid "メルパッターベモー"
-msgstr ""
+msgstr "长柄双手刺剑"
 
 msgctxt "16"
 msgid "クレッセントソード"
-msgstr ""
+msgstr "新月剑"
 
 msgctxt "17"
 msgid "ドヴェルグの魔剣"
-msgstr ""
+msgstr "矮人魔剑"
 
 msgctxt "18"
 msgid "ヴォーパルソード"
-msgstr ""
+msgstr "斩首剑"
 
 msgctxt "19"
 msgid "ダーインスレイヴ"
-msgstr ""
+msgstr "丹因斯莱夫"
 
 msgctxt "20"
 msgid "ティルヴィング"
-msgstr ""
+msgstr "提尔锋"
 
 msgctxt "21"
 msgid "黒竜の呉鉤"
-msgstr ""
+msgstr "黑龙吴钩"
 
 msgctxt "22"
 msgid "翼竜の氷骨剣"
-msgstr ""
+msgstr "翼龙冰骨剑"
 
 msgctxt "23"
 msgid "レヴァンティン"
-msgstr ""
+msgstr "雷瓦汀"
 
 msgctxt "24"
 msgid "紫鱗の剣"
-msgstr ""
+msgstr "紫鳞剑"
 
 msgctxt "25"
 msgid "諸刃の輝剣"
-msgstr ""
+msgstr "双刃辉剑"
 
 msgctxt "26"
 msgid "フルンティング"
-msgstr ""
+msgstr "弗仑汀"
 
 msgctxt "27"
 msgid "緋緋色金の光剣"
-msgstr ""
+msgstr "绯绯色金光剑"
 
 msgctxt "28"
 msgid "呪骨の長剣"
-msgstr ""
+msgstr "咒骨长剑"
 
 msgctxt "29"
 msgid "ファルシオン"
-msgstr ""
+msgstr "弯刃大刀"
 
 msgctxt "30"
 msgid "一太刀のハルパー"
-msgstr ""
+msgstr "一刀两断镰刀剑"
 
 msgctxt "31"
 msgid "炎のフランベルジュ"
-msgstr ""
+msgstr "焰形大剑"
 
 msgctxt "32"
 msgid "アロンダイト"
-msgstr ""
+msgstr "阿隆戴特"
 
 msgctxt "33"
 msgid "フロースガルの剣"
-msgstr ""
+msgstr "弗洛斯加尔之剑"
 
 msgctxt "34"
 msgid "真竜の剣"
-msgstr ""
+msgstr "真龙剑"
 
 msgctxt "35"
 msgid "ドラグヴァンディル"
-msgstr ""
+msgstr "德拉戈凡迪尔"
 
 msgctxt "36"
 msgid "スタンナイフ"
-msgstr ""
+msgstr 眩晕小刀""
 
 msgctxt "37"
 msgid "世界樹の剣"
-msgstr ""
+msgstr "世界树之剑"
 
 msgctxt "38"
 msgid "ラグナロク"
-msgstr ""
+msgstr "诸神黄昏"
 
 msgctxt "39"
 msgid "ダミー"
@@ -177,119 +177,119 @@ msgstr ""
 
 msgctxt "41"
 msgid "フランキスカ"
-msgstr ""
+msgstr "弗朗奇斯卡斧"
 
 msgctxt "42"
 msgid "カリンガ"
-msgstr ""
+msgstr "卡林加斧"
 
 msgctxt "43"
 msgid "スパイクドアックス"
-msgstr ""
+msgstr "尖刺斧"
 
 msgctxt "44"
 msgid "チュイロバァー"
-msgstr ""
+msgstr "突刺双刃斧"
 
 msgctxt "45"
 msgid "ブロードアックス"
-msgstr ""
+msgstr "阔刃斧"
 
 msgctxt "46"
 msgid "ブローバ"
-msgstr ""
+msgstr "布罗瓦斧"
 
 msgctxt "47"
 msgid "バトルアックス"
-msgstr ""
+msgstr "战斧"
 
 msgctxt "48"
 msgid "イプシロンアックス"
-msgstr ""
+msgstr "厄普西隆斧"
 
 msgctxt "49"
 msgid "大空の戦斧"
-msgstr ""
+msgstr "天空战斧"
 
 msgctxt "50"
 msgid "ビペンニス"
-msgstr ""
+msgstr "重柄斧"
 
 msgctxt "51"
 msgid "レインボーアックス"
-msgstr ""
+msgstr "彩虹斧"
 
 msgctxt "52"
 msgid "大斧"
-msgstr ""
+msgstr "大斧"
 
 msgctxt "53"
 msgid "ハルバード"
-msgstr ""
+msgstr "斧枪"
 
 msgctxt "54"
 msgid "ロッコバーアックス"
-msgstr ""
+msgstr "洛卡柏斧"
 
 msgctxt "55"
 msgid "ショックレスアクス"
-msgstr ""
+msgstr "无冲击斧"
 
 msgctxt "56"
 msgid "ポールアックス"
-msgstr ""
+msgstr "长柄斧"
 
 msgctxt "57"
 msgid "大地の斧"
-msgstr ""
+msgstr "大地之斧"
 
 msgctxt "58"
 msgid "ロイヤルアックス"
-msgstr ""
+msgstr "皇家战斧"
 
 msgctxt "59"
 msgid "鬼人の斧"
-msgstr ""
+msgstr "鬼人之斧"
 
 msgctxt "60"
 msgid "輝骨の撃砕斧"
-msgstr ""
+msgstr "辉骨击碎斧"
 
 msgctxt "61"
 msgid "黒牙斧"
-msgstr ""
+msgstr "黑牙斧"
 
 msgctxt "62"
 msgid "セキフ"
-msgstr ""
+msgstr "石斧"
 
 msgctxt "63"
 msgid "壊炎の戦斧"
-msgstr ""
+msgstr "坏炎战斧"
 
 msgctxt "64"
 msgid "天鉄のタバルジン"
-msgstr ""
+msgstr "天鉄塔巴辛战斧"
 
 msgctxt "65"
 msgid "白銅の大斧"
-msgstr ""
+msgstr "白铜大斧"
 
 msgctxt "66"
 msgid "星砕きの戦斧"
-msgstr ""
+msgstr "碎星战斧"
 
 msgctxt "67"
 msgid "戦慄の斧"
-msgstr ""
+msgstr "战栗之斧"
 
 msgctxt "68"
 msgid "まどろみの戦斧"
-msgstr ""
+msgstr "安睡战斧"
 
 msgctxt "69"
 msgid "樹士の戦斧"
-msgstr ""
+msgstr "树士战斧"
 
 msgctxt "70"
 msgid "ダミー"
@@ -337,27 +337,27 @@ msgstr ""
 
 msgctxt "81"
 msgid "ワンド"
-msgstr ""
+msgstr "短杖"
 
 msgctxt "82"
 msgid "スタッフ"
-msgstr ""
+msgstr "长杖"
 
 msgctxt "83"
 msgid "アムードの杖"
-msgstr ""
+msgstr "圆球刺杖"
 
 msgctxt "84"
 msgid "グルズ"
-msgstr ""
+msgstr "大头战锤"
 
 msgctxt "85"
 msgid "マイマイクラブ"
-msgstr ""
+msgstr "蜗牛棍"
 
 msgctxt "86"
 msgid "ラクタリウスの杖"
-msgstr ""
+msgstr "乳菇杖"
 
 msgctxt "87"
 msgid "ラクタリウスモール"
@@ -2229,7 +2229,7 @@ msgstr ""
 
 msgctxt "554"
 msgid "コンポジットアーマー"
-msgstr ""
+msgstr "复合铠甲"
 
 msgctxt "555"
 msgid "フィールドアーマー"
