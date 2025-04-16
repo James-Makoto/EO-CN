@@ -2161,39 +2161,39 @@ msgstr ""
 
 msgctxt "537"
 msgid "野牛肉拉麺"
-msgstr ""
+msgstr "野牛肉拉面"
 
 msgctxt "538"
 msgid "樹海鳥の雷炒飯"
-msgstr ""
+msgstr "树海鸟雷炒饭"
 
 msgctxt "539"
 msgid "蜘蛛の姿揚げ"
-msgstr ""
+msgstr "炸蜘蛛"
 
 msgctxt "540"
 msgid "樹海特選の回鍋肉"
-msgstr ""
+msgstr "树海特选回锅肉"
 
 msgctxt "541"
 msgid "梟の軟骨からあげ"
-msgstr ""
+msgstr "炸枭软骨"
 
 msgctxt "542"
 msgid "肉と野菜のすき鍋"
-msgstr ""
+msgstr "蔬菜配肉寿喜锅"
 
 msgctxt "543"
 msgid "雪鳥卵のおでん"
-msgstr ""
+msgstr "雪鸟蛋关东煮"
 
 msgctxt "544"
 msgid "巨猪の豚汁"
-msgstr ""
+msgstr "巨猪猪肉汤"
 
 msgctxt "545"
 msgid "鶏唐揚げ甘酢餡"
-msgstr ""
+msgstr "糖醋炸鸡块"
 
 msgctxt "546"
 msgid "シカ肉のタタキ風"
@@ -2209,7 +2209,7 @@ msgstr ""
 
 msgctxt "549"
 msgid "満漢全席"
-msgstr ""
+msgstr "满汉全席"
 
 msgctxt "550"
 msgid "炎の渦"
