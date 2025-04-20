@@ -45,7 +45,7 @@ msgstr "双刃阔剑"
 
 msgctxt "8"
 msgid "カッツバルゲル"
-msgstr 斗剑""
+msgstr "斗剑"
 
 msgctxt "9"
 msgid "カットラス"
@@ -157,7 +157,7 @@ msgstr "德拉戈凡迪尔"
 
 msgctxt "36"
 msgid "スタンナイフ"
-msgstr 眩晕小刀""
+msgstr "眩晕小刀"
 
 msgctxt "37"
 msgid "世界樹の剣"
