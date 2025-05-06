@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "1"
 msgid "殻のカケラ"
-msgstr ""
+msgstr "甲壳碎片"
 
 msgctxt "2"
 msgid "土竜のカギ爪"
-msgstr ""
+msgstr "鼹鼠钩爪"
 
 msgctxt "3"
 msgid "やわらかい皮"
@@ -33,7 +33,7 @@ msgstr "老鼠的针"
 
 msgctxt "5"
 msgid "小さな鉄爪"
-msgstr ""
+msgstr "小小的铁爪"
 
 msgctxt "6"
 msgid "毒蝶の翅"
@@ -45,19 +45,19 @@ msgstr ""
 
 msgctxt "8"
 msgid "伸縮する皮"
-msgstr ""
+msgstr "伸缩外皮"
 
 msgctxt "9"
 msgid "甲殻の突起"
-msgstr ""
+msgstr "甲壳的突起"
 
 msgctxt "10"
 msgid "ナナホシの甲殻"
-msgstr ""
+msgstr "七星甲壳"
 
 msgctxt "11"
 msgid "翼竜の頭骨"
-msgstr ""
+msgstr "翼龙头骨"
 
 msgctxt "12"
 msgid "ゼラチン質の核"
@@ -293,11 +293,11 @@ msgstr ""
 
 msgctxt "70"
 msgid "金剛鉄の殻"
-msgstr ""
+msgstr "金刚铁之壳"
 
 msgctxt "71"
 msgid "黒馬の蹄"
-msgstr ""
+msgstr "黑马之蹄"
 
 msgctxt "72"
 msgid "ゼラチン質の黒核"
