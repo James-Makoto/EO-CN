@@ -405,11 +405,11 @@ msgstr ""
 
 msgctxt "98"
 msgid "賢者の杖"
-msgstr ""
+msgstr "贤者之杖"
 
 msgctxt "99"
 msgid "スターダスト"
-msgstr ""
+msgstr "星尘杖"
 
 msgctxt "100"
 msgid "古の王錫"
@@ -421,7 +421,7 @@ msgstr ""
 
 msgctxt "102"
 msgid "深紅の魔杖"
-msgstr ""
+msgstr "深红魔杖"
 
 msgctxt "103"
 msgid "赤松の杖"
@@ -429,7 +429,7 @@ msgstr ""
 
 msgctxt "104"
 msgid "氷河の鉄杖"
-msgstr ""
+msgstr "冰河铁杖"
 
 msgctxt "105"
 msgid "狂眼の杖"
@@ -457,7 +457,7 @@ msgstr ""
 
 msgctxt "111"
 msgid "幸運の杖"
-msgstr ""
+msgstr "幸运之杖"
 
 msgctxt "112"
 msgid "レッドステッキ"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "113"
 msgid "ケリケイオン"
-msgstr ""
+msgstr "双蛇杖"
 
 msgctxt "114"
 msgid "呪言の杖"
@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "116"
 msgid "神樹の杖"
-msgstr ""
+msgstr "神树之杖"
 
 msgctxt "117"
 msgid "ダミー"
@@ -497,83 +497,83 @@ msgstr ""
 
 msgctxt "121"
 msgid "刺刀"
-msgstr ""
+msgstr "刺刀"
 
 msgctxt "122"
 msgid "脇差"
-msgstr ""
+msgstr "胁差"
 
 msgctxt "123"
 msgid "小太刀"
-msgstr ""
+msgstr "小太刀"
 
 msgctxt "124"
 msgid "ワラビテ刀"
-msgstr ""
+msgstr "蕨手刀"
 
 msgctxt "125"
 msgid "黒作大刀"
-msgstr ""
+msgstr "黑作大刀"
 
 msgctxt "126"
 msgid "太刀"
-msgstr ""
+msgstr "太刀"
 
 msgctxt "127"
 msgid "野太刀"
-msgstr ""
+msgstr "野太刀"
 
 msgctxt "128"
 msgid "岩融"
-msgstr ""
+msgstr "岩融"
 
 msgctxt "129"
 msgid "落葉"
-msgstr ""
+msgstr "落叶"
 
 msgctxt "130"
 msgid "ニッカリ"
-msgstr ""
+msgstr "笑面"
 
 msgctxt "131"
 msgid "鬼神大王"
-msgstr ""
+msgstr "鬼神大王"
 
 msgctxt "132"
 msgid "数珠丸"
-msgstr ""
+msgstr "数珠丸"
 
 msgctxt "133"
 msgid "童子切"
-msgstr ""
+msgstr "童子切"
 
 msgctxt "134"
 msgid "ドウタヌキ"
-msgstr ""
+msgstr "同田贯"
 
 msgctxt "135"
 msgid "波文蛭巻大太刀"
-msgstr ""
+msgstr "波文蛭卷大太刀"
 
 msgctxt "136"
 msgid "鬼丸"
-msgstr ""
+msgstr "鬼丸"
 
 msgctxt "137"
 msgid "姫鶴一文字"
-msgstr ""
+msgstr "姬鹤一文字"
 
 msgctxt "138"
 msgid "骨食"
-msgstr ""
+msgstr "骨食"
 
 msgctxt "139"
 msgid "蛍丸"
-msgstr ""
+msgstr "萤丸"
 
 msgctxt "140"
 msgid "モノホシ竿"
-msgstr ""
+msgstr "竹竿备前刀"
 
 msgctxt "141"
 msgid "俘囚野剣"
@@ -589,7 +589,7 @@ msgstr ""
 
 msgctxt "144"
 msgid "氷雨丸"
-msgstr ""
+msgstr "冰雨丸"
 
 msgctxt "145"
 msgid "角獣の赤刀"
