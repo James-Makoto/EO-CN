@@ -17,143 +17,143 @@ msgstr ""
 
 msgctxt "1"
 msgid "森マイマイ"
-msgstr ""
+msgstr "森林蜗牛"
 
 msgctxt "2"
 msgid "マイマイダイオウ"
-msgstr ""
+msgstr "蜗牛大王"
 
 msgctxt "3"
 msgid "ひっかきモグラ"
-msgstr ""
+msgstr "利爪鼹鼠"
 
 msgctxt "4"
 msgid "はさみカブト"
-msgstr ""
+msgstr "剪刀甲虫"
 
 msgctxt "5"
 msgid "毒吹きアゲハ"
-msgstr ""
+msgstr "喷毒凤蝶"
 
 msgctxt "6"
 msgid "ライチョウ"
-msgstr ""
+msgstr "岩雷鸟"
 
 msgctxt "7"
 msgid "狂乱の角鹿"
-msgstr ""
+msgstr "狂乱角鹿"
 
 msgctxt "8"
 msgid "ボールアニマル"
-msgstr ""
+msgstr "圆球兽"
 
 msgctxt "9"
 msgid "マンドレイク"
-msgstr ""
+msgstr "曼德拉草"
 
 msgctxt "10"
 msgid "針ネズミ"
-msgstr ""
+msgstr "针鼠"
 
 msgctxt "11"
 msgid "暴れ野牛"
-msgstr ""
+msgstr "狂暴野牛"
 
 msgctxt "12"
 msgid "ノヅチ"
-msgstr ""
+msgstr "野槌蛇"
 
 msgctxt "13"
 msgid "ガラガラノヅチ"
-msgstr ""
+msgstr "响尾野槌蛇"
 
 msgctxt "14"
 msgid "軍隊バチ"
-msgstr ""
+msgstr "行军蜂"
 
 msgctxt "15"
 msgid "ベノムスパイダー"
-msgstr ""
+msgstr "毒蜘蛛"
 
 msgctxt "16"
 msgid "ディアトリマ"
-msgstr ""
+msgstr "冠恐鸟"
 
 msgctxt "17"
 msgid "かみつき草"
-msgstr ""
+msgstr "啃咬草"
 
 msgctxt "18"
 msgid "大キノコ"
-msgstr ""
+msgstr "大蘑菇"
 
 msgctxt "19"
 msgid "ダイオウキノコ"
-msgstr ""
+msgstr "大王蘑菇"
 
 msgctxt "20"
 msgid "超危険な花びら"
-msgstr ""
+msgstr "超危险花卉"
 
 msgctxt "21"
 msgid "デスストーカー"
-msgstr ""
+msgstr "死亡追踪者"
 
 msgctxt "22"
 msgid "カマイタチ"
-msgstr ""
+msgstr "镰鼬"
 
 msgctxt "23"
 msgid "破滅を呼ぶ光鳥"
-msgstr ""
+msgstr "呼唤毁灭的光鸟"
 
 msgctxt "24"
 msgid "レイヴン"
-msgstr ""
+msgstr "渡鸦"
 
 msgctxt "25"
 msgid "スノーバード"
-msgstr ""
+msgstr "雪鸟"
 
 msgctxt "26"
 msgid "エリマキトカゲ"
-msgstr ""
+msgstr "伞蜥蜴"
 
 msgctxt "27"
 msgid "エリマキブラッド"
-msgstr ""
+msgstr "血红伞蜥蜴"
 
 msgctxt "28"
 msgid "カーバンクル"
-msgstr ""
+msgstr "红宝石兽"
 
 msgctxt "29"
 msgid "ジュエルリザード"
-msgstr ""
+msgstr "宝石蜥蜴"
 
 msgctxt "30"
 msgid "フォレストバット"
-msgstr ""
+msgstr "森林蝙蝠"
 
 msgctxt "31"
 msgid "スノーゴースト"
-msgstr ""
+msgstr "雪鬼"
 
 msgctxt "32"
 msgid "モリヤンマ"
-msgstr ""
+msgstr "森林蜻蜓"
 
 msgctxt "33"
 msgid "オオテントウ"
-msgstr ""
+msgstr "大瓢虫"
 
 msgctxt "34"
 msgid "七色テントウ"
-msgstr ""
+msgstr "七彩瓢虫"
 
 msgctxt "35"
 msgid "シザースクラブ"
-msgstr ""
+msgstr "巨钳蟹"
 
 msgctxt "36"
 msgid "モモンガトカゲ"
@@ -169,31 +169,31 @@ msgstr ""
 
 msgctxt "39"
 msgid "オオヤドカリ"
-msgstr ""
+msgstr "大寄居蟹"
 
 msgctxt "40"
 msgid "古代ヤドカリ"
-msgstr ""
+msgstr "古代寄居蟹"
 
 msgctxt "41"
 msgid "キューブゼラチン"
-msgstr ""
+msgstr "立方体明胶怪"
 
 msgctxt "42"
 msgid "レッドゼラチン"
-msgstr ""
+msgstr "红明胶怪"
 
 msgctxt "43"
 msgid "青嵐の粘塊"
-msgstr ""
+msgstr "青岚粘块"
 
 msgctxt "44"
 msgid "イエローゼラチン"
-msgstr ""
+msgstr "黄明胶怪"
 
 msgctxt "45"
 msgid "ゼラチンキング"
-msgstr ""
+msgstr "明胶怪之王"
 
 msgctxt "46"
 msgid "シロショウジョウ"
@@ -201,7 +201,7 @@ msgstr ""
 
 msgctxt "47"
 msgid "ブラックネイル"
-msgstr ""
+msgstr "黑爪猴"
 
 msgctxt "48"
 msgid "突き進む犀角"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "49"
 msgid "トリプルホーン"
-msgstr ""
+msgstr "三角犀"
 
 msgctxt "50"
 msgid "コカトリス"
@@ -217,47 +217,47 @@ msgstr ""
 
 msgctxt "51"
 msgid "サイミンフクロウ"
-msgstr ""
+msgstr "催眠猫头鹰"
 
 msgctxt "52"
 msgid "サクランフクロウ"
-msgstr ""
+msgstr "错乱猫头鹰"
 
 msgctxt "53"
 msgid "アクタイオン"
-msgstr ""
+msgstr "阿克泰翁"
 
 msgctxt "54"
 msgid "グリュプス"
-msgstr ""
+msgstr "狮鹫"
 
 msgctxt "55"
 msgid "虚空を視る邪眼"
-msgstr ""
+msgstr "凝视虚空的邪眼"
 
 msgctxt "56"
 msgid "さまよう魔眼"
-msgstr ""
+msgstr "彷徨魔眼"
 
 msgctxt "57"
 msgid "ビッグモス"
-msgstr ""
+msgstr "巨大飞蛾"
 
 msgctxt "58"
 msgid "モスロード"
-msgstr ""
+msgstr "飞蛾之王"
 
 msgctxt "59"
 msgid "大イノシシ"
-msgstr ""
+msgstr "大野猪"
 
 msgctxt "60"
 msgid "銀板の監視者"
-msgstr ""
+msgstr "银板监视者"
 
 msgctxt "61"
 msgid "クローラー"
-msgstr ""
+msgstr "毛虫"
 
 msgctxt "62"
 msgid "マッドキャタピラ"
@@ -265,31 +265,31 @@ msgstr ""
 
 msgctxt "63"
 msgid "ハイクローラー"
-msgstr ""
+msgstr "高等毛虫"
 
 msgctxt "64"
 msgid "スレイプニル"
-msgstr ""
+msgstr "斯雷普尼尔"
 
 msgctxt "65"
 msgid "闇夜の魔馬"
-msgstr ""
+msgstr "暗夜魔马"
 
 msgctxt "66"
 msgid "死霊の兵士"
-msgstr ""
+msgstr "死灵士兵"
 
 msgctxt "67"
 msgid "鮮血の兵士"
-msgstr ""
+msgstr "鲜血士兵"
 
 msgctxt "68"
 msgid "漆黒の魔騎士"
-msgstr ""
+msgstr "漆黑魔骑士"
 
 msgctxt "69"
 msgid "駆け寄る襲撃者"
-msgstr ""
+msgstr "飞奔袭击者"
 
 msgctxt "70"
 msgid "ラプターロード"
@@ -297,11 +297,11 @@ msgstr ""
 
 msgctxt "71"
 msgid "ヨロイリュウ"
-msgstr ""
+msgstr "铠龙"
 
 msgctxt "72"
 msgid "アイアンアーマー"
-msgstr ""
+msgstr "钢铁铠龙"
 
 msgctxt "73"
 msgid "迎え撃つ覇王樹"
@@ -309,19 +309,19 @@ msgstr ""
 
 msgctxt "74"
 msgid "ロードサワロ"
-msgstr ""
+msgstr "王者仙人掌"
 
 msgctxt "75"
 msgid "怪しい石像"
-msgstr ""
+msgstr "可疑石像"
 
 msgctxt "76"
 msgid "危ない石像"
-msgstr ""
+msgstr "危险石像"
 
 msgctxt "77"
 msgid "巨大な石像"
-msgstr ""
+msgstr "巨大石像"
 
 msgctxt "78"
 msgid "ワイルドウイング"
@@ -329,35 +329,35 @@ msgstr ""
 
 msgctxt "79"
 msgid "ブラックウイング"
-msgstr ""
+msgstr "漆黑之翼"
 
 msgctxt "80"
 msgid "白銀の銃兵"
-msgstr ""
+msgstr "白银火枪兵"
 
 msgctxt "81"
 msgid "緋緋色の剣兵"
-msgstr ""
+msgstr "绯绯色剑兵"
 
 msgctxt "82"
 msgid "フィッシュマン"
-msgstr ""
+msgstr "鱼人"
 
 msgctxt "83"
 msgid "レッドフィッシュ"
-msgstr ""
+msgstr "赤红鱼人"
 
 msgctxt "84"
 msgid "デスパンプキン"
-msgstr ""
+msgstr "死亡南瓜"
 
 msgctxt "85"
 msgid "幻惑の飛南瓜"
-msgstr ""
+msgstr "幻惑飞南瓜"
 
 msgctxt "86"
 msgid "三頭飛南瓜"
-msgstr ""
+msgstr "三头飞南瓜"
 
 msgctxt "87"
 msgid "シユウ"
@@ -365,11 +365,11 @@ msgstr ""
 
 msgctxt "88"
 msgid "アステリオス"
-msgstr ""
+msgstr "阿斯忒里翁"
 
 msgctxt "89"
 msgid "魔界の邪竜"
-msgstr ""
+msgstr "魔界邪龙"
 
 msgctxt "90"
 msgid "ドレッドヒュドラ"
@@ -377,15 +377,15 @@ msgstr ""
 
 msgctxt "91"
 msgid "サウロポセイドン"
-msgstr ""
+msgstr "波塞东龙"
 
 msgctxt "92"
 msgid "モケーレムベンベ"
-msgstr ""
+msgstr "魔克拉姆边贝"
 
 msgctxt "93"
 msgid "樹海の炎王"
-msgstr ""
+msgstr "树海炎王"
 
 msgctxt "94"
 msgid "アイスドレイク"
@@ -397,11 +397,11 @@ msgstr ""
 
 msgctxt "96"
 msgid "ラフレシア"
-msgstr ""
+msgstr "大王花"
 
 msgctxt "97"
 msgid "巨大な邪花"
-msgstr ""
+msgstr "巨大邪花"
 
 msgctxt "98"
 msgid "突貫する大蛙"
@@ -533,19 +533,19 @@ msgstr ""
 
 msgctxt "130"
 msgid "ルーカサイト"
-msgstr ""
+msgstr "白细胞"
 
 msgctxt "131"
 msgid "メタルニードル"
-msgstr ""
+msgstr "金属尖刺"
 
 msgctxt "132"
 msgid "ヘルパピヨン"
-msgstr ""
+msgstr "地狱蝶"
 
 msgctxt "133"
 msgid "レッドコーパスル"
-msgstr ""
+msgstr "红细胞"
 
 msgctxt "134"
 msgid "さすらいの剣猪"
@@ -641,7 +641,7 @@ msgstr ""
 
 msgctxt "157"
 msgid "ジャイアントモア"
-msgstr ""
+msgstr "大恐鸟"
 
 msgctxt "158"
 msgid "NONE"
@@ -653,15 +653,15 @@ msgstr ""
 
 msgctxt "160"
 msgid "世界樹の芽"
-msgstr ""
+msgstr "世界树之芽"
 
 msgctxt "161"
 msgid "世界樹の双葉"
-msgstr ""
+msgstr "世界树之双叶"
 
 msgctxt "162"
 msgid "世界樹の四つ葉"
-msgstr ""
+msgstr "世界树之四叶"
 
 msgctxt "163"
 msgid "NONE"
@@ -669,15 +669,15 @@ msgstr ""
 
 msgctxt "164"
 msgid "アイアンタートル"
-msgstr ""
+msgstr "钢铁巨龟"
 
 msgctxt "165"
 msgid "ディノゲーター"
-msgstr ""
+msgstr "恐鳄"
 
 msgctxt "166"
 msgid "うごめく毒樹"
-msgstr ""
+msgstr "蠢动毒树"
 
 msgctxt "167"
 msgid "NONE"
@@ -705,7 +705,7 @@ msgstr ""
 
 msgctxt "173"
 msgid "ディノティラノ"
-msgstr ""
+msgstr "恐暴龙"
 
 msgctxt "174"
 msgid "NONE"
@@ -789,11 +789,11 @@ msgstr ""
 
 msgctxt "194"
 msgid "オーバーロード"
-msgstr ""
+msgstr "至高之主"
 
 msgctxt "195"
 msgid "フォレスト・セル"
-msgstr ""
+msgstr "森林・细胞"
 
 msgctxt "196"
 msgid "セル・イーラ"
@@ -813,75 +813,75 @@ msgstr ""
 
 msgctxt "200"
 msgid "フォレスト・セル"
-msgstr ""
+msgstr "森林・细胞"
 
 msgctxt "201"
 msgid "キマイラ"
-msgstr ""
+msgstr "奇美拉"
 
 msgctxt "202"
 msgid "サラマンドラ"
-msgstr ""
+msgstr "沙罗曼蛇"
 
 msgctxt "203"
 msgid "炎の魔人"
-msgstr ""
+msgstr "炎之魔人"
 
 msgctxt "204"
 msgid "ヘカトンケイル"
-msgstr ""
+msgstr "百臂巨人"
 
 msgctxt "205"
 msgid "スキュレー"
-msgstr ""
+msgstr "斯库拉"
 
 msgctxt "206"
 msgid "始原の幼子"
-msgstr ""
+msgstr "原初幼子"
 
 msgctxt "207"
 msgid "ハルピュイア"
-msgstr ""
+msgstr "哈耳庇厄"
 
 msgctxt "208"
 msgid "ジャガーノート"
-msgstr ""
+msgstr "札格纳特"
 
 msgctxt "209"
 msgid "ゴーレム"
-msgstr ""
+msgstr "魔像"
 
 msgctxt "210"
 msgid "ワイバーン"
-msgstr ""
+msgstr "双足飞"
 
 msgctxt "211"
 msgid "オーバーロード"
-msgstr ""
+msgstr "至高之主"
 
 msgctxt "212"
 msgid "オーバーロード"
-msgstr ""
+msgstr "至高之主"
 
 msgctxt "213"
 msgid "偉大なる赤竜"
-msgstr ""
+msgstr "伟大红龙"
 
 msgctxt "214"
 msgid "氷嵐の支配者"
-msgstr ""
+msgstr "冰暴支配者"
 
 msgctxt "215"
 msgid "雷鳴と共に現る者"
-msgstr ""
+msgstr "雷鸣伴随者"
 
 msgctxt "216"
 msgid "ライシュッツ"
-msgstr ""
+msgstr "莱修茨"
 
 msgctxt "217"
 msgid "アーテリンデ"
-msgstr ""
+msgstr "亚特琳德"
 
 msgctxt "218"
 msgid "バジリスク"
@@ -909,7 +909,7 @@ msgstr ""
 
 msgctxt "224"
 msgid "フレイムキューブ"
-msgstr ""
+msgstr "奇美拉"
 
 msgctxt "225"
 msgid "ルインクリーパー"
@@ -945,15 +945,15 @@ msgstr ""
 
 msgctxt "233"
 msgid "ドラゴンハート紅"
-msgstr ""
+msgstr "龙之心・红"
 
 msgctxt "234"
 msgid "ドラゴンハート蒼"
-msgstr ""
+msgstr "龙之心・苍"
 
 msgctxt "235"
 msgid "ドラゴンハート輝"
-msgstr ""
+msgstr "龙之心・辉"
 
 msgctxt "236"
 msgid "物欲を欺く者"
@@ -989,47 +989,47 @@ msgstr ""
 
 msgctxt "244"
 msgid "スノードリフト"
-msgstr ""
+msgstr "雪色漫游者"
 
 msgctxt "245"
 msgid "スノーウルフ"
-msgstr ""
+msgstr "雪狼"
 
 msgctxt "246"
 msgid "ケルヌンノス"
-msgstr ""
+msgstr "科尔努诺斯"
 
 msgctxt "247"
 msgid "ヒーラーボール"
-msgstr ""
+msgstr "医者圆球兽"
 
 msgctxt "248"
 msgid "クイーンアント"
-msgstr ""
+msgstr "女王蚁"
 
 msgctxt "249"
 msgid "ハイキラーアント"
-msgstr ""
+msgstr "高等杀手蚁"
 
 msgctxt "250"
 msgid "ハイガードアント"
-msgstr ""
+msgstr "高等卫兵蚁"
 
 msgctxt "251"
 msgid "コロトラングル"
-msgstr ""
+msgstr "汪洋之魔鱼"
 
 msgctxt "252"
 msgid "マンティコア"
-msgstr ""
+msgstr "蝎尾狮"
 
 msgctxt "253"
 msgid "イワオロペネレプ"
-msgstr ""
+msgstr "破岩之神鸟"
 
 msgctxt "254"
 msgid "アルルーナ"
-msgstr ""
+msgstr "爱娜温"
 
 msgctxt "255"
 msgid "始原の魔神"
