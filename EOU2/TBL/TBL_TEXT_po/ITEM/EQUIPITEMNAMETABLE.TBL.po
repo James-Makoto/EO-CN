@@ -397,87 +397,87 @@ msgstr "战斗链枷"
 
 msgctxt "96"
 msgid "ブリッツスタッフ"
-msgstr ""
+msgstr "迅雷长杖"
 
 msgctxt "97"
 msgid "黒核の王錫"
-msgstr ""
+msgstr "黑核王杖"
 
 msgctxt "98"
 msgid "賢者の杖"
-msgstr ""
+msgstr "贤者之杖"
 
 msgctxt "99"
 msgid "スターダスト"
-msgstr ""
+msgstr "星尘杖"
 
 msgctxt "100"
 msgid "古の王錫"
-msgstr ""
+msgstr "古老王杖"
 
 msgctxt "101"
 msgid "モルセーゴステッキ"
-msgstr ""
+msgstr "蝙蝠手杖"
 
 msgctxt "102"
 msgid "深紅の魔杖"
-msgstr ""
+msgstr "深红魔杖"
 
 msgctxt "103"
 msgid "赤松の杖"
-msgstr ""
+msgstr "赤松之杖"
 
 msgctxt "104"
 msgid "氷河の鉄杖"
-msgstr ""
+msgstr "冰河铁杖"
 
 msgctxt "105"
 msgid "狂眼の杖"
-msgstr ""
+msgstr "狂眼之杖"
 
 msgctxt "106"
 msgid "薔薇玻璃の杖"
-msgstr ""
+msgstr "薔薇玻璃之杖"
 
 msgctxt "107"
 msgid "守護獣の鉄杖"
-msgstr ""
+msgstr "守护兽铁杖"
 
 msgctxt "108"
 msgid "危険な花杖"
-msgstr ""
+msgstr "危险花杖"
 
 msgctxt "109"
 msgid "わさづの"
-msgstr ""
+msgstr "鹿之角"
 
 msgctxt "110"
 msgid "鋼鉄の錫杖"
-msgstr ""
+msgstr "钢铁锡杖"
 
 msgctxt "111"
 msgid "幸運の杖"
-msgstr ""
+msgstr "幸运之杖"
 
 msgctxt "112"
 msgid "レッドステッキ"
-msgstr ""
+msgstr "赤红手杖"
 
 msgctxt "113"
 msgid "ケリケイオン"
-msgstr ""
+msgstr "双蛇杖"
 
 msgctxt "114"
 msgid "呪言の杖"
-msgstr ""
+msgstr "咒言之杖"
 
 msgctxt "115"
 msgid "封頭の玄能"
-msgstr ""
+msgstr "封头玄能"
 
 msgctxt "116"
 msgid "神樹の杖"
-msgstr ""
+msgstr "神树之杖"
 
 msgctxt "117"
 msgid "ダミー"
@@ -497,135 +497,135 @@ msgstr ""
 
 msgctxt "121"
 msgid "刺刀"
-msgstr ""
+msgstr "刺刀"
 
 msgctxt "122"
 msgid "脇差"
-msgstr ""
+msgstr "胁差"
 
 msgctxt "123"
 msgid "小太刀"
-msgstr ""
+msgstr "小太刀"
 
 msgctxt "124"
 msgid "ワラビテ刀"
-msgstr ""
+msgstr "蕨手刀"
 
 msgctxt "125"
 msgid "黒作大刀"
-msgstr ""
+msgstr "黑作大刀"
 
 msgctxt "126"
 msgid "太刀"
-msgstr ""
+msgstr "太刀"
 
 msgctxt "127"
 msgid "野太刀"
-msgstr ""
+msgstr "野太刀"
 
 msgctxt "128"
 msgid "岩融"
-msgstr ""
+msgstr "岩融"
 
 msgctxt "129"
 msgid "落葉"
-msgstr ""
+msgstr "落叶"
 
 msgctxt "130"
 msgid "ニッカリ"
-msgstr ""
+msgstr "笑面"
 
 msgctxt "131"
 msgid "鬼神大王"
-msgstr ""
+msgstr "鬼神大王"
 
 msgctxt "132"
 msgid "数珠丸"
-msgstr ""
+msgstr "数珠丸"
 
 msgctxt "133"
 msgid "童子切"
-msgstr ""
+msgstr "童子切"
 
 msgctxt "134"
 msgid "ドウタヌキ"
-msgstr ""
+msgstr "同田贯"
 
 msgctxt "135"
 msgid "波文蛭巻大太刀"
-msgstr ""
+msgstr "波文蛭卷大太刀"
 
 msgctxt "136"
 msgid "鬼丸"
-msgstr ""
+msgstr "鬼丸"
 
 msgctxt "137"
 msgid "姫鶴一文字"
-msgstr ""
+msgstr "姬鹤一文字"
 
 msgctxt "138"
 msgid "骨食"
-msgstr ""
+msgstr "骨食"
 
 msgctxt "139"
 msgid "蛍丸"
-msgstr ""
+msgstr "萤丸"
 
 msgctxt "140"
 msgid "モノホシ竿"
-msgstr ""
+msgstr "竹竿备前刀"
 
 msgctxt "141"
 msgid "俘囚野剣"
-msgstr ""
+msgstr "俘囚野剑"
 
 msgctxt "142"
 msgid "風斬りの太刀"
-msgstr ""
+msgstr "斩风太刀"
 
 msgctxt "143"
 msgid "ヘシキリ"
-msgstr ""
+msgstr "压切"
 
 msgctxt "144"
 msgid "氷雨丸"
-msgstr ""
+msgstr "冰雨丸"
 
 msgctxt "145"
 msgid "角獣の赤刀"
-msgstr ""
+msgstr "角兽赤刀"
 
 msgctxt "146"
 msgid "妖刀ニヒル"
-msgstr ""
+msgstr "妖刀似蛭"
 
 msgctxt "147"
 msgid "小烏丸"
-msgstr ""
+msgstr "小乌丸"
 
 msgctxt "148"
 msgid "獅子の子"
-msgstr ""
+msgstr "狮子之子"
 
 msgctxt "149"
 msgid "天羽々斬"
-msgstr ""
+msgstr "天羽羽斩"
 
 msgctxt "150"
 msgid "小手切り"
-msgstr ""
+msgstr "小手切"
 
 msgctxt "151"
 msgid "慈悲の短刀"
-msgstr ""
+msgstr "慈悲短刀"
 
 msgctxt "152"
 msgid "守り刀"
-msgstr ""
+msgstr "护身刀"
 
 msgctxt "153"
 msgid "日向之興里"
-msgstr ""
+msgstr "日向之兴里"
 
 msgctxt "154"
 msgid "ダミー"
@@ -657,151 +657,151 @@ msgstr ""
 
 msgctxt "161"
 msgid "スリング"
-msgstr ""
+msgstr "弹弓"
 
 msgctxt "162"
 msgid "ショートボウ"
-msgstr ""
+msgstr "短弓"
 
 msgctxt "163"
 msgid "ウッドボウ"
-msgstr ""
+msgstr "木弓"
 
 msgctxt "164"
 msgid "獣の大弓"
-msgstr ""
+msgstr "兽之大弓"
 
 msgctxt "165"
 msgid "ラップドボウ"
-msgstr ""
+msgstr "强化弓"
 
 msgctxt "166"
 msgid "ロングボウ"
-msgstr ""
+msgstr "长弓"
 
 msgctxt "167"
 msgid "セルフボウ"
-msgstr ""
+msgstr "单体弓"
 
 msgctxt "168"
 msgid "コンポジットボウ"
-msgstr ""
+msgstr "复合弓"
 
 msgctxt "169"
 msgid "巨象の大弓"
-msgstr ""
+msgstr "巨象大弓"
 
 msgctxt "170"
 msgid "ハンティングボウ"
-msgstr ""
+msgstr "猎弓"
 
 msgctxt "171"
 msgid "アクゥアル"
-msgstr ""
+msgstr "踏张弓"
 
 msgctxt "172"
 msgid "星天の長弓"
-msgstr ""
+msgstr "星天长弓"
 
 msgctxt "173"
 msgid "ウォーボウ"
-msgstr ""
+msgstr "战弓"
 
 msgctxt "174"
 msgid "ガストラフェテース"
-msgstr ""
+msgstr "腹张弩"
 
 msgctxt "175"
 msgid "黒馬の強弓"
-msgstr ""
+msgstr "黑马强弓"
 
 msgctxt "176"
 msgid "ウィンドラスボウ"
-msgstr ""
+msgstr "滑轮式弩弓"
 
 msgctxt "177"
 msgid "滋藤弓"
-msgstr ""
+msgstr "滋藤弓"
 
 msgctxt "178"
 msgid "魔弓アバリス"
-msgstr ""
+msgstr "魔弓阿巴里斯"
 
 msgctxt "179"
 msgid "影貫の戦弓"
-msgstr ""
+msgstr "贯影战弓"
 
 msgctxt "180"
 msgid "ジェンダワ"
-msgstr ""
+msgstr "肯达瓦弓"
 
 msgctxt "181"
 msgid "焔の魔弓"
-msgstr ""
+msgstr "火焰魔弓"
 
 msgctxt "182"
 msgid "スノーホワイト"
-msgstr ""
+msgstr "白雪弓"
 
 msgctxt "183"
 msgid "蜻蛉の大弓"
-msgstr ""
+msgstr "蜻蛉大弓"
 
 msgctxt "184"
 msgid "紫電の破弓"
-msgstr ""
+msgstr "紫电破弓"
 
 msgctxt "185"
 msgid "アルバレスト"
-msgstr ""
+msgstr "强弩"
 
 msgctxt "186"
 msgid "深遠の光弓"
-msgstr ""
+msgstr "深远光弓"
 
 msgctxt "187"
 msgid "穿通の竜鱗弓"
-msgstr ""
+msgstr "贯穿龙鳞弓"
 
 msgctxt "188"
 msgid "ウイングボウ"
-msgstr ""
+msgstr "羽翼弓"
 
 msgctxt "189"
 msgid "ヒンディ"
-msgstr ""
+msgstr "印地弓"
 
 msgctxt "190"
 msgid "冥府の長弓"
-msgstr ""
+msgstr "冥府长弓"
 
 msgctxt "191"
 msgid "煉氷の弓"
-msgstr ""
+msgstr "炼冰之弓"
 
 msgctxt "192"
 msgid "ザミエルボウ"
-msgstr ""
+msgstr "萨米尔之弓"
 
 msgctxt "193"
 msgid "パニックボウ"
-msgstr ""
+msgstr "恐慌之弓"
 
 msgctxt "194"
 msgid "盲目の弓"
-msgstr ""
+msgstr "盲目之弓"
 
 msgctxt "195"
 msgid "雀小弓"
-msgstr ""
+msgstr "雀小弓"
 
 msgctxt "196"
 msgid "空割の弓"
-msgstr ""
+msgstr "裂空之弓"
 
 msgctxt "197"
 msgid "霹靂神の弓"
-msgstr ""
+msgstr "霹雳神之弓"
 
 msgctxt "198"
 msgid "ダミー"
@@ -817,127 +817,127 @@ msgstr ""
 
 msgctxt "201"
 msgid "ノーマルウィップ"
-msgstr ""
+msgstr "普通长鞭"
 
 msgctxt "202"
 msgid "ネイルウィップ"
-msgstr ""
+msgstr "锐爪长鞭"
 
 msgctxt "203"
 msgid "レザーウィップ"
-msgstr ""
+msgstr "皮制长鞭"
 
 msgctxt "204"
 msgid "ラフレシアウィップ"
-msgstr ""
+msgstr "大王花长鞭"
 
 msgctxt "205"
 msgid "レッドウィップ"
-msgstr ""
+msgstr "赤红长鞭"
 
 msgctxt "206"
 msgid "深緑の鞭"
-msgstr ""
+msgstr "深绿之鞭"
 
 msgctxt "207"
 msgid "ハートシューター"
-msgstr ""
+msgstr "穿心者"
 
 msgctxt "208"
 msgid "紅の長鞭"
-msgstr ""
+msgstr "红色长鞭"
 
 msgctxt "209"
 msgid "エレファントノーズ"
-msgstr ""
+msgstr "象鼻"
 
 msgctxt "210"
 msgid "レッドフィンウィップ"
-msgstr ""
+msgstr "赤鳍长鞭"
 
 msgctxt "211"
 msgid "スパイダーネット"
-msgstr ""
+msgstr "蛛网"
 
 msgctxt "212"
 msgid "風斬りのムチ"
-msgstr ""
+msgstr "斩风鞭"
 
 msgctxt "213"
 msgid "プラントウィップ"
-msgstr ""
+msgstr "植物长鞭"
 
 msgctxt "214"
 msgid "死者の鞭"
-msgstr ""
+msgstr "死者之鞭"
 
 msgctxt "215"
 msgid "ナインテイル"
-msgstr ""
+msgstr "九尾鞭"
 
 msgctxt "216"
 msgid "ヘブンクラッパー"
-msgstr ""
+msgstr "天国引路者"
 
 msgctxt "217"
 msgid "ブラッククイーン"
-msgstr ""
+msgstr "漆黑女王"
 
 msgctxt "218"
 msgid "ホワイトライノー"
-msgstr ""
+msgstr "纯白犀角"
 
 msgctxt "219"
 msgid "極条の光鞭"
-msgstr ""
+msgstr "极条光鞭"
 
 msgctxt "220"
 msgid "竜骨鞭"
-msgstr ""
+msgstr "龙骨鞭"
 
 msgctxt "221"
 msgid "ウルフズペイン"
-msgstr ""
+msgstr "狼牙之痛"
 
 msgctxt "222"
 msgid "ライトニングウィップ"
-msgstr ""
+msgstr "雷霆长鞭"
 
 msgctxt "223"
 msgid "花薫の鞭"
-msgstr ""
+msgstr "花香之鞭"
 
 msgctxt "224"
 msgid "氷爆の長鞭"
-msgstr ""
+msgstr "冰爆长鞭"
 
 msgctxt "225"
 msgid "クイーンズボンデージ"
-msgstr ""
+msgstr "女王拘束具"
 
 msgctxt "226"
 msgid "クリムゾンイーター"
-msgstr ""
+msgstr "猩红吞噬者"
 
 msgctxt "227"
 msgid "パライズウィップ"
-msgstr ""
+msgstr "麻痹长鞭"
 
 msgctxt "228"
 msgid "神速の鞭"
-msgstr ""
+msgstr "神速之鞭"
 
 msgctxt "229"
 msgid "脚絡みの鞭"
-msgstr ""
+msgstr "缚腿之鞭"
 
 msgctxt "230"
 msgid "白氷の蔦鞭"
-msgstr ""
+msgstr "白冰藤鞭"
 
 msgctxt "231"
 msgid "太古の触手"
-msgstr ""
+msgstr "太古触手"
 
 msgctxt "232"
 msgid "ダミー"
@@ -977,123 +977,123 @@ msgstr ""
 
 msgctxt "241"
 msgid "火銃"
-msgstr ""
+msgstr "火铳"
 
 msgctxt "242"
 msgid "ハンドカルバリン"
-msgstr ""
+msgstr "小型蛇炮"
 
 msgctxt "243"
 msgid "ハーケンビュクゼ"
-msgstr ""
+msgstr "钩铳"
 
 msgctxt "244"
 msgid "突槍銃"
-msgstr ""
+msgstr "突枪铳"
 
 msgctxt "245"
 msgid "マドファ"
-msgstr ""
+msgstr "长柄火炮"
 
 msgctxt "246"
 msgid "双眼銃"
-msgstr ""
+msgstr "双眼铳"
 
 msgctxt "247"
 msgid "ボーンカルバリン"
-msgstr ""
+msgstr "骨制远程重炮"
 
 msgctxt "248"
 msgid "神槍銃"
-msgstr ""
+msgstr "神枪铳"
 
 msgctxt "249"
 msgid "ナルナリ"
-msgstr ""
+msgstr "手铳"
 
 msgctxt "250"
 msgid "ハンドキャノン"
-msgstr ""
+msgstr "手持加农炮"
 
 msgctxt "251"
 msgid "アイアンキャノン"
-msgstr ""
+msgstr "钢铁加农炮"
 
 msgctxt "252"
 msgid "竜槍銃"
-msgstr ""
+msgstr "龙枪铳"
 
 msgctxt "253"
 msgid "アーケバサリー"
-msgstr ""
+msgstr "肩托枪"
 
 msgctxt "254"
 msgid "鉄鋼銃"
-msgstr ""
+msgstr "铁钢铳"
 
 msgctxt "255"
 msgid "シルバーバスター"
-msgstr ""
+msgstr "白银破坏铳"
 
 msgctxt "256"
 msgid "黄金銃"
-msgstr ""
+msgstr "黄金铳"
 
 msgctxt "257"
 msgid "ランドキャノン"
-msgstr ""
+msgstr "大地加农炮"
 
 msgctxt "258"
 msgid "エンジェルクライ"
-msgstr ""
+msgstr "天使之泣"
 
 msgctxt "259"
 msgid "迅雷銃"
-msgstr ""
+msgstr "迅雷铳"
 
 msgctxt "260"
 msgid "覇王銃"
-msgstr ""
+msgstr "霸王铳"
 
 msgctxt "261"
 msgid "フレイムキャノン"
-msgstr ""
+msgstr "火焰加农炮"
 
 msgctxt "262"
 msgid "アイスカルバリン"
-msgstr ""
+msgstr "冰霜远程重炮"
 
 msgctxt "263"
 msgid "ザミエルガン"
-msgstr ""
+msgstr "萨米尔枪"
 
 msgctxt "264"
 msgid "シャドウキャノン"
-msgstr ""
+msgstr "暗影加农炮"
 
 msgctxt "265"
 msgid "アイアンバレル"
-msgstr ""
+msgstr "铁桶"
 
 msgctxt "266"
 msgid "アグネヤストラ"
-msgstr ""
+msgstr "火神法宝"
 
 msgctxt "267"
 msgid "ロックキャノン"
-msgstr ""
+msgstr "石化加农炮"
 
 msgctxt "268"
 msgid "手筒"
-msgstr ""
+msgstr "手筒铳"
 
 msgctxt "269"
 msgid "アグネア"
-msgstr ""
+msgstr "阿格尼亚"
 
 msgctxt "270"
 msgid "トキシックキャノン"
-msgstr ""
+msgstr "剧毒加农炮"
 
 msgctxt "271"
 msgid "ダミー"
@@ -1141,115 +1141,115 @@ msgstr ""
 
 msgctxt "282"
 msgid "土竜クロー"
-msgstr ""
+msgstr "土龙利爪"
 
 msgctxt "283"
 msgid "翼竜爪甲"
-msgstr ""
+msgstr "翼龙爪甲"
 
 msgctxt "284"
 msgid "ダイオウの爪"
-msgstr ""
+msgstr "大王之爪"
 
 msgctxt "285"
 msgid "石像の爪"
-msgstr ""
+msgstr "石像之爪"
 
 msgctxt "286"
 msgid "レッドネイル"
-msgstr ""
+msgstr "赤红之爪"
 
 msgctxt "287"
 msgid "アイアンクロー"
-msgstr ""
+msgstr "钢铁利爪"
 
 msgctxt "288"
 msgid "赤鉄の扁爪"
-msgstr ""
+msgstr "赤铁扁爪"
 
 msgctxt "289"
 msgid "シェルクロー"
-msgstr ""
+msgstr "贝壳利爪"
 
 msgctxt "290"
 msgid "蒼石のカギ爪"
-msgstr ""
+msgstr "苍石钩爪"
 
 msgctxt "291"
 msgid "カメの手"
-msgstr ""
+msgstr "龟之手"
 
 msgctxt "292"
 msgid "風斬りの爪"
-msgstr ""
+msgstr "斩风爪"
 
 msgctxt "293"
 msgid "棘の拳"
-msgstr ""
+msgstr "荆棘拳"
 
 msgctxt "294"
 msgid "ソニッククロー"
-msgstr ""
+msgstr "音速爪"
 
 msgctxt "295"
 msgid "隕鉄のカギ爪"
-msgstr ""
+msgstr "陨铁钩爪"
 
 msgctxt "296"
 msgid "日輪の爪"
-msgstr ""
+msgstr "日轮之爪"
 
 msgctxt "297"
 msgid "オルガクロー"
-msgstr ""
+msgstr "奥加利爪"
 
 msgctxt "298"
 msgid "ブラッドネイル"
-msgstr ""
+msgstr "血红之爪"
 
 msgctxt "299"
 msgid "ヘルズクロー"
-msgstr ""
+msgstr "地狱爪"
 
 msgctxt "300"
 msgid "紅蓮の爪"
-msgstr ""
+msgstr "红莲之爪"
 
 msgctxt "301"
 msgid "アクアクロー"
-msgstr ""
+msgstr "流水之爪"
 
 msgctxt "302"
 msgid "ゴールドクロー"
-msgstr ""
+msgstr "黄金利爪"
 
 msgctxt "303"
 msgid "カニバサミ"
-msgstr ""
+msgstr "蟹钳"
 
 msgctxt "304"
 msgid "ダマスカスクロー"
-msgstr ""
+msgstr "大马士革利爪"
 
 msgctxt "305"
 msgid "ロックブレイカー"
-msgstr ""
+msgstr "碎岩者"
 
 msgctxt "306"
 msgid "クロガネの爪"
-msgstr ""
+msgstr 黑钢之爪""
 
 msgctxt "307"
 msgid "ウォルフラムネイル"
-msgstr ""
+msgstr "无双钨爪"
 
 msgctxt "308"
 msgid "ウッドグローブ"
-msgstr ""
+msgstr "香木手套"
 
 msgctxt "309"
 msgid "絆守の爪"
-msgstr ""
+msgstr "护绊之爪"
 
 msgctxt "310"
 msgid "ダミー"
@@ -1297,103 +1297,103 @@ msgstr ""
 
 msgctxt "321"
 msgid "ショートスピア"
-msgstr ""
+msgstr "短矛"
 
 msgctxt "322"
 msgid "ハープーン"
-msgstr ""
+msgstr "渔猎标枪"
 
 msgctxt "323"
 msgid "フラメア"
-msgstr ""
+msgstr "柳叶枪"
 
 msgctxt "324"
 msgid "ハスタ"
-msgstr ""
+msgstr "罗马枪"
 
 msgctxt "325"
 msgid "ランス"
-msgstr ""
+msgstr "长枪"
 
 msgctxt "326"
 msgid "グラウクスの槍"
-msgstr ""
+msgstr "格劳克斯之枪"
 
 msgctxt "327"
 msgid "ロングスピア"
-msgstr ""
+msgstr "长矛"
 
 msgctxt "328"
 msgid "サリッサ"
-msgstr ""
+msgstr "萨里沙矛"
 
 msgctxt "329"
 msgid "白牙の素槍"
-msgstr ""
+msgstr "白牙素枪"
 
 msgctxt "330"
 msgid "アールシェピース"
-msgstr ""
+msgstr "短柄锥枪"
 
 msgctxt "331"
 msgid "ホルカンカ"
-msgstr ""
+msgstr "兽骨长矛"
 
 msgctxt "332"
 msgid "大身槍"
-msgstr ""
+msgstr "长身枪"
 
 msgctxt "333"
 msgid "隼風"
-msgstr ""
+msgstr "隼风"
 
 msgctxt "334"
 msgid "オウルパイク"
-msgstr ""
+msgstr "长锥枪"
 
 msgctxt "335"
 msgid "ウィングドスピア"
-msgstr ""
+msgstr "翼矛"
 
 msgctxt "336"
 msgid "パルチザン"
-msgstr ""
+msgstr "戟枪"
 
 msgctxt "337"
 msgid "月牙槍"
-msgstr ""
+msgstr "月牙枪"
 
 msgctxt "338"
 msgid "大王の片刃槍"
-msgstr ""
+msgstr "大王片刃枪"
 
 msgctxt "339"
 msgid "輝刃の鍵槍"
-msgstr ""
+msgstr "辉刃键枪"
 
 msgctxt "340"
 msgid "黒獣の矛"
-msgstr ""
+msgstr "黑兽之矛"
 
 msgctxt "341"
 msgid "氷牙槍"
-msgstr ""
+msgstr "冰牙枪"
 
 msgctxt "342"
 msgid "赤色の犀角槍"
-msgstr ""
+msgstr "赤色犀角枪"
 
 msgctxt "343"
 msgid "漆黒の大槍"
-msgstr ""
+msgstr "漆黑大枪"
 
 msgctxt "344"
 msgid "飛竜の槍"
-msgstr ""
+msgstr "飞龙之枪"
 
 msgctxt "345"
 msgid "手鉾"
-msgstr ""
+msgstr "手鉾"
 
 msgctxt "346"
 msgid "ダミー"
@@ -2065,19 +2065,19 @@ msgstr ""
 
 msgctxt "513"
 msgid "ヘッドカラー"
-msgstr ""
+msgstr "头套"
 
 msgctxt "514"
 msgid "蝶柄の首輪"
-msgstr ""
+msgstr "蝶花纹项圈"
 
 msgctxt "515"
 msgid "花の首輪"
-msgstr ""
+msgstr "花之项圈"
 
 msgctxt "516"
 msgid "エリマキ"
-msgstr ""
+msgstr "伞蜥蜴项圈"
 
 msgctxt "517"
 msgid "ラバーカラー"
@@ -2085,7 +2085,7 @@ msgstr ""
 
 msgctxt "518"
 msgid "純白の首輪"
-msgstr ""
+msgstr "纯白项圈"
 
 msgctxt "519"
 msgid "フィンチョーカー"
@@ -2093,7 +2093,7 @@ msgstr ""
 
 msgctxt "520"
 msgid "黄金の首輪"
-msgstr ""
+msgstr "黄金项圈"
 
 msgctxt "521"
 msgid "スパイクカラー"
@@ -2101,11 +2101,11 @@ msgstr ""
 
 msgctxt "522"
 msgid "深黒の首輪"
-msgstr ""
+msgstr "深黑项圈"
 
 msgctxt "523"
 msgid "獣王の首輪"
-msgstr ""
+msgstr "兽王项圈"
 
 msgctxt "524"
 msgid "クォーツチョーカー"
@@ -2113,7 +2113,7 @@ msgstr ""
 
 msgctxt "525"
 msgid "虐殺者の首輪"
-msgstr ""
+msgstr "虐杀者项圈"
 
 msgctxt "526"
 msgid "レッドチョーカー"
@@ -2133,15 +2133,15 @@ msgstr ""
 
 msgctxt "530"
 msgid "信頼の首輪"
-msgstr ""
+msgstr "信赖项圈"
 
 msgctxt "531"
 msgid "覇王の首輪"
-msgstr ""
+msgstr "霸王项圈"
 
 msgctxt "532"
 msgid "革の首輪"
-msgstr ""
+msgstr "皮革项圈"
 
 msgctxt "533"
 msgid "ダミー"
@@ -2193,39 +2193,39 @@ msgstr ""
 
 msgctxt "545"
 msgid "ブレストプレート"
-msgstr ""
+msgstr "金属板甲"
 
 msgctxt "546"
 msgid "ロリカハマタ"
-msgstr ""
+msgstr "轻链甲"
 
 msgctxt "547"
 msgid "黒金の鎧"
-msgstr ""
+msgstr "黑金铠甲"
 
 msgctxt "548"
 msgid "ロリカセグメンタータ"
-msgstr ""
+msgstr "环片甲"
 
 msgctxt "549"
 msgid "リングメイル"
-msgstr ""
+msgstr "金属环甲"
 
 msgctxt "550"
 msgid "チェインメイル"
-msgstr ""
+msgstr "锁子甲"
 
 msgctxt "551"
 msgid "フリューテッド"
-msgstr ""
+msgstr "沟槽铠甲"
 
 msgctxt "552"
 msgid "漆黒の鎧"
-msgstr ""
+msgstr "漆黑铠甲"
 
 msgctxt "553"
 msgid "ジャザラント"
-msgstr ""
+msgstr "加扎兰鳞甲"
 
 msgctxt "554"
 msgid "コンポジットアーマー"
@@ -2233,11 +2233,11 @@ msgstr "复合铠甲"
 
 msgctxt "555"
 msgid "フィールドアーマー"
-msgstr ""
+msgstr "原野重甲"
 
 msgctxt "556"
 msgid "フルコンバット"
-msgstr ""
+msgstr "全面战斗铠"
 
 msgctxt "557"
 msgid "バブルアーマー"
@@ -2265,19 +2265,19 @@ msgstr ""
 
 msgctxt "563"
 msgid "聖騎士の鎧"
-msgstr ""
+msgstr "圣骑士之铠"
 
 msgctxt "564"
 msgid "バーサーカーメイル"
-msgstr ""
+msgstr "狂战士编织甲"
 
 msgctxt "565"
 msgid "ロイヤルバーニー"
-msgstr ""
+msgstr "皇家锁铠"
 
 msgctxt "566"
 msgid "ハーフアーマー"
-msgstr ""
+msgstr "半身铠甲"
 
 msgctxt "567"
 msgid "ダミー"
@@ -2321,19 +2321,19 @@ msgstr ""
 
 msgctxt "577"
 msgid "レザーアーマー"
-msgstr ""
+msgstr "皮制铠甲"
 
 msgctxt "578"
 msgid "フェザーアーマー"
-msgstr ""
+msgstr "羽毛铠甲"
 
 msgctxt "579"
 msgid "スタデッドレザー"
-msgstr ""
+msgstr "镶钉皮甲"
 
 msgctxt "580"
 msgid "ウイングブレスト"
-msgstr ""
+msgstr "羽翼胸甲"
 
 msgctxt "581"
 msgid "レッドブレスト"
@@ -2357,15 +2357,15 @@ msgstr ""
 
 msgctxt "586"
 msgid "ブリガンダイン"
-msgstr ""
+msgstr "步兵战甲"
 
 msgctxt "587"
 msgid "青生生魂胴丸具足"
-msgstr ""
+msgstr "青生生魂胴丸具足"
 
 msgctxt "588"
 msgid "ミラージュベスト"
-msgstr ""
+msgstr "幻影背心"
 
 msgctxt "589"
 msgid "エルクブレスト"
@@ -2373,7 +2373,7 @@ msgstr ""
 
 msgctxt "590"
 msgid "ディノブレスト"
-msgstr ""
+msgstr "暴龙胸甲"
 
 msgctxt "591"
 msgid "クラブショルダー"
@@ -2381,7 +2381,7 @@ msgstr ""
 
 msgctxt "592"
 msgid "純白の胸当て"
-msgstr ""
+msgstr "纯白胸铠"
 
 msgctxt "593"
 msgid "ワニ皮の胸当て"
@@ -2401,23 +2401,23 @@ msgstr ""
 
 msgctxt "597"
 msgid "シルフィードベスト"
-msgstr ""
+msgstr "风精灵背心"
 
 msgctxt "598"
 msgid "ボンデージレザー"
-msgstr ""
+msgstr "紧身皮衣"
 
 msgctxt "599"
 msgid "緋緋色金二枚胴具足"
-msgstr ""
+msgstr "绯绯色金二枚胴具足"
 
 msgctxt "600"
 msgid "ヒュメンの衣"
-msgstr ""
+msgstr "海曼之衣"
 
 msgctxt "601"
 msgid "呪印の兵装"
-msgstr ""
+msgstr "咒印武装"
 
 msgctxt "602"
 msgid "アミアントゥスメイル"
@@ -2429,7 +2429,7 @@ msgstr ""
 
 msgctxt "604"
 msgid "ハイドアーマー"
-msgstr ""
+msgstr "狰狞兽甲"
 
 msgctxt "605"
 msgid "ラバーショルダー"
@@ -2445,19 +2445,19 @@ msgstr ""
 
 msgctxt "608"
 msgid "ツイード"
-msgstr ""
+msgstr "毛织上衣"
 
 msgctxt "609"
 msgid "グリーンリーフ"
-msgstr ""
+msgstr "绿叶衣"
 
 msgctxt "610"
 msgid "ウイングリーフ"
-msgstr ""
+msgstr "羽翼叶衣"
 
 msgctxt "611"
 msgid "カフタンフラワー"
-msgstr ""
+msgstr "鲜花长袍"
 
 msgctxt "612"
 msgid "ラバードレス"
@@ -2465,7 +2465,7 @@ msgstr ""
 
 msgctxt "613"
 msgid "カフタンドレス"
-msgstr ""
+msgstr "礼装长袍"
 
 msgctxt "614"
 msgid "スワンコート"
@@ -2473,7 +2473,7 @@ msgstr ""
 
 msgctxt "615"
 msgid "七色の胴衣"
-msgstr ""
+msgstr "七彩上衣"
 
 msgctxt "616"
 msgid "空色のドレス"
@@ -2485,15 +2485,15 @@ msgstr ""
 
 msgctxt "618"
 msgid "退魔のコート"
-msgstr ""
+msgstr "驱魔大衣"
 
 msgctxt "619"
 msgid "月影の外套"
-msgstr ""
+msgstr "月影外套"
 
 msgctxt "620"
 msgid "ルーンチュニック"
-msgstr ""
+msgstr "符文短袍"
 
 msgctxt "621"
 msgid "大蛙の毒衣"
@@ -2509,11 +2509,11 @@ msgstr ""
 
 msgctxt "624"
 msgid "上帝の衣"
-msgstr ""
+msgstr "上帝之衣"
 
 msgctxt "625"
 msgid "巨人の衣"
-msgstr ""
+msgstr "巨人之衣"
 
 msgctxt "626"
 msgid "イエローチュニック"
@@ -2521,27 +2521,27 @@ msgstr ""
 
 msgctxt "627"
 msgid "蜘蛛糸の衣"
-msgstr ""
+msgstr "蜘蛛丝之衣"
 
 msgctxt "628"
 msgid "エンジェルローブ"
-msgstr ""
+msgstr "天使长袍"
 
 msgctxt "629"
 msgid "ウロボロスローブ"
-msgstr ""
+msgstr "衔尾蛇长袍"
 
 msgctxt "630"
 msgid "呪詛の鎖"
-msgstr ""
+msgstr "诅咒锁链"
 
 msgctxt "631"
 msgid "ドラグーンメイル"
-msgstr ""
+msgstr "龙骑兵编织甲"
 
 msgctxt "632"
 msgid "ビキニアーマー"
-msgstr ""
+msgstr "比基尼铠甲"
 
 msgctxt "633"
 msgid "ダミー"
@@ -2577,11 +2577,11 @@ msgstr ""
 
 msgctxt "641"
 msgid "木彫りの髪飾り"
-msgstr ""
+msgstr "木雕发饰"
 
 msgctxt "642"
 msgid "革の帽子"
-msgstr ""
+msgstr "皮革帽子"
 
 msgctxt "643"
 msgid "ナナホシの髪飾り"
@@ -2589,7 +2589,7 @@ msgstr ""
 
 msgctxt "644"
 msgid "硬草の頭飾り"
-msgstr ""
+msgstr "硬草头饰"
 
 msgctxt "645"
 msgid "ボーンヘルム"
@@ -2597,43 +2597,43 @@ msgstr ""
 
 msgctxt "646"
 msgid "赤鉄の兜"
-msgstr ""
+msgstr "赤铁头盔"
 
 msgctxt "647"
 msgid "象牙の髪飾り"
-msgstr ""
+msgstr "象牙头饰"
 
 msgctxt "648"
 msgid "モリオン"
-msgstr ""
+msgstr "莫里恩盔"
 
 msgctxt "649"
 msgid "輝白の帽子"
-msgstr ""
+msgstr "辉白帽子"
 
 msgctxt "650"
 msgid "ルーンサークレット"
-msgstr ""
+msgstr "符文头环"
 
 msgctxt "651"
 msgid "スパンゲンヘルム"
-msgstr ""
+msgstr "钢箍盔"
 
 msgctxt "652"
 msgid "深森の髪飾り"
-msgstr ""
+msgstr "深森头饰"
 
 msgctxt "653"
 msgid "グレートヘルム"
-msgstr ""
+msgstr "卓越战盔"
 
 msgctxt "654"
 msgid "兎牙の兜"
-msgstr ""
+msgstr "兔牙头盔"
 
 msgctxt "655"
 msgid "炎王の兜"
-msgstr ""
+msgstr "炎王头盔"
 
 msgctxt "656"
 msgid "とんがり帽子"
@@ -2645,19 +2645,19 @@ msgstr ""
 
 msgctxt "658"
 msgid "パンプキンヘッド"
-msgstr ""
+msgstr "南瓜帽"
 
 msgctxt "659"
 msgid "ホワイトヘルム"
-msgstr ""
+msgstr "纯白头盔"
 
 msgctxt "660"
 msgid "緋緋色漆塗頭形兜"
-msgstr ""
+msgstr "绯绯色漆涂头型兜"
 
 msgctxt "661"
 msgid "アンゼリカキャップ"
-msgstr ""
+msgstr "天使护士帽"
 
 msgctxt "662"
 msgid "エーギルの兜"
@@ -2665,7 +2665,7 @@ msgstr ""
 
 msgctxt "663"
 msgid "竜兜"
-msgstr ""
+msgstr "龙兜"
 
 msgctxt "664"
 msgid "フルフェイス"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 msgctxt "665"
 msgid "大王の氷冠"
-msgstr ""
+msgstr "大王冰冠"
 
 msgctxt "666"
 msgid "ダミー"
@@ -2705,23 +2705,23 @@ msgstr ""
 
 msgctxt "673"
 msgid "厚手の手袋"
-msgstr ""
+msgstr "厚手套"
 
 msgctxt "674"
 msgid "革の手袋"
-msgstr ""
+msgstr "皮革手套"
 
 msgctxt "675"
 msgid "スタデッドグローブ"
-msgstr ""
+msgstr "铆钉手套"
 
 msgctxt "676"
 msgid "チェイングローブ"
-msgstr ""
+msgstr "锁甲手套"
 
 msgctxt "677"
 msgid "羽根の手甲"
-msgstr ""
+msgstr "羽毛手甲"
 
 msgctxt "678"
 msgid "深海樹の籠手"
@@ -2733,31 +2733,31 @@ msgstr ""
 
 msgctxt "680"
 msgid "ガントレット"
-msgstr ""
+msgstr "臂铠"
 
 msgctxt "681"
 msgid "風の手甲"
-msgstr ""
+msgstr "风之手甲"
 
 msgctxt "682"
 msgid "破邪の手甲"
-msgstr ""
+msgstr "破邪手甲"
 
 msgctxt "683"
 msgid "黒馬のグローブ"
-msgstr ""
+msgstr "黑马手套"
 
 msgctxt "684"
 msgid "覇王の手甲"
-msgstr ""
+msgstr "霸王手甲"
 
 msgctxt "685"
 msgid "ブラッドガントレット"
-msgstr ""
+msgstr "血红臂铠"
 
 msgctxt "686"
 msgid "フェザーグローブ"
-msgstr ""
+msgstr "羽饰手套"
 
 msgctxt "687"
 msgid "黒猪牙の籠手"
@@ -2765,7 +2765,7 @@ msgstr ""
 
 msgctxt "688"
 msgid "氷王の手甲"
-msgstr ""
+msgstr "冰王手甲"
 
 msgctxt "689"
 msgid "銀星石の手袋"
@@ -2785,7 +2785,7 @@ msgstr ""
 
 msgctxt "693"
 msgid "アタノールオリジン"
-msgstr ""
+msgstr "原型炼金护手"
 
 msgctxt "694"
 msgid "雷の手甲"
@@ -2797,11 +2797,11 @@ msgstr ""
 
 msgctxt "696"
 msgid "ブレイブガントレット"
-msgstr ""
+msgstr "勇气臂铠"
 
 msgctxt "697"
 msgid "毒手"
-msgstr ""
+msgstr "毒手"
 
 msgctxt "698"
 msgid "ダミー"
@@ -2833,7 +2833,7 @@ msgstr ""
 
 msgctxt "705"
 msgid "リーフサンダル"
-msgstr ""
+msgstr "绿叶凉鞋"
 
 msgctxt "706"
 msgid "パピヨンブーツ"
@@ -2849,19 +2849,19 @@ msgstr ""
 
 msgctxt "709"
 msgid "甲羅の長靴"
-msgstr ""
+msgstr "龟甲长靴"
 
 msgctxt "710"
 msgid "スケイルブーツ"
-msgstr ""
+msgstr "铺鳞靴"
 
 msgctxt "711"
 msgid "レザーブーツ"
-msgstr ""
+msgstr "皮靴"
 
 msgctxt "712"
 msgid "紫のアンクレット"
-msgstr ""
+msgstr "紫色足环"
 
 msgctxt "713"
 msgid "ナイトグリーブ"
@@ -2869,15 +2869,15 @@ msgstr ""
 
 msgctxt "714"
 msgid "ブラックレガース"
-msgstr ""
+msgstr "暗夜护胫"
 
 msgctxt "715"
 msgid "ブライトサンダル"
-msgstr ""
+msgstr "光辉凉鞋"
 
 msgctxt "716"
 msgid "黒皮の長靴"
-msgstr ""
+msgstr "黑皮长靴"
 
 msgctxt "717"
 msgid "バトルブーツ"
@@ -2889,7 +2889,7 @@ msgstr ""
 
 msgctxt "719"
 msgid "フレイムグリーブ"
-msgstr ""
+msgstr "战斗靴"
 
 msgctxt "720"
 msgid "氷結晶の靴"
@@ -2905,15 +2905,15 @@ msgstr ""
 
 msgctxt "723"
 msgid "羽飾りのブーツ"
-msgstr ""
+msgstr "羽饰靴"
 
 msgctxt "724"
 msgid "妖精の靴"
-msgstr ""
+msgstr "妖精之靴"
 
 msgctxt "725"
 msgid "フォレストランナー"
-msgstr ""
+msgstr "森林跑者"
 
 msgctxt "726"
 msgid "駿足の靴"
@@ -2961,35 +2961,35 @@ msgstr ""
 
 msgctxt "737"
 msgid "バックラー"
-msgstr ""
+msgstr "小圆盾"
 
 msgctxt "738"
 msgid "タージェ"
-msgstr ""
+msgstr "小盾"
 
 msgctxt "739"
 msgid "レザーシールド"
-msgstr ""
+msgstr "皮革盾"
 
 msgctxt "740"
 msgid "真鉄の盾"
-msgstr ""
+msgstr "真铁之盾"
 
 msgctxt "741"
 msgid "ラウンドシールド"
-msgstr ""
+msgstr "圆盾"
 
 msgctxt "742"
 msgid "アスピス"
-msgstr ""
+msgstr "椭圆重盾"
 
 msgctxt "743"
 msgid "ホワイトラウンド"
-msgstr ""
+msgstr "纯白圆盾"
 
 msgctxt "744"
 msgid "ペルタ"
-msgstr ""
+msgstr "新月盾"
 
 msgctxt "745"
 msgid "ロストルムシールド"
@@ -2997,15 +2997,15 @@ msgstr ""
 
 msgctxt "746"
 msgid "ガーディアン"
-msgstr ""
+msgstr "守护者"
 
 msgctxt "747"
 msgid "カイザーシールド"
-msgstr ""
+msgstr "凯撒之盾"
 
 msgctxt "748"
 msgid "万古の盾"
-msgstr ""
+msgstr "万古之盾"
 
 msgctxt "749"
 msgid "モスシールド"
@@ -3045,7 +3045,7 @@ msgstr ""
 
 msgctxt "758"
 msgid "聖騎士の盾"
-msgstr ""
+msgstr "圣骑士之盾"
 
 msgctxt "759"
 msgid "殺戮の盾"
@@ -3089,15 +3089,15 @@ msgstr ""
 
 msgctxt "769"
 msgid "毒蝶のリング"
-msgstr ""
+msgstr "毒蝶指环"
 
 msgctxt "770"
 msgid "キノコ型の飾り"
-msgstr ""
+msgstr "蘑菇形状的饰品"
 
 msgctxt "771"
 msgid "かみつきピアス"
-msgstr ""
+msgstr "啃咬耳饰"
 
 msgctxt "772"
 msgid "フクロウのピアス"
@@ -3125,119 +3125,119 @@ msgstr ""
 
 msgctxt "778"
 msgid "ヘッドガード"
-msgstr ""
+msgstr "护头防具"
 
 msgctxt "779"
 msgid "アームガード"
-msgstr ""
+msgstr "护手防具"
 
 msgctxt "780"
 msgid "レッグガード"
-msgstr ""
+msgstr "护腿防具"
 
 msgctxt "781"
 msgid "斬撃の守り"
-msgstr ""
+msgstr "斩击护符"
 
 msgctxt "782"
 msgid "壊撃の守り"
-msgstr ""
+msgstr "坏击护符"
 
 msgctxt "783"
 msgid "突撃の守り"
-msgstr ""
+msgstr "突击护符"
 
 msgctxt "784"
 msgid "炎の守り"
-msgstr ""
+msgstr "炎之护符"
 
 msgctxt "785"
 msgid "氷の守り"
-msgstr ""
+msgstr "冰之护符"
 
 msgctxt "786"
 msgid "雷の守り"
-msgstr ""
+msgstr "雷之护符"
 
 msgctxt "787"
 msgid "エレメントガード"
-msgstr ""
+msgstr "元素防具"
 
 msgctxt "788"
 msgid "ダイレクトガード"
-msgstr ""
+msgstr "物理防具"
 
 msgctxt "789"
 msgid "強健のお守り"
-msgstr ""
+msgstr "强健护符"
 
 msgctxt "790"
 msgid "随意の飾り"
-msgstr ""
+msgstr "自在饰品"
 
 msgctxt "791"
 msgid "命のベルト"
-msgstr ""
+msgstr "命之腰带"
 
 msgctxt "792"
 msgid "生命のベルト"
-msgstr ""
+msgstr "生命腰带"
 
 msgctxt "793"
 msgid "英気のオーブ"
-msgstr ""
+msgstr "英气宝玉"
 
 msgctxt "794"
 msgid "神気のオーブ"
-msgstr ""
+msgstr "神气宝玉"
 
 msgctxt "795"
 msgid "光輝の腕輪"
-msgstr ""
+msgstr "光辉手环"
 
 msgctxt "796"
 msgid "運のネックレス"
-msgstr ""
+msgstr "运之项链"
 
 msgctxt "797"
 msgid "幸運のネックレス"
-msgstr ""
+msgstr "幸运项链"
 
 msgctxt "798"
 msgid "力の指輪"
-msgstr ""
+msgstr "力之戒指"
 
 msgctxt "799"
 msgid "怪力の指輪"
-msgstr ""
+msgstr "怪力戒指"
 
 msgctxt "800"
 msgid "体力の腕輪"
-msgstr ""
+msgstr "体力手环"
 
 msgctxt "801"
 msgid "活力の腕輪"
-msgstr ""
+msgstr "活力手环"
 
 msgctxt "802"
 msgid "脱兎のお守り"
-msgstr ""
+msgstr "脱兔护符"
 
 msgctxt "803"
 msgid "疾風のお守り"
-msgstr ""
+msgstr "疾风护符"
 
 msgctxt "804"
 msgid "知恵のピアス"
-msgstr ""
+msgstr "才智耳饰"
 
 msgctxt "805"
 msgid "英知のピアス"
-msgstr ""
+msgstr "睿智耳饰"
 
 msgctxt "806"
 msgid "全能の指輪"
-msgstr ""
+msgstr "全能戒指"
 
 msgctxt "807"
 msgid "ダミー"
@@ -3253,23 +3253,23 @@ msgstr ""
 
 msgctxt "810"
 msgid "公国の守護証"
-msgstr ""
+msgstr "公国的纹章"
 
 msgctxt "811"
 msgid "火竜のオーブ"
-msgstr ""
+msgstr "火龙宝玉"
 
 msgctxt "812"
 msgid "氷竜のオーブ"
-msgstr ""
+msgstr "冰龙宝玉"
 
 msgctxt "813"
 msgid "雷竜のオーブ"
-msgstr ""
+msgstr "雷龙宝玉"
 
 msgctxt "814"
 msgid "スタンシール"
-msgstr ""
+msgstr "防晕贴纸"
 
 msgctxt "815"
 msgid "黄金のガンザ"
