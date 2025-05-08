@@ -61,15 +61,15 @@ msgstr "翼龙头骨"
 
 msgctxt "12"
 msgid "ゼラチン質の核"
-msgstr ""
+msgstr "明胶质核心"
 
 msgctxt "13"
 msgid "粘つく薄皮"
-msgstr ""
+msgstr "粘附薄皮"
 
 msgctxt "14"
 msgid "大鳥の羽"
-msgstr ""
+msgstr "大鸟羽毛"
 
 msgctxt "15"
 msgid "梟の嘴"
@@ -77,15 +77,15 @@ msgstr ""
 
 msgctxt "16"
 msgid "金属質の殻"
-msgstr ""
+msgstr "金属质甲壳"
 
 msgctxt "17"
 msgid "大きな花びら"
-msgstr ""
+msgstr "巨大花瓣"
 
 msgctxt "18"
 msgid "円錐形の傘"
-msgstr ""
+msgstr "圆锥形菌伞"
 
 msgctxt "19"
 msgid "黒金の巻き爪"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "20"
 msgid "エリマキ状の皮"
-msgstr ""
+msgstr "伞状的皮"
 
 msgctxt "21"
 msgid "砕けた石片"
-msgstr ""
+msgstr "破碎的石片"
 
 msgctxt "22"
 msgid "巨駝鳥の足腱"
@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "23"
 msgid "弾力あるツル"
-msgstr ""
+msgstr "有弹性的藤蔓"
 
 msgctxt "24"
 msgid "真鉄の牙"
-msgstr ""
+msgstr "真铁之牙"
 
 msgctxt "25"
 msgid "深紅の羽皮"
@@ -121,31 +121,31 @@ msgstr ""
 
 msgctxt "27"
 msgid "鎧竜甲"
-msgstr ""
+msgstr "铠龙甲"
 
 msgctxt "28"
 msgid "発光する尾羽"
-msgstr ""
+msgstr "发光的尾羽"
 
 msgctxt "29"
 msgid "鋼の鋭嘴"
-msgstr ""
+msgstr "钢之尖喙"
 
 msgctxt "30"
 msgid "紅鉄のカケラ"
-msgstr ""
+msgstr "红铁碎片"
 
 msgctxt "31"
 msgid "鋼鉄の大角"
-msgstr ""
+msgstr "钢铁巨角"
 
 msgctxt "32"
 msgid "怪物の大腿骨"
-msgstr ""
+msgstr "怪物的大腿骨"
 
 msgctxt "33"
 msgid "白玉石"
-msgstr ""
+msgstr "白玉石"
 
 msgctxt "34"
 msgid "赤鉄の前脚"
@@ -157,31 +157,31 @@ msgstr ""
 
 msgctxt "36"
 msgid "金属質の突角"
-msgstr ""
+msgstr "金属质突角"
 
 msgctxt "37"
 msgid "白鉄のカケラ"
-msgstr ""
+msgstr "白铁碎片"
 
 msgctxt "38"
 msgid "天鉄の甲殻"
-msgstr ""
+msgstr "天铁甲壳"
 
 msgctxt "39"
 msgid "赤いタテガミ"
-msgstr ""
+msgstr "红色鬃毛"
 
 msgctxt "40"
 msgid "宿貝のカケラ"
-msgstr ""
+msgstr "寄居蟹壳碎片"
 
 msgctxt "41"
 msgid "巨象の牙"
-msgstr ""
+msgstr "巨象牙"
 
 msgctxt "42"
 msgid "赤い象皮"
-msgstr ""
+msgstr "红色象皮"
 
 msgctxt "43"
 msgid "赤いヒレ"
@@ -189,43 +189,43 @@ msgstr ""
 
 msgctxt "44"
 msgid "赤ウロコ"
-msgstr ""
+msgstr "红色鱼鳍"
 
 msgctxt "45"
 msgid "白鳥の羽"
-msgstr ""
+msgstr "白鸟羽毛"
 
 msgctxt "46"
 msgid "蒼石の腕"
-msgstr ""
+msgstr "苍石之臂"
 
 msgctxt "47"
 msgid "巨白石"
-msgstr ""
+msgstr "巨白石"
 
 msgctxt "48"
 msgid "金色の鶏冠"
-msgstr ""
+msgstr "金色鸡冠"
 
 msgctxt "49"
 msgid "密林蜂の毒針"
-msgstr ""
+msgstr "密林蜂的毒针"
 
 msgctxt "50"
 msgid "虹色の薄殻"
-msgstr ""
+msgstr "七彩薄壳"
 
 msgctxt "51"
 msgid "百年甲羅"
-msgstr ""
+msgstr "百年龟壳"
 
 msgctxt "52"
 msgid "蒼鳥の嘴"
-msgstr ""
+msgstr "苍鸟鸟喙"
 
 msgctxt "53"
 msgid "粘着質の糸"
-msgstr ""
+msgstr "高黏度丝线"
 
 msgctxt "54"
 msgid "薄紫の翅"
@@ -233,11 +233,11 @@ msgstr ""
 
 msgctxt "55"
 msgid "鋭利な薄刃"
-msgstr ""
+msgstr "锐利的薄刃"
 
 msgctxt "56"
 msgid "天鉄の長針"
-msgstr ""
+msgstr "天铁长针"
 
 msgctxt "57"
 msgid "薄藍の花蔦"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "58"
 msgid "輝白鋼の嘴"
-msgstr ""
+msgstr "辉白钢的喙"
 
 msgctxt "59"
 msgid "夜花の棘蔓"
@@ -257,39 +257,39 @@ msgstr ""
 
 msgctxt "61"
 msgid "石化鳥の嘴"
-msgstr ""
+msgstr "石化鸟的喙"
 
 msgctxt "62"
 msgid "マンドレイクの根"
-msgstr ""
+msgstr "曼德拉草的根"
 
 msgctxt "63"
 msgid "コウモリのキバ"
-msgstr ""
+msgstr "蝙蝠獠牙"
 
 msgctxt "64"
 msgid "青藍の皮"
-msgstr ""
+msgstr "青蓝之皮"
 
 msgctxt "65"
 msgid "黒甲羅"
-msgstr ""
+msgstr "黑龟甲"
 
 msgctxt "66"
 msgid "蒼鉄鋼の甲殻"
-msgstr ""
+msgstr 苍铁钢甲壳"
 
 msgctxt "67"
 msgid "黒灰の骨片"
-msgstr ""
+msgstr "灰黑色骨片"
 
 msgctxt "68"
 msgid "ゼラチン質の黄核"
-msgstr ""
+msgstr "明胶质黄核"
 
 msgctxt "69"
 msgid "隕鉄の石片"
-msgstr ""
+msgstr "陨铁石片"
 
 msgctxt "70"
 msgid "金剛鉄の殻"
@@ -301,51 +301,51 @@ msgstr "黑马之蹄"
 
 msgctxt "72"
 msgid "ゼラチン質の黒核"
-msgstr ""
+msgstr "明胶质黑核"
 
 msgctxt "73"
 msgid "真白銀のカケラ"
-msgstr ""
+msgstr "真白银碎片"
 
 msgctxt "74"
 msgid "金色の胞子"
-msgstr ""
+msgstr "金色孢子"
 
 msgctxt "75"
 msgid "青生生魂の頭蓋"
-msgstr ""
+msgstr "青生生魂的头骨"
 
 msgctxt "76"
 msgid "苔生した宿貝"
-msgstr ""
+msgstr "长苔寄居蟹壳"
 
 msgctxt "77"
 msgid "うごめく樹材"
-msgstr ""
+msgstr "蠢动的树材"
 
 msgctxt "78"
 msgid "金色の角"
-msgstr ""
+msgstr "金色的角"
 
 msgctxt "79"
 msgid "枯れ果てた棘"
-msgstr ""
+msgstr "枯萎荆棘"
 
 msgctxt "80"
 msgid "虐殺者の鉤爪"
-msgstr ""
+msgstr "虐杀者的钩爪"
 
 msgctxt "81"
 msgid "ダマスカスの短爪"
-msgstr ""
+msgstr "大马士革短爪"
 
 msgctxt "82"
 msgid "柔らかな黒皮"
-msgstr ""
+msgstr "柔软的黑皮"
 
 msgctxt "83"
 msgid "トカゲの王冠"
-msgstr ""
+msgstr "蜥蜴王冠"
 
 msgctxt "84"
 msgid "薄赤の翅"
@@ -353,7 +353,7 @@ msgstr ""
 
 msgctxt "85"
 msgid "純白の角質"
-msgstr ""
+msgstr "纯白角质"
 
 msgctxt "86"
 msgid "赤鉄のカケラ"
