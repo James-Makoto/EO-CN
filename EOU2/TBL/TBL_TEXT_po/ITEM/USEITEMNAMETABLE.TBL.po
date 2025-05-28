@@ -25,7 +25,7 @@ msgstr "鼹鼠钩爪"
 
 msgctxt "3"
 msgid "やわらかい皮"
-msgstr ""
+msgstr "柔软的毛皮"
 
 msgctxt "4"
 msgid "ネズミの針"
@@ -37,11 +37,11 @@ msgstr "小小的铁爪"
 
 msgctxt "6"
 msgid "毒蝶の翅"
-msgstr ""
+msgstr "毒蝶翅膀"
 
 msgctxt "7"
 msgid "柔靭な舌状花"
-msgstr ""
+msgstr "柔韧的舌状花"
 
 msgctxt "8"
 msgid "伸縮する皮"
@@ -73,7 +73,7 @@ msgstr "大鸟羽毛"
 
 msgctxt "15"
 msgid "梟の嘴"
-msgstr ""
+msgstr "枭之嘴"
 
 msgctxt "16"
 msgid "金属質の殻"
@@ -2029,7 +2029,7 @@ msgstr ""
 
 msgctxt "504"
 msgid "氷の花"
-msgstr ""
+msgstr "冰花"
 
 msgctxt "505"
 msgid "紋章が彫られた木札"
@@ -2037,7 +2037,7 @@ msgstr ""
 
 msgctxt "506"
 msgid "火トカゲの羽毛"
-msgstr ""
+msgstr "火蜥蜴的羽毛"
 
 msgctxt "507"
 msgid "いにしえの飾り"
@@ -2101,7 +2101,7 @@ msgstr ""
 
 msgctxt "522"
 msgid "樹海のバラ"
-msgstr ""
+msgstr "树海玫瑰"
 
 msgctxt "523"
 msgid "手甲の欠片"
@@ -2133,7 +2133,7 @@ msgstr ""
 
 msgctxt "530"
 msgid "木樹薬"
-msgstr ""
+msgstr "木树药"
 
 msgctxt "531"
 msgid "世界樹の枝"
