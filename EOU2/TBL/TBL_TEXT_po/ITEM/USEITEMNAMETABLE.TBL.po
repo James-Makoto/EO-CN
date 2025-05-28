@@ -2029,7 +2029,7 @@ msgstr ""
 
 msgctxt "504"
 msgid "氷の花"
-msgstr "冰花"
+msgstr "冰之花"
 
 msgctxt "505"
 msgid "紋章が彫られた木札"

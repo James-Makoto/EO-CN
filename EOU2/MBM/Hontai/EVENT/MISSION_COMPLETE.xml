@@ -5,15 +5,15 @@
   </entry>
   <entry id="1">
     <source>行方不明の衛士を探す。{f801}</source>
-    <target>行方不明の衛士を探す。{f801}</target>
+    <target>寻找失踪的卫士。{f801}</target>
   </entry>
   <entry id="2">
     <source>百獣の王と呼ばれるキマイラを退治する。{f801}</source>
-    <target>百獣の王と呼ばれるキマイラを退治する。{f801}</target>
+    <target>讨伐被称为白手指舞的奇美拉。{f801}</target>
   </entry>
   <entry id="3">
     <source>火トカゲの羽毛を探し出せ。{f801}</source>
-    <target>火トカゲの羽毛を探し出せ。{f801}</target>
+    <target>出火蜥蜴的羽毛。{f801}</target>
   </entry>
   <entry id="4">
     <source>炎の魔人を討伐せよ!{f801}</source>
@@ -21,15 +21,15 @@
   </entry>
   <entry id="5">
     <source>氷の花を4つ探し出せ。{f801}</source>
-    <target>氷の花を4つ探し出せ。{f801}</target>
+    <target>寻找4朵冰之花。{f801}</target>
   </entry>
   <entry id="6">
     <source>天空の城にあるという、諸王の聖杯を{f801}手に入れろ!{f801}</source>
-    <target>天空の城にあるという、諸王の聖杯を{f801}手に入れろ!{f801}</target>
+    <target>拿到据说存在于天空之城的{f801}诸王的圣杯吧！{f801}</target>
   </entry>
   <entry id="7">
     <source>ギンヌンガ深部に起きた異変を調査せよ!{f801}</source>
-    <target>ギンヌンガ深部に起きた異変を調査せよ!{f801}</target>
+    <target>调查金伦加深部的异变！{f801}</target>
   </entry>
   <entry id="8">
     <source>ダミー08{f801}</source>
@@ -41,14 +41,14 @@
   </entry>
   <entry id="10">
     <source>深紅の鎌を持つ魔物を退治する。{f801}</source>
-    <target>深紅の鎌を持つ魔物を退治する。{f801}</target>
+    <target>消灭拥有深红镰刀的魔物。{f801}</target>
   </entry>
   <entry id="11">
     <source>地下1階の地図を完成させる。{f801}</source>
-    <target>地下1階の地図を完成させる。{f801}</target>
+    <target>画出B1F特定范围的地图。{f801}</target>
   </entry>
   <entry id="12">
     <source>謎の遺跡内の迷宮の調査をする。{f801}</source>
-    <target>謎の遺跡内の迷宮の調査をする。{f801}</target>
+    <target>调查谜之遗迹内部的迷宫。{f801}</target>
   </entry>
 </mbm>
