@@ -1049,15 +1049,15 @@ msgstr ""
 
 msgctxt "259"
 msgid "月長石"
-msgstr ""
+msgstr "月长石"
 
 msgctxt "260"
 msgid "電気石"
-msgstr ""
+msgstr "电气石"
 
 msgctxt "261"
 msgid "夜光石"
-msgstr ""
+msgstr "夜光石"
 
 msgctxt "262"
 msgid "猫目石"
@@ -2257,7 +2257,7 @@ msgstr ""
 
 msgctxt "561"
 msgid "朽ちた剣"
-msgstr ""
+msgstr "腐朽的剑"
 
 msgctxt "562"
 msgid "鈍色の剣"
