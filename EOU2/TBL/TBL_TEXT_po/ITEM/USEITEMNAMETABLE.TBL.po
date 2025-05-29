@@ -1001,51 +1001,51 @@ msgstr ""
 
 msgctxt "247"
 msgid "天河石"
-msgstr ""
+msgstr "天河石"
 
 msgctxt "248"
 msgid "霰石"
-msgstr ""
+msgstr "霰石"
 
 msgctxt "249"
 msgid "柘榴石"
-msgstr ""
+msgstr "石榴石"
 
 msgctxt "250"
 msgid "螢石"
-msgstr ""
+msgstr "萤石"
 
 msgctxt "251"
 msgid "紅玉"
-msgstr ""
+msgstr "红玉"
 
 msgctxt "252"
 msgid "血星石"
-msgstr ""
+msgstr "血星石"
 
 msgctxt "253"
 msgid "天青石"
-msgstr ""
+msgstr "天青石"
 
 msgctxt "254"
 msgid "氷長石"
-msgstr ""
+msgstr "冰长石"
 
 msgctxt "255"
 msgid "雪花石膏"
-msgstr ""
+msgstr "雪花石膏"
 
 msgctxt "256"
 msgid "葡萄石"
-msgstr ""
+msgstr "葡萄石"
 
 msgctxt "257"
 msgid "孔雀石"
-msgstr ""
+msgstr "孔雀石"
 
 msgctxt "258"
 msgid "薔薇石英"
-msgstr ""
+msgstr "蔷薇石英"
 
 msgctxt "259"
 msgid "月長石"
@@ -1061,247 +1061,247 @@ msgstr "夜光石"
 
 msgctxt "262"
 msgid "猫目石"
-msgstr ""
+msgstr "猫眼石"
 
 msgctxt "263"
 msgid "緑玉髄"
-msgstr ""
+msgstr "绿玉髓"
 
 msgctxt "264"
 msgid "銀星石"
-msgstr ""
+msgstr "银星石"
 
 msgctxt "265"
 msgid "小さな花"
-msgstr ""
+msgstr "小花"
 
 msgctxt "266"
 msgid "すっぱい実"
-msgstr ""
+msgstr "酸果"
 
 msgctxt "267"
 msgid "蜜のかけら"
-msgstr ""
+msgstr "蜜块"
 
 msgctxt "268"
 msgid "ミント草"
-msgstr ""
+msgstr "薄荷草"
 
 msgctxt "269"
 msgid "苦ヨモギ"
-msgstr ""
+msgstr "苦艾草"
 
 msgctxt "270"
 msgid "三色の木の実"
-msgstr ""
+msgstr "三色树果"
 
 msgctxt "271"
 msgid "コケイチゴ"
-msgstr ""
+msgstr "苔藓草莓"
 
 msgctxt "272"
 msgid "氷花"
-msgstr ""
+msgstr "冰花"
 
 msgctxt "273"
 msgid "水仙人掌"
-msgstr ""
+msgstr "水仙人掌"
 
 msgctxt "274"
 msgid "姫リンゴ"
-msgstr ""
+msgstr "海棠果"
 
 msgctxt "275"
 msgid "冬中夏草"
-msgstr ""
+msgstr "冬虫夏草"
 
 msgctxt "276"
 msgid "衝撃の果実"
-msgstr ""
+msgstr "冲击果实"
 
 msgctxt "277"
 msgid "命の蜂蜜"
-msgstr ""
+msgstr "生命蜂蜜"
 
 msgctxt "278"
 msgid "ロサカリナ"
-msgstr ""
+msgstr "狗牙蔷薇"
 
 msgctxt "279"
 msgid "奇怪な果実"
-msgstr ""
+msgstr "奇怪的果实"
 
 msgctxt "280"
 msgid "アンブロシア"
-msgstr ""
+msgstr "安布罗希亚"
 
 msgctxt "281"
 msgid "深森の花"
-msgstr ""
+msgstr "深森之花"
 
 msgctxt "282"
 msgid "玄奥の極実"
-msgstr ""
+msgstr "玄奥极果"
 
 msgctxt "283"
 msgid "しなる枝"
-msgstr ""
+msgstr "韧性树枝"
 
 msgctxt "284"
 msgid "かたい根っこ"
-msgstr ""
+msgstr "坚硬的树根"
 
 msgctxt "285"
 msgid "樹液の塊"
-msgstr ""
+msgstr "树液块"
 
 msgctxt "286"
 msgid "赤木のツタ"
-msgstr ""
+msgstr "红木藤蔓"
 
 msgctxt "287"
 msgid "丈夫な木片"
-msgstr ""
+msgstr "结实的木片"
 
 msgctxt "288"
 msgid "赤木松"
-msgstr ""
+msgstr "赤木松"
 
 msgctxt "289"
 msgid "突き出した根"
-msgstr ""
+msgstr "突起的根"
 
 msgctxt "290"
 msgid "深海樹の枝"
-msgstr ""
+msgstr "深海树的枝"
 
 msgctxt "291"
 msgid "氷結晶の枝"
-msgstr ""
+msgstr "冰结晶的枝"
 
 msgctxt "292"
 msgid "弓なりの花枝"
-msgstr ""
+msgstr "弓形花枝"
 
 msgctxt "293"
 msgid "香木"
-msgstr ""
+msgstr "香木"
 
 msgctxt "294"
 msgid "花枝の材木"
-msgstr ""
+msgstr "花枝木材"
 
 msgctxt "295"
 msgid "金属糸"
-msgstr ""
+msgstr "金属丝"
 
 msgctxt "296"
 msgid "鉄木"
-msgstr ""
+msgstr "铁木"
 
 msgctxt "297"
 msgid "軽い鉄片"
-msgstr ""
+msgstr "轻盈铁片"
 
 msgctxt "298"
 msgid "水晶のツル"
-msgstr ""
+msgstr "水晶藤蔓"
 
 msgctxt "299"
 msgid "深森の枝材"
-msgstr ""
+msgstr "深森枝材"
 
 msgctxt "300"
 msgid "光る木材"
-msgstr ""
+msgstr "发光木材"
 
 msgctxt "301"
 msgid "スタンナイフ"
-msgstr ""
+msgstr "眩晕小刀"
 
 msgctxt "302"
 msgid "戦慄の斧"
-msgstr ""
+msgstr "战栗之斧"
 
 msgctxt "303"
 msgid "まどろみの戦斧"
-msgstr ""
+msgstr "安睡战斧"
 
 msgctxt "304"
 msgid "呪言の杖"
-msgstr ""
+msgstr "咒言之杖"
 
 msgctxt "305"
 msgid "封頭の玄能"
-msgstr ""
+msgstr "封头玄能"
 
 msgctxt "306"
 msgid "小手切り"
-msgstr ""
+msgstr "小手切"
 
 msgctxt "307"
 msgid "慈悲の短刀"
-msgstr ""
+msgstr "慈悲短刀"
 
 msgctxt "308"
 msgid "パニックボウ"
-msgstr ""
+msgstr "恐慌之弓"
 
 msgctxt "309"
 msgid "盲目の弓"
-msgstr ""
+msgstr "盲目之弓"
 
 msgctxt "310"
 msgid "パライズウィップ"
-msgstr ""
+msgstr "麻痹长鞭"
 
 msgctxt "311"
 msgid "神速の鞭"
-msgstr ""
+msgstr "神速之鞭"
 
 msgctxt "312"
 msgid "脚絡みの鞭"
-msgstr ""
+msgstr "缚腿之鞭"
 
 msgctxt "313"
 msgid "ロックキャノン"
-msgstr ""
+msgstr "石化加农炮"
 
 msgctxt "314"
 msgid "世界樹の剣"
-msgstr ""
+msgstr "世界树之剑"
 
 msgctxt "315"
 msgid "樹士の戦斧"
-msgstr ""
+msgstr "树士战斧"
 
 msgctxt "316"
 msgid "神樹の杖"
-msgstr ""
+msgstr "神树之杖"
 
 msgctxt "317"
 msgid "日向之興里"
-msgstr ""
+msgstr "日向之兴里"
 
 msgctxt "318"
 msgid "空割の弓"
-msgstr ""
+msgstr "裂空之弓"
 
 msgctxt "319"
 msgid "白氷の蔦鞭"
-msgstr ""
+msgstr "白冰藤鞭"
 
 msgctxt "320"
 msgid "アグネア"
-msgstr ""
+msgstr "阿格尼亚"
 
 msgctxt "321"
 msgid "絆守の爪"
-msgstr ""
+msgstr "护绊之爪"
 
 msgctxt "322"
 msgid "ラグナロク"
-msgstr ""
+msgstr "诸神黄昏"
 
 msgctxt "323"
 msgid "ユニーク3"
@@ -1617,127 +1617,127 @@ msgstr ""
 
 msgctxt "401"
 msgid "メディカ"
-msgstr ""
+msgstr "药水"
 
 msgctxt "402"
 msgid "メディカⅡ"
-msgstr ""
+msgstr "药水Ⅱ"
 
 msgctxt "403"
 msgid "メディカⅢ"
-msgstr ""
+msgstr "药水Ⅲ"
 
 msgctxt "404"
 msgid "メディカⅣ"
-msgstr ""
+msgstr "药水Ⅳ"
 
 msgctxt "405"
 msgid "アムリタ"
-msgstr ""
+msgstr "甘露"
 
 msgctxt "406"
 msgid "アムリタⅡ"
-msgstr ""
+msgstr "甘露Ⅱ"
 
 msgctxt "407"
 msgid "ハマオ"
-msgstr ""
+msgstr "神酒"
 
 msgctxt "408"
 msgid "ハマオプライム"
-msgstr ""
+msgstr "顶级神酒"
 
 msgctxt "409"
 msgid "ソーマ"
-msgstr ""
+msgstr "苏摩"
 
 msgctxt "410"
 msgid "ソーマプライム"
-msgstr ""
+msgstr "顶级苏摩"
 
 msgctxt "411"
 msgid "ネクタル"
-msgstr ""
+msgstr "琼浆"
 
 msgctxt "412"
 msgid "ネクタルⅡ"
-msgstr ""
+msgstr "琼浆Ⅱ"
 
 msgctxt "413"
 msgid "テリアカα"
-msgstr ""
+msgstr "万能药α"
 
 msgctxt "414"
 msgid "テリアカβ"
-msgstr ""
+msgstr "万能药β"
 
 msgctxt "415"
 msgid "アクセラ"
-msgstr ""
+msgstr "提神香"
 
 msgctxt "416"
 msgid "耐熱ミスト"
-msgstr ""
+msgstr "抗热喷雾"
 
 msgctxt "417"
 msgid "耐氷ミスト"
-msgstr ""
+msgstr "抗冰喷雾"
 
 msgctxt "418"
 msgid "耐雷ミスト"
-msgstr ""
+msgstr "抗雷喷雾"
 
 msgctxt "419"
 msgid "絶耐ミスト"
-msgstr ""
+msgstr "全抗喷雾"
 
 msgctxt "420"
 msgid "ブレイバント"
-msgstr ""
+msgstr "勇士补药"
 
 msgctxt "421"
 msgid "ストナード"
-msgstr ""
+msgstr "刚硬石胶"
 
 msgctxt "422"
 msgid "ファイアオイル"
-msgstr ""
+msgstr "火焰油"
 
 msgctxt "423"
 msgid "フリーズオイル"
-msgstr ""
+msgstr "冰冻油"
 
 msgctxt "424"
 msgid "ショックオイル"
-msgstr ""
+msgstr "电击油"
 
 msgctxt "425"
 msgid "ラウダナム"
-msgstr ""
+msgstr "阿片酊"
 
 msgctxt "426"
 msgid "ウニコウル"
-msgstr ""
+msgstr "独角兽角"
 
 msgctxt "427"
 msgid "聖なる贈り物"
-msgstr ""
+msgstr "神圣馈赠"
 
 msgctxt "428"
 msgid "解析グラス"
-msgstr ""
+msgstr "解析眼镜"
 
 msgctxt "429"
 msgid "獣避けの鈴"
-msgstr ""
+msgstr "避兽铃铛"
 
 msgctxt "430"
 msgid "獣寄せの鈴"
-msgstr ""
+msgstr "诱兽铃铛"
 
 msgctxt "431"
 msgid "アリアドネの糸"
-msgstr ""
+msgstr "阿里阿德涅之线"
 
 msgctxt "432"
 msgid "ダミー"
@@ -1745,95 +1745,95 @@ msgstr ""
 
 msgctxt "433"
 msgid "斥候の長靴"
-msgstr ""
+msgstr "斥候的长靴"
 
 msgctxt "434"
 msgid "解剖用水溶液"
-msgstr ""
+msgstr "解剖用水溶液"
 
 msgctxt "435"
 msgid "明滅弾"
-msgstr ""
+msgstr "明灭弹"
 
 msgctxt "436"
 msgid "轟音弾"
-msgstr ""
+msgstr "轰音弹"
 
 msgctxt "437"
 msgid "好機のスカラベ"
-msgstr ""
+msgstr "良机圣甲虫"
 
 msgctxt "438"
 msgid "戦功の角笛"
-msgstr ""
+msgstr "战功角笛"
 
 msgctxt "439"
 msgid "四つ葉のクローバー"
-msgstr ""
+msgstr "四叶草"
 
 msgctxt "440"
 msgid "火術の起動符"
-msgstr ""
+msgstr "火术启动符"
 
 msgctxt "441"
 msgid "氷術の起動符"
-msgstr ""
+msgstr "冰术启动符"
 
 msgctxt "442"
 msgid "雷術の起動符"
-msgstr ""
+msgstr "雷术启动符"
 
 msgctxt "443"
 msgid "火炎術の起動符"
-msgstr ""
+msgstr "火炎术启动符"
 
 msgctxt "444"
 msgid "氷結術の起動符"
-msgstr ""
+msgstr "冰结术启动符"
 
 msgctxt "445"
 msgid "雷電術の起動符"
-msgstr ""
+msgstr "雷电术启动符"
 
 msgctxt "446"
 msgid "盲目の香"
-msgstr ""
+msgstr "失明之香"
 
 msgctxt "447"
 msgid "毒の香"
-msgstr ""
+msgstr "毒之香"
 
 msgctxt "448"
 msgid "麻痺の香"
-msgstr ""
+msgstr "麻痺の香"
 
 msgctxt "449"
 msgid "混乱の香"
-msgstr ""
+msgstr "混乱之香"
 
 msgctxt "450"
 msgid "呪いの香"
-msgstr ""
+msgstr "诅咒之香"
 
 msgctxt "451"
 msgid "睡眠の香"
-msgstr ""
+msgstr "睡眠之香"
 
 msgctxt "452"
 msgid "縺れ糸:頭"
-msgstr ""
+msgstr "捆缚索:头"
 
 msgctxt "453"
 msgid "縺れ糸:腕"
-msgstr ""
+msgstr "捆缚索:臂"
 
 msgctxt "454"
 msgid "縺れ糸:脚"
-msgstr ""
+msgstr "捆缚索:腿"
 
 msgctxt "455"
 msgid "輪廻の角鈴"
-msgstr ""
+msgstr "轮回角铃"
 
 msgctxt "456"
 msgid "ダミー"
@@ -1841,35 +1841,35 @@ msgstr ""
 
 msgctxt "457"
 msgid "斬術の起動符"
-msgstr ""
+msgstr "斩术启动符"
 
 msgctxt "458"
 msgid "壊術の起動符"
-msgstr ""
+msgstr "坏术启动符"
 
 msgctxt "459"
 msgid "突術の起動符"
-msgstr ""
+msgstr "突术启动符"
 
 msgctxt "460"
 msgid "恐怖の香"
-msgstr ""
+msgstr "恐惧之香"
 
 msgctxt "461"
 msgid "石化の香"
-msgstr ""
+msgstr "石化之香"
 
 msgctxt "462"
 msgid "オーバーソーマ"
-msgstr ""
+msgstr "极限苏摩"
 
 msgctxt "463"
 msgid "刻の瞳"
-msgstr ""
+msgstr "时之瞳"
 
 msgctxt "464"
 msgid "快癒の秘薬"
-msgstr ""
+msgstr "快愈秘药"
 
 msgctxt "465"
 msgid "ダミー"
@@ -2017,15 +2017,15 @@ msgstr ""
 
 msgctxt "501"
 msgid "迷宮の地図"
-msgstr ""
+msgstr "迷宫地图"
 
 msgctxt "502"
 msgid "公国民の証"
-msgstr ""
+msgstr "公国身份证"
 
 msgctxt "503"
 msgid "帯電石"
-msgstr ""
+msgstr "带点石"
 
 msgctxt "504"
 msgid "氷の花"
@@ -2033,7 +2033,7 @@ msgstr "冰之花"
 
 msgctxt "505"
 msgid "紋章が彫られた木札"
-msgstr ""
+msgstr "刻有紋章的木牌"
 
 msgctxt "506"
 msgid "火トカゲの羽毛"
@@ -2041,39 +2041,39 @@ msgstr "火蜥蜴的羽毛"
 
 msgctxt "507"
 msgid "いにしえの飾り"
-msgstr ""
+msgstr "远古饰物"
 
 msgctxt "508"
 msgid "枝に絡まった鞭"
-msgstr ""
+msgstr "缠绕树枝的辫子"
 
 msgctxt "509"
 msgid "落とし物の鞭"
-msgstr ""
+msgstr "失物鞭子"
 
 msgctxt "510"
 msgid "岩清水"
-msgstr ""
+msgstr "岩清水"
 
 msgctxt "511"
 msgid "大きな荷物"
-msgstr ""
+msgstr "大大的行李"
 
 msgctxt "512"
 msgid "蒼色の小さな花"
-msgstr ""
+msgstr "蓝色的小花"
 
 msgctxt "513"
 msgid "瓶入りの透き通った蜜"
-msgstr ""
+msgstr "装在瓶中的透明花蜜"
 
 msgctxt "514"
 msgid "宝石の原石"
-msgstr ""
+msgstr "宝石原石"
 
 msgctxt "515"
 msgid "樹海のイチゴ"
-msgstr ""
+msgstr "树海草莓"
 
 msgctxt "516"
 msgid "貴重品16"
@@ -2081,23 +2081,23 @@ msgstr ""
 
 msgctxt "517"
 msgid "巨大な石材"
-msgstr ""
+msgstr "巨大石材"
 
 msgctxt "518"
 msgid "婚約者の手甲"
-msgstr ""
+msgstr "未婚夫的手甲"
 
 msgctxt "519"
 msgid "安らぎの横笛"
-msgstr ""
+msgstr "平静横笛"
 
 msgctxt "520"
 msgid "風石"
-msgstr ""
+msgstr "风石"
 
 msgctxt "521"
 msgid "呪術の香木"
-msgstr ""
+msgstr "咒术香木"
 
 msgctxt "522"
 msgid "樹海のバラ"
@@ -2105,11 +2105,11 @@ msgstr "树海玫瑰"
 
 msgctxt "523"
 msgid "手甲の欠片"
-msgstr ""
+msgstr "手甲碎片"
 
 msgctxt "524"
 msgid "魔物のフィレ肉"
-msgstr ""
+msgstr "魔物里脊肉"
 
 msgctxt "525"
 msgid "貴重品25"
@@ -2125,11 +2125,11 @@ msgstr ""
 
 msgctxt "528"
 msgid "古びた金貨"
-msgstr ""
+msgstr "老旧的金币"
 
 msgctxt "529"
 msgid "羊皮紙の手紙"
-msgstr ""
+msgstr "羊皮纸的信"
 
 msgctxt "530"
 msgid "木樹薬"
@@ -2137,67 +2137,67 @@ msgstr "木树药"
 
 msgctxt "531"
 msgid "世界樹の枝"
-msgstr ""
+msgstr "世界树之枝"
 
 msgctxt "532"
 msgid "着ぐるみ"
-msgstr ""
+msgstr "玩偶服"
 
 msgctxt "533"
 msgid "碧石が入った袋"
-msgstr ""
+msgstr "装有碧石的袋子"
 
 msgctxt "534"
 msgid "碧石の首飾り"
-msgstr ""
+msgstr "碧石项链"
 
 msgctxt "535"
 msgid "鷲紋の徽章"
-msgstr ""
+msgstr "鹫纹徽章"
 
 msgctxt "536"
 msgid "漆黒馬の首肉"
-msgstr ""
+msgstr "漆黑马的颈肉"
 
 msgctxt "537"
 msgid "世界樹の鍵"
-msgstr ""
+msgstr "世界树之钥"
 
 msgctxt "538"
 msgid "金細工の駒“公女\""
-msgstr ""
+msgstr "金饰棋子“公女”"
 
 msgctxt "539"
 msgid "金細工の駒“衛士\""
-msgstr ""
+msgstr "金饰棋子“卫士”"
 
 msgctxt "540"
 msgid "金細工の駒“城兵\""
-msgstr ""
+msgstr "金饰棋子“守城兵”"
 
 msgctxt "541"
 msgid "金細工の駒“公王\""
-msgstr ""
+msgstr "金饰棋子“公王”"
 
 msgctxt "542"
 msgid "金細工の駒“騎士\""
-msgstr ""
+msgstr "金饰棋子“骑士”"
 
 msgctxt "543"
 msgid "金細工の駒“学者\""
-msgstr ""
+msgstr "金饰棋子“学者”"
 
 msgctxt "544"
 msgid "超鳥缶"
-msgstr ""
+msgstr "鸟罐头"
 
 msgctxt "545"
 msgid "翼人の書物"
-msgstr ""
+msgstr "翼人的书籍"
 
 msgctxt "546"
 msgid "金竜の書"
-msgstr ""
+msgstr "金龙之书"
 
 msgctxt "547"
 msgid "貴重品47"
@@ -2205,7 +2205,7 @@ msgstr ""
 
 msgctxt "548"
 msgid "銀色の髪飾り"
-msgstr ""
+msgstr "银色发饰"
 
 msgctxt "549"
 msgid "呪銀の聖杯のメモ1"
@@ -2213,7 +2213,7 @@ msgstr ""
 
 msgctxt "550"
 msgid "不思議な鉄片"
-msgstr ""
+msgstr "神秘铁片"
 
 msgctxt "551"
 msgid "呪銀の聖杯"
