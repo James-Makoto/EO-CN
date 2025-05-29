@@ -2053,7 +2053,7 @@ msgstr "失物鞭子"
 
 msgctxt "510"
 msgid "岩清水"
-msgstr "岩清水"
+msgstr "清泉水"
 
 msgctxt "511"
 msgid "大きな荷物"
@@ -2209,7 +2209,7 @@ msgstr "银色发饰"
 
 msgctxt "549"
 msgid "呪銀の聖杯のメモ1"
-msgstr ""
+msgstr "咒银圣杯的笔记1"
 
 msgctxt "550"
 msgid "不思議な鉄片"
@@ -2217,43 +2217,43 @@ msgstr "神秘铁片"
 
 msgctxt "551"
 msgid "呪銀の聖杯"
-msgstr ""
+msgstr "咒银圣杯"
 
 msgctxt "552"
 msgid "四角い石"
-msgstr ""
+msgstr "四角石头"
 
 msgctxt "553"
 msgid "香り付きの蝋燭"
-msgstr ""
+msgstr "熏香蜡烛"
 
 msgctxt "554"
 msgid "最高級のジャム"
-msgstr ""
+msgstr "最高级的果酱"
 
 msgctxt "555"
 msgid "小さな花飾り"
-msgstr ""
+msgstr "小花饰品"
 
 msgctxt "556"
 msgid "氷王の書"
-msgstr ""
+msgstr "冰王之书"
 
 msgctxt "557"
 msgid "純白のアウラツム"
-msgstr ""
+msgstr "纯白山百合"
 
 msgctxt "558"
 msgid "紅色の石板"
-msgstr ""
+msgstr "红色石板"
 
 msgctxt "559"
 msgid "錆びた斧"
-msgstr ""
+msgstr "生锈斧头"
 
 msgctxt "560"
 msgid "鋼鉄の戦斧"
-msgstr ""
+msgstr "钢铁战斧"
 
 msgctxt "561"
 msgid "朽ちた剣"
@@ -2261,11 +2261,11 @@ msgstr "腐朽的剑"
 
 msgctxt "562"
 msgid "鈍色の剣"
-msgstr ""
+msgstr "深灰的剑"
 
 msgctxt "563"
 msgid "翼神の剣"
-msgstr ""
+msgstr "翼神之剑"
 
 msgctxt "564"
 msgid "貴重品64"
@@ -2273,11 +2273,11 @@ msgstr ""
 
 msgctxt "565"
 msgid "羽毛の在りかのメモ"
-msgstr ""
+msgstr "羽毛所在地的笔记"
 
 msgctxt "566"
 msgid "呪銀の聖杯のメモ2"
-msgstr ""
+msgstr "咒银圣杯的笔记2"
 
 msgctxt "567"
 msgid "貴重品67"
@@ -2501,15 +2501,15 @@ msgstr ""
 
 msgctxt "622"
 msgid "茶教 新芽之章"
-msgstr ""
+msgstr "茶教 新芽之章"
 
 msgctxt "623"
 msgid "茶教 双葉之章"
-msgstr ""
+msgstr "茶教 双叶之章"
 
 msgctxt "624"
 msgid "茶教 四葉之章"
-msgstr ""
+msgstr "茶教 四叶之章"
 
 msgctxt "625"
 msgid "アザー25"
