@@ -2053,15 +2053,15 @@ msgstr ""
 
 msgctxt "510"
 msgid "火術の起動符"
-msgstr ""
+msgstr "火术启动符"
 
 msgctxt "511"
 msgid "氷術の起動符"
-msgstr ""
+msgstr "冰术启动符"
 
 msgctxt "512"
 msgid "雷術の起動符"
-msgstr ""
+msgstr "雷术启动符"
 
 msgctxt "513"
 msgid "火炎術の起動符"
