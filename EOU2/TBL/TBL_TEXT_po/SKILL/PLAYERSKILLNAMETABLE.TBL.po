@@ -1729,7 +1729,7 @@ msgstr ""
 
 msgctxt "429"
 msgid "フォースエナジー"
-msgstr ""
+msgstr "威能魔源"
 
 msgctxt "430"
 msgid "ウェポンフリー"
@@ -1737,63 +1737,63 @@ msgstr ""
 
 msgctxt "431"
 msgid "バイタルシャット"
-msgstr ""
+msgstr "命力锁闭"
 
 msgctxt "432"
 msgid "マインドシャット"
-msgstr ""
+msgstr "心智锁闭"
 
 msgctxt "433"
 msgid "アブソーブ"
-msgstr ""
+msgstr "封印吸收"
 
 msgctxt "434"
 msgid "フォースチャージ"
-msgstr ""
+msgstr "威能蓄力"
 
 msgctxt "435"
 msgid "ソニックレイド"
-msgstr ""
+msgstr "音速斩"
 
 msgctxt "436"
 msgid "フレイムセイバー"
-msgstr ""
+msgstr "烈焰之刃"
 
 msgctxt "437"
 msgid "フリーズセイバー"
-msgstr ""
+msgstr "冰结之刃"
 
 msgctxt "438"
 msgid "ショックセイバー"
-msgstr ""
+msgstr "雷鸣之刃"
 
 msgctxt "439"
 msgid "ゲイルラッシュ"
-msgstr ""
+msgstr "暴风冲"
 
 msgctxt "440"
 msgid "オーバーキラー"
-msgstr ""
+msgstr "绝灭斩杀"
 
 msgctxt "441"
 msgid "ディレイチェイス"
-msgstr ""
+msgstr "延迟追击"
 
 msgctxt "442"
 msgid "フルスラッシュ"
-msgstr ""
+msgstr "全力一击"
 
 msgctxt "443"
 msgid "レゾナンスソード"
-msgstr ""
+msgstr "共鸣之刃"
 
 msgctxt "444"
 msgid "フォースリセット"
-msgstr ""
+msgstr "威能抑制"
 
 msgctxt "445"
 msgid "フォースシールド"
-msgstr ""
+msgstr "威能护盾"
 
 msgctxt "446"
 msgid "ファイアウェイブ"
@@ -1809,19 +1809,19 @@ msgstr ""
 
 msgctxt "449"
 msgid "ブレイドリコール"
-msgstr ""
+msgstr "魔刃共鸣"
 
 msgctxt "450"
 msgid "メテオスマッシュ"
-msgstr ""
+msgstr "陨星碎冲"
 
 msgctxt "451"
 msgid "パワーセル"
-msgstr ""
+msgstr "战斗续行"
 
 msgctxt "452"
 msgid "エクステンド"
-msgstr ""
+msgstr "威能延续"
 
 msgctxt "453"
 msgid "自己再生"
@@ -1829,23 +1829,23 @@ msgstr ""
 
 msgctxt "454"
 msgid "アクセラレート"
-msgstr ""
+msgstr "自我加速"
 
 msgctxt "455"
 msgid "採掘"
-msgstr ""
+msgstr "挖掘"
 
 msgctxt "456"
 msgid "変身"
-msgstr ""
+msgstr "变身"
 
 msgctxt "457"
 msgid "イグニートレイ"
-msgstr ""
+msgstr "爆燃射线"
 
 msgctxt "458"
 msgid "アカシックノヴァ"
-msgstr ""
+msgstr "虚空星爆"
 
 msgctxt "459"
 msgid "DUMMY"
@@ -2461,15 +2461,15 @@ msgstr ""
 
 msgctxt "612"
 msgid "オーバーキラー"
-msgstr ""
+msgstr "绝灭斩杀"
 
 msgctxt "613"
 msgid "ディレイチェイス"
-msgstr ""
+msgstr "延迟追击"
 
 msgctxt "614"
 msgid "ブレイドリコール"
-msgstr ""
+msgstr "魔刃共鸣"
 
 msgctxt "615"
 msgid "自己再生"
@@ -2497,7 +2497,7 @@ msgstr ""
 
 msgctxt "621"
 msgid "フォースエナジー"
-msgstr ""
+msgstr "威能魔源"
 
 msgctxt "622"
 msgid "究極がまん"
