@@ -277,7 +277,7 @@ msgstr "黑龟甲"
 
 msgctxt "66"
 msgid "蒼鉄鋼の甲殻"
-msgstr 苍铁钢甲壳"
+msgstr "苍铁钢甲壳"
 
 msgctxt "67"
 msgid "黒灰の骨片"
