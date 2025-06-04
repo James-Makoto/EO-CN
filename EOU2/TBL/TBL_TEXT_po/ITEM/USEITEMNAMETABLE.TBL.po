@@ -277,7 +277,7 @@ msgstr "黑龟甲"
 
 msgctxt "66"
 msgid "蒼鉄鋼の甲殻"
-msgstr 苍铁钢甲壳"
+msgstr "苍铁钢甲壳"
 
 msgctxt "67"
 msgid "黒灰の骨片"
@@ -2165,27 +2165,27 @@ msgstr "世界树之钥"
 
 msgctxt "538"
 msgid "金細工の駒“公女\""
-msgstr "金饰棋子“公女”"
+msgstr "金饰棋子“公女\""
 
 msgctxt "539"
 msgid "金細工の駒“衛士\""
-msgstr "金饰棋子“卫士”"
+msgstr "金饰棋子“卫士\""
 
 msgctxt "540"
 msgid "金細工の駒“城兵\""
-msgstr "金饰棋子“守城兵”"
+msgstr "金饰棋子“守城兵\""
 
 msgctxt "541"
 msgid "金細工の駒“公王\""
-msgstr "金饰棋子“公王”"
+msgstr "金饰棋子“公王\""
 
 msgctxt "542"
 msgid "金細工の駒“騎士\""
-msgstr "金饰棋子“骑士”"
+msgstr "金饰棋子“骑士\""
 
 msgctxt "543"
 msgid "金細工の駒“学者\""
-msgstr "金饰棋子“学者”"
+msgstr "金饰棋子“学者\""
 
 msgctxt "544"
 msgid "超鳥缶"
