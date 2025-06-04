@@ -21,27 +21,27 @@ msgstr ""
 
 msgctxt "2"
 msgid "HPブースト"
-msgstr ""
+msgstr "最大HP提升"
 
 msgctxt "3"
 msgid "TPブースト"
-msgstr ""
+msgstr "最大TP提升"
 
 msgctxt "4"
 msgid "物理攻撃ブースト"
-msgstr ""
+msgstr "物理攻击提升"
 
 msgctxt "5"
 msgid "物理防御ブースト"
-msgstr ""
+msgstr "物理防御提升"
 
 msgctxt "6"
 msgid "剣マスタリー"
-msgstr ""
+msgstr "剑精通"
 
 msgctxt "7"
 msgid "斧マスタリー"
-msgstr ""
+msgstr "斧精通"
 
 msgctxt "8"
 msgid "フェンサー"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "9"
 msgid "ダブルアタック"
-msgstr ""
+msgstr "双重攻击"
 
 msgctxt "10"
 msgid "ウォークライ"
-msgstr ""
+msgstr "战争咆哮"
 
 msgctxt "11"
 msgid "ソードブレイク"
@@ -61,23 +61,23 @@ msgstr ""
 
 msgctxt "12"
 msgid "トライチャージ"
-msgstr ""
+msgstr "三重蓄力"
 
 msgctxt "13"
 msgid "レイジングエッジ"
-msgstr ""
+msgstr "踏步斩"
 
 msgctxt "14"
 msgid "トルネード"
-msgstr ""
+msgstr "旋风斩"
 
 msgctxt "15"
 msgid "ハヤブサ駆け"
-msgstr ""
+msgstr "飞隼突击"
 
 msgctxt "16"
 msgid "パワースラップ"
-msgstr ""
+msgstr "奋力挥砍"
 
 msgctxt "17"
 msgid "ハリケーン"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "18"
 msgid "ブーメランアクス"
-msgstr ""
+msgstr "回旋斧"
 
 msgctxt "19"
 msgid "スタンスマッシュ"
-msgstr ""
+msgstr "震慑猛击"
 
 msgctxt "20"
 msgid "ヘッドバッシュ"
@@ -1845,7 +1845,7 @@ msgstr "爆燃射线"
 
 msgctxt "458"
 msgid "アカシックノヴァ"
-msgstr "虚空星爆"
+msgstr "万象新星"
 
 msgctxt "459"
 msgid "DUMMY"
@@ -1973,11 +1973,11 @@ msgstr ""
 
 msgctxt "490"
 msgid "ブレイバント"
-msgstr ""
+msgstr "勇士补药"
 
 msgctxt "491"
 msgid "ストナード"
-msgstr ""
+msgstr "刚硬石胶"
 
 msgctxt "492"
 msgid "耐熱ミスト"
