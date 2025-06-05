@@ -17,19 +17,19 @@ msgstr ""
 
 msgctxt "1"
 msgid "アゲハの姿佃煮"
-msgstr ""
+msgstr "蝴蝶佃煮"
 
 msgctxt "2"
 msgid "梟の軟骨からあげ"
-msgstr ""
+msgstr "炸枭软骨"
 
 msgctxt "3"
 msgid "くるみ羊羹"
-msgstr ""
+msgstr "核桃羊羹"
 
 msgctxt "4"
 msgid "鹿肉と樹海野菜のすき鍋"
-msgstr ""
+msgstr "鹿肉与树海蔬菜的寿喜锅"
 
 msgctxt "5"
 msgid "怪しい石焼き鍋"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "6"
 msgid "巨猪の豚汁"
-msgstr ""
+msgstr "巨猪猪肉汤"
 
 msgctxt "7"
 msgid "鬼いが栗の茶巾絞り"
@@ -53,15 +53,15 @@ msgstr ""
 
 msgctxt "10"
 msgid "雪鳥卵の熱々おでん"
-msgstr ""
+msgstr "热乎的雪鸟蛋关东煮"
 
 msgctxt "11"
 msgid "カニの樹海茶漬け"
-msgstr ""
+msgstr "螃蟹树海茶泡饭"
 
 msgctxt "12"
 msgid "林檎と抹茶のかき氷"
-msgstr ""
+msgstr "苹果抹茶刨冰"
 
 msgctxt "13"
 msgid "亀の甲羅焼き肉"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "14"
 msgid "大苺大福"
-msgstr ""
+msgstr 大莓大福""
 
 msgctxt "15"
 msgid "樹海桜茶"
-msgstr ""
+msgstr "树海樱茶"
 
 msgctxt "16"
 msgid "石化鳥の肉じゃが"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "18"
 msgid "桜肉のしゃぶしゃぶ"
-msgstr ""
+msgstr "樱肉涮锅"
 
 msgctxt "19"
 msgid "雲海山鳥の茶碗蒸し"
@@ -149,11 +149,11 @@ msgstr ""
 
 msgctxt "34"
 msgid "野牛肉拉麺"
-msgstr ""
+msgstr "野牛肉拉面"
 
 msgctxt "35"
 msgid "馬肉中華包子"
-msgstr ""
+msgstr "马肉中华豹子"
 
 msgctxt "36"
 msgid "雪鳥の蟹玉"
@@ -161,11 +161,11 @@ msgstr ""
 
 msgctxt "37"
 msgid "蜘蛛の姿揚げ"
-msgstr ""
+msgstr "炸蜘蛛"
 
 msgctxt "38"
 msgid "樹海鳥の雷炒飯"
-msgstr ""
+msgstr "树海鸟雷炒饭"
 
 msgctxt "39"
 msgid "森林サイ角煮"
