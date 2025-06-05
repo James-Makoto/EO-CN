@@ -33,7 +33,7 @@ msgstr "鹿肉与树海蔬菜的寿喜锅"
 
 msgctxt "5"
 msgid "怪しい石焼き鍋"
-msgstr ""
+msgstr "可疑石头石烤锅"
 
 msgctxt "6"
 msgid "巨猪の豚汁"
@@ -41,7 +41,7 @@ msgstr "巨猪猪肉汤"
 
 msgctxt "7"
 msgid "鬼いが栗の茶巾絞り"
-msgstr ""
+msgstr "鬼毬栗茶巾绞"
 
 msgctxt "8"
 msgid "紅葉狩り串団子"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "9"
 msgid "東国の伝統兜焼き"
-msgstr ""
+msgstr "东国传统兜烧"
 
 msgctxt "10"
 msgid "雪鳥卵の熱々おでん"
@@ -65,7 +65,7 @@ msgstr "苹果抹茶刨冰"
 
 msgctxt "13"
 msgid "亀の甲羅焼き肉"
-msgstr ""
+msgstr "龟壳烤肉"
 
 msgctxt "14"
 msgid "大苺大福"
@@ -77,7 +77,7 @@ msgstr "树海樱茶"
 
 msgctxt "16"
 msgid "石化鳥の肉じゃが"
-msgstr ""
+msgstr "土豆炖石化鸟肉"
 
 msgctxt "17"
 msgid "特製大釜の鎧竜炊き込み飯"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "20"
 msgid "宝石煮こごりのツバメの巣入り"
-msgstr ""
+msgstr "燕窝宝石肉冻"
 
 msgctxt "21"
 msgid "古代ヤドカリの姿造り"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "28"
 msgid "黒茶"
-msgstr ""
+msgstr "黑茶"
 
 msgctxt "29"
 msgid "麻辣獄火鍋"
-msgstr ""
+msgstr "麻辣狱火锅"
 
 msgctxt "30"
 msgid "鶏唐揚げの甘酢餡かけ"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "44"
 msgid "きょうか鶏"
-msgstr ""
+msgstr "叫花鸡"
 
 msgctxt "45"
 msgid "危険な花茶"
@@ -197,11 +197,11 @@ msgstr ""
 
 msgctxt "46"
 msgid "シュウマイ"
-msgstr ""
+msgstr "烧麦"
 
 msgctxt "47"
 msgid "樹海特選の回鍋肉"
-msgstr ""
+msgstr "树海特选回锅肉"
 
 msgctxt "48"
 msgid "蜥蜴肉の蜜汁火方"
