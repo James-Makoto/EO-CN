@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "5"
 msgid "梟の軟骨"
-msgstr ""
+msgstr "枭软骨"
 
 msgctxt "6"
 msgid "玉になった巨花"
@@ -41,7 +41,7 @@ msgstr "球状的巨花"
 
 msgctxt "7"
 msgid "シトロン"
-msgstr ""
+msgstr "香橼"
 
 msgctxt "8"
 msgid "黒麦"
@@ -49,11 +49,11 @@ msgstr "黑麦"
 
 msgctxt "9"
 msgid "オニグルミ"
-msgstr ""
+msgstr "鬼核桃"
 
 msgctxt "10"
 msgid "古跡のアスパラ"
-msgstr ""
+msgstr "古迹芦笋"
 
 msgctxt "11"
 msgid "樹海岩塩"
@@ -61,11 +61,11 @@ msgstr "树海岩盐"
 
 msgctxt "12"
 msgid "シュガービート"
-msgstr ""
+msgstr "甜菜根"
 
 msgctxt "13"
 msgid "怪しい石"
-msgstr ""
+msgstr "可疑石头"
 
 msgctxt "14"
 msgid "ダミー"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "22"
 msgid "リーキ"
-msgstr ""
+msgstr "韭葱"
 
 msgctxt "23"
 msgid "小大豆"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "25"
 msgid "鬼いが栗"
-msgstr ""
+msgstr "鬼毬栗"
 
 msgctxt "26"
 msgid "緋芋"
