@@ -65,15 +65,15 @@ msgstr "三重蓄力"
 
 msgctxt "13"
 msgid "レイジングエッジ"
-msgstr "踏步斩"
+msgstr "狂怒之刃"
 
 msgctxt "14"
 msgid "トルネード"
-msgstr "旋风斩"
+msgstr "龙卷斩击"
 
 msgctxt "15"
 msgid "ハヤブサ駆け"
-msgstr "飞隼突击"
+msgstr "游隼驰斩"
 
 msgctxt "16"
 msgid "パワースラップ"
@@ -81,7 +81,7 @@ msgstr "奋力挥砍"
 
 msgctxt "17"
 msgid "ハリケーン"
-msgstr ""
+msgstr "飓风拳击"
 
 msgctxt "18"
 msgid "ブーメランアクス"
@@ -93,11 +93,11 @@ msgstr "震慑猛击"
 
 msgctxt "20"
 msgid "ヘッドバッシュ"
-msgstr ""
+msgstr "头部重击"
 
 msgctxt "21"
 msgid "パワーゲイン"
-msgstr ""
+msgstr "巨力强击"
 
 msgctxt "22"
 msgid "ヘヴィショック"
