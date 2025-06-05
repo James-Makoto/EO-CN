@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "2"
 msgid "鹿肉"
-msgstr ""
+msgstr "鹿肉"
 
 msgctxt "3"
 msgid "動かない毒アゲハ"
-msgstr ""
+msgstr "动弹不得的毒蝴蝶"
 
 msgctxt "4"
 msgid "丸まった球獣"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "6"
 msgid "玉になった巨花"
-msgstr ""
+msgstr "球状的巨花"
 
 msgctxt "7"
 msgid "シトロン"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "8"
 msgid "黒麦"
-msgstr ""
+msgstr "黑麦"
 
 msgctxt "9"
 msgid "オニグルミ"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "11"
 msgid "樹海岩塩"
-msgstr ""
+msgstr "树海岩盐"
 
 msgctxt "12"
 msgid "シュガービート"
@@ -269,11 +269,11 @@ msgstr ""
 
 msgctxt "64"
 msgid "紫光のゼラチン"
-msgstr ""
+msgstr "紫光明胶"
 
 msgctxt "65"
 msgid "精製水"
-msgstr ""
+msgstr "精制水"
 
 msgctxt "66"
 msgid "雲海山鳥の卵"
