@@ -25,7 +25,7 @@ msgstr "鹿肉"
 
 msgctxt "3"
 msgid "動かない毒アゲハ"
-msgstr "一动不动的毒蝴蝶"
+msgstr "一动不动的毒凤蝶"
 
 msgctxt "4"
 msgid "丸まった球獣"
