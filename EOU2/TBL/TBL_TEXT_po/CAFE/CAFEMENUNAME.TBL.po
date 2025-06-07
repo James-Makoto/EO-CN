@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "1"
 msgid "アゲハの姿佃煮"
-msgstr "凤蝶佃煮"
+msgstr "整只凤蝶佃煮"
 
 msgctxt "2"
 msgid "梟の軟骨からあげ"
@@ -33,7 +33,7 @@ msgstr "鹿肉与树海蔬菜的寿喜锅"
 
 msgctxt "5"
 msgid "怪しい石焼き鍋"
-msgstr "可疑石头石烤锅"
+msgstr "可疑石烹锅"
 
 msgctxt "6"
 msgid "巨猪の豚汁"
@@ -45,7 +45,7 @@ msgstr "鬼毬栗茶巾绞"
 
 msgctxt "8"
 msgid "紅葉狩り串団子"
-msgstr ""
+msgstr "红叶狩串团子"
 
 msgctxt "9"
 msgid "東国の伝統兜焼き"
@@ -53,7 +53,7 @@ msgstr "东国传统兜烧"
 
 msgctxt "10"
 msgid "雪鳥卵の熱々おでん"
-msgstr "热乎的雪鸟蛋关东煮"
+msgstr "雪鸟蛋热关东煮"
 
 msgctxt "11"
 msgid "カニの樹海茶漬け"
@@ -81,7 +81,7 @@ msgstr "土豆炖石化鸟肉"
 
 msgctxt "17"
 msgid "特製大釜の鎧竜炊き込み飯"
-msgstr ""
+msgstr "特制大釜铠龙什锦饭"
 
 msgctxt "18"
 msgid "桜肉のしゃぶしゃぶ"
@@ -89,39 +89,39 @@ msgstr "樱肉涮锅"
 
 msgctxt "19"
 msgid "雲海山鳥の茶碗蒸し"
-msgstr ""
+msgstr "云海山鸟茶碗蒸"
 
 msgctxt "20"
 msgid "宝石煮こごりのツバメの巣入り"
-msgstr "燕窝宝石肉冻"
+msgstr "宝石煮冻配燕窝"
 
 msgctxt "21"
 msgid "古代ヤドカリの姿造り"
-msgstr ""
+msgstr "古代寄居蟹造型刺身"
 
 msgctxt "22"
 msgid "黒獣のお吸い物"
-msgstr ""
+msgstr "黑兽清汤"
 
 msgctxt "23"
 msgid "力士秘伝のちゃんこ風鍋"
-msgstr ""
+msgstr 力士秘传相扑锅风味火锅
 
 msgctxt "24"
 msgid "東国伝来の煮しめ"
-msgstr ""
+msgstr 东国煮物什锦""
 
 msgctxt "25"
 msgid "球獣肉とアスパラの中華炒め"
-msgstr ""
+msgstr "球兽肉与芦笋中式炒菜"
 
 msgctxt "26"
 msgid "軟骨揚げのシトロン餡かけ丼"
-msgstr ""
+msgstr "软骨炸物配香橼糖醋的盖饭"
 
 msgctxt "27"
 msgid "シカ肉のタタキ風"
-msgstr ""
+msgstr "鹿肉炙"
 
 msgctxt "28"
 msgid "黒茶"
@@ -133,19 +133,19 @@ msgstr "麻辣狱火锅"
 
 msgctxt "30"
 msgid "鶏唐揚げの甘酢餡かけ"
-msgstr ""
+msgstr "炸鸡配糖醋酱"
 
 msgctxt "31"
 msgid "栗月餅"
-msgstr ""
+msgstr "栗月饼"
 
 msgctxt "32"
 msgid "火龍果杏仁"
-msgstr ""
+msgstr "火龙果酥酪"
 
 msgctxt "33"
 msgid "リンゴ入り愛玉子風ブルーゼリー"
-msgstr ""
+msgstr "含苹果的爱玉风蓝色啫喱"
 
 msgctxt "34"
 msgid "野牛肉拉麺"
@@ -157,11 +157,11 @@ msgstr "马肉中华豹子"
 
 msgctxt "36"
 msgid "雪鳥の蟹玉"
-msgstr ""
+msgstr "雪鸟蟹肉蛋"
 
 msgctxt "37"
 msgid "蜘蛛の姿揚げ"
-msgstr "炸蜘蛛"
+msgstr "整只炸蜘蛛"
 
 msgctxt "38"
 msgid "樹海鳥の雷炒飯"
@@ -169,23 +169,23 @@ msgstr "树海鸟雷炒饭"
 
 msgctxt "39"
 msgid "森林サイ角煮"
-msgstr ""
+msgstr "森林犀红烧肉"
 
 msgctxt "40"
 msgid "石化鳥と樹海野菜の細切り炒め"
-msgstr ""
+msgstr "石化鸟与树海蔬菜细切炒"
 
 msgctxt "41"
 msgid "ノヅチ丸ごとスープ"
-msgstr ""
+msgstr "整只野槌炖汤"
 
 msgctxt "42"
 msgid "皇帝ツバメの巣と岩茸の幻スープ"
-msgstr ""
+msgstr "皇帝燕窝与岩茸的幻汤"
 
 msgctxt "43"
 msgid "宝龍包"
-msgstr ""
+msgstr "宝龙包"
 
 msgctxt "44"
 msgid "きょうか鶏"
@@ -193,7 +193,7 @@ msgstr "叫花鸡"
 
 msgctxt "45"
 msgid "危険な花茶"
-msgstr ""
+msgstr "危险花茶"
 
 msgctxt "46"
 msgid "シュウマイ"
@@ -205,127 +205,127 @@ msgstr "树海特选回锅肉"
 
 msgctxt "48"
 msgid "蜥蜴肉の蜜汁火方"
-msgstr ""
+msgstr "蜥蜴肉蜜汁火烤"
 
 msgctxt "49"
 msgid "エスカルゴ焼シトロンソース添え"
-msgstr ""
+msgstr "焗蜗牛佐香橼酱"
 
 msgctxt "50"
 msgid "ハイラガコーヒー"
-msgstr ""
+msgstr "高拉加咖啡"
 
 msgctxt "51"
 msgid "クルミ入りライ麦パン"
-msgstr ""
+msgstr "核桃黑麦面包"
 
 msgctxt "52"
 msgid "シカ肉のステーキ"
-msgstr ""
+msgstr "鹿肉排"
 
 msgctxt "53"
 msgid "かみつきのサンドイッチ"
-msgstr ""
+msgstr "啃咬草三明治"
 
 msgctxt "54"
 msgid "旬の秋野菜ポトフ"
-msgstr ""
+msgstr "时令秋蔬杂烩锅"
 
 msgctxt "55"
 msgid "パーシモンプディング"
-msgstr ""
+msgstr "柿子布丁"
 
 msgctxt "56"
 msgid "ジビエカレーライス"
-msgstr ""
+msgstr "野味咖喱饭"
 
 msgctxt "57"
 msgid "発酵怪魚パニーノ"
-msgstr ""
+msgstr "发酵怪鱼帕尼尼"
 
 msgctxt "58"
 msgid "野牛ステーキのリンゴソース添え"
-msgstr ""
+msgstr "野牛牛排佐苹果酱"
 
 msgctxt "59"
 msgid "カニクリームコロッケ"
-msgstr ""
+msgstr "蟹肉奶油可乐饼"
 
 msgctxt "60"
 msgid "樹海パエリア"
-msgstr ""
+msgstr "树海海鲜饭"
 
 msgctxt "61"
 msgid "サソリのグリーンパスタ"
-msgstr ""
+msgstr "蝎子绿酱意面"
 
 msgctxt "62"
 msgid "ハチミツジャーマンポテト"
-msgstr ""
+msgstr "蜂蜜炸土豆"
 
 msgctxt "63"
 msgid "ももステーキの桜苺ジャム添え"
-msgstr ""
+msgstr "腿肉排佐樱莓果酱"
 
 msgctxt "64"
 msgid "サイ肉のとろとろシチュー"
-msgstr ""
+msgstr "犀牛肉奶汁炖菜"
 
 msgctxt "65"
 msgid "禍々しいアスピック"
-msgstr ""
+msgstr "不祥的肉冻"
 
 msgctxt "66"
 msgid "3種食べ比べハンバーグ"
-msgstr ""
+msgstr "3款汉堡排拼盘"
 
 msgctxt "67"
 msgid "タルタルステーキ"
-msgstr ""
+msgstr "鞑靼马肉"
 
 msgctxt "68"
 msgid "ストーンガレット "
-msgstr ""
+msgstr "石板荞麦薄饼"
 
 msgctxt "69"
 msgid "大芋虫のキャセロール"
-msgstr ""
+msgstr "巨型毛虫焗锅"
 
 msgctxt "70"
 msgid "オレンジソースの怪獣ステーキ"
-msgstr ""
+msgstr "怪兽排佐橙酱"
 
 msgctxt "71"
 msgid "タケノコが入ったサルマーレ"
-msgstr ""
+msgstr "竹笋包菜卷"
 
 msgctxt "72"
 msgid "パンプキンパイ"
-msgstr ""
+msgstr "南瓜派"
 
 msgctxt "73"
 msgid "世界樹の新芽茶"
-msgstr ""
+msgstr "世界树新芽茶"
 
 msgctxt "74"
 msgid "世界樹の双葉茶"
-msgstr ""
+msgstr "世界树双叶茶"
 
 msgctxt "75"
 msgid "世界樹の四つ葉茶"
-msgstr ""
+msgstr "世界树四叶茶"
 
 msgctxt "76"
 msgid "宮廷伝統のオートキュイジーヌ"
-msgstr ""
+msgstr "宫廷传统高级料理"
 
 msgctxt "77"
 msgid "東国家庭の味おせち料理"
-msgstr ""
+msgstr "东国家庭风御节料理"
 
 msgctxt "78"
 msgid "皇帝御用達の満漢全席"
-msgstr ""
+msgstr "皇帝御用满汉全席"
 
 msgctxt "79"
 msgid "ダミー"
