@@ -2169,7 +2169,7 @@ msgstr "树海鸟雷炒饭"
 
 msgctxt "539"
 msgid "蜘蛛の姿揚げ"
-msgstr "炸蜘蛛"
+msgstr "整只炸蜘蛛"
 
 msgctxt "540"
 msgid "樹海特選の回鍋肉"
