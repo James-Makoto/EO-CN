@@ -353,7 +353,7 @@ msgstr "秋葱"
 
 msgctxt "85"
 msgid "深樹の筍"
-msgstr "深树之笋"
+msgstr "深树竹笋"
 
 msgctxt "86"
 msgid "火竜の尾の身"
