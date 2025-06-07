@@ -289,7 +289,7 @@ msgstr "皇帝燕窝"
 
 msgctxt "69"
 msgid "柔らかい床"
-msgstr "柔软土地"
+msgstr "软土"
 
 msgctxt "70"
 msgid "崩れた壁材"
