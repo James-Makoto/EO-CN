@@ -69,7 +69,7 @@ msgstr "龟壳烤肉"
 
 msgctxt "14"
 msgid "大苺大福"
-msgstr 大莓大福""
+msgstr "大莓大福"
 
 msgctxt "15"
 msgid "樹海桜茶"
