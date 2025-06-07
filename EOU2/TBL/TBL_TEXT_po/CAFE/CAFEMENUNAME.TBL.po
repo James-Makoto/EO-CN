@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "1"
 msgid "アゲハの姿佃煮"
-msgstr "蝴蝶佃煮"
+msgstr "凤蝶佃煮"
 
 msgctxt "2"
 msgid "梟の軟骨からあげ"
