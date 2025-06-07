@@ -5,7 +5,7 @@
   </entry>
   <entry id="1">
     <source>歩行中にHPが回復{f801}</source>
-    <target>歩行中にHPが回復{f801}</target>
+    <target>行走时恢复HP{f801}</target>
   </entry>
   <entry id="2">
     <source>LUC+10{f801}</source>
@@ -13,15 +13,15 @@
   </entry>
   <entry id="3">
     <source>歩行中にTPが回復{f801}</source>
-    <target>歩行中にTPが回復{f801}</target>
+    <target>行走时恢复TP{f801}</target>
   </entry>
   <entry id="4">
     <source>食材入手数↑↑{f801}</source>
-    <target>食材入手数↑↑{f801}</target>
+    <target>获得食材数↑↑{f801}</target>
   </entry>
   <entry id="5">
     <source>歩行中フォースが上昇する{f801}</source>
-    <target>歩行中フォースが上昇する{f801}</target>
+    <target>行走时威能值提升{f801}</target>
   </entry>
   <entry id="6">
     <source>AGI+10{f801}</source>
@@ -33,11 +33,11 @@
   </entry>
   <entry id="8">
     <source>採集数増加{f801}</source>
-    <target>採集数増加{f801}</target>
+    <target>收集数增加{f801}</target>
   </entry>
   <entry id="9">
     <source>稀少個体出現率↑{f801}</source>
-    <target>稀少個体出現率↑{f801}</target>
+    <target>稀有敌人出现率↑{f801}</target>
   </entry>
   <entry id="10">
     <source>STR+10{f801}</source>
@@ -45,7 +45,7 @@
   </entry>
   <entry id="11">
     <source>取得経験値↑{f801}</source>
-    <target>取得経験値↑{f801}</target>
+    <target>获得经验值{f801}</target>
   </entry>
   <entry id="12">
     <source>TEC+10{f801}</source>
@@ -53,267 +53,267 @@
   </entry>
   <entry id="13">
     <source>ターン終了時HP回復{f801}</source>
-    <target>ターン終了時HP回復{f801}</target>
+    <target>回合结束时恢复HP{f801}</target>
   </entry>
   <entry id="14">
     <source>TP最大値↑{f801}</source>
-    <target>TP最大値↑{f801}</target>
+    <target>TP最大值↑{f801}</target>
   </entry>
   <entry id="15">
     <source>逃走確率↑↑{f801}</source>
-    <target>逃走確率↑↑{f801}</target>
+    <target>逃跑概率↑↑{f801}</target>
   </entry>
   <entry id="16">
     <source>全能力値+5{f801}</source>
-    <target>全能力値+5{f801}</target>
+    <target>全能力值+5{f801}</target>
   </entry>
   <entry id="17">
     <source>ターン終了時TP回復{f801}</source>
-    <target>ターン終了時TP回復{f801}</target>
+    <target>回合结束时恢复TP{f801}</target>
   </entry>
   <entry id="18">
     <source>HP最大値↑{f801}</source>
-    <target>HP最大値↑{f801}</target>
+    <target>HP最大值↑{f801}</target>
   </entry>
   <entry id="19">
     <source>先制と不意打ちが起きない{f801}</source>
-    <target>先制と不意打ちが起きない{f801}</target>
+    <target>不会先制和偷袭{f801}</target>
   </entry>
   <entry id="20">
     <source>通常攻撃でHP回復{f801}</source>
-    <target>通常攻撃でHP回復{f801}</target>
+    <target>普通攻击恢复HP{f801}</target>
   </entry>
   <entry id="21">
     <source>ターン終了時HPTP回復{f801}</source>
-    <target>ターン終了時HPTP回復{f801}</target>
+    <target>回合结束时恢复HPTP{f801}</target>
   </entry>
   <entry id="22">
     <source>アイテムドロップ率↑{f801}</source>
-    <target>アイテムドロップ率↑{f801}</target>
+    <target>道具掉落率↑{f801}</target>
   </entry>
   <entry id="23">
     <source>被ダメージ時TP回復{f801}</source>
-    <target>被ダメージ時TP回復{f801}</target>
+    <target>受伤害时恢复TP{f801}</target>
   </entry>
   <entry id="24">
     <source>リトライ回数+1{f801}</source>
-    <target>リトライ回数+1{f801}</target>
+    <target>重试次数+1{f801}</target>
   </entry>
   <entry id="25">
     <source>確率でフォースゲージ復活{f801}</source>
-    <target>確率でフォースゲージ復活{f801}</target>
+    <target>一定几率威能值回满{f801}</target>
   </entry>
   <entry id="26">
     <source>状態異常封じ自然回復率↑{f801}</source>
-    <target>状態異常封じ自然回復率↑{f801}</target>
+    <target>异常・封印自然恢复率↑{f801}</target>
   </entry>
   <entry id="27">
     <source>毒耐性↑↑↑{f801}</source>
-    <target>毒耐性↑↑↑{f801}</target>
+    <target>毒抗性↑↑↑{f801}</target>
   </entry>
   <entry id="28">
     <source>封じ一度防御3T{f801}</source>
-    <target>封じ一度防御3T{f801}</target>
+    <target>仅一次封印防御3T{f801}</target>
   </entry>
   <entry id="29">
     <source>盲目耐性↑↑↑{f801}</source>
-    <target>盲目耐性↑↑↑{f801}</target>
+    <target>失明抗性↑↑↑{f801}</target>
   </entry>
   <entry id="30">
     <source>状態異常一度防御3T{f801}</source>
-    <target>状態異常一度防御3T{f801}</target>
+    <target>仅一次异常状态防御3T{f801}</target>
   </entry>
   <entry id="31">
     <source>脚封じ耐性↑↑↑{f801}</source>
-    <target>脚封じ耐性↑↑↑{f801}</target>
+    <target>腿部封印抗性↑↑↑{f801}</target>
   </entry>
   <entry id="32">
     <source>状態異常ダメージ軽減{f801}</source>
-    <target>状態異常ダメージ軽減{f801}</target>
+    <target>异常状态伤害减轻{f801}</target>
   </entry>
   <entry id="33">
     <source>麻痺耐性↑↑↑{f801}</source>
-    <target>麻痺耐性↑↑↑{f801}</target>
+    <target>麻痹抗性↑↑↑{f801}</target>
   </entry>
   <entry id="34">
     <source>状態異常封じ時にHP回復{f801}</source>
-    <target>状態異常封じ時にHP回復{f801}</target>
+    <target>异常・封印时恢复HP{f801}</target>
   </entry>
   <entry id="35">
     <source>睡眠耐性↑↑↑{f801}</source>
-    <target>睡眠耐性↑↑↑{f801}</target>
+    <target>睡眠抗性↑↑↑{f801}</target>
   </entry>
   <entry id="36">
     <source>テリアカ効果範囲拡大{f801}</source>
-    <target>テリアカ効果範囲拡大{f801}</target>
+    <target>万能药效果范围扩大{f801}</target>
   </entry>
   <entry id="37">
     <source>腕封じ耐性↑↑↑{f801}</source>
-    <target>腕封じ耐性↑↑↑{f801}</target>
+    <target>臂部封印抗性↑↑↑{f801}</target>
   </entry>
   <entry id="38">
     <source>状態異常封じ時にTP回復{f801}</source>
-    <target>状態異常封じ時にTP回復{f801}</target>
+    <target>异常・封印时恢复TP{f801}</target>
   </entry>
   <entry id="39">
     <source>混乱耐性↑↑↑{f801}</source>
-    <target>混乱耐性↑↑↑{f801}</target>
+    <target>混乱抗性↑↑↑{f801}</target>
   </entry>
   <entry id="40">
     <source>1度のみ食いしばり3T{f801}</source>
-    <target>1度のみ食いしばり3T{f801}</target>
+    <target>仅一次强忍3T{f801}</target>
   </entry>
   <entry id="41">
     <source>呪い耐性↑↑↑{f801}</source>
-    <target>呪い耐性↑↑↑{f801}</target>
+    <target>诅咒抗性↑↑↑{f801}</target>
   </entry>
   <entry id="42">
     <source>状態異常封じ時にフォース↑{f801}</source>
-    <target>状態異常封じ時にフォース↑{f801}</target>
+    <target>异常・封印时威能↑{f801}</target>
   </entry>
   <entry id="43">
     <source>頭封じ耐性↑↑↑{f801}</source>
-    <target>頭封じ耐性↑↑↑{f801}</target>
+    <target>头部封印抗性↑↑↑{f801}</target>
   </entry>
   <entry id="44">
     <source>状態異常封じが3Tで回復{f801}</source>
-    <target>状態異常封じが3Tで回復{f801}</target>
+    <target>异常・封印3T恢复{f801}</target>
   </entry>
   <entry id="45">
     <source>テラー耐性↑↑↑{f801}</source>
-    <target>テラー耐性↑↑↑{f801}</target>
+    <target>恐惧抗性↑↑↑{f801}</target>
   </entry>
   <entry id="46">
     <source>敵の状態異常封じ3T持続{f801}</source>
-    <target>敵の状態異常封じ3T持続{f801}</target>
+    <target>敌方异常・封印持续3T{f801}</target>
   </entry>
   <entry id="47">
     <source>石化耐性↑↑↑{f801}</source>
-    <target>石化耐性↑↑↑{f801}</target>
+    <target>石化抗性↑↑↑{f801}</target>
   </entry>
   <entry id="48">
     <source>確率で戦闘不能が回復{f801}</source>
-    <target>確率で戦闘不能が回復{f801}</target>
+    <target>一定几率恢复无法战斗{f801}</target>
   </entry>
   <entry id="49">
     <source>即死耐性↑↑↑{f801}</source>
-    <target>即死耐性↑↑↑{f801}</target>
+    <target>即死抗性↑↑↑{f801}</target>
   </entry>
   <entry id="50">
     <source>探索中に一度だけ全滅防止{f801}</source>
-    <target>探索中に一度だけ全滅防止{f801}</target>
+    <target>探索中仅一次防止全灭{f801}</target>
   </entry>
   <entry id="51">
     <source>雷属性付与1T{f801}</source>
-    <target>雷属性付与1T{f801}</target>
+    <target>附加雷属性1T{f801}</target>
   </entry>
   <entry id="52">
     <source>グリモアチャンス発生率↑{f801}</source>
-    <target>グリモアチャンス発生率↑{f801}</target>
+    <target>收获时刻触发率↑{f801}</target>
   </entry>
   <entry id="53">
     <source>敵への毒ダメージが2倍{f801}</source>
-    <target>敵への毒ダメージが2倍{f801}</target>
+    <target>敌方毒伤害2倍{f801}</target>
   </entry>
   <entry id="54">
     <source>行動速度強化1T{f801}</source>
-    <target>行動速度強化1T{f801}</target>
+    <target>行动速度强化1T{f801}</target>
   </entry>
   <entry id="55">
     <source>炎属性付与1T{f801}</source>
-    <target>炎属性付与1T{f801}</target>
+    <target>附加火属性1T{f801}</target>
   </entry>
   <entry id="56">
     <source>ACTIVEチャンス↑{f801}</source>
-    <target>ACTIVEチャンス↑{f801}</target>
+    <target>ACTIVE收获时刻↑{f801}</target>
   </entry>
   <entry id="57">
     <source>敵への呪いダメージが3倍{f801}</source>
-    <target>敵への呪いダメージが3倍{f801}</target>
+    <target>敌方诅咒伤害3倍{f801}</target>
   </entry>
   <entry id="58">
     <source>グリモアの質が不安定化{f801}</source>
-    <target>グリモアの質が不安定化{f801}</target>
+    <target>生成魔导石不稳定{f801}</target>
   </entry>
   <entry id="59">
     <source>氷属性付与1T{f801}</source>
-    <target>氷属性付与1T{f801}</target>
+    <target>附加冰属性1T{f801}</target>
   </entry>
   <entry id="60">
     <source>ENEMYチャンス↑{f801}</source>
-    <target>ENEMYチャンス↑{f801}</target>
+    <target>ENEMY收获时刻↑{f801}</target>
   </entry>
   <entry id="61">
     <source>強化アイテム効果が列に{f801}</source>
-    <target>強化アイテム効果が列に{f801}</target>
+    <target>强化道具效果扩大至列{f801}</target>
   </entry>
   <entry id="62">
     <source>敵への盲目効果↑↑{f801}</source>
-    <target>敵への盲目効果↑↑{f801}</target>
+    <target>敌方失明效果↑↑{f801}</target>
   </entry>
   <entry id="63">
     <source>攻撃アイテム効果3倍{f801}</source>
-    <target>攻撃アイテム効果3倍{f801}</target>
+    <target>攻击道具效果3倍{f801}</target>
   </entry>
   <entry id="64">
     <source>PASSIVEチャンス↑{f801}</source>
-    <target>PASSIVEチャンス↑{f801}</target>
+    <target>PASSIVE收获时刻↑{f801}</target>
   </entry>
   <entry id="65">
     <source>敵への睡眠効果↑↑{f801}</source>
-    <target>敵への睡眠効果↑↑{f801}</target>
+    <target>敌方睡眠效果↑↑{f801}</target>
   </entry>
   <entry id="66">
     <source>グリモア付加効果付着率↑{f801}</source>
-    <target>グリモア付加効果付着率↑{f801}</target>
+    <target>魔导石付附加效果附着率↑{f801}</target>
   </entry>
   <entry id="67">
     <source>稀少個体が出現しなくなる{f801}</source>
-    <target>稀少個体が出現しなくなる{f801}</target>
+    <target>稀有敌人不会出现{f801}</target>
   </entry>
   <entry id="68">
     <source>生成グリモアの優良化{f801}</source>
-    <target>生成グリモアの優良化{f801}</target>
+    <target>生成魔导石优良化{f801}</target>
   </entry>
   <entry id="69">
     <source>敵への麻痺効果↑↑{f801}</source>
-    <target>敵への麻痺効果↑↑{f801}</target>
+    <target>敌方麻痹效果↑↑{f801}</target>
   </entry>
   <entry id="70">
     <source>状態異常封じアイテム効果↑{f801}</source>
-    <target>状態異常封じアイテム効果↑{f801}</target>
+    <target>异常・封印道具效果↑{f801}</target>
   </entry>
   <entry id="71">
     <source>グリモアフィーバー↑{f801}</source>
-    <target>グリモアフィーバー↑{f801}</target>
+    <target>收获狂潮↑{f801}</target>
   </entry>
   <entry id="72">
     <source>グリモアスキルレベル+2{f801}</source>
-    <target>グリモアスキルレベル+2{f801}</target>
+    <target>魔导石技能等级+2{f801}</target>
   </entry>
   <entry id="73">
     <source>FOEに先制{f801}</source>
-    <target>FOEに先制{f801}</target>
+    <target>FOE先制{f801}</target>
   </entry>
   <entry id="74">
     <source>単体攻撃アイテム無限{f801}</source>
-    <target>単体攻撃アイテム無限{f801}</target>
+    <target>单体攻击道具无限{f801}</target>
   </entry>
   <entry id="75">
     <source>エンカウント率が0%{f801}</source>
-    <target>エンカウント率が0%{f801}</target>
+    <target>遇敌率0%{f801}</target>
   </entry>
   <entry id="76">
     <source>PREMIUMチャンス↑↑{f801}</source>
-    <target>PREMIUMチャンス↑↑{f801}</target>
+    <target>PREMIUM收获时刻↑↑{f801}</target>
   </entry>
   <entry id="77">
     <source>素材+採集入手数↑↑↑{f801}</source>
-    <target>素材+採集入手数↑↑↑{f801}</target>
+    <target>素材+收集获取数↑↑↑{f801}</target>
   </entry>
   <entry id="78">
     <source>ギルド全員に追加経験値{f801}</source>
-    <target>ギルド全員に追加経験値{f801}</target>
+    <target>公会全员额外经验值{f801}</target>
   </entry>
   <entry id="79">
     <source>ダミー{f801}</source>

@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "2"
 msgid "鹿肉"
-msgstr ""
+msgstr "鹿肉"
 
 msgctxt "3"
 msgid "動かない毒アゲハ"
-msgstr ""
+msgstr "一动不动的毒凤蝶"
 
 msgctxt "4"
 msgid "丸まった球獣"
@@ -33,39 +33,39 @@ msgstr ""
 
 msgctxt "5"
 msgid "梟の軟骨"
-msgstr ""
+msgstr "枭软骨"
 
 msgctxt "6"
 msgid "玉になった巨花"
-msgstr ""
+msgstr "球状的巨花"
 
 msgctxt "7"
 msgid "シトロン"
-msgstr ""
+msgstr "香橼"
 
 msgctxt "8"
 msgid "黒麦"
-msgstr ""
+msgstr "黑麦"
 
 msgctxt "9"
 msgid "オニグルミ"
-msgstr ""
+msgstr "鬼核桃"
 
 msgctxt "10"
 msgid "古跡のアスパラ"
-msgstr ""
+msgstr "古迹芦笋"
 
 msgctxt "11"
 msgid "樹海岩塩"
-msgstr ""
+msgstr "树海岩盐"
 
 msgctxt "12"
 msgid "シュガービート"
-msgstr ""
+msgstr "甜菜根"
 
 msgctxt "13"
 msgid "怪しい石"
-msgstr ""
+msgstr "可疑石头"
 
 msgctxt "14"
 msgid "ダミー"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "22"
 msgid "リーキ"
-msgstr ""
+msgstr "韭葱"
 
 msgctxt "23"
 msgid "小大豆"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "25"
 msgid "鬼いが栗"
-msgstr ""
+msgstr "鬼毬栗"
 
 msgctxt "26"
 msgid "緋芋"
@@ -269,11 +269,11 @@ msgstr ""
 
 msgctxt "64"
 msgid "紫光のゼラチン"
-msgstr ""
+msgstr "紫光明胶"
 
 msgctxt "65"
 msgid "精製水"
-msgstr ""
+msgstr "精制水"
 
 msgctxt "66"
 msgid "雲海山鳥の卵"
@@ -285,11 +285,11 @@ msgstr ""
 
 msgctxt "68"
 msgid "皇帝ツバメの巣"
-msgstr ""
+msgstr "皇帝燕窝"
 
 msgctxt "69"
 msgid "柔らかい床"
-msgstr ""
+msgstr "软土"
 
 msgctxt "70"
 msgid "崩れた壁材"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "74"
 msgid "白蜥蜴のもも肉"
-msgstr ""
+msgstr "白蜥蜴腿肉"
 
 msgctxt "75"
 msgid "黒獣の腕肉"
@@ -317,7 +317,7 @@ msgstr ""
 
 msgctxt "76"
 msgid "カボチャの青頭"
-msgstr ""
+msgstr "蓝色南瓜头"
 
 msgctxt "77"
 msgid "樹液の染みた腹部"
@@ -333,27 +333,27 @@ msgstr ""
 
 msgctxt "80"
 msgid "花梛菜"
-msgstr ""
+msgstr "花椰菜"
 
 msgctxt "81"
 msgid "玉菜"
-msgstr ""
+msgstr "圆葱"
 
 msgctxt "82"
 msgid "アマダイダイ"
-msgstr ""
+msgstr "甘橙"
 
 msgctxt "83"
 msgid "禁忌の柚子"
-msgstr ""
+msgstr "禁忌柚子"
 
 msgctxt "84"
 msgid "秋葱"
-msgstr ""
+msgstr "秋葱"
 
 msgctxt "85"
 msgid "深樹の筍"
-msgstr ""
+msgstr "深树竹笋"
 
 msgctxt "86"
 msgid "火竜の尾の身"

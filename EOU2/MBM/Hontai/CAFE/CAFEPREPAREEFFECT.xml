@@ -5,315 +5,315 @@
   </entry>
   <entry id="1">
     <source>ダンジョン探索中、一定数歩く毎に{f801}HPが少し回復するようになった!{f801}</source>
-    <target>ダンジョン探索中、一定数歩く毎に{f801}HPが少し回復するようになった!{f801}</target>
+    <target>在探索迷宫时，每走一定步数，{f801}HP就会少量恢复！{f801}</target>
   </entry>
   <entry id="2">
     <source>LUCが+10された!{f801}</source>
-    <target>LUCが+10された!{f801}</target>
+    <target>LUC提升了10点！{f801}</target>
   </entry>
   <entry id="3">
     <source>ダンジョン探索中、一定数歩く毎に{f801}TPが少し回復するようになった!{f801}</source>
-    <target>ダンジョン探索中、一定数歩く毎に{f801}TPが少し回復するようになった!{f801}</target>
+    <target>在探索迷宫时，每走一定步数，{f801}TP就会少量恢复！{f801}</target>
   </entry>
   <entry id="4">
     <source>食材の入手数が{f801}増えるようになった!{f801}</source>
-    <target>食材の入手数が{f801}増えるようになった!{f801}</target>
+    <target>食材的获得数量增加了！{f801}</target>
   </entry>
   <entry id="5">
     <source>ダンジョン探索中、一定数歩く毎に{f801}フォースゲージが上昇するようになった!{f801}</source>
-    <target>ダンジョン探索中、一定数歩く毎に{f801}フォースゲージが上昇するようになった!{f801}</target>
+    <target>在探索迷宫时，每走一定步数，{f801}威能值就会提升！{f801}</target>
   </entry>
   <entry id="6">
     <source>AGIが+10された!{f801}</source>
-    <target>AGIが+10された!{f801}</target>
+    <target>AGI提升了10点！{f801}</target>
   </entry>
   <entry id="7">
     <source>VITが+10された!{f801}</source>
-    <target>VITが+10された!{f801}</target>
+    <target>VIT提升了10点！{f801}</target>
   </entry>
   <entry id="8">
     <source>採集時に取れる採集物が{f801}増えるようになった!{f801}</source>
-    <target>採集時に取れる採集物が{f801}増えるようになった!{f801}</target>
+    <target>收集时能收集到的收集物变多了！{f801}</target>
   </entry>
   <entry id="9">
     <source>稀少個体の出現率が上昇した!{f801}</source>
-    <target>稀少個体の出現率が上昇した!{f801}</target>
+    <target>稀有敌人的出现率提升了！{f801}</target>
   </entry>
   <entry id="10">
     <source>STRが+10された!{f801}</source>
-    <target>STRが+10された!{f801}</target>
+    <target>STR提升了10点！{f801}</target>
   </entry>
   <entry id="11">
     <source>戦闘後に取得する経験値が{f801}増加するようになった!{f801}</source>
-    <target>戦闘後に取得する経験値が{f801}増加するようになった!{f801}</target>
+    <target>战斗后取得的经验值增加了！{f801}</target>
   </entry>
   <entry id="12">
     <source>TECが+10された!{f801}</source>
-    <target>TECが+10された!{f801}</target>
+    <target>TEC提升了10点！{f801}</target>
   </entry>
   <entry id="13">
     <source>ターン終了時に{f801}HPが少し回復するようになった!{f801}</source>
-    <target>ターン終了時に{f801}HPが少し回復するようになった!{f801}</target>
+    <target>回合结束时HP会少量恢复！{f801}</target>
   </entry>
   <entry id="14">
     <source>TP最大値が上昇した!{f801}</source>
-    <target>TP最大値が上昇した!{f801}</target>
+    <target>TP最大值提升了！{f801}</target>
   </entry>
   <entry id="15">
     <source>逃走成功確率が上昇した!{f801}</source>
-    <target>逃走成功確率が上昇した!{f801}</target>
+    <target>逃跑成功概率提升了！{f801}</target>
   </entry>
   <entry id="16">
     <source>全能力値が+5された!{f801}</source>
-    <target>全能力値が+5された!{f801}</target>
+    <target>所有能力值都提升了5点！{f801}</target>
   </entry>
   <entry id="17">
     <source>ターン終了時に{f801}TPが少し回復するようになった!{f801}</source>
-    <target>ターン終了時に{f801}TPが少し回復するようになった!{f801}</target>
+    <target>回合结束时TP会少量恢复！{f801}</target>
   </entry>
   <entry id="18">
     <source>HP最大値が上昇した!{f801}</source>
-    <target>HP最大値が上昇した!{f801}</target>
+    <target>HP最大值提升了！{f801}</target>
   </entry>
   <entry id="19">
     <source>特殊な場合を除き、{f801}戦闘で先制も不意打ちも{f801}起きなくなった!{f801}</source>
-    <target>特殊な場合を除き、{f801}戦闘で先制も不意打ちも{f801}起きなくなった!{f801}</target>
+    <target>除特殊场合外，{f801}战斗不会发生先制或偷袭！{f801}</target>
   </entry>
   <entry id="20">
     <source>通常攻撃時、与えたダメージに応じて{f801}HPが回復するようになった!{f801}</source>
-    <target>通常攻撃時、与えたダメージに応じて{f801}HPが回復するようになった!{f801}</target>
+    <target>普通攻击时，{f801}HP会随着给予的伤害而恢复！{f801}</target>
   </entry>
   <entry id="21">
     <source>ターン終了時に{f801}HPとTPが少し回復するようになった!{f801}</source>
-    <target>ターン終了時に{f801}HPとTPが少し回復するようになった!{f801}</target>
+    <target>回合结束时{f801}HP和TP会少量恢复！{f801}</target>
   </entry>
   <entry id="22">
     <source>アイテムドロップ率が上昇した!{f801}</source>
-    <target>アイテムドロップ率が上昇した!{f801}</target>
+    <target>道具掉率提升了！{f801}</target>
   </entry>
   <entry id="23">
     <source>戦闘中にダメージを受けた時、{f801}受けたダメージに応じて{f801}TPが回復するようになった!{f801}</source>
-    <target>戦闘中にダメージを受けた時、{f801}受けたダメージに応じて{f801}TPが回復するようになった!{f801}</target>
+    <target>在战斗中受到伤害时，{f801}TP会随着伤害量恢复！{f801}</target>
   </entry>
   <entry id="24">
     <source>ゲームオーバー時の{f801}リトライ回数が+1された!{f801}</source>
-    <target>ゲームオーバー時の{f801}リトライ回数が+1された!{f801}</target>
+    <target>GAME OVER时，{f801}重试次数+1！{f801}</target>
   </entry>
   <entry id="25">
     <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}戦闘終了後に一定確率でブレイク状態の{f801}フォースゲージが復活するようになった!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}戦闘終了後に一定確率でブレイク状態の{f801}フォースゲージが復活するようになった!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前{f804}{0000}，{f801}战斗结束时，一定概率{f801}解放后的威能值回满！{f801}</target>
   </entry>
   <entry id="26">
     <source>状態異常や封じ状態の{f801}自然回復率が上昇した!{f801}</source>
-    <target>状態異常や封じ状態の{f801}自然回復率が上昇した!{f801}</target>
+    <target>异常状态与封印状态的{f801}自然恢复率提升了！{f801}</target>
   </entry>
   <entry id="27">
     <source>毒耐性がかなり上昇した!{f801}</source>
-    <target>毒耐性がかなり上昇した!{f801}</target>
+    <target>毒抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="28">
     <source>戦闘開始時{f801}封じを一度だけ防ぐ強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時{f801}封じを一度だけ防ぐ強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，{f801}触发仅一次的{f801}防御封印的强化效果！{f801}</target>
   </entry>
   <entry id="29">
     <source>盲目耐性がかなり上昇した!{f801}</source>
-    <target>盲目耐性がかなり上昇した!{f801}</target>
+    <target>失明抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="30">
     <source>戦闘開始時{f801}状態異常を一度だけ防ぐ強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時{f801}状態異常を一度だけ防ぐ強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，{f801}触发仅一次的{f801}防御异常状态的强化效果！{f801}</target>
   </entry>
   <entry id="31">
     <source>脚封じ耐性がかなり上昇した!{f801}</source>
-    <target>脚封じ耐性がかなり上昇した!{f801}</target>
+    <target>腿部封印抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="32">
     <source>毒、呪い、テラーダメージが{f801}半減するようになった!{f801}</source>
-    <target>毒、呪い、テラーダメージが{f801}半減するようになった!{f801}</target>
+    <target>毒、诅咒、恐惧的伤害减半！{f801}</target>
   </entry>
   <entry id="33">
     <source>麻痺耐性がかなり上昇した!{f801}</source>
-    <target>麻痺耐性がかなり上昇した!{f801}</target>
+    <target>麻痹抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="34">
     <source>状態異常や封じが付着した際{f801}HPが回復するようになった!{f801}</source>
-    <target>状態異常や封じが付着した際{f801}HPが回復するようになった!{f801}</target>
+    <target>被赋予异常状态或封印时，{f801}HP会恢复！{f801}</target>
   </entry>
   <entry id="35">
     <source>睡眠耐性がかなり上昇した!{f801}</source>
-    <target>睡眠耐性がかなり上昇した!{f801}</target>
+    <target>睡眠抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="36">
     <source>戦闘中、単体の状態異常、封じを{f801}回復するアイテムの効果範囲が{f801}列に拡大されるようになった!{f801}</source>
-    <target>戦闘中、単体の状態異常、封じを{f801}回復するアイテムの効果範囲が{f801}列に拡大されるようになった!{f801}</target>
+    <target>在战斗中，{f801}单体状态异常、封印的回复道具，{f801}其效果范围扩大至列！{f801}</target>
   </entry>
   <entry id="37">
     <source>腕封じ耐性がかなり上昇した!{f801}</source>
-    <target>腕封じ耐性がかなり上昇した!{f801}</target>
+    <target>臂部封印抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="38">
     <source>状態異常や封じが付着した際{f801}TPが回復するようになった!{f801}</source>
-    <target>状態異常や封じが付着した際{f801}TPが回復するようになった!{f801}</target>
+    <target>被赋予异常状态或封印时，{f801}TP会恢复！{f801}</target>
   </entry>
   <entry id="39">
     <source>混乱耐性がかなり上昇した!{f801}</source>
-    <target>混乱耐性がかなり上昇した!{f801}</target>
+    <target>混乱抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="40">
     <source>戦闘開始時、1度のみ致死ダメージを{f801}受けた時、HP1で踏みとどまる{f801}強化が発生するようになった!{f801}</source>
-    <target>戦闘開始時、1度のみ致死ダメージを{f801}受けた時、HP1で踏みとどまる{f801}強化が発生するようになった!{f801}</target>
+    <target>战斗开始时，受到致死伤害时，{f801}仅一次以HP1的状态强忍！{f801}</target>
   </entry>
   <entry id="41">
     <source>呪い耐性がかなり上昇した!{f801}</source>
-    <target>呪い耐性がかなり上昇した!{f801}</target>
+    <target>诅咒抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="42">
     <source>状態異常や封じが付着した際{f801}フォースゲージが上昇するようになった!{f801}</source>
-    <target>状態異常や封じが付着した際{f801}フォースゲージが上昇するようになった!{f801}</target>
+    <target>被赋予异常状态或封印时，{f801}威能值提升！{f801}</target>
   </entry>
   <entry id="43">
     <source>頭封じ耐性がかなり上昇した!{f801}</source>
-    <target>頭封じ耐性がかなり上昇した!{f801}</target>
+    <target>头部封印抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="44">
     <source>状態異常や封じが付着後、{f801}遅くとも3T目には必ず{f801}自然回復するようになった!{f801}</source>
-    <target>状態異常や封じが付着後、{f801}遅くとも3T目には必ず{f801}自然回復するようになった!{f801}</target>
+    <target>被赋予异常状态或封印后，{f801}最迟第3T自然恢复！{f801}</target>
   </entry>
   <entry id="45">
     <source>テラー耐性がかなり上昇した!{f801}</source>
-    <target>テラー耐性がかなり上昇した!{f801}</target>
+    <target>恐惧抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="46">
     <source>敵側のみ状態異常や封じが付着後、{f801}早くとも3T目までは必ず{f801}自然回復しなくなった!{f801}</source>
-    <target>敵側のみ状態異常や封じが付着後、{f801}早くとも3T目までは必ず{f801}自然回復しなくなった!{f801}</target>
+    <target>敌方被赋予异常状态或封印时，{f801}最快直到第3T结束时，{f801}无法自然恢复！{f801}</target>
   </entry>
   <entry id="47">
     <source>石化耐性がかなり上昇した!{f801}</source>
-    <target>石化耐性がかなり上昇した!{f801}</target>
+    <target>石化抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="48">
     <source>ターン終了時、戦闘不能者がいた場合{f801}低確率で回復するようになった!{f801}</source>
-    <target>ターン終了時、戦闘不能者がいた場合{f801}低確率で回復するようになった!{f801}</target>
+    <target>回合结束时，若有人无法战斗，{f801}低概率会恢复！{f801}</target>
   </entry>
   <entry id="49">
     <source>即死耐性がかなり上昇した!{f801}</source>
-    <target>即死耐性がかなり上昇した!{f801}</target>
+    <target>即死抗性大幅提升了！{f801}</target>
   </entry>
   <entry id="50">
     <source>{f804}{0500}次に街に帰るまでの間に一度だけ{f804}{0000}{f801}戦闘で全滅した時に{f801}復活するようになった!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間に一度だけ{f804}{0000}{f801}戦闘で全滅した時に{f801}復活するようになった!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前，仅一次{f804}{0000}{f801}队伍在战斗中全灭时可复活！{f801}</target>
   </entry>
   <entry id="51">
     <source>戦闘開始時、武器に1Tのみ{f801}雷属性が付与される強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時、武器に1Tのみ{f801}雷属性が付与される強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，{f801}武器自动附加仅1T的雷属性！{f801}</target>
   </entry>
   <entry id="52">
     <source>グリモアチャンス発生率が{f801}少し上昇した!{f801}</source>
-    <target>グリモアチャンス発生率が{f801}少し上昇した!{f801}</target>
+    <target>收获时刻的触发率稍微提升！{f801}</target>
   </entry>
   <entry id="53">
     <source>敵に付着し発生する毒ダメージが{f801}2倍になった!{f801}</source>
-    <target>敵に付着し発生する毒ダメージが{f801}2倍になった!{f801}</target>
+    <target>附着在敌人身上的毒伤害{f801}变成2倍！{f801}</target>
   </entry>
   <entry id="54">
     <source>戦闘開始時、1Tのみ{f801}行動速度が2倍になる強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時、1Tのみ{f801}行動速度が2倍になる強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，获得仅1T的{f801}行动速度变成的2倍的强化效果！{f801}</target>
   </entry>
   <entry id="55">
     <source>戦闘開始時、武器に1Tのみ{f801}炎属性が付与される強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時、武器に1Tのみ{f801}炎属性が付与される強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，{f801}武器自动附加仅1T的火属性！{f801}</target>
   </entry>
   <entry id="56">
     <source>ACTIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
-    <target>ACTIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+    <target>ACTIVE收获时刻的{f801}触发概率提升！{f801}</target>
   </entry>
   <entry id="57">
     <source>敵に付着し発生する呪いダメージが{f801}3倍になった!{f801}</source>
-    <target>敵に付着し発生する呪いダメージが{f801}3倍になった!{f801}</target>
+    <target>附着在敌人身上的诅咒伤害{f801}变成3倍！{f801}</target>
   </entry>
   <entry id="58">
     <source>生成されるグリモアのスキルレベルが{f801}極端な値になり易くなった!{f801}</source>
-    <target>生成されるグリモアのスキルレベルが{f801}極端な値になり易くなった!{f801}</target>
+    <target>生成的魔导石技能等级{f801}容易变得极端！{f801}</target>
   </entry>
   <entry id="59">
     <source>戦闘開始時、武器に1Tのみ{f801}氷属性が付与される強化が{f801}発生するようになった!{f801}</source>
-    <target>戦闘開始時、武器に1Tのみ{f801}氷属性が付与される強化が{f801}発生するようになった!{f801}</target>
+    <target>战斗开始时，{f801}武器自动附加仅1T的冰属性！{f801}</target>
   </entry>
   <entry id="60">
     <source>ENEMYのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
-    <target>ENEMYのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+    <target>ENEMY收获时刻的{f801}触发概率提升！{f801}</target>
   </entry>
   <entry id="61">
     <source>戦闘中、ブレイバントと{f801}ストナードの効果範囲が{f801}列に拡大されるようになった!{f801}</source>
-    <target>戦闘中、ブレイバントと{f801}ストナードの効果範囲が{f801}列に拡大されるようになった!{f801}</target>
+    <target>战斗中，{f801}勇士补药与刚硬石胶的效果范围{f801}扩大至列！{f801}</target>
   </entry>
   <entry id="62">
     <source>敵が盲目になった際{f801}命中率がさらに下がるようになった!{f801}</source>
-    <target>敵が盲目になった際{f801}命中率がさらに下がるようになった!{f801}</target>
+    <target>敌人陷入失明状态时，{f801}命中率会下降更多！{f801}</target>
   </entry>
   <entry id="63">
     <source>攻撃アイテム使用時の{f801}ダメージが3倍になった!{f801}</source>
-    <target>攻撃アイテム使用時の{f801}ダメージが3倍になった!{f801}</target>
+    <target>使用攻击道具时，{f801}造成的伤害变成3倍！{f801}</target>
   </entry>
   <entry id="64">
     <source>PASSIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</source>
-    <target>PASSIVEのグリモアチャンス発生率が{f801}上昇した!{f801}</target>
+    <target>PASSIVE收获时刻的{f801}触发概率提升！{f801}</target>
   </entry>
   <entry id="65">
     <source>敵が眠った際{f801}攻撃しても起きにくくなった!{f801}</source>
-    <target>敵が眠った際{f801}攻撃しても起きにくくなった!{f801}</target>
+    <target>敌人睡着时攻击，{f801}也不会被叫醒！{f801}</target>
   </entry>
   <entry id="66">
     <source>グリモア付加効果の付着率が{f801}大幅に上昇した!{f801}</source>
-    <target>グリモア付加効果の付着率が{f801}大幅に上昇した!{f801}</target>
+    <target>魔导石附加效果的附着率{f801}大幅提升！{f801}</target>
   </entry>
   <entry id="67">
     <source>稀少個体が出現しなくなった!{f801}</source>
-    <target>稀少個体が出現しなくなった!{f801}</target>
+    <target>稀有敌人出现概率归零了！{f801}</target>
   </entry>
   <entry id="68">
     <source>生成されるグリモアの{f801}スキルレベルが高くなり易くなった!{f801}</source>
-    <target>生成されるグリモアの{f801}スキルレベルが高くなり易くなった!{f801}</target>
+    <target>生成魔导石的技能等级{f801}更容易提升！{f801}</target>
   </entry>
   <entry id="69">
     <source>敵が麻痺になった際{f801}行動不能になる確率が{f801}大幅に上昇した!{f801}</source>
-    <target>敵が麻痺になった際{f801}行動不能になる確率が{f801}大幅に上昇した!{f801}</target>
+    <target>敌人麻痹时，{f801}无法行动的概率大幅提升！{f801}</target>
   </entry>
   <entry id="70">
     <source>状態異常や封じを付着させる{f801}アイテム使用時の付着率が上昇した!{f801}</source>
-    <target>状態異常や封じを付着させる{f801}アイテム使用時の付着率が上昇した!{f801}</target>
+    <target>使用状态异常或封印道具时的{f801}附着率提升！{f801}</target>
   </entry>
   <entry id="71">
     <source>グリモアフィーバーの{f801}発生、継続率が上昇した!{f801}</source>
-    <target>グリモアフィーバーの{f801}発生、継続率が上昇した!{f801}</target>
+    <target>收获狂潮的触发、持续率提升了！{f801}</target>
   </entry>
   <entry id="72">
     <source>装備しているグリモアのスキルレベルを{f801}+2されているものとして{f801}扱うようになった!{f801}</source>
-    <target>装備しているグリモアのスキルレベルを{f801}+2されているものとして{f801}扱うようになった!{f801}</target>
+    <target>装备的魔导石技能等级+2！{f801}</target>
   </entry>
   <entry id="73">
     <source>FOEとの接触時、ほぼ確実に{f801}先制が取れるようになった!{f801}</source>
-    <target>FOEとの接触時、ほぼ確実に{f801}先制が取れるようになった!{f801}</target>
+    <target>与FOE接触时，{f801}基本上都可以先发制人！{f801}</target>
   </entry>
   <entry id="74">
     <source>単体攻撃アイテム使用時、{f801}アイテムが無くならなくなった!{f801}</source>
-    <target>単体攻撃アイテム使用時、{f801}アイテムが無くならなくなった!{f801}</target>
+    <target>使用单体攻击道具时，{f801}道具不会消失！{f801}</target>
   </entry>
   <entry id="75">
     <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}エンカウント率が{f801}0%になった!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}エンカウント率が{f801}0%になった!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前{f804}{0000}，{f801}遇敌率为0%！{f801}</target>
   </entry>
   <entry id="76">
     <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}PREMIUMのグリモアチャンス発生率が{f801}著しく上昇した!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}PREMIUMのグリモアチャンス発生率が{f801}著しく上昇した!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前{f804}{0000}，{f801}PREMIUM收获时刻的{f801}触发概率显著提升！{f801}</target>
   </entry>
   <entry id="77">
     <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}素材ドロップ率が著しく上昇し、さらに採集時に{f801}レア素材を追加で入手するようになった!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}素材ドロップ率が著しく上昇し、さらに採集時に{f801}レア素材を追加で入手するようになった!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前{f804}{0000}，{f801}素材掉落率显著提升，{f801}收集时还会额外获得稀有素材！{f801}</target>
   </entry>
   <entry id="78">
     <source>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}経験値入手時にギルド待機メンバーも含め{f801}全員に追加経験値が入るようになった!{f801}</source>
-    <target>{f804}{0500}次に街に帰るまでの間{f804}{0000}{f801}経験値入手時にギルド待機メンバーも含め{f801}全員に追加経験値が入るようになった!{f801}</target>
+    <target>{f804}{0500}直到下次回到城镇前{f804}{0000}，{f801}包含公会待机成员在内，{f801}所有人都能获得额外经验值！{f801}</target>
   </entry>
   <entry id="79">
     <source>ダミー{f801}</source>

@@ -2377,7 +2377,7 @@
   </entry>
   <entry id="594">
     <source>補助スキル:フォースブースト{f801}</source>
-    <target>補助スキル:フォースブースト{f801}</target>
+    <target>辅助技能:威能强化{f801}</target>
   </entry>
   <entry id="595">
     <source>力を溜め続け、常に全力で攻撃できるスキル{f801}</source>
@@ -2465,7 +2465,7 @@
   </entry>
   <entry id="616">
     <source>攻撃スキル:フォースブレイク{f801}</source>
-    <target>攻撃スキル:フォースブレイク{f801}</target>
+    <target>攻击技能:威能解放{f801}</target>
   </entry>
   <entry id="617">
     <source>全ての力を武器に込め{f801}強烈な斬撃を放つスキル{f801}</source>

@@ -2625,7 +2625,7 @@ msgstr ""
 
 msgctxt "653"
 msgid "ダブルアタックのグリモア"
-msgstr ""
+msgstr "双重攻击的魔导石"
 
 msgctxt "654"
 msgid "火の術式のグリモア"
