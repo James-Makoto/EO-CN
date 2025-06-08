@@ -117,7 +117,7 @@ msgstr "鬼毬栗"
 
 msgctxt "26"
 msgid "緋芋"
-msgstr ""
+msgstr "绯芋"
 
 msgctxt "27"
 msgid "根唐辛子"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "36"
 msgid "雪鳥の卵"
-msgstr ""
+msgstr "雪鸟蛋"
 
 msgctxt "37"
 msgid "タルホコムギ"
@@ -165,15 +165,15 @@ msgstr ""
 
 msgctxt "38"
 msgid "清廉な雪解け水"
-msgstr ""
+msgstr "清澈的雪融水"
 
 msgctxt "39"
 msgid "樹海茶葉"
-msgstr ""
+msgstr "树海茶叶"
 
 msgctxt "40"
 msgid "煌リンゴ"
-msgstr ""
+msgstr "发光苹果"
 
 msgctxt "41"
 msgid "ペコロス"
@@ -185,15 +185,15 @@ msgstr ""
 
 msgctxt "43"
 msgid "軍隊バチ蜜"
-msgstr ""
+msgstr "军队蜂蜜"
 
 msgctxt "44"
 msgid "鋼亀の甲羅"
-msgstr ""
+msgstr "钢龟龟壳"
 
 msgctxt "45"
 msgid "ライチョウのむね"
-msgstr ""
+msgstr "雷鸟胸肉"
 
 msgctxt "46"
 msgid "サイの強靭な肩肉"
@@ -281,7 +281,7 @@ msgstr ""
 
 msgctxt "67"
 msgid "岩茸"
-msgstr ""
+msgstr "岩菇"
 
 msgctxt "68"
 msgid "皇帝ツバメの巣"

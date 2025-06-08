@@ -181,7 +181,7 @@ msgstr "整只野槌炖汤"
 
 msgctxt "42"
 msgid "皇帝ツバメの巣と岩茸の幻スープ"
-msgstr "皇帝燕窝与岩茸的幻汤"
+msgstr "皇帝燕窝与岩菇的幻汤"
 
 msgctxt "43"
 msgid "宝龍包"
