@@ -257,11 +257,11 @@ msgstr "树海烩饭"
 
 msgctxt "61"
 msgid "サソリのグリーンパスタ"
-msgstr "蝎子绿酱意面"
+msgstr "蝎子绿色意面"
 
 msgctxt "62"
 msgid "ハチミツジャーマンポテト"
-msgstr "蜂蜜炸芋头"
+msgstr "德式蜂蜜芋头"
 
 msgctxt "63"
 msgid "ももステーキの桜苺ジャム添え"

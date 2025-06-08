@@ -213,7 +213,7 @@ msgstr "三角犀"
 
 msgctxt "50"
 msgid "コカトリス"
-msgstr "鸡蛇"
+msgstr "鸡蛇兽"
 
 msgctxt "51"
 msgid "サイミンフクロウ"
