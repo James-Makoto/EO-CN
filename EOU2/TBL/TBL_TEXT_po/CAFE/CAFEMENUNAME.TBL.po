@@ -69,7 +69,7 @@ msgstr "龟壳烤肉"
 
 msgctxt "14"
 msgid "大苺大福"
-msgstr "大莓大福"
+msgstr "巨莓大福"
 
 msgctxt "15"
 msgid "樹海桜茶"
@@ -253,7 +253,7 @@ msgstr "蟹肉奶油可乐饼"
 
 msgctxt "60"
 msgid "樹海パエリア"
-msgstr "树海海鲜饭"
+msgstr "树海烩饭"
 
 msgctxt "61"
 msgid "サソリのグリーンパスタ"
@@ -261,7 +261,7 @@ msgstr "蝎子绿酱意面"
 
 msgctxt "62"
 msgid "ハチミツジャーマンポテト"
-msgstr "蜂蜜炸土豆"
+msgstr "蜂蜜炸芋头"
 
 msgctxt "63"
 msgid "ももステーキの桜苺ジャム添え"
@@ -285,7 +285,7 @@ msgstr "鞑靼马肉"
 
 msgctxt "68"
 msgid "ストーンガレット "
-msgstr "石板荞麦薄饼"
+msgstr "石制薄饼"
 
 msgctxt "69"
 msgid "大芋虫のキャセロール"
