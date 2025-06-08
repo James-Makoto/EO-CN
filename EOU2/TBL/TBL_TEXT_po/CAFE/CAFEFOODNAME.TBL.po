@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "54"
 msgid "サヤエンドウ"
-msgstr ""
+msgstr "荷兰豆"
 
 msgctxt "55"
 msgid "大桜芋"
