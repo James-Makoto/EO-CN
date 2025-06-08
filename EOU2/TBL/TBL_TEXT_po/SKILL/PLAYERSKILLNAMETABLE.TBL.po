@@ -2197,7 +2197,7 @@ msgstr "糖醋炸鸡块"
 
 msgctxt "546"
 msgid "シカ肉のタタキ風"
-msgstr ""
+msgstr "鹿肉炙"
 
 msgctxt "547"
 msgid "逆襲の手筈"

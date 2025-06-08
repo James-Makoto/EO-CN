@@ -37,11 +37,11 @@ msgstr "可疑石烹锅"
 
 msgctxt "6"
 msgid "巨猪の豚汁"
-msgstr "巨猪猪肉汤"
+msgstr "巨猪味噌汤"
 
 msgctxt "7"
 msgid "鬼いが栗の茶巾絞り"
-msgstr "鬼毬栗茶巾绞"
+msgstr "鬼刺栗茶巾绞"
 
 msgctxt "8"
 msgid "紅葉狩り串団子"
@@ -153,7 +153,7 @@ msgstr "野牛肉拉面"
 
 msgctxt "35"
 msgid "馬肉中華包子"
-msgstr "马肉中华豹子"
+msgstr "马肉中华包子"
 
 msgctxt "36"
 msgid "雪鳥の蟹玉"
@@ -169,7 +169,7 @@ msgstr "树海鸟雷炒饭"
 
 msgctxt "39"
 msgid "森林サイ角煮"
-msgstr "森林犀红烧肉"
+msgstr "红烧森林犀肉"
 
 msgctxt "40"
 msgid "石化鳥と樹海野菜の細切り炒め"
@@ -205,7 +205,7 @@ msgstr "树海特选回锅肉"
 
 msgctxt "48"
 msgid "蜥蜴肉の蜜汁火方"
-msgstr "蜥蜴肉蜜汁火烤"
+msgstr "蜜汁蜥蜴火方"
 
 msgctxt "49"
 msgid "エスカルゴ焼シトロンソース添え"
