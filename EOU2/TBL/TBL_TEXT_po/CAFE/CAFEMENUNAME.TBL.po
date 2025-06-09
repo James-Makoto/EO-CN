@@ -141,7 +141,7 @@ msgstr "栗月饼"
 
 msgctxt "32"
 msgid "火龍果杏仁"
-msgstr "火龙果酥酪"
+msgstr "火龙果柿冻"
 
 msgctxt "33"
 msgid "リンゴ入り愛玉子風ブルーゼリー"
