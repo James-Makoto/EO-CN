@@ -161,7 +161,7 @@ msgstr "雪鸟蛋"
 
 msgctxt "37"
 msgid "タルホコムギ"
-msgstr "山羊草小麦"
+msgstr "樽穗小麦"
 
 msgctxt "38"
 msgid "清廉な雪解け水"
@@ -173,7 +173,7 @@ msgstr "树海茶叶"
 
 msgctxt "40"
 msgid "煌リンゴ"
-msgstr "发光苹果"
+msgstr "闪耀苹果"
 
 msgctxt "41"
 msgid "ペコロス"
@@ -205,7 +205,7 @@ msgstr "蜘蛛尸骸"
 
 msgctxt "48"
 msgid "死蠍の左右の鋏"
-msgstr "死蝎双钳"
+msgstr "死蝎双螯"
 
 msgctxt "49"
 msgid "恐鳥の卵"
@@ -289,7 +289,7 @@ msgstr "皇帝燕窝"
 
 msgctxt "69"
 msgid "柔らかい床"
-msgstr "软土"
+msgstr "柔软地板"
 
 msgctxt "70"
 msgid "崩れた壁材"

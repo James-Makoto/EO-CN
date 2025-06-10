@@ -205,7 +205,7 @@ msgstr "黑爪猴"
 
 msgctxt "48"
 msgid "突き進む犀角"
-msgstr ""
+msgstr "冲锋犀角"
 
 msgctxt "49"
 msgid "トリプルホーン"
@@ -305,7 +305,7 @@ msgstr "钢铁铠龙"
 
 msgctxt "73"
 msgid "迎え撃つ覇王樹"
-msgstr ""
+msgstr "迎击霸王树"
 
 msgctxt "74"
 msgid "ロードサワロ"
@@ -421,7 +421,7 @@ msgstr ""
 
 msgctxt "102"
 msgid "螺旋の水泡樹"
-msgstr ""
+msgstr "螺旋水泡树"
 
 msgctxt "103"
 msgid "ベビーサラマンダ"
