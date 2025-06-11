@@ -49,7 +49,7 @@
   </entry>
   <entry id="114">
     <source>ハートバインド{f801}【速度】行動速度DOWN{f801}</source>
-    <target>艰难束缚{f801}【速度】行动速度DOWN{f801}</target>
+    <target>心流扰乱{f801}【速度】行动速度DOWN{f801}</target>
   </entry>
   <entry id="131">
     <source>医師の瞳{f801}【攻撃】クリティカル率UP{f801}</source>
@@ -77,11 +77,11 @@
   </entry>
   <entry id="186">
     <source>猛き戦いの舞曲{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>雄壮的战斗舞曲{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>雄壮战斗舞曲{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="187">
     <source>聖なる守護の舞曲{f801}【防御】物理・属性防御UP{f801}</source>
-    <target>神圣的守护舞曲{f801}【防御】物理・属性防御UP{f801}</target>
+    <target>神圣守护舞曲{f801}【防御】物理・属性防御UP{f801}</target>
   </entry>
   <entry id="188">
     <source>韋駄天の舞曲{f801}【速度】行動速度UP{f801}</source>
@@ -177,15 +177,15 @@
   </entry>
   <entry id="291">
     <source>グッドラック{f801}【状態】状態異常成功率UP{f801}</source>
-    <target>好运{f801}【状态】异常状态成功率UP{f801}</target>
+    <target>祝君好运{f801}【状态】异常状态成功率UP{f801}</target>
   </entry>
   <entry id="294">
     <source>不可視の霊盾{f801}【防御】属性防御UP{f801}</source>
-    <target>不可见的灵盾{f801}【防御】属性防御UP{f801}</target>
+    <target>隐形灵盾{f801}【防御】属性防御UP{f801}</target>
   </entry>
   <entry id="295">
     <source>ブラッドウェポン{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>血腥武器{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>缠血之刃{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="300">
     <source>防衛本能{f801}【状態】状態異常無効{f801}</source>

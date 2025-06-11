@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "1"
 msgid "籠ったマイマイ"
-msgstr ""
+msgstr "蜗居蜗牛"
 
 msgctxt "2"
 msgid "鹿肉"
@@ -29,7 +29,7 @@ msgstr "一动不动的毒凤蝶"
 
 msgctxt "4"
 msgid "丸まった球獣"
-msgstr ""
+msgstr "滚圆球兽"
 
 msgctxt "5"
 msgid "梟の軟骨"
@@ -73,31 +73,31 @@ msgstr ""
 
 msgctxt "15"
 msgid "強靭なもも肉"
-msgstr ""
+msgstr "强韧腿肉"
 
 msgctxt "16"
 msgid "よく燃える心材"
-msgstr ""
+msgstr "易燃心材"
 
 msgctxt "17"
 msgid "巨猪の太い腿"
-msgstr ""
+msgstr "巨猪大肘子"
 
 msgctxt "18"
 msgid "かみつき草の丸頭"
-msgstr ""
+msgstr "啃咬草的头"
 
 msgctxt "19"
 msgid "液状の赤ゼラチン"
-msgstr ""
+msgstr "液态红明胶"
 
 msgctxt "20"
 msgid "ドラゴンフルーツ"
-msgstr ""
+msgstr "火龙果"
 
 msgctxt "21"
 msgid "幻鹿の肩肉"
-msgstr ""
+msgstr "幻鹿肩肉"
 
 msgctxt "22"
 msgid "リーキ"
@@ -105,167 +105,167 @@ msgstr "韭葱"
 
 msgctxt "23"
 msgid "小大豆"
-msgstr ""
+msgstr "小大豆"
 
 msgctxt "24"
 msgid "甘紅柿"
-msgstr ""
+msgstr "甘红柿"
 
 msgctxt "25"
 msgid "鬼いが栗"
-msgstr "鬼毬栗"
+msgstr "鬼刺栗"
 
 msgctxt "26"
 msgid "緋芋"
-msgstr ""
+msgstr "绯芋"
 
 msgctxt "27"
 msgid "根唐辛子"
-msgstr ""
+msgstr "根唐辛子"
 
 msgctxt "28"
 msgid "フィッシュヘッド"
-msgstr ""
+msgstr "鱼头"
 
 msgctxt "29"
 msgid "溶けない雪の塊"
-msgstr ""
+msgstr "不融雪块"
 
 msgctxt "30"
 msgid "柔らか野牛ロース"
-msgstr ""
+msgstr "柔嫩的野牛里脊肉"
 
 msgctxt "31"
 msgid "身の詰まった甲羅"
-msgstr ""
+msgstr "填满的甲壳"
 
 msgctxt "32"
 msgid "怪馬のヒレ肉"
-msgstr ""
+msgstr "怪马菲力"
 
 msgctxt "33"
 msgid "巨眼の涙"
-msgstr ""
+msgstr "巨眼泪水"
 
 msgctxt "34"
 msgid "淡水魚の赤白身"
-msgstr ""
+msgstr "淡水鱼的红白肉"
 
 msgctxt "35"
 msgid "ひんやりゼラチン"
-msgstr ""
+msgstr "清凉明胶"
 
 msgctxt "36"
 msgid "雪鳥の卵"
-msgstr ""
+msgstr "雪鸟蛋"
 
 msgctxt "37"
 msgid "タルホコムギ"
-msgstr ""
+msgstr "樽穗小麦"
 
 msgctxt "38"
 msgid "清廉な雪解け水"
-msgstr ""
+msgstr "纯净雪水"
 
 msgctxt "39"
 msgid "樹海茶葉"
-msgstr ""
+msgstr "树海茶叶"
 
 msgctxt "40"
 msgid "煌リンゴ"
-msgstr ""
+msgstr "闪耀苹果"
 
 msgctxt "41"
 msgid "ペコロス"
-msgstr ""
+msgstr "珠葱"
 
 msgctxt "42"
 msgid "立花ダイコン"
-msgstr ""
+msgstr "立花白萝卜"
 
 msgctxt "43"
 msgid "軍隊バチ蜜"
-msgstr ""
+msgstr "军队蜂蜜"
 
 msgctxt "44"
 msgid "鋼亀の甲羅"
-msgstr ""
+msgstr "钢龟甲壳"
 
 msgctxt "45"
 msgid "ライチョウのむね"
-msgstr ""
+msgstr "雷鸟胸肉"
 
 msgctxt "46"
 msgid "サイの強靭な肩肉"
-msgstr ""
+msgstr "强韧的犀牛肩肉"
 
 msgctxt "47"
 msgid "蜘蛛の骸"
-msgstr ""
+msgstr "蜘蛛尸骸"
 
 msgctxt "48"
 msgid "死蠍の左右の鋏"
-msgstr ""
+msgstr "死蝎双螯"
 
 msgctxt "49"
 msgid "恐鳥の卵"
-msgstr ""
+msgstr "恐鸟蛋"
 
 msgctxt "50"
 msgid "コカトリスのモモ"
-msgstr ""
+msgstr "鸡蛇兽的腿肉"
 
 msgctxt "51"
 msgid "ウグイスナ"
-msgstr ""
+msgstr "小松菜"
 
 msgctxt "52"
 msgid "まんまる巨苺"
-msgstr ""
+msgstr "滚圆巨草莓"
 
 msgctxt "53"
 msgid "樹海桜花弁"
-msgstr ""
+msgstr "树海樱花瓣"
 
 msgctxt "54"
 msgid "サヤエンドウ"
-msgstr ""
+msgstr "荷兰豆"
 
 msgctxt "55"
 msgid "大桜芋"
-msgstr ""
+msgstr "大樱芋"
 
 msgctxt "56"
 msgid "あひるナッツ"
-msgstr ""
+msgstr "鸭形坚果"
 
 msgctxt "57"
 msgid "人型植物の青菜"
-msgstr ""
+msgstr "人形植物的青菜"
 
 msgctxt "58"
 msgid "宝石蜥蜴の腹肉"
-msgstr ""
+msgstr "宝石蜥蜴的腹肉"
 
 msgctxt "59"
 msgid "鎧竜の柔らか肉"
-msgstr ""
+msgstr "铠龙嫩肉"
 
 msgctxt "60"
 msgid "黒翼のハト胸"
-msgstr ""
+msgstr "黑翼鸽胸"
 
 msgctxt "61"
 msgid "ノヅチの太い胴体"
-msgstr ""
+msgstr "野槌粗躯"
 
 msgctxt "62"
 msgid "脂の乗った桜肉"
-msgstr ""
+msgstr "油脂丰富的樱肉"
 
 msgctxt "63"
 msgid "空になった胴体"
-msgstr ""
+msgstr "空心的躯体"
 
 msgctxt "64"
 msgid "紫光のゼラチン"
@@ -273,7 +273,7 @@ msgstr "紫光明胶"
 
 msgctxt "65"
 msgid "精製水"
-msgstr "精制水"
+msgstr "纯净水"
 
 msgctxt "66"
 msgid "雲海山鳥の卵"
@@ -281,7 +281,7 @@ msgstr ""
 
 msgctxt "67"
 msgid "岩茸"
-msgstr ""
+msgstr "岩菇"
 
 msgctxt "68"
 msgid "皇帝ツバメの巣"
@@ -289,23 +289,23 @@ msgstr "皇帝燕窝"
 
 msgctxt "69"
 msgid "柔らかい床"
-msgstr "软土"
+msgstr "柔软地板"
 
 msgctxt "70"
 msgid "崩れた壁材"
-msgstr ""
+msgstr "破损的壁材"
 
 msgctxt "71"
 msgid "肉厚の傘"
-msgstr ""
+msgstr "厚肉菌伞"
 
 msgctxt "72"
 msgid "怪獣のシンタマ"
-msgstr ""
+msgstr "怪兽芯玉肉"
 
 msgctxt "73"
 msgid "閉じ籠った殻"
-msgstr ""
+msgstr "紧闭的壳"
 
 msgctxt "74"
 msgid "白蜥蜴のもも肉"
@@ -313,7 +313,7 @@ msgstr "白蜥蜴腿肉"
 
 msgctxt "75"
 msgid "黒獣の腕肉"
-msgstr ""
+msgstr "黑兽臂肉"
 
 msgctxt "76"
 msgid "カボチャの青頭"
@@ -321,15 +321,15 @@ msgstr "蓝色南瓜头"
 
 msgctxt "77"
 msgid "樹液の染みた腹部"
-msgstr ""
+msgstr "渗透树汁的腹部"
 
 msgctxt "78"
 msgid "丸まった芋虫"
-msgstr ""
+msgstr "蜷曲的毛虫"
 
 msgctxt "79"
 msgid "危険なつぼみ"
-msgstr ""
+msgstr "危险花苞"
 
 msgctxt "80"
 msgid "花梛菜"
@@ -357,27 +357,27 @@ msgstr "深树竹笋"
 
 msgctxt "86"
 msgid "火竜の尾の身"
-msgstr ""
+msgstr "火龙尾肉"
 
 msgctxt "87"
 msgid "氷竜のシロデモノ"
-msgstr ""
+msgstr "冰龙白肉"
 
 msgctxt "88"
 msgid "雷竜のさえずり"
-msgstr ""
+msgstr "雷龙气管"
 
 msgctxt "89"
 msgid "柔らかい新芽"
-msgstr ""
+msgstr "柔嫩新芽"
 
 msgctxt "90"
 msgid "繊細な双葉"
-msgstr ""
+msgstr "纤细双叶"
 
 msgctxt "91"
 msgid "力強い四つ葉"
-msgstr ""
+msgstr "坚韧四叶"
 
 msgctxt "92"
 msgid "ダミー"

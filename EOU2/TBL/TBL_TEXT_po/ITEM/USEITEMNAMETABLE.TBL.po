@@ -2621,7 +2621,7 @@ msgstr ""
 
 msgctxt "652"
 msgid "ドラッグバレットのグリモア"
-msgstr ""
+msgstr "治愈之弹的魔导石"
 
 msgctxt "653"
 msgid "ダブルアタックのグリモア"

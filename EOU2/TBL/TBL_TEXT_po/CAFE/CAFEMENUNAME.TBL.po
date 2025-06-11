@@ -37,11 +37,11 @@ msgstr "可疑石烹锅"
 
 msgctxt "6"
 msgid "巨猪の豚汁"
-msgstr "巨猪猪肉汤"
+msgstr "巨猪味噌汤"
 
 msgctxt "7"
 msgid "鬼いが栗の茶巾絞り"
-msgstr "鬼毬栗茶巾绞"
+msgstr "鬼刺栗茶巾绞"
 
 msgctxt "8"
 msgid "紅葉狩り串団子"
@@ -69,7 +69,7 @@ msgstr "龟壳烤肉"
 
 msgctxt "14"
 msgid "大苺大福"
-msgstr "大莓大福"
+msgstr "巨莓大福"
 
 msgctxt "15"
 msgid "樹海桜茶"
@@ -141,7 +141,7 @@ msgstr "栗月饼"
 
 msgctxt "32"
 msgid "火龍果杏仁"
-msgstr "火龙果酥酪"
+msgstr "火龙果柿冻"
 
 msgctxt "33"
 msgid "リンゴ入り愛玉子風ブルーゼリー"
@@ -153,7 +153,7 @@ msgstr "野牛肉拉面"
 
 msgctxt "35"
 msgid "馬肉中華包子"
-msgstr "马肉中华豹子"
+msgstr "马肉中华包子"
 
 msgctxt "36"
 msgid "雪鳥の蟹玉"
@@ -169,7 +169,7 @@ msgstr "树海鸟雷炒饭"
 
 msgctxt "39"
 msgid "森林サイ角煮"
-msgstr "森林犀红烧肉"
+msgstr "红烧森林犀肉"
 
 msgctxt "40"
 msgid "石化鳥と樹海野菜の細切り炒め"
@@ -181,7 +181,7 @@ msgstr "整只野槌炖汤"
 
 msgctxt "42"
 msgid "皇帝ツバメの巣と岩茸の幻スープ"
-msgstr "皇帝燕窝与岩茸的幻汤"
+msgstr "皇帝燕窝与岩菇的幻汤"
 
 msgctxt "43"
 msgid "宝龍包"
@@ -205,7 +205,7 @@ msgstr "树海特选回锅肉"
 
 msgctxt "48"
 msgid "蜥蜴肉の蜜汁火方"
-msgstr "蜥蜴肉蜜汁火烤"
+msgstr "蜜汁蜥蜴火方"
 
 msgctxt "49"
 msgid "エスカルゴ焼シトロンソース添え"
@@ -253,15 +253,15 @@ msgstr "蟹肉奶油可乐饼"
 
 msgctxt "60"
 msgid "樹海パエリア"
-msgstr "树海海鲜饭"
+msgstr "树海烩饭"
 
 msgctxt "61"
 msgid "サソリのグリーンパスタ"
-msgstr "蝎子绿酱意面"
+msgstr "蝎子绿色意面"
 
 msgctxt "62"
 msgid "ハチミツジャーマンポテト"
-msgstr "蜂蜜炸土豆"
+msgstr "德式蜂蜜芋头"
 
 msgctxt "63"
 msgid "ももステーキの桜苺ジャム添え"
@@ -285,7 +285,7 @@ msgstr "鞑靼马肉"
 
 msgctxt "68"
 msgid "ストーンガレット "
-msgstr "石板荞麦薄饼"
+msgstr "石制薄饼"
 
 msgctxt "69"
 msgid "大芋虫のキャセロール"
