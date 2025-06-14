@@ -297,7 +297,7 @@ msgstr "怪兽排佐橙酱"
 
 msgctxt "71"
 msgid "タケノコが入ったサルマーレ"
-msgstr "竹笋包菜卷"
+msgstr "竹笋酸菜卷"
 
 msgctxt "72"
 msgid "パンプキンパイ"
