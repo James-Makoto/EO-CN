@@ -973,7 +973,7 @@ msgstr ""
 
 msgctxt "240"
 msgid "氷の大王"
-msgstr ""
+msgstr "冰之大王"
 
 msgctxt "241"
 msgid "氷の鎧"
@@ -981,7 +981,7 @@ msgstr ""
 
 msgctxt "242"
 msgid "雷の女王"
-msgstr ""
+msgstr "雷之女王"
 
 msgctxt "243"
 msgid "ティンダロス"
