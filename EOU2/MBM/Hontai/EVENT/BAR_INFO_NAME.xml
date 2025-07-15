@@ -1,190 +1,190 @@
 <mbm>
   <entry id="1">
     <source>新米のダークハンター{f801}</source>
-    <target>新米のダークハンター{f801}</target>
+    <target>新手黑暗猎人{f801}</target>
   </entry>
   <entry id="2">
     <source>ホラ吹きチャップ{f801}</source>
-    <target>ホラ吹きチャップ{f801}</target>
+    <target>吹牛大王察普{f801}</target>
   </entry>
   <entry id="3">
     <source>傷付いた全身鎧を纏った冒険者{f801}</source>
-    <target>傷付いた全身鎧を纏った冒険者{f801}</target>
+    <target>身着伤痕累累的全身铠的冒险者{f801}</target>
   </entry>
   <entry id="4">
     <source>呪術院からの使い{f801}</source>
-    <target>呪術院からの使い{f801}</target>
+    <target>来自咒术院的使者{f801}</target>
   </entry>
   <entry id="5">
     <source>長身の仕立て屋クルミ{f801}</source>
-    <target>長身の仕立て屋クルミ{f801}</target>
+    <target>高个子裁缝库鲁米{f801}</target>
   </entry>
   <entry id="6">
     <source>分厚い本を携えた青年{f801}</source>
-    <target>分厚い本を携えた青年{f801}</target>
+    <target>拿着厚书的青年{f801}</target>
   </entry>
   <entry id="7">
     <source>動物と戯れる女性メルシャン{f801}</source>
-    <target>動物と戯れる女性メルシャン{f801}</target>
+    <target>与动物嬉戏的女性麦西亚{f801}</target>
   </entry>
   <entry id="8">
     <source>高価そうな服を着た男{f801}</source>
-    <target>高価そうな服を着た男{f801}</target>
+    <target>穿着看起来很贵的衣服的男人{f801}</target>
   </entry>
   <entry id="9">
     <source>狩人の男{f801}</source>
-    <target>狩人の男{f801}</target>
+    <target>男性猎人{f801}</target>
   </entry>
   <entry id="10">
     <source>色白の女性{f801}</source>
-    <target>色白の女性{f801}</target>
+    <target>苍白的女性{f801}</target>
   </entry>
   <entry id="11">
     <source>老漢の骨董商ケイディック{f801}</source>
-    <target>老漢の骨董商ケイディック{f801}</target>
+    <target>老古董商凯迪克{f801}</target>
   </entry>
   <entry id="12">
     <source>でっぷりした煌びやかな男{f801}</source>
-    <target>でっぷりした煌びやかな男{f801}</target>
+    <target>金光闪闪的肥胖男人{f801}</target>
   </entry>
   <entry id="13">
     <source>フードを目深にかぶった男{f801}</source>
-    <target>フードを目深にかぶった男{f801}</target>
+    <target>把脸藏在兜帽后的男人{f801}</target>
   </entry>
   <entry id="14">
     <source>フードをかぶった研究者ライル{f801}</source>
-    <target>フードをかぶった研究者ライル{f801}</target>
+    <target>身披斗篷的研究者莱尔{f801}</target>
   </entry>
   <entry id="15">
     <source>ブシドーの男{f801}</source>
-    <target>ブシドーの男{f801}</target>
+    <target>男性武士{f801}</target>
   </entry>
   <entry id="16">
     <source>ガンナーの女の子{f801}</source>
-    <target>ガンナーの女の子{f801}</target>
+    <target>女性枪手{f801}</target>
   </entry>
   <entry id="31">
     <source>ピカピカ装備の剣士{f801}</source>
-    <target>ピカピカ装備の剣士{f801}</target>
+    <target>穿着闪亮装备的剑士{f801}</target>
   </entry>
   <entry id="32">
     <source>美しい声の術師{f801}</source>
-    <target>美しい声の術師{f801}</target>
+    <target>有着动听声音的术师{f801}</target>
   </entry>
   <entry id="33">
     <source>お揃い装備の冒険者たち{f801}</source>
-    <target>お揃い装備の冒険者たち{f801}</target>
+    <target>穿着同样装备的冒险者一行人{f801}</target>
   </entry>
   <entry id="34">
     <source>ぐったりした大柄の聖騎士{f801}</source>
-    <target>ぐったりした大柄の聖騎士{f801}</target>
+    <target>疲惫的大个子圣骑士{f801}</target>
   </entry>
   <entry id="35">
     <source>ぐったりしたトラモント{f801}</source>
-    <target>ぐったりしたトラモント{f801}</target>
+    <target>疲惫的圣骑士特拉蒙特{f801}</target>
   </entry>
   <entry id="36">
     <source>手遊びを続ける狩人{f801}</source>
-    <target>手遊びを続ける狩人{f801}</target>
+    <target>手上安分不下来的猎人{f801}</target>
   </entry>
   <entry id="37">
     <source>苦労症のマルモ{f801}</source>
-    <target>苦労症のマルモ{f801}</target>
+    <target>积劳成疾的马尔默{f801}</target>
   </entry>
   <entry id="38">
     <source>絵画のような美青年{f801}</source>
-    <target>絵画のような美青年{f801}</target>
+    <target>如画般美丽的青年{f801}</target>
   </entry>
   <entry id="39">
     <source>声の大きな女術師{f801}</source>
-    <target>声の大きな女術師{f801}</target>
+    <target>声音很大的女术师{f801}</target>
   </entry>
   <entry id="40">
     <source>変わった服を着た商人{f801}</source>
-    <target>変わった服を着た商人{f801}</target>
+    <target>穿着奇怪衣服的商人{f801}</target>
   </entry>
   <entry id="41">
     <source>うつむきがちな女医師{f801}</source>
-    <target>うつむきがちな女医師{f801}</target>
+    <target>一直低着头的女医师{f801}</target>
   </entry>
   <entry id="42">
     <source>魅惑的な脚線美のダークハンター{f801}</source>
-    <target>魅惑的な脚線美のダークハンター{f801}</target>
+    <target>有着魅惑美腿的黑暗猎人{f801}</target>
   </entry>
   <entry id="43">
     <source>疲れ切った偉丈夫{f801}</source>
-    <target>疲れ切った偉丈夫{f801}</target>
+    <target>疲惫不堪的男子汉{f801}</target>
   </entry>
   <entry id="44">
     <source>貧しそうな老人{f801}</source>
-    <target>貧しそうな老人{f801}</target>
+    <target>穷酸的老人{f801}</target>
   </entry>
   <entry id="45">
     <source>事情通ぶる男{f801}</source>
-    <target>事情通ぶる男{f801}</target>
+    <target>不懂装懂的男人{f801}</target>
   </entry>
   <entry id="46">
     <source>けばけばしいおばさん{f801}</source>
-    <target>けばけばしいおばさん{f801}</target>
+    <target>衣着花哨的老婆婆{f801}</target>
   </entry>
   <entry id="47">
     <source>片目を隠したガンナー{f801}</source>
-    <target>片目を隠したガンナー{f801}</target>
+    <target>遮住单眼的枪手{f801}</target>
   </entry>
   <entry id="48">
     <source>身なりのいい紳士{f801}</source>
-    <target>身なりのいい紳士{f801}</target>
+    <target>衣着得体的绅士{f801}</target>
   </entry>
   <entry id="49">
     <source>出来あがっている酔っ払い{f801}</source>
-    <target>出来あがっている酔っ払い{f801}</target>
+    <target>刚喝高了的醉汉{f801}</target>
   </entry>
   <entry id="50">
     <source>棒きれを持った少年{f801}</source>
-    <target>棒きれを持った少年{f801}</target>
+    <target>拿着短棍的少年{f801}</target>
   </entry>
   <entry id="51">
     <source>ほろ酔いの女性{f801}</source>
-    <target>ほろ酔いの女性{f801}</target>
+    <target>微醺的女性{f801}</target>
   </entry>
   <entry id="52">
     <source>卑屈な笑みの男{f801}</source>
-    <target>卑屈な笑みの男{f801}</target>
+    <target>一脸谄笑的男人{f801}</target>
   </entry>
   <entry id="53">
     <source>そばかすの少年{f801}</source>
-    <target>そばかすの少年{f801}</target>
+    <target>长着雀斑的少年{f801}</target>
   </entry>
   <entry id="54">
     <source>小柄なおばあさん{f801}</source>
-    <target>小柄なおばあさん{f801}</target>
+    <target>矮小的婆婆{f801}</target>
   </entry>
   <entry id="55">
     <source>白いワンピースの娘{f801}</source>
-    <target>白いワンピースの娘{f801}</target>
+    <target>穿着白色连身裙的少女{f801}</target>
   </entry>
   <entry id="56">
     <source>顔に傷のある男{f801}</source>
-    <target>顔に傷のある男{f801}</target>
+    <target>脸上负伤的男人{f801}</target>
   </entry>
   <entry id="57">
     <source>微笑をたやさぬ貴婦人{f801}</source>
-    <target>微笑をたやさぬ貴婦人{f801}</target>
+    <target>微笑不止的贵妇人{f801}</target>
   </entry>
   <entry id="58">
     <source>わし鼻の酔っ払い{f801}</source>
-    <target>わし鼻の酔っ払い{f801}</target>
+    <target>鹰钩鼻的醉汉{f801}</target>
   </entry>
   <entry id="59">
     <source>涙目の少女{f801}</source>
-    <target>涙目の少女{f801}</target>
+    <target>泪目的少女{f801}</target>
   </entry>
   <entry id="60">
     <source>大きなリボンの女の子{f801}</source>
-    <target>大きなリボンの女の子{f801}</target>
+    <target>戴着大缎带的女孩子{f801}</target>
   </entry>
   <entry id="61">
     <source>物知りロジカ{f801}</source>
-    <target>物知りロジカ{f801}</target>
+    <target>万事通洛希卡{f801}</target>
   </entry>
 </mbm>
