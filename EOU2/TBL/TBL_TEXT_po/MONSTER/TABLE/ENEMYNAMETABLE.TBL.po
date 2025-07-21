@@ -853,7 +853,7 @@ msgstr "魔像"
 
 msgctxt "210"
 msgid "ワイバーン"
-msgstr "双足飞"
+msgstr "双足飞龙"
 
 msgctxt "211"
 msgid "オーバーロード"
