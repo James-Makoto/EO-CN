@@ -17,67 +17,67 @@ msgstr ""
 
 msgctxt "1"
 msgid "ハンナ"
-msgstr ""
+msgstr "汉娜"
 
 msgctxt "2"
 msgid "エクレア"
-msgstr ""
+msgstr "艾克蕾雅"
 
 msgctxt "3"
 msgid "アントニオ"
-msgstr ""
+msgstr "安东尼奥"
 
 msgctxt "4"
 msgid "マリオン"
-msgstr ""
+msgstr "玛丽安"
 
 msgctxt "5"
 msgid "ダンフォード"
-msgstr ""
+msgstr "丹弗特"
 
 msgctxt "6"
 msgid "フロースガル"
-msgstr ""
+msgstr "弗洛斯加尔"
 
 msgctxt "7"
 msgid "クロガネ"
-msgstr ""
+msgstr "黑铁"
 
 msgctxt "8"
 msgid "アーテリンデ"
-msgstr ""
+msgstr "亚特林德"
 
 msgctxt "9"
 msgid "ライシュッツ"
-msgstr ""
+msgstr "莱施兹"
 
 msgctxt "10"
 msgid "ハイ・ラガード公女"
-msgstr ""
+msgstr "高拉加德大公之女"
 
 msgctxt "11"
 msgid "クオナ"
-msgstr ""
+msgstr "库欧娜"
 
 msgctxt "12"
 msgid "衛士"
-msgstr ""
+msgstr "卫士"
 
 msgctxt "13"
 msgid "カナーン"
-msgstr ""
+msgstr "迦南"
 
 msgctxt "14"
 msgid "翼人"
-msgstr ""
+msgstr "翼人"
 
 msgctxt "15"
 msgid "汎用翼人女"
-msgstr ""
+msgstr "通用翼人女"
 
 msgctxt "16"
 msgid "レジィナ"
-msgstr ""
+msgstr "雷吉娜"
 
 msgctxt "17"
 msgid "和食ちゃん"
@@ -89,19 +89,19 @@ msgstr ""
 
 msgctxt "19"
 msgid "アリアンナ"
-msgstr ""
+msgstr "亚莉安娜"
 
 msgctxt "20"
 msgid "フラヴィオ"
-msgstr ""
+msgstr "弗拉维奥"
 
 msgctxt "21"
 msgid "ベルトラン"
-msgstr ""
+msgstr "贝尔托兰"
 
 msgctxt "22"
 msgid "クロエ"
-msgstr ""
+msgstr "库洛艾"
 
 msgctxt "23"
 msgid "チュートリアル1"

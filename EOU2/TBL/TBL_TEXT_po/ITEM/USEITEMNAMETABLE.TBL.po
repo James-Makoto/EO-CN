@@ -2057,7 +2057,7 @@ msgstr "清泉水"
 
 msgctxt "511"
 msgid "大きな荷物"
-msgstr "大大的行李"
+msgstr "大件行李"
 
 msgctxt "512"
 msgid "蒼色の小さな花"
