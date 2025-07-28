@@ -105,11 +105,11 @@ msgstr "黑兽清汤"
 
 msgctxt "23"
 msgid "力士秘伝のちゃんこ風鍋"
-msgstr 力士秘传相扑锅风味火锅
+msgstr "力士秘传相扑锅风味火锅"
 
 msgctxt "24"
 msgid "東国伝来の煮しめ"
-msgstr 东国煮物什锦""
+msgstr "东国煮物什锦"
 
 msgctxt "25"
 msgid "球獣肉とアスパラの中華炒め"
