@@ -2025,7 +2025,7 @@ msgstr "公国身份证"
 
 msgctxt "503"
 msgid "帯電石"
-msgstr "带点石"
+msgstr "带电石"
 
 msgctxt "504"
 msgid "氷の花"

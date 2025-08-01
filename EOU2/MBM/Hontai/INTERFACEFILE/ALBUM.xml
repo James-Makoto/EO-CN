@@ -29,11 +29,11 @@
   </entry>
   <entry id="51">
     <source>オープニング{f801}</source>
-    <target>オープニング{f801}</target>
+    <target>开场动画{f801}</target>
   </entry>
   <entry id="52">
     <source>冒険者の街へ{f801}</source>
-    <target>开场动画{f801}</target>
+    <target>前往冒险者之城{f801}</target>
   </entry>
   <entry id="53">
     <source>すべての始まり{f801}</source>
@@ -41,7 +41,7 @@
   </entry>
   <entry id="54">
     <source>世界樹の迷宮へ{f801}</source>
-    <target>世界树迷宫{f801}</target>
+    <target>前往世界树迷宫{f801}</target>
   </entry>
   <entry id="55">
     <source>欠番{f801}</source>
@@ -57,7 +57,7 @@
   </entry>
   <entry id="58">
     <source>過去との邂逅{f801}</source>
-    <target>过去的邂逅{f801}</target>
+    <target>与过去的邂逅{f801}</target>
   </entry>
   <entry id="59">
     <source>異変の兆候{f801}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="201">
     <source>アリアンナ{f801}</source>
-    <target>阿莉安娜{f801}</target>
+    <target>亚莉安娜{f801}</target>
   </entry>
   <entry id="202">
     <source>フラヴィオ{f801}</source>
@@ -101,39 +101,39 @@
   </entry>
   <entry id="203">
     <source>ベルトラン{f801}</source>
-    <target>贝鲁多兰{f801}</target>
+    <target>贝尔托兰{f801}</target>
   </entry>
   <entry id="204">
     <source>クロエ{f801}</source>
-    <target>クロエ{f801}</target>
+    <target>库洛艾{f801}</target>
   </entry>
   <entry id="205">
     <source>フロースガル{f801}</source>
-    <target>フロースガル{f801}</target>
+    <target>弗洛斯加尔{f801}</target>
   </entry>
   <entry id="206">
     <source>マリオン{f801}</source>
-    <target>マリオン{f801}</target>
+    <target>玛丽安{f801}</target>
   </entry>
   <entry id="207">
     <source>ハンナ{f801}</source>
-    <target>ハンナ{f801}</target>
+    <target>汉娜{f801}</target>
   </entry>
   <entry id="208">
     <source>ダンフォード{f801}</source>
-    <target>ダンフォード{f801}</target>
+    <target>丹弗特{f801}</target>
   </entry>
   <entry id="209">
     <source>エクレア{f801}</source>
-    <target>エクレア{f801}</target>
+    <target>艾克蕾雅{f801}</target>
   </entry>
   <entry id="210">
     <source>アントニオ{f801}</source>
-    <target>アントニオ{f801}</target>
+    <target>安东尼奥{f801}</target>
   </entry>
   <entry id="211">
     <source>レジィナ{f801}</source>
-    <target>レジィナ{f801}</target>
+    <target>雷吉娜{f801}</target>
   </entry>
   <entry id="212">
     <source>公女{f801}</source>
@@ -141,23 +141,23 @@
   </entry>
   <entry id="213">
     <source>クオナ{f801}</source>
-    <target>クオナ{f801}</target>
+    <target>库欧娜{f801}</target>
   </entry>
   <entry id="214">
     <source>アーテリンデ{f801}</source>
-    <target>アーテリンデ{f801}</target>
+    <target>亚特林德{f801}</target>
   </entry>
   <entry id="215">
     <source>ライシュッツ{f801}</source>
-    <target>ライシュッツ{f801}</target>
+    <target>莱施兹{f801}</target>
   </entry>
   <entry id="216">
     <source>カナーン{f801}</source>
-    <target>カナーン{f801}</target>
+    <target>迦南{f801}</target>
   </entry>
   <entry id="217">
     <source>オーバーロード{f801}</source>
-    <target>游戏结束{f801}</target>
+    <target>オーバーロード{f801}</target>
   </entry>
   <entry id="218">
     <source>黒の護り手{f801}</source>
