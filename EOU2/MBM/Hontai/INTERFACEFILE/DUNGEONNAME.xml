@@ -1,30 +1,30 @@
 <mbm>
   <entry id="1">
     <source>古跡ノ樹海{f801}</source>
-    <target>古跡ノ樹海{f801}</target>
+    <target>古迹树海{f801}</target>
   </entry>
   <entry id="2">
     <source>常緋ノ樹林{f801}</source>
-    <target>常緋ノ樹林{f801}</target>
+    <target>常绯树林{f801}</target>
   </entry>
   <entry id="3">
     <source>六花氷樹海{f801}</source>
-    <target>六花氷樹海{f801}</target>
+    <target>六花冰树海{f801}</target>
   </entry>
   <entry id="4">
     <source>桜ノ立橋{f801}</source>
-    <target>桜ノ立橋{f801}</target>
+    <target>樱花立桥{f801}</target>
   </entry>
   <entry id="5">
     <source>天ノ磐座{f801}</source>
-    <target>天ノ磐座{f801}</target>
+    <target>天之磐座{f801}</target>
   </entry>
   <entry id="6">
     <source>禁忌ノ森{f801}</source>
-    <target>禁忌ノ森{f801}</target>
+    <target>禁忌之森{f801}</target>
   </entry>
   <entry id="7">
     <source>ギンヌンガ{f801}</source>
-    <target>ギンヌンガ{f801}</target>
+    <target>金伦加{f801}</target>
   </entry>
 </mbm>
