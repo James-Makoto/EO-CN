@@ -277,7 +277,7 @@ msgstr "纯净水"
 
 msgctxt "66"
 msgid "雲海山鳥の卵"
-msgstr ""
+msgstr "云海山鸟蛋"
 
 msgctxt "67"
 msgid "岩茸"
