@@ -1,7 +1,7 @@
 <mbm>
   <entry id="1">
     <source>{f811}{0000}エンですが{f801}よろしいですか?{f801}</source>
-    <target>售价{f811}{0000}元，{f801}确定吗?{f801}</target>
+    <target>售价{f811}{0000}元，{f801}确定购买吗?{f801}</target>
   </entry>
   <entry id="2">
     <source>購入しました、装備しますか?{f801}</source>
@@ -25,7 +25,7 @@
   </entry>
   <entry id="7">
     <source>さまざまな武具、アイテムの購入ができます{f801}</source>
-    <target>购买各种的道具、武器。{f801}</target>
+    <target>购买各种的道具、装备。{f801}</target>
   </entry>
   <entry id="8">
     <source>所持品を売却できます{f801}</source>
