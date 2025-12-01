@@ -1,95 +1,95 @@
 <mbm>
   <entry id="1">
     <source>全てのグリモアを表示します{f801}</source>
-    <target>全てのグリモアを表示します{f801}</target>
+    <target>显示所有的魔导石。{f801}</target>
   </entry>
   <entry id="2">
     <source>ソードマンのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ソードマンのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有剑士技能的{f801}魔导石。{f801}</target>
   </entry>
   <entry id="3">
     <source>レンジャーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>レンジャーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有巡林客技能的{f801}魔导石。{f801}</target>
   </entry>
   <entry id="4">
     <source>パラディンのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>パラディンのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有圣骑士技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="5">
     <source>ダークハンターのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ダークハンターのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有黑暗骑士士技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="6">
     <source>ブシドーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ブシドーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有武士士技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="7">
     <source>メディックのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>メディックのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有医术师士技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="8">
     <source>アルケミストのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>アルケミストのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有炼金术师技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="9">
     <source>カースメーカーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>カースメーカーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有降咒师技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="10">
     <source>バードのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>バードのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有吟游诗人技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="11">
     <source>ガンナーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ガンナーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有枪手技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="12">
     <source>ドクトルマグスのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ドクトルマグスのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有巫医技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="13">
     <source>ペットのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ペットのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有宠物技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="14">
     <source>プリンセスのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>プリンセスのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有公主技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="15">
     <source>ファフニールのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ファフニールのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有法夫纳技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="16">
     <source>ハイランダーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>ハイランダーのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有高地之民技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="17">
     <source>モンスターのスキルが刻まれた{f801}グリモアのみを表示します{f801}</source>
-    <target>モンスターのスキルが刻まれた{f801}グリモアのみを表示します{f801}</target>
+    <target>只显示刻有怪物技能{f801}的魔导石。{f801}</target>
   </entry>
   <entry id="18">
     <source>新たに入手したグリモアから順に並び変えます{f801}</source>
-    <target>新たに入手したグリモアから順に並び変えます{f801}</target>
+    <target>按照新获得的魔导石顺序重新排列。{f801}</target>
   </entry>
   <entry id="19">
     <source>グリモアに登録されているスキルのレベルが{f801}高い方から順に並び替えます{f801}</source>
-    <target>グリモアに登録されているスキルのレベルが{f801}高い方から順に並び替えます{f801}</target>
+    <target>按照魔导石中记录的技能的等级{f801}由高到低的顺序重新排列。{f801}</target>
   </entry>
   <entry id="20">
     <source>グリモアに登録されているスキルのレベルが{f801}低い方から順に並び替えます{f801}</source>
-    <target>グリモアに登録されているスキルのレベルが{f801}低い方から順に並び替えます{f801}</target>
+    <target>按照魔导石中记录的技能的等级{f801}由低到高的顺序重新排列。{f801}</target>
   </entry>
   <entry id="21">
     <source>グリモアに登録されているスキル名の順に並び替えます{f801}</source>
-    <target>グリモアに登録されているスキル名の順に並び替えます{f801}</target>
+    <target>按照魔导石中记录的技能的名称的顺序重新排列。{f801}</target>
   </entry>
   <entry id="22">
     <source>付加効果が登録されているグリモアのみ表示します{f801}</source>
-    <target>付加効果が登録されているグリモアのみ表示します{f801}</target>
+    <target>只显示登记了附加效果的魔导石{f801}</target>
   </entry>
   <entry id="23">
     <source>入力した文字列が含まれるスキル名のみを表示します{f801}</source>
-    <target>入力した文字列が含まれるスキル名のみを表示します{f801}</target>
+    <target>只显示包含所输入文字的技能名称。{f801}</target>
   </entry>
   <entry id="24">
     <source>入力した文字列に合致したものを{f801}順に表示します(仮{f801}</source>
@@ -97,14 +97,14 @@
   </entry>
   <entry id="50">
     <source>装備中のグリモアを外します{f801}</source>
-    <target>装備中のグリモアを外します{f801}</target>
+    <target>取下装备中的魔导石。{f801}</target>
   </entry>
   <entry id="51">
     <source>選択したグリモアでトレードを行います{f801}</source>
-    <target>選択したグリモアでトレードを行います{f801}</target>
+    <target>使用所选择的魔导石进行交易。{f801}</target>
   </entry>
   <entry id="52">
     <source>選択したグリモアでトレードを依頼します{f801}</source>
-    <target>選択したグリモアでトレードを依頼します{f801}</target>
+    <target>以所选的魔导石提出交易请求。{f801}</target>
   </entry>
 </mbm>
