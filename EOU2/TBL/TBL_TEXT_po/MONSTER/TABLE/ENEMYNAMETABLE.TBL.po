@@ -905,11 +905,11 @@ msgstr ""
 
 msgctxt "223"
 msgid "キマイラ"
-msgstr ""
+msgstr "奇美拉"
 
 msgctxt "224"
 msgid "フレイムキューブ"
-msgstr "奇美拉"
+msgstr ""
 
 msgctxt "225"
 msgid "ルインクリーパー"
