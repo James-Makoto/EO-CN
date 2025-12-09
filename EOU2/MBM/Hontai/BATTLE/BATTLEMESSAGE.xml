@@ -1489,71 +1489,71 @@
   </entry>
   <entry id="448">
     <source>アークピクシーが呼びだされた!{f801}</source>
-    <target>アークピクシーが呼びだされた!{f801}</target>
+    <target>召唤出了高等皮克希!{f801}</target>
   </entry>
   <entry id="449">
     <source>冷酷なる貴婦人が呼びだされた!{f801}</source>
-    <target>冷酷なる貴婦人が呼びだされた!{f801}</target>
+    <target>召唤出了冷酷贵妇!{f801}</target>
   </entry>
   <entry id="450">
     <source>コロトラングルが呼びだされた!{f801}</source>
-    <target>コロトラングルが呼びだされた!{f801}</target>
+    <target>召唤出了汪洋之魔鱼!{f801}</target>
   </entry>
   <entry id="451">
     <source>イワオロペネレプが呼びだされた!{f801}</source>
-    <target>イワオロペネレプが呼びだされた!{f801}</target>
+    <target>召唤出了破岩之神鸟!{f801}</target>
   </entry>
   <entry id="452">
     <source>{f811}{0100}は{f801}状態異常を付けやすくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}状態異常を付けやすくなった!{f801}</target>
+    <target>{f811}{0100}变得{f801}容易附着异常状态了!{f801}</target>
   </entry>
   <entry id="453">
     <source>冒険者達に{f801}力がみなぎっていく・・・{f801}</source>
-    <target>冒険者達に{f801}力がみなぎっていく・・・{f801}</target>
+    <target>冒险者们{f801}不断获得力量・・・{f801}</target>
   </entry>
   <entry id="454">
     <source>冒険者達の{f801}攻撃力が上昇した!{f801}</source>
-    <target>冒険者達の{f801}攻撃力が上昇した!{f801}</target>
+    <target>冒险者们的{f801}攻击力上升了!{f801}</target>
   </entry>
   <entry id="455">
     <source>冒険者達の{f801}防御力が上昇した!{f801}</source>
-    <target>冒険者達の{f801}防御力が上昇した!{f801}</target>
+    <target>冒险者们的{f801}防御力上升了!{f801}</target>
   </entry>
   <entry id="456">
     <source>冒険者達の{f801}行動速度が上昇した!{f801}</source>
-    <target>冒険者達の{f801}行動速度が上昇した!{f801}</target>
+    <target>冒险者们的{f801}行动速度上升了!{f801}</target>
   </entry>
   <entry id="457">
     <source>冒険者達の{f801}命中率が上昇した!{f801}</source>
-    <target>冒険者達の{f801}命中率が上昇した!{f801}</target>
+    <target>冒险者们的{f801}命中率上升了!{f801}</target>
   </entry>
   <entry id="458">
     <source>冒険者達の{f801}使用TPが半減した!{f801}</source>
-    <target>冒険者達の{f801}使用TPが半減した!{f801}</target>
+    <target>冒险者们{f801}TP消耗减半!{f801}</target>
   </entry>
   <entry id="459">
     <source>冒険者達は{f801}最終兵器により全滅した……{f801}</source>
-    <target>冒険者達は{f801}最終兵器により全滅した……{f801}</target>
+    <target>冒险者们{f801}被最终兵器全灭了……{f801}</target>
   </entry>
   <entry id="461">
     <source>しかし、逃げられなかった!{f801}</source>
-    <target>しかし、逃げられなかった!{f801}</target>
+    <target>但是，没能逃走!{f801}</target>
   </entry>
   <entry id="462">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="463">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="464">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="465">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="467">
     <source>{f811}{0000}は{f801}{f811}{0300}で反撃した!{f801}</source>
