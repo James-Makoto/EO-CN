@@ -9,303 +9,303 @@
   </entry>
   <entry id="2">
     <source>{f811}{0000}が現れた!{f801}</source>
-    <target>{f811}{0000}が現れた!{f801}</target>
+    <target>{f811}{0000}出现了！{f801}</target>
   </entry>
   <entry id="3">
     <source>{f811}{0000}達が現れた!{f801}</source>
-    <target>{f811}{0000}達が現れた!{f801}</target>
+    <target>{f811}{0000}群出现了！{f801}</target>
   </entry>
   <entry id="4">
     <source>モンスターの群れが現れた!{f801}</source>
-    <target>モンスターの群れが現れた!{f801}</target>
+    <target>怪物群出现了！{f801}</target>
   </entry>
   <entry id="5">
     <source>モンスターが襲いかかってきた!{f801}</source>
-    <target>モンスターが襲いかかってきた!{f801}</target>
+    <target>怪物袭击过来了！{f801}</target>
   </entry>
   <entry id="6">
     <source>しかし、{f811}{0100}は{f801}不意打ちを予測していた。{f801}</source>
-    <target>しかし、{f811}{0100}は{f801}不意打ちを予測していた。{f801}</target>
+    <target>不过，{f811}{0100}{f801}早已预测到奇袭。{f801}</target>
   </entry>
   <entry id="7">
     <source>{f811}{0000}は先手をとった!{f801}</source>
-    <target>{f811}{0000}は先手をとった!{f801}</target>
+    <target>{f811}{0000}抢占了先机！{f801}</target>
   </entry>
   <entry id="8">
     <source>冒険者達は先手をとった!{f801}</source>
-    <target>冒険者達は先手をとった!{f801}</target>
+    <target>冒险者们抢占了先机！{f801}</target>
   </entry>
   <entry id="9">
     <source>仲間に呼ばれ{f801}{f811}{0000}が現れた!{f801}</source>
-    <target>仲間に呼ばれ{f801}{f811}{0000}が現れた!{f801}</target>
+    <target>在同伴的呼唤下，{f801}{f811}{0000}出现了！{f801}</target>
   </entry>
   <entry id="10">
     <source>新たなモンスターが参戦してきた!{f801}</source>
-    <target>新たなモンスターが参戦してきた!{f801}</target>
+    <target>有新的怪物参战了！{f801}</target>
   </entry>
   <entry id="11">
     <source>大気を震わせる咆哮とともに{f801}黒い影がモンスター達を襲う!{f801}</source>
-    <target>大気を震わせる咆哮とともに{f801}黒い影がモンスター達を襲う!{f801}</target>
+    <target>随着一声震耳欲聋的咆哮，{f801}一道黑影袭向怪物们！{f801}</target>
   </entry>
   <entry id="12">
     <source>どうする?{f801}</source>
-    <target>どうする?{f801}</target>
+    <target>要怎么办?{f801}</target>
   </entry>
   <entry id="13">
     <source>{f811}{0000}は{f801}身動きがとれない!{f801}</source>
-    <target>{f811}{0000}は{f801}身動きがとれない!{f801}</target>
+    <target>{f811}{0000}{f801}动弹不得！{f801}</target>
   </entry>
   <entry id="14">
     <source>冒険者達は身動きがとれない!{f801}</source>
-    <target>冒険者達は身動きがとれない!{f801}</target>
+    <target>冒险者们动弹不得！{f801}</target>
   </entry>
   <entry id="15">
     <source>{f811}{0000}は石化している!{f801}</source>
-    <target>{f811}{0000}は石化している!{f801}</target>
+    <target>{f811}{0000}处于石化状态！{f801}</target>
   </entry>
   <entry id="16">
     <source>{f811}{0000}は眠っている…。{f801}</source>
-    <target>{f811}{0000}は眠っている…。{f801}</target>
+    <target>{f811}{0000}睡着了……{f801}</target>
   </entry>
   <entry id="17">
     <source>{f811}{0000}は混乱している!{f801}</source>
-    <target>{f811}{0000}は混乱している!{f801}</target>
+    <target>{f811}{0000}处于混乱状态！{f801}</target>
   </entry>
   <entry id="18">
     <source>{f811}{0000}は{f801}麻痺して動けない!{f801}</source>
-    <target>{f811}{0000}は{f801}麻痺して動けない!{f801}</target>
+    <target>{f811}{0000}全身麻痹，{f801}无法行动!！{f801}</target>
   </entry>
   <entry id="20">
     <source>{f811}{0000}は{f801}スタンしている!{f801}</source>
-    <target>{f811}{0000}は{f801}スタンしている!{f801}</target>
+    <target>{f811}{0000}感到头晕目眩！{f801}</target>
   </entry>
   <entry id="21">
     <source>{f811}{0000}の頭部は{f801}封じられている!{f801}</source>
-    <target>{f811}{0000}の頭部は{f801}封じられている!{f801}</target>
+    <target>{f811}{0000}的头部{f801}被封印了！{f801}</target>
   </entry>
   <entry id="22">
     <source>{f811}{0000}の腕部は{f801}封じられている!{f801}</source>
-    <target>{f811}{0000}の腕部は{f801}封じられている!{f801}</target>
+    <target>{f811}{0000}的臂部{f801}被封印了！{f801}</target>
   </entry>
   <entry id="23">
     <source>{f811}{0000}の脚部は{f801}封じられている!{f801}</source>
-    <target>{f811}{0000}の脚部は{f801}封じられている!{f801}</target>
+    <target>{f811}{0000}的腿部{f801}被封印了！{f801}</target>
   </entry>
   <entry id="24">
     <source>{f811}{0100}は息絶えた!{f801}</source>
-    <target>{f811}{0100}は息絶えた!{f801}</target>
+    <target>{f811}{0100}断气了！{f801}</target>
   </entry>
   <entry id="25">
     <source>{f811}{0100}の息の根を止めた!{f801}</source>
-    <target>{f811}{0100}の息の根を止めた!{f801}</target>
+    <target>彻底击败了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="26">
     <source>{f811}{0000}の攻撃!{f801}</source>
-    <target>{f811}{0000}の攻撃!{f801}</target>
+    <target>{f811}{0000}发动攻击！{f801}</target>
   </entry>
   <entry id="27">
     <source>{f811}{0100}に{f801}{f811}{0200}のダメージを与えた!{f801}</source>
-    <target>{f811}{0100}に{f801}{f811}{0200}のダメージを与えた!{f801}</target>
+    <target>对{f811}{0100}造成了{f801}{f811}{0200}点伤害！{f801}</target>
   </entry>
   <entry id="28">
     <source>クリティカルヒット!!{f801}{f811}{0200}のダメージを与えた!{f801}</source>
-    <target>クリティカルヒット!!{f801}{f811}{0200}のダメージを与えた!{f801}</target>
+    <target>暴击!!{f801}造成了{f811}{0200}点伤害！{f801}</target>
   </entry>
   <entry id="29">
     <source>{f811}{0100}は{f801}{f811}{0200}のダメージを受けた!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0200}のダメージを受けた!{f801}</target>
+    <target>{f811}{0100}受到了{f801}{f811}{0200}点伤害！{f801}</target>
   </entry>
   <entry id="30">
     <source>{f811}{0100}は{f801}{f811}{0200}のダメージを受けた!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0200}のダメージを受けた!{f801}</target>
+    <target>{f811}{0100}受到了{f801}{f811}{0200}点伤害！{f801}</target>
   </entry>
   <entry id="31">
     <source>{f811}{0000}は{f801}{f811}{0300}を使った!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0300}を使った!{f801}</target>
+    <target>{f811}{0000}{f801}使用了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="32">
     <source>{f811}{0100}のHPが{f801}{f811}{0200}回復した!{f801}</source>
-    <target>{f811}{0100}のHPが{f801}{f811}{0200}回復した!{f801}</target>
+    <target>{f811}{0100}的HP{f801}恢复了{f811}{0200}点！{f801}</target>
   </entry>
   <entry id="33">
     <source>{f811}{0100}のHPが{f801}完全に回復した!{f801}</source>
-    <target>{f811}{0100}のHPが{f801}完全に回復した!{f801}</target>
+    <target>{f811}{0100}的HP{f801}完全恢复了！{f801}</target>
   </entry>
   <entry id="34">
     <source>{f811}{0100}のTPが{f801}{f811}{0200}回復した!{f801}</source>
-    <target>{f811}{0100}のTPが{f801}{f811}{0200}回復した!{f801}</target>
+    <target>{f811}{0100}的TP{f801}恢复了{f811}{0200}点！{f801}</target>
   </entry>
   <entry id="35">
     <source>{f811}{0100}のTPが{f801}完全に回復した!{f801}</source>
-    <target>{f811}{0100}のTPが{f801}完全に回復した!{f801}</target>
+    <target>{f811}{0100}的TP{f801}完全恢复了！{f801}</target>
   </entry>
   <entry id="37">
     <source>モンスターの群れ{f801}</source>
-    <target>モンスターの群れ{f801}</target>
+    <target>一群魔物{f801}</target>
   </entry>
   <entry id="38">
     <source>{f811}{0000}は{f801}{f811}{0300}を使った!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0300}を使った!{f801}</target>
+    <target>{f811}{0000}{f801}使用了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="39">
     <source>{f811}{0000}は身を守っている。{f801}</source>
-    <target>{f811}{0000}は身を守っている。{f801}</target>
+    <target>{f811}{0000}正在防守。{f801}</target>
   </entry>
   <entry id="40">
     <source>{f811}{0000}は仲間を呼んだ!{f801}</source>
-    <target>{f811}{0000}は仲間を呼んだ!{f801}</target>
+    <target>{f811}{0000}召唤出了同伴！{f801}</target>
   </entry>
   <entry id="41">
     <source>{f811}{0100}は即死した!{f801}</source>
-    <target>{f811}{0100}は即死した!{f801}</target>
+    <target>{f811}{0100}被即死了！{f801}</target>
   </entry>
   <entry id="42">
     <source>{f811}{0100}は石化した!{f801}</source>
-    <target>{f811}{0100}は石化した!{f801}</target>
+    <target>{f811}{0100}被石化了！{f801}</target>
   </entry>
   <entry id="43">
     <source>{f811}{0100}は眠りだした…。{f801}</source>
-    <target>{f811}{0100}は眠りだした…。{f801}</target>
+    <target>{f811}{0100}睡着了……{f801}</target>
   </entry>
   <entry id="44">
     <source>{f811}{0100}は混乱した!{f801}</source>
-    <target>{f811}{0100}は混乱した!{f801}</target>
+    <target>{f811}{0100}陷入混乱了！{f801}</target>
   </entry>
   <entry id="45">
     <source>{f811}{0100}に{f801}腐敗毒が感染した!{f801}</source>
-    <target>{f811}{0100}に{f801}腐敗毒が感染した!{f801}</target>
+    <target>{f811}{0100}{f801}被感染了腐败毒！{f801}</target>
   </entry>
   <entry id="46">
     <source>{f811}{0100}に毒を与えた!{f801}</source>
-    <target>{f811}{0100}に毒を与えた!{f801}</target>
+    <target>{f811}{0100}中毒了！{f801}</target>
   </entry>
   <entry id="47">
     <source>{f811}{0100}は盲目になった!{f801}</source>
-    <target>{f811}{0100}は盲目になった!{f801}</target>
+    <target>{f811}{0100}失明了！{f801}</target>
   </entry>
   <entry id="48">
     <source>{f811}{0100}は呪われた!{f801}</source>
-    <target>{f811}{0100}は呪われた!{f801}</target>
+    <target>{f811}{0100}被诅咒了！{f801}</target>
   </entry>
   <entry id="49">
     <source>{f811}{0100}は麻痺した!{f801}</source>
-    <target>{f811}{0100}は麻痺した!{f801}</target>
+    <target>{f811}{0100}被麻痹了！{f801}</target>
   </entry>
   <entry id="50">
     <source>{f811}{0100}はスタンした!{f801}</source>
-    <target>{f811}{0100}はスタンした!{f801}</target>
+    <target>{f811}{0100}被眩晕了！{f801}</target>
   </entry>
   <entry id="51">
     <source>{f811}{0100}の頭部を封じた!{f801}</source>
-    <target>{f811}{0100}の頭部を封じた!{f801}</target>
+    <target>{f811}{0100}的头部被封印了！{f801}</target>
   </entry>
   <entry id="52">
     <source>{f811}{0100}の腕部を封じた!{f801}</source>
-    <target>{f811}{0100}の腕部を封じた!{f801}</target>
+    <target>{f811}{0100}的手臂被封印了！{f801}</target>
   </entry>
   <entry id="53">
     <source>{f811}{0100}の脚部を封じた!{f801}</source>
-    <target>{f811}{0100}の脚部を封じた!{f801}</target>
+    <target>{f811}{0100}的腿部被封印了！{f801}</target>
   </entry>
   <entry id="54">
     <source>{f811}{0100}は{f801}息を吹き返した!{f801}</source>
-    <target>{f811}{0100}は{f801}息を吹き返した!{f801}</target>
+    <target>{f811}{0100}{f801}复活了！{f801}</target>
   </entry>
   <entry id="55">
     <source>{f811}{0100}の{f801}石化が解けた!{f801}</source>
-    <target>{f811}{0100}の{f801}石化が解けた!{f801}</target>
+    <target>{f811}{0100}的{f801}石化解除了！{f801}</target>
   </entry>
   <entry id="56">
     <source>{f811}{0100}は目を覚ました!{f801}</source>
-    <target>{f811}{0100}は目を覚ました!{f801}</target>
+    <target>{f811}{0100}醒来了！{f801}</target>
   </entry>
   <entry id="57">
     <source>{f811}{0100}は正気に戻った!{f801}</source>
-    <target>{f811}{0100}は正気に戻った!{f801}</target>
+    <target>{f811}{0100}恢复正常了！{f801}</target>
   </entry>
   <entry id="58">
     <source>{f811}{0100}は治った!{f801}</source>
-    <target>{f811}{0100}は治った!{f801}</target>
+    <target>{f811}{0100}被治好了！{f801}</target>
   </entry>
   <entry id="59">
     <source>{f811}{0100}の{f801}毒は消え去った!{f801}</source>
-    <target>{f811}{0100}の{f801}毒は消え去った!{f801}</target>
+    <target>{f811}{0100}{f801}身上的毒消退了！{f801}</target>
   </entry>
   <entry id="60">
     <source>{f811}{0100}の{f801}目が見えるようになった!{f801}</source>
-    <target>{f811}{0100}の{f801}目が見えるようになった!{f801}</target>
+    <target>{f811}{0100}{f801}恢复视力了！{f801}</target>
   </entry>
   <entry id="61">
     <source>{f811}{0100}の{f801}呪いが解けた!{f801}</source>
-    <target>{f811}{0100}の{f801}呪いが解けた!{f801}</target>
+    <target>{f811}{0100}的{f801}诅咒解除了！{f801}</target>
   </entry>
   <entry id="62">
     <source>{f811}{0100}の{f801}麻痺が解けた!{f801}</source>
-    <target>{f811}{0100}の{f801}麻痺が解けた!{f801}</target>
+    <target>{f811}{0100}的{f801}麻痹解除了！{f801}</target>
   </entry>
   <entry id="63">
     <source>{f811}{0100}の{f801}頭部の封じを消し去った!{f801}</source>
-    <target>{f811}{0100}の{f801}頭部の封じを消し去った!{f801}</target>
+    <target>{f811}{0100}的{f801}头部封印效果消失了！{f801}</target>
   </entry>
   <entry id="64">
     <source>{f811}{0100}の{f801}腕部の封じを消し去った!{f801}</source>
-    <target>{f811}{0100}の{f801}腕部の封じを消し去った!{f801}</target>
+    <target>{f811}{0100}的{f801}臂部封印效果消失了！{f801}</target>
   </entry>
   <entry id="65">
     <source>{f811}{0100}の{f801}脚部の封じを消し去った!{f801}</source>
-    <target>{f811}{0100}の{f801}脚部の封じを消し去った!{f801}</target>
+    <target>{f811}{0100}的{f801}腿部封印效果消失了！{f801}</target>
   </entry>
   <entry id="66">
     <source>{f811}{0000}は逃げ出した!{f801}</source>
-    <target>{f811}{0000}は逃げ出した!{f801}</target>
+    <target>{f811}{0000}逃跑了！{f801}</target>
   </entry>
   <entry id="67">
     <source>{f811}{0000}は逃げ出した!{f801}しかし、逃げることはできなかった!{f801}</source>
-    <target>{f811}{0000}は逃げ出した!{f801}しかし、逃げることはできなかった!{f801}</target>
+    <target>{f811}{0000}准备逃跑!{f801}但是没能脱身！{f801}</target>
   </entry>
   <entry id="68">
     <source>この戦いからは逃げられない!!{f801}</source>
-    <target>この戦いからは逃げられない!!{f801}</target>
+    <target>这场战斗无法逃跑!！{f801}</target>
   </entry>
   <entry id="69">
     <source>逃げられない!!{f801}</source>
-    <target>逃げられない!!{f801}</target>
+    <target>无法逃跑!！{f801}</target>
   </entry>
   <entry id="70">
     <source>{f811}{0000}は逃げ出した!{f801}しかし、脚が封じられている!{f801}</source>
-    <target>{f811}{0000}は逃げ出した!{f801}しかし、脚が封じられている!{f801}</target>
+    <target>{f811}{0000}准备逃跑!{f801}但是腿部被封印了！{f801}</target>
   </entry>
   <entry id="71">
     <source>{f811}{0100}を倒した!{f801}</source>
-    <target>{f811}{0100}を倒した!{f801}</target>
+    <target>打倒了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="72">
     <source>{f811}{0100}は力尽きた!{f801}</source>
-    <target>{f811}{0100}は力尽きた!{f801}</target>
+    <target>{f811}{0100}耗尽了体力！{f801}</target>
   </entry>
   <entry id="73">
     <source>{f811}{0100}を撃破した!{f801}</source>
-    <target>{f811}{0100}を撃破した!{f801}</target>
+    <target>击败了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="74">
     <source>モンスターの群れを撃破した!{f801}</source>
-    <target>モンスターの群れを撃破した!{f801}</target>
+    <target>击败了怪物群！{f801}</target>
   </entry>
   <entry id="75">
     <source>冒険者達は全滅した……{f801}</source>
-    <target>冒険者達は全滅した……{f801}</target>
+    <target>冒险者们全军覆没……{f801}</target>
   </entry>
   <entry id="76">
     <source>{f811}{0100}は{f801}{f811}{0000}の攻撃に耐えた!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0000}の攻撃に耐えた!{f801}</target>
+    <target>{f811}{0100}{f801}承受住了{f811}{0000}的攻击！{f801}</target>
   </entry>
   <entry id="77">
     <source>{f811}{0000}は協力して{f801}仲間を呼んだ!{f801}</source>
-    <target>{f811}{0000}は協力して{f801}仲間を呼んだ!{f801}</target>
+    <target>{f811}{0000}挺力相助，{f801}呼唤了同伴！{f801}</target>
   </entry>
   <entry id="78">
     <source>{f811}{0100}は力尽きた…{f801}</source>
-    <target>{f811}{0100}は力尽きた…{f801}</target>
+    <target>{f811}{0100}耗尽了体力……{f801}</target>
   </entry>
   <entry id="79">
     <source>全体{f801}</source>
@@ -313,331 +313,331 @@
   </entry>
   <entry id="80">
     <source>{f811}{0100}は息絶えた…{f801}</source>
-    <target>{f811}{0100}は息絶えた…{f801}</target>
+    <target>{f811}{0100}断气了……{f801}</target>
   </entry>
   <entry id="81">
     <source>しかし、仲間は現れなかった!{f801}</source>
-    <target>しかし、仲間は現れなかった!{f801}</target>
+    <target>但是，同伴并没有出现！{f801}</target>
   </entry>
   <entry id="82">
     <source>{f811}{0100}は{f801}{f811}{0200}の毒ダメージを受けた!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0200}の毒ダメージを受けた!{f801}</target>
+    <target>{f811}{0100}{f801}受到了{f811}{0200}点毒伤害！{f801}</target>
   </entry>
   <entry id="83">
     <source>{f811}{0000}が現れた!{f801}</source>
-    <target>{f811}{0000}が現れた!{f801}</target>
+    <target>{f811}{0000}出现了！{f801}</target>
   </entry>
   <entry id="84">
     <source>{f811}{0000}と{f811}{0100}は{f801}入れ替わった!{f801}</source>
-    <target>{f811}{0000}と{f811}{0100}は{f801}入れ替わった!{f801}</target>
+    <target>{f811}{0000}与{f811}{0100}{f801}调换了位置！{f801}</target>
   </entry>
   <entry id="85">
     <source>{f811}{0000}は{f801}移動した!{f801}</source>
-    <target>{f811}{0000}は{f801}移動した!{f801}</target>
+    <target>{f811}{0000}{f801}移动了位置！{f801}</target>
   </entry>
   <entry id="86">
     <source>しかし、攻撃は{f801}届かなかった!{f801}行動者{f801}</source>
-    <target>しかし、攻撃は{f801}届かなかった!{f801}行動者{f801}</target>
+    <target>可是，无法攻击到!{f801}行动者{f801}</target>
   </entry>
   <entry id="87">
     <source>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</source>
-    <target>しかし、{f811}{0100}には{f801}効果が無かった。{f801}</target>
+    <target>不过对{f811}{0100}{f801}不起效果。{f801}</target>
   </entry>
   <entry id="88">
     <source>{f811}{0100}は{f801}攻撃をかわした!{f801}</source>
-    <target>{f811}{0100}は{f801}攻撃をかわした!{f801}</target>
+    <target>{f811}{0100}{f801}闪开了攻击！{f801}</target>
   </entry>
   <entry id="89">
     <source>{f811}{0100}は{f801}{f811}{0000}の行動をさえぎった!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0000}の行動をさえぎった!{f801}</target>
+    <target>{f811}{0100}{f801}阻挡了{f811}{0000}的行动！{f801}</target>
   </entry>
   <entry id="90">
     <source>{f811}{0100}の{f801}クリティカル率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}クリティカル率が上昇した!{f801}</target>
+    <target>{f811}{0100}的暴击率{f801}上升了！{f801}</target>
   </entry>
   <entry id="91">
     <source>{f811}{0100}の肉体に{f801}力がみなぎっていく…{f801}</source>
-    <target>{f811}{0100}の肉体に{f801}力がみなぎっていく…{f801}</target>
+    <target>{f811}{0100}的肉体{f801}开始源源不绝地涌出力量……{f801}</target>
   </entry>
   <entry id="95">
     <source>{f811}{0100}の{f801}クリティカル率が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}クリティカル率が低下した!{f801}</target>
+    <target>{f811}{0100}的暴击率{f801}下降了！{f801}</target>
   </entry>
   <entry id="96">
     <source>{f811}{0000}は{f801}行動を一時停止した…!{f801}</source>
-    <target>{f811}{0000}は{f801}行動を一時停止した…!{f801}</target>
+    <target>{f811}{0000}{f801}暂时停止了动作……！{f801}</target>
   </entry>
   <entry id="97">
     <source>{f811}{0000}は{f801}{f811}{0100}を食いちぎった!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0100}を食いちぎった!{f801}</target>
+    <target>{f811}{0000}{f801}撕咬了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="98">
     <source>{f811}{0000}は{f801}身構えた!{f801}</source>
-    <target>{f811}{0000}は{f801}身構えた!{f801}</target>
+    <target>{f811}{0000}{f801}摆出了准备架势！{f801}</target>
   </entry>
   <entry id="99">
     <source>しかし、{f811}{0100}との連携は{f801}失敗に終わった!{f801}</source>
-    <target>しかし、{f811}{0100}との連携は{f801}失敗に終わった!{f801}</target>
+    <target>但是和{f811}{0100}的协作{f801}以失败告终！{f801}</target>
   </entry>
   <entry id="100">
     <source>{f811}{0000}の{f801}影が現れた!{f801}</source>
-    <target>{f811}{0000}の{f801}影が現れた!{f801}</target>
+    <target>{f811}{0000}的影子{f801}出现了！{f801}</target>
   </entry>
   <entry id="101">
     <source>{f811}{0000}の{f801}分身が現れた!{f801}</source>
-    <target>{f811}{0000}の{f801}分身が現れた!{f801}</target>
+    <target>{f811}{0000}的分身{f801}出现了！{f801}</target>
   </entry>
   <entry id="102">
     <source>しかし、{f811}{0300}は{f801}発動しなかった!{f801}</source>
-    <target>しかし、{f811}{0300}は{f801}発動しなかった!{f801}</target>
+    <target>可是，{f811}{0300}{f801}没能发动！{f801}</target>
   </entry>
   <entry id="103">
     <source>誰を移動する?{f801}</source>
-    <target>誰を移動する?{f801}</target>
+    <target>要移动谁的位置?{f801}</target>
   </entry>
   <entry id="104">
     <source>どこに移動する?{f801}</source>
-    <target>どこに移動する?{f801}</target>
+    <target>要移动到何处?{f801}</target>
   </entry>
   <entry id="105">
     <source>{f811}{0300}発動!{f801}</source>
-    <target>{f811}{0300}発動!{f801}</target>
+    <target>{f811}{0300}发动！{f801}</target>
   </entry>
   <entry id="106">
     <source>{f811}{0100}は{f801}ダメージを無効化した!{f801}</source>
-    <target>{f811}{0100}は{f801}ダメージを無効化した!{f801}</target>
+    <target>{f811}{0100}{f801}免疫了伤害！{f801}</target>
   </entry>
   <entry id="107">
     <source>{f811}{0100}は吹き飛んだ!{f801}</source>
-    <target>{f811}{0100}は吹き飛んだ!{f801}</target>
+    <target>{f811}{0100}被击飞了！{f801}</target>
   </entry>
   <entry id="108">
     <source>{f811}{0000}は、行動を{f801}さえぎられて動けない!{f801}</source>
-    <target>{f811}{0000}は、行動を{f801}さえぎられて動けない!{f801}</target>
+    <target>{f811}{0000}的行动受到阻挡，{f801}无法动弹！{f801}</target>
   </entry>
   <entry id="109">
     <source>{f811}{0100}の影は{f801}消滅した!{f801}</source>
-    <target>{f811}{0100}の影は{f801}消滅した!{f801}</target>
+    <target>{f811}{0100}的影子{f801}消失了！{f801}</target>
   </entry>
   <entry id="110">
     <source>{f811}{0100}の最大HPが{f801}{f811}{0200}減った!{f801}</source>
-    <target>{f811}{0100}の最大HPが{f801}{f811}{0200}減った!{f801}</target>
+    <target>{f811}{0100}的最大HP{f801}减少了{f811}{0200}点！{f801}</target>
   </entry>
   <entry id="111">
     <source>{f811}{0000}は{f811}{0100}と{f801}{f811}{0200}に分離した!{f801}</source>
-    <target>{f811}{0000}は{f811}{0100}と{f801}{f811}{0200}に分離した!{f801}</target>
+    <target>{f811}{0000}分离成了{f801}{f811}{0100}与{f811}{0200}！{f801}</target>
   </entry>
   <entry id="112">
     <source>{f811}{0100}と{f811}{0200}は{f801}合体して{f811}{0000}になった!{f801}</source>
-    <target>{f811}{0100}と{f811}{0200}は{f801}合体して{f811}{0000}になった!{f801}</target>
+    <target>{f811}{0100}与{f811}{0200}{f801}合体成{f811}{0000}！{f801}</target>
   </entry>
   <entry id="113">
     <source>ビーストは{f801}現れなかった!{f801}</source>
-    <target>ビーストは{f801}現れなかった!{f801}</target>
+    <target>野兽没有出现！{f801}</target>
   </entry>
   <entry id="114">
     <source>しかし、効果が無かった!{f801}</source>
-    <target>しかし、効果が無かった!{f801}</target>
+    <target>不过没有效果！{f801}</target>
   </entry>
   <entry id="115">
     <source>{f811}{0100}は{f801}伏兵と化し敵を襲う!{f801}</source>
-    <target>{f811}{0100}は{f801}伏兵と化し敵を襲う!{f801}</target>
+    <target>{f811}{0100}{f801}通过埋伏袭击敌人！{f801}</target>
   </entry>
   <entry id="116">
     <source>{f811}{0000}は{f801}入れ替われなかった!{f801}</source>
-    <target>{f811}{0000}は{f801}入れ替われなかった!{f801}</target>
+    <target>{f811}{0000}{f801}无法替换位置！{f801}</target>
   </entry>
   <entry id="117">
     <source>{f811}{0000}は{f801}分離に失敗した!{f801}</source>
-    <target>{f811}{0000}は{f801}分離に失敗した!{f801}</target>
+    <target>{f811}{0000}{f801}分离失败！{f801}</target>
   </entry>
   <entry id="118">
     <source>{f811}{0000}は{f801}合体に失敗した!{f801}</source>
-    <target>{f811}{0000}は{f801}合体に失敗した!{f801}</target>
+    <target>{f811}{0000}{f801}合体失败！{f801}</target>
   </entry>
   <entry id="120">
     <source>導き手の両腕{f801}</source>
-    <target>導き手の両腕{f801}</target>
+    <target>指引之人的双臂{f801}</target>
   </entry>
   <entry id="121">
     <source>盾を構え{f801}敵の攻撃に備えた!{f801}</source>
-    <target>盾を構え{f801}敵の攻撃に備えた!{f801}</target>
+    <target>举起盾牌，{f801}准备抵御敌人的攻击！{f801}</target>
   </entry>
   <entry id="122">
     <source>次の攻撃のために{f801}力を蓄えた!{f801}</source>
-    <target>次の攻撃のために{f801}力を蓄えた!{f801}</target>
+    <target>积蓄力量，{f801}准备发动攻击！{f801}</target>
   </entry>
   <entry id="123">
     <source>武器を構え{f801}追撃のチャンスに備えた!{f801}</source>
-    <target>武器を構え{f801}追撃のチャンスに備えた!{f801}</target>
+    <target>举起武器，{f801}等待追击的机会！{f801}</target>
   </entry>
   <entry id="124">
     <source>武器を構え{f801}追撃のチャンスに備えた!{f801}</source>
-    <target>武器を構え{f801}追撃のチャンスに備えた!{f801}</target>
+    <target>举起武器，{f801}等待追击的机会！{f801}</target>
   </entry>
   <entry id="125">
     <source>{f811}{0100}の動向に{f801}意識を集中させた!{f801}</source>
-    <target>{f811}{0100}の動向に{f801}意識を集中させた!{f801}</target>
+    <target>专注观察{f801}{f811}{0100}的动向！{f801}</target>
   </entry>
   <entry id="126">
     <source>{f811}{0000}は{f801}帰っていった…{f801}</source>
-    <target>{f811}{0000}は{f801}帰っていった…{f801}</target>
+    <target>{f811}{0000}{f801}回去了……{f801}</target>
   </entry>
   <entry id="127">
     <source>{f811}{0000}から{f801}{f811}{0100}が現れた!{f801}</source>
-    <target>{f811}{0000}から{f801}{f811}{0100}が現れた!{f801}</target>
+    <target>{f811}{0100}{f801}从{f811}{0000}中现身了！{f801}</target>
   </entry>
   <entry id="128">
     <source>{f811}{0100}は{f801}高く舞い上がった!{f801}</source>
-    <target>{f811}{0100}は{f801}高く舞い上がった!{f801}</target>
+    <target>{f811}{0100}{f801}一跃而起！{f801}</target>
   </entry>
   <entry id="129">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="130">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="131">
     <source>{f811}{0300}は{f801}仲間達をかばった!{f801}</source>
-    <target>{f811}{0300}は{f801}仲間達をかばった!{f801}</target>
+    <target>{f811}{0300}{f801}保护了同伴们!{f801}</target>
   </entry>
   <entry id="132">
     <source>{f811}{0300}は{f801}{f811}{0100}をかばった!{f801}</source>
-    <target>{f811}{0300}は{f801}{f811}{0100}をかばった!{f801}</target>
+    <target>{f811}{0300}{f801}保护了{f811}{0100}!{f801}</target>
   </entry>
   <entry id="134">
     <source>しかし、{f811}{0100}は{f801}その効果を受けている…{f801}</source>
-    <target>しかし、{f811}{0100}は{f801}その効果を受けている…{f801}</target>
+    <target>可是，{f811}{0100}{f801}已受到该效果的影响……{f801}</target>
   </entry>
   <entry id="135">
     <source>{f811}{0100}の{f811}{0200}の{f801}効果時間が延長された!{f801}</source>
-    <target>{f811}{0100}の{f811}{0200}の{f801}効果時間が延長された!{f801}</target>
+    <target>{f811}{0100}的{f811}{0200}{f801}效果时间延长了!{f801}</target>
   </entry>
   <entry id="136">
     <source>{f811}{0100}に{f801}かかっていた強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}に{f801}かかっていた強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}{f801}身上的强化!{f801}</target>
   </entry>
   <entry id="137">
     <source>{f811}{0100}に{f801}かかっていた弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}に{f801}かかっていた弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}{f801}身上的减益!{f801}</target>
   </entry>
   <entry id="138">
     <source>{f811}{0100}の{f801}強化を消し去った!{f801}</source>
-    <target>{f811}{0100}の{f801}強化を消し去った!{f801}</target>
+    <target>消除了{f811}{0100}的强化!{f801}</target>
   </entry>
   <entry id="139">
     <source>{f811}{0100}の{f801}弱体を消し去った!{f801}</source>
-    <target>{f811}{0100}の{f801}弱体を消し去った!{f801}</target>
+    <target>消除了{f811}{0100}的减益!{f801}</target>
   </entry>
   <entry id="140">
     <source>{f811}{0100}の{f801}攻撃力強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}攻击力强化！{f801}</target>
   </entry>
   <entry id="141">
     <source>{f811}{0100}の{f801}防御力強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}防御力強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}防御力强化！{f801}</target>
   </entry>
   <entry id="142">
     <source>{f811}{0100}の{f801}行動速度強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}行動速度強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}行动速度强化！{f801}</target>
   </entry>
   <entry id="143">
     <source>{f811}{0100}の{f801}命中率強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}命中率強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}命中率强化！{f801}</target>
   </entry>
   <entry id="144">
     <source>{f811}{0100}の{f801}回避率強化を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}回避率強化を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}闪避率强化！{f801}</target>
   </entry>
   <entry id="145">
     <source>{f811}{0100}の{f801}攻撃力弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}攻击力减益！{f801}</target>
   </entry>
   <entry id="146">
     <source>{f811}{0100}の{f801}防御力弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}防御力弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}防御力减益！{f801}</target>
   </entry>
   <entry id="147">
     <source>{f811}{0100}の{f801}行動速度弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}行動速度弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}行动速度减益！{f801}</target>
   </entry>
   <entry id="148">
     <source>{f811}{0100}の{f801}命中率弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}命中率弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}命中率减益！{f801}</target>
   </entry>
   <entry id="149">
     <source>{f811}{0100}の{f801}回避率弱体を打ち消した!{f801}</source>
-    <target>{f811}{0100}の{f801}回避率弱体を打ち消した!{f801}</target>
+    <target>消除了{f811}{0100}的{f801}闪避率减益！{f801}</target>
   </entry>
   <entry id="150">
     <source>{f811}{0100}の{f801}物理攻撃力が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}物理攻撃力が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}物理攻击力上升了！{f801}</target>
   </entry>
   <entry id="151">
     <source>{f811}{0100}の{f801}物理防御力が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}物理防御力が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}物理防御力上升了！{f801}</target>
   </entry>
   <entry id="152">
     <source>{f811}{0100}の{f801}行動速度が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}行動速度が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}行动速度上升了！{f801}</target>
   </entry>
   <entry id="153">
     <source>{f811}{0100}の{f801}命中率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}命中率が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}命中率上升了！{f801}</target>
   </entry>
   <entry id="154">
     <source>{f811}{0100}の{f801}回避率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}回避率が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}闪避率上升了！{f801}</target>
   </entry>
   <entry id="155">
     <source>{f811}{0100}の{f801}物理攻撃力が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}物理攻撃力が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}物理攻击力下降了！{f801}</target>
   </entry>
   <entry id="156">
     <source>{f811}{0100}の{f801}物理防御力が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}物理防御力が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}物理防御力下降了！{f801}</target>
   </entry>
   <entry id="157">
     <source>{f811}{0100}の{f801}行動速度が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}行動速度が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}行动速度下降了！{f801}</target>
   </entry>
   <entry id="158">
     <source>{f811}{0100}の{f801}命中率が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}命中率が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}命中率下降了！{f801}</target>
   </entry>
   <entry id="159">
     <source>{f811}{0100}の{f801}回避率が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}回避率が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}闪避率下降了！{f801}</target>
   </entry>
   <entry id="160">
     <source>{f811}{0100}の攻撃に{f801}炎属性が付与された!{f801}</source>
-    <target>{f811}{0100}の攻撃に{f801}炎属性が付与された!{f801}</target>
+    <target>{f811}{0100}的攻击{f801}附加了火属性！{f801}</target>
   </entry>
   <entry id="161">
     <source>{f811}{0100}の攻撃に{f801}氷属性が付与された!{f801}</source>
-    <target>{f811}{0100}の攻撃に{f801}氷属性が付与された!{f801}</target>
+    <target>{f811}{0100}的攻击{f801}附加了冰属性！{f801}</target>
   </entry>
   <entry id="162">
     <source>{f811}{0100}の攻撃に{f801}雷属性が付与された!{f801}</source>
-    <target>{f811}{0100}の攻撃に{f801}雷属性が付与された!{f801}</target>
+    <target>{f811}{0100}的攻击{f801}附加了雷属性！{f801}</target>
   </entry>
   <entry id="163">
     <source>{f811}{0100}は{f801}敵から狙われやすくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}敵から狙われやすくなった!{f801}</target>
+    <target>{f811}{0100}{f801}变得更容易被敌人锁定！{f801}</target>
   </entry>
   <entry id="164">
     <source>{f811}{0100}は{f801}敵から狙われにくくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}敵から狙われにくくなった!{f801}</target>
+    <target>{f811}{0100}{f801}变得难以被敌人锁定！{f801}</target>
   </entry>
   <entry id="165">
     <source>{f811}{0100}は{f801}状態異常が効かなくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}状態異常が効かなくなった!{f801}</target>
+    <target>{f811}{0100}{f801}变得不容易陷入异常状态！{f801}</target>
   </entry>
   <entry id="166">
     <source>{f811}{0100}の最大HPが{f801}一時的に上昇した!{f801}</source>
-    <target>{f811}{0100}の最大HPが{f801}一時的に上昇した!{f801}</target>
+    <target>{f811}{0100}的最大HP{f801}暂时上升了！{f801}</target>
   </entry>
   <entry id="167">
     <source>ディバイドガードメッセージ{f801}</source>
@@ -649,215 +649,215 @@
   </entry>
   <entry id="169">
     <source>しばらくお待ち下さい。{f801}</source>
-    <target>しばらくお待ち下さい。{f801}</target>
+    <target>请稍等片刻。{f801}</target>
   </entry>
   <entry id="170">
     <source>{f811}{0000}は{f801}華麗にかわした!{f801}</source>
-    <target>{f811}{0000}は{f801}華麗にかわした!{f801}</target>
+    <target>{f811}{0000}{f801}华丽地避开了！{f801}</target>
   </entry>
   <entry id="171">
     <source>他のPLAYERが入力しています。{f801}しばらくお待ち下さい。{f801}</source>
-    <target>他のPLAYERが入力しています。{f801}しばらくお待ち下さい。{f801}</target>
+    <target>其他玩家正在输入。{f801}请稍等片刻。{f801}</target>
   </entry>
   <entry id="172">
     <source>{f811}{0100}は{f801}身構えている!{f801}</source>
-    <target>{f811}{0100}は{f801}身構えている!{f801}</target>
+    <target>{f811}{0100}{f801}摆出了准备架势！{f801}</target>
   </entry>
   <entry id="173">
     <source>{f811}{0000}は{f801}{f811}{0100}を、投げつけた!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0100}を、投げつけた!{f801}</target>
+    <target>{f811}{0000}{f801}扔出了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="174">
     <source>{f811}{0100}は{f801}我慢している!{f801}</source>
-    <target>{f811}{0100}は{f801}我慢している!{f801}</target>
+    <target>{f811}{0100}{f801}正在忍耐！{f801}</target>
   </entry>
   <entry id="175">
     <source>{f811}{0100}の{f801}我慢が爆発した!{f801}</source>
-    <target>{f811}{0100}の{f801}我慢が爆発した!{f801}</target>
+    <target>{f811}{0100}{f801}忍耐到了极限！{f801}</target>
   </entry>
   <entry id="176">
     <source>{f811}{0000}は、最後の力で{f801}{f811}{0300}を使った!{f801}</source>
-    <target>{f811}{0000}は、最後の力で{f801}{f811}{0300}を使った!{f801}</target>
+    <target>{f811}{0000}用最后的力气{f801}使用了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="177">
     <source>{f811}{0000}は、最後の力で{f801}{f811}{0300}を上げた!{f801}</source>
-    <target>{f811}{0000}は、最後の力で{f801}{f811}{0300}を上げた!{f801}</target>
+    <target>{f811}{0000}用最后的力气{f801}提升了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="178">
     <source>{f811}{0000}は{f801}輝きを増している!{f801}</source>
-    <target>{f811}{0000}は{f801}輝きを増している!{f801}</target>
+    <target>{f811}{0000}的{f801}光芒愈发耀眼！{f801}</target>
   </entry>
   <entry id="181">
     <source>{f811}{0000}の{f801}耐性が上がった!{f801}</source>
-    <target>{f811}{0000}の{f801}耐性が上がった!{f801}</target>
+    <target>{f811}{0000}的{f801}抗性上升了！{f801}</target>
   </entry>
   <entry id="182">
     <source>{f811}{0000}と、{f811}{0100}と、{f811}{0200}の{f801}耐性が上がった!{f801}</source>
-    <target>{f811}{0000}と、{f811}{0100}と、{f811}{0200}の{f801}耐性が上がった!{f801}</target>
+    <target>{f811}{0000}、{f811}{0100}、{f811}{0200}的{f801}抗性上升了！{f801}</target>
   </entry>
   <entry id="183">
     <source>すべての耐性が上がった!{f801}</source>
-    <target>すべての耐性が上がった!{f801}</target>
+    <target>所有抗性都上升了！{f801}</target>
   </entry>
   <entry id="184">
     <source>{f811}{0000}の触手が{f801}{f811}{0100}と{f811}{0200}を捕らえた!{f801}</source>
-    <target>{f811}{0000}の触手が{f801}{f811}{0100}と{f811}{0200}を捕らえた!{f801}</target>
+    <target>{f811}{0000}的触手{f801}抓住了{f811}{0100}和{f811}{0200}！{f801}</target>
   </entry>
   <entry id="185">
     <source>{f811}{0100}は{f801}{f811}{0200}のダメージを吸収した!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0200}のダメージを吸収した!{f801}</target>
+    <target>{f811}{0100}吸收了{f801}{f811}{0200}的伤害！{f801}</target>
   </entry>
   <entry id="186">
     <source>{f811}{0000}は、暴発した!{f801}</source>
-    <target>{f811}{0000}は、暴発した!{f801}</target>
+    <target>{f811}{0000}爆炸了！{f801}</target>
   </entry>
   <entry id="187">
     <source>{f811}{0100}は{f801}炎のボットを展開した!{f801}</source>
-    <target>{f811}{0100}は{f801}炎のボットを展開した!{f801}</target>
+    <target>{f811}{0100}{f801}设置了火机器人！{f801}</target>
   </entry>
   <entry id="188">
     <source>{f811}{0100}は{f801}氷のボットを展開した!{f801}</source>
-    <target>{f811}{0100}は{f801}氷のボットを展開した!{f801}</target>
+    <target>{f811}{0100}{f801}设置了冰机器人！{f801}</target>
   </entry>
   <entry id="189">
     <source>{f811}{0100}は{f801}雷のボットを展開した!{f801}</source>
-    <target>{f811}{0100}は{f801}雷のボットを展開した!{f801}</target>
+    <target>{f811}{0100}{f801}设置了雷机器人！{f801}</target>
   </entry>
   <entry id="190">
     <source>{f811}{0100}は{f801}動作を停止した!{f801}</source>
-    <target>{f811}{0100}は{f801}動作を停止した!{f801}</target>
+    <target>{f811}{0100}{f801}停止了运作！{f801}</target>
   </entry>
   <entry id="191">
     <source>{f811}{0100}が{f801}反応した!{f801}</source>
-    <target>{f811}{0100}が{f801}反応した!{f801}</target>
+    <target>{f811}{0100}{f801}有反应了！{f801}</target>
   </entry>
   <entry id="192">
     <source>{f811}{0300}起動!{f801}</source>
-    <target>{f811}{0300}起動!{f801}</target>
+    <target>{f811}{0300}启动！{f801}</target>
   </entry>
   <entry id="193">
     <source>{f811}{0000}は{f801}武器を構えて狙いを定めた!{f801}</source>
-    <target>{f811}{0000}は{f801}武器を構えて狙いを定めた!{f801}</target>
+    <target>{f811}{0000}举起武器，{f801}锁定了目标！{f801}</target>
   </entry>
   <entry id="194">
     <source>{f811}{0000}は{f801}武器の構えを解いた!{f801}</source>
-    <target>{f811}{0000}は{f801}武器の構えを解いた!{f801}</target>
+    <target>{f811}{0000}{f801}放下了武器！{f801}</target>
   </entry>
   <entry id="195">
     <source>{f811}{0100}は{f801}身構えている!{f801}</source>
-    <target>{f811}{0100}は{f801}身構えている!{f801}</target>
+    <target>{f811}{0100}{f801}摆出了准备架势！{f801}</target>
   </entry>
   <entry id="196">
     <source>{f811}{0000}は、唸り声をあげ{f801}おそいかかった!{f801}</source>
-    <target>{f811}{0000}は、唸り声をあげ{f801}おそいかかった!{f801}</target>
+    <target>{f811}{0000}发出低吼，{f801}扑了上来！{f801}</target>
   </entry>
   <entry id="197">
     <source>{f811}{0000}は{f801}まどろんでいる!{f801}</source>
-    <target>{f811}{0000}は{f801}まどろんでいる!{f801}</target>
+    <target>{f811}{0000}{f801}正在打瞌睡！{f801}</target>
   </entry>
   <entry id="198">
     <source>{f811}{0000}は、大鎌を振り上げ{f801}おそいかかった!{f801}</source>
-    <target>{f811}{0000}は、大鎌を振り上げ{f801}おそいかかった!{f801}</target>
+    <target>{f811}{0000}高举大镰，{f801}扑了上来！{f801}</target>
   </entry>
   <entry id="199">
     <source>{f811}{0000}の腕が再生する!{f801}</source>
-    <target>{f811}{0000}の腕が再生する!{f801}</target>
+    <target>{f811}{0000}的手臂再生了！{f801}</target>
   </entry>
   <entry id="200">
     <source>{f811}{0000}は{f801}ボーっとしている!{f801}</source>
-    <target>{f811}{0000}は{f801}ボーっとしている!{f801}</target>
+    <target>{f811}{0000}{f801}正在发呆！{f801}</target>
   </entry>
   <entry id="201">
     <source>{f811}{0000}は{f801}毛繕いをしている!{f801}</source>
-    <target>{f811}{0000}は{f801}毛繕いをしている!{f801}</target>
+    <target>{f811}{0000}{f801}正在梳理羽毛！{f801}</target>
   </entry>
   <entry id="202">
     <source>神樹の触手{f801}</source>
-    <target>神樹の触手{f801}</target>
+    <target>神树的触手{f801}</target>
   </entry>
   <entry id="203">
     <source>通信エラーが発生しました!{f801}しばらくお待ち下さい。{f801}</source>
-    <target>通信エラーが発生しました!{f801}しばらくお待ち下さい。{f801}</target>
+    <target>发生连接错误！{f801}请稍等片刻。{f801}</target>
   </entry>
   <entry id="204">
     <source>{f811}{0100}は石化した!{f801}</source>
-    <target>{f811}{0100}は石化した!{f801}</target>
+    <target>{f811}{0100}被石化了！{f801}</target>
   </entry>
   <entry id="205">
     <source>{f811}{0100}の状態異常付着は{f801}無効化された!{f801}</source>
-    <target>{f811}{0100}の状態異常付着は{f801}無効化された!{f801}</target>
+    <target>{f811}{0100}{f801}免疫了该异常状态！{f801}</target>
   </entry>
   <entry id="206">
     <source>{f811}{0100}の縛り付着は{f801}無効化された!{f801}</source>
-    <target>{f811}{0100}の縛り付着は{f801}無効化された!{f801}</target>
+    <target>{f811}{0100}{f801}免疫了束缚效果！{f801}</target>
   </entry>
   <entry id="207">
     <source>{f811}{0000}は{f811}{0100}の{f801}弱点をついた!{f801}</source>
-    <target>{f811}{0000}は{f811}{0100}の{f801}弱点をついた!{f801}</target>
+    <target>{f811}{0000}击中了{f801}{f811}{0100}的弱点！{f801}</target>
   </entry>
   <entry id="208">
     <source>{f811}{0000}の目が{f801}血走ってきた!{f801}</source>
-    <target>{f811}{0000}の目が{f801}血走ってきた!{f801}</target>
+    <target>{f811}{0000}的眼睛{f801}布满了血丝！{f801}</target>
   </entry>
   <entry id="209">
     <source>しかし、{f811}{0100}には{f801}届かなかった!{f801}</source>
-    <target>しかし、{f811}{0100}には{f801}届かなかった!{f801}</target>
+    <target>但是没有触及到{f801}{f811}{0100}！{f801}</target>
   </entry>
   <entry id="210">
     <source>{f811}{0100}は{f801}華麗にかわした!{f801}</source>
-    <target>{f811}{0100}は{f801}華麗にかわした!{f801}</target>
+    <target>{f811}{0100}{f801}华丽地避开了！{f801}</target>
   </entry>
   <entry id="211">
     <source>{f811}{0000}は{f801}目をつぶっているようだ…{f801}</source>
-    <target>{f811}{0000}は{f801}目をつぶっているようだ…{f801}</target>
+    <target>{f811}{0000}{f801}似乎正在闭目养神……{f801}</target>
   </entry>
   <entry id="212">
     <source>{f811}{0100}は{f801}ひるんだ!{f801}</source>
-    <target>{f811}{0100}は{f801}ひるんだ!{f801}</target>
+    <target>{f811}{0100}{f801}畏缩不前！{f801}</target>
   </entry>
   <entry id="213">
     <source>{f811}{0000}は{f801}動くことができない!{f801}</source>
-    <target>{f811}{0000}は{f801}動くことができない!{f801}</target>
+    <target>{f811}{0000}{f801}无法行动！{f801}</target>
   </entry>
   <entry id="214">
     <source>楽園への導き手が現れた!{f801}</source>
-    <target>楽園への導き手が現れた!{f801}</target>
+    <target>乐园的引路者出现！{f801}</target>
   </entry>
   <entry id="215">
     <source>楽園への導き手{f801}</source>
-    <target>楽園への導き手{f801}</target>
+    <target>乐园的引路者{f801}</target>
   </entry>
   <entry id="216">
     <source>歪みし豊穣の神樹{f801}</source>
-    <target>歪みし豊穣の神樹{f801}</target>
+    <target>扭曲的丰饶神树{f801}</target>
   </entry>
   <entry id="217">
     <source>{f811}{0100}は{f801}死に対する耐性がついた!{f801}</source>
-    <target>{f811}{0100}は{f801}死に対する耐性がついた!{f801}</target>
+    <target>{f811}{0100}获得了{f801}对死亡的抗性！{f801}</target>
   </entry>
   <entry id="218">
     <source>{f811}{0100}は{f801}大見得をきった!{f801}</source>
-    <target>{f811}{0100}は{f801}大見得をきった!{f801}</target>
+    <target>{f811}{0100}{f801}摆出了夸张的姿势！{f801}</target>
   </entry>
   <entry id="219">
     <source>{f811}{0100}は状態異常が{f801}付着しなくなった!{f801}</source>
-    <target>{f811}{0100}は状態異常が{f801}付着しなくなった!{f801}</target>
+    <target>{f811}{0100}{f801}不会陷入异常状态了！{f801}</target>
   </entry>
   <entry id="220">
     <source>{f811}{0100}は封じが{f801}付着しなくなった!{f801}</source>
-    <target>{f811}{0100}は封じが{f801}付着しなくなった!{f801}</target>
+    <target>{f811}{0100}{f801}不会陷入封印状态了！{f801}</target>
   </entry>
   <entry id="221">
     <source>{f811}{0100}を{f801}殿軍に任命した!{f801}</source>
-    <target>{f811}{0100}を{f801}殿軍に任命した!{f801}</target>
+    <target>将{f811}{0100}{f801}任命为了后卫！{f801}</target>
   </entry>
   <entry id="222">
     <source>{f811}{0000}は、自爆した!{f801}</source>
-    <target>{f811}{0000}は、自爆した!{f801}</target>
+    <target>{f811}{0000}自爆了！{f801}</target>
   </entry>
   <entry id="223">
     <source>{f811}{0100}の{f801}{f811}{0200}耐性が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}{f811}{0200}耐性が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}{f811}{0200}抗性上升了!{f801}</target>
   </entry>
   <entry id="224">
     <source>{f811}{0000}から{f801}{f811}{0300}が飛び散った!{f801}</source>
@@ -865,31 +865,31 @@
   </entry>
   <entry id="225">
     <source>{f811}{0000}は{f801}{f811}{0100}を捕食した!!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0100}を捕食した!!{f801}</target>
+    <target>{f811}{0000}{f801}捕食了{f811}{0100}!!{f801}</target>
   </entry>
   <entry id="226">
     <source>{f811}{0000}は{f801}{f811}{0100}へと進化した!!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0100}へと進化した!!{f801}</target>
+    <target>{f811}{0000}{f801}进化成了{f811}{0100}!!{f801}</target>
   </entry>
   <entry id="227">
     <source>{f811}{0000}は{f801}モゾモゾ動き始めた…{f801}</source>
-    <target>{f811}{0000}は{f801}モゾモゾ動き始めた…{f801}</target>
+    <target>{f811}{0000}{f801}开始蠕动起来……{f801}</target>
   </entry>
   <entry id="228">
     <source>{f811}{0000}は手を下げた…{f801}</source>
-    <target>{f811}{0000}は手を下げた…{f801}</target>
+    <target>{f811}{0000}垂下了手……{f801}</target>
   </entry>
   <entry id="229">
     <source>{f811}{0000}の手は{f801}封じられている!{f801}</source>
-    <target>{f811}{0000}の手は{f801}封じられている!{f801}</target>
+    <target>{f811}{0000}的手{f801}被封印了！{f801}</target>
   </entry>
   <entry id="230">
     <source>{f811}{0000}の傷口から{f801}触手が出てきた!{f801}</source>
-    <target>{f811}{0000}の傷口から{f801}触手が出てきた!{f801}</target>
+    <target>{f811}{0000}的伤口中{f801}长出了触手！{f801}</target>
   </entry>
   <entry id="231">
     <source>{f811}{0100}の触手が{f801}復活した!{f801}</source>
-    <target>{f811}{0100}の触手が{f801}復活した!{f801}</target>
+    <target>{f811}{0100}的触手{f801}复活了！{f801}</target>
   </entry>
   <entry id="232">
     <source>{f811}{0000}は{f801}力を溜めている!{f801}</source>
@@ -897,71 +897,71 @@
   </entry>
   <entry id="233">
     <source>全体の{f811}{0200}耐性が上昇した!{f801}</source>
-    <target>全体の{f811}{0200}耐性が上昇した!{f801}</target>
+    <target>全员的{f811}{0200}抗性上升了！{f801}</target>
   </entry>
   <entry id="234">
     <source>ドロップ率が上昇した!{f801}</source>
-    <target>ドロップ率が上昇した!{f801}</target>
+    <target>掉落率上升了！{f801}</target>
   </entry>
   <entry id="235">
     <source>次の行動のTP消費が倍になる!{f801}</source>
-    <target>次の行動のTP消費が倍になる!{f801}</target>
+    <target>下次行动的TP消耗翻倍！{f801}</target>
   </entry>
   <entry id="236">
     <source>バーストゲージが減少した!{f801}</source>
-    <target>バーストゲージが減少した!{f801}</target>
+    <target>战意值下降了！{f801}</target>
   </entry>
   <entry id="237">
     <source>{f811}{0100}の{f801}{f811}{0200}耐性が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}{f811}{0200}耐性が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}{f811}{0200}抗性下降了！{f801}</target>
   </entry>
   <entry id="238">
     <source>{f811}{0000}の瞳が開かれる!{f801}</source>
-    <target>{f811}{0000}の瞳が開かれる!{f801}</target>
+    <target>{f811}{0000}睁开了眼睛！{f801}</target>
   </entry>
   <entry id="239">
     <source>{f811}{0000}の触手が再生する!{f801}</source>
-    <target>{f811}{0000}の触手が再生する!{f801}</target>
+    <target>{f811}{0000}的触手再生了！{f801}</target>
   </entry>
   <entry id="240">
     <source>体皮を食い破り、窮極の生命が花開く{f801}</source>
-    <target>体皮を食い破り、窮極の生命が花開く{f801}</target>
+    <target>咬破肉体，穷极的生命绽放{f801}</target>
   </entry>
   <entry id="241">
     <source>しかし、TPが足りなかった!{f801}</source>
-    <target>しかし、TPが足りなかった!{f801}</target>
+    <target>但是TP不足!{f801}</target>
   </entry>
   <entry id="242">
     <source>前列と後列は入れ替わった!{f801}</source>
-    <target>前列と後列は入れ替わった!{f801}</target>
+    <target>前排和后排互换了!{f801}</target>
   </entry>
   <entry id="243">
     <source>冒険者達の消費TPが倍になった!{f801}</source>
-    <target>冒険者達の消費TPが倍になった!{f801}</target>
+    <target>冒险者们的TP消耗翻倍!{f801}</target>
   </entry>
   <entry id="244">
     <source>{f811}{0100}の力が{f801}蓄えられた!{f801}</source>
-    <target>{f811}{0100}の力が{f801}蓄えられた!{f801}</target>
+    <target>{f811}{0100}{f801}已积蓄完力量！{f801}</target>
   </entry>
   <entry id="245">
     <source>{f811}{0100}は{f801}追撃のチャンスに備えた!{f801}</source>
-    <target>{f811}{0100}は{f801}追撃のチャンスに備えた!{f801}</target>
+    <target>{f811}{0100}{f801}在等待追击的机会！{f801}</target>
   </entry>
   <entry id="246">
     <source>{f811}{0000}から{f801}{f811}{0100}が産まれた!{f801}</source>
-    <target>{f811}{0000}から{f801}{f811}{0100}が産まれた!{f801}</target>
+    <target>{f811}{0100}{f801}从{f811}{0000}中诞生了！{f801}</target>
   </entry>
   <entry id="247">
     <source>{f811}{0000}は{f801}連携できなかった!{f801}</source>
-    <target>{f811}{0000}は{f801}連携できなかった!{f801}</target>
+    <target>{f811}{0000}{f801}协作失败！{f801}</target>
   </entry>
   <entry id="248">
     <source>{f811}{0000}に溜めこまれた力が暴走する!{f801}</source>
-    <target>{f811}{0000}に溜めこまれた力が暴走する!{f801}</target>
+    <target>{f811}{0000}体内积蓄的力量开始暴走！{f801}</target>
   </entry>
   <entry id="249">
     <source>名状し難き神が目覚めた!{f801}</source>
-    <target>名状し難き神が目覚めた!{f801}</target>
+    <target>无以名状之神苏醒了！{f801}</target>
   </entry>
   <entry id="250">
     <source>味方全体が{f801}敵の攻撃を阻む光に包まれた!{f801}</source>
@@ -1005,15 +1005,15 @@
   </entry>
   <entry id="260">
     <source>群の中に稀少個体がいる!{f801}</source>
-    <target>群の中に稀少個体がいる!{f801}</target>
+    <target>对手中有稀有敌人!{f801}</target>
   </entry>
   <entry id="261">
     <source>{f811}{0000}の稀少個体だ!{f801}</source>
-    <target>{f811}{0000}の稀少個体だ!{f801}</target>
+    <target>是稀有的{f811}{0000}!{f801}</target>
   </entry>
   <entry id="262">
     <source>{f811}{0000}は力を溜めた!{f801}</source>
-    <target>{f811}{0000}は力を溜めた!{f801}</target>
+    <target>{f811}{0000}积蓄了力量!{f801}</target>
   </entry>
   <entry id="263">
     <source>チェーンジ!{f801}</source>
@@ -1081,7 +1081,7 @@
   </entry>
   <entry id="279">
     <source>バーストゲージが下がった!{f801}</source>
-    <target>バーストゲージが下がった!{f801}</target>
+    <target>战意值下降了!{f801}</target>
   </entry>
   <entry id="280">
     <source>{f811}{0000}の砲剣が{f801}オーバーヒートした!{f801}</source>
@@ -1489,71 +1489,71 @@
   </entry>
   <entry id="448">
     <source>アークピクシーが呼びだされた!{f801}</source>
-    <target>アークピクシーが呼びだされた!{f801}</target>
+    <target>召唤出了高等皮克希!{f801}</target>
   </entry>
   <entry id="449">
     <source>冷酷なる貴婦人が呼びだされた!{f801}</source>
-    <target>冷酷なる貴婦人が呼びだされた!{f801}</target>
+    <target>召唤出了冷酷贵妇!{f801}</target>
   </entry>
   <entry id="450">
     <source>コロトラングルが呼びだされた!{f801}</source>
-    <target>コロトラングルが呼びだされた!{f801}</target>
+    <target>召唤出了汪洋之魔鱼!{f801}</target>
   </entry>
   <entry id="451">
     <source>イワオロペネレプが呼びだされた!{f801}</source>
-    <target>イワオロペネレプが呼びだされた!{f801}</target>
+    <target>召唤出了破岩之神鸟!{f801}</target>
   </entry>
   <entry id="452">
     <source>{f811}{0100}は{f801}状態異常を付けやすくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}状態異常を付けやすくなった!{f801}</target>
+    <target>{f811}{0100}变得{f801}容易附着异常状态了!{f801}</target>
   </entry>
   <entry id="453">
     <source>冒険者達に{f801}力がみなぎっていく・・・{f801}</source>
-    <target>冒険者達に{f801}力がみなぎっていく・・・{f801}</target>
+    <target>冒险者们{f801}不断获得力量・・・{f801}</target>
   </entry>
   <entry id="454">
     <source>冒険者達の{f801}攻撃力が上昇した!{f801}</source>
-    <target>冒険者達の{f801}攻撃力が上昇した!{f801}</target>
+    <target>冒险者们的{f801}攻击力上升了!{f801}</target>
   </entry>
   <entry id="455">
     <source>冒険者達の{f801}防御力が上昇した!{f801}</source>
-    <target>冒険者達の{f801}防御力が上昇した!{f801}</target>
+    <target>冒险者们的{f801}防御力上升了!{f801}</target>
   </entry>
   <entry id="456">
     <source>冒険者達の{f801}行動速度が上昇した!{f801}</source>
-    <target>冒険者達の{f801}行動速度が上昇した!{f801}</target>
+    <target>冒险者们的{f801}行动速度上升了!{f801}</target>
   </entry>
   <entry id="457">
     <source>冒険者達の{f801}命中率が上昇した!{f801}</source>
-    <target>冒険者達の{f801}命中率が上昇した!{f801}</target>
+    <target>冒险者们的{f801}命中率上升了!{f801}</target>
   </entry>
   <entry id="458">
     <source>冒険者達の{f801}使用TPが半減した!{f801}</source>
-    <target>冒険者達の{f801}使用TPが半減した!{f801}</target>
+    <target>冒险者们{f801}TP消耗减半!{f801}</target>
   </entry>
   <entry id="459">
     <source>冒険者達は{f801}最終兵器により全滅した……{f801}</source>
-    <target>冒険者達は{f801}最終兵器により全滅した……{f801}</target>
+    <target>冒险者们{f801}被最终兵器全灭了……{f801}</target>
   </entry>
   <entry id="461">
     <source>しかし、逃げられなかった!{f801}</source>
-    <target>しかし、逃げられなかった!{f801}</target>
+    <target>但是，没能逃走!{f801}</target>
   </entry>
   <entry id="462">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="463">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="464">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="465">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>{f811}{0100}は攻撃を無効化した!{f801}</target>
+    <target>对{f811}{0100}的攻击无效了!{f801}</target>
   </entry>
   <entry id="467">
     <source>{f811}{0000}は{f801}{f811}{0300}で反撃した!{f801}</source>
@@ -2129,15 +2129,15 @@
   </entry>
   <entry id="621">
     <source>アーテリンデとライシュッツ{f801}</source>
-    <target>アーテリンデとライシュッツ{f801}</target>
+    <target>亚特林德与莱施兹{f801}</target>
   </entry>
   <entry id="622">
     <source>アーテリンデとライシュッツが現れた!{f801}</source>
-    <target>アーテリンデとライシュッツが現れた!{f801}</target>
+    <target>亚特林德与莱施兹出现了!{f801}</target>
   </entry>
   <entry id="623">
     <source>アーテリンデとライシュッツを倒した!{f801}</source>
-    <target>アーテリンデとライシュッツを倒した!{f801}</target>
+    <target>打倒了亚特林德与莱施兹!{f801}</target>
   </entry>
   <entry id="624">
     <source>バジリスクとバジリスクアイ{f801}</source>
@@ -2353,7 +2353,7 @@
   </entry>
   <entry id="677">
     <source>{f811}{0100}は{f801}攻撃に耐えた!{f801}</source>
-    <target>{f811}{0100}は{f801}攻撃に耐えた!{f801}</target>
+    <target>{f811}{0100}{f801}承受住了敌人的攻击!{f801}</target>
   </entry>
   <entry id="678">
     <source>{f811}{0000}は極限まで力を込め{f801}フルゲインを放った!{f801}</source>
@@ -2413,10 +2413,10 @@
   </entry>
   <entry id="692">
     <source>{f811}{0000}は刻印を共鳴させ{f801}イグニートレイを放った!{f801}</source>
-    <target>{f811}{0000}は刻印を共鳴させ{f801}イグニートレイを放った!{f801}</target>
+    <target>{f811}{0000}与刻印产生共鸣，{f801}释放了「爆燃射线」！{f801}</target>
   </entry>
   <entry id="693">
     <source>{f811}{0000}は契約の力を解放し{f801}アカシックノヴァを発動した!{f801}</source>
-    <target>{f811}{0000}は契約の力を解放し{f801}アカシックノヴァを発動した!{f801}</target>
+    <target>{f811}{0000}解放了契约之力，{f801}发动了「万象新星」！{f801}</target>
   </entry>
 </mbm>
