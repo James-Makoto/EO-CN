@@ -1825,7 +1825,7 @@ msgstr "威能延续"
 
 msgctxt "453"
 msgid "自己再生"
-msgstr ""
+msgstr "自我再生"
 
 msgctxt "454"
 msgid "アクセラレート"
@@ -2473,7 +2473,7 @@ msgstr "魔刃共鸣"
 
 msgctxt "615"
 msgid "自己再生"
-msgstr ""
+msgstr "自我再生"
 
 msgctxt "616"
 msgid "夢幻残影"

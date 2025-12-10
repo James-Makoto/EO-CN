@@ -161,11 +161,11 @@ msgstr ""
 
 msgctxt "37"
 msgid "焔トカゲ"
-msgstr ""
+msgstr "火焰蜥蜴"
 
 msgctxt "38"
 msgid "雪トカゲ"
-msgstr ""
+msgstr "冰雪蜥蜴"
 
 msgctxt "39"
 msgid "オオヤドカリ"
@@ -437,7 +437,7 @@ msgstr ""
 
 msgctxt "106"
 msgid "ワーボア"
-msgstr ""
+msgstr "野猪人"
 
 msgctxt "107"
 msgid "猪勇の大親分"
@@ -905,11 +905,11 @@ msgstr ""
 
 msgctxt "223"
 msgid "キマイラ"
-msgstr ""
+msgstr "奇美拉"
 
 msgctxt "224"
 msgid "フレイムキューブ"
-msgstr "奇美拉"
+msgstr ""
 
 msgctxt "225"
 msgid "ルインクリーパー"
