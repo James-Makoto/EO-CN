@@ -253,7 +253,7 @@ msgstr "铠龙嫩肉"
 
 msgctxt "60"
 msgid "黒翼のハト胸"
-msgstr "黑翼鸽胸"
+msgstr "黑翼胸肉"
 
 msgctxt "61"
 msgid "ノヅチの太い胴体"
