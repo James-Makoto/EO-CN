@@ -1865,7 +1865,7 @@
   </entry>
   <entry id="547">
     <source>{f811}{0000}は{f801}漆黒の魔騎士を召喚した!{f801}</source>
-    <target>{f811}{0000}は{f801}漆黒の魔騎士を召喚した!{f801}</target>
+    <target>{f811}{0000}は{f801}漆黑魔骑士を召喚した!{f801}</target>
   </entry>
   <entry id="548">
     <source>{f811}{0100}の物理・属性攻撃力と{f801}行動速度が上昇した!{f801}</source>
@@ -1913,11 +1913,11 @@
   </entry>
   <entry id="559">
     <source>オーバーロードの額が輝き始めた!{f801}</source>
-    <target>オーバーロードの額が輝き始めた!{f801}</target>
+    <target>至高之主の額が輝き始めた!{f801}</target>
   </entry>
   <entry id="560">
     <source>オーバーロードから{f801}サテライトキラーが射出された!{f801}</source>
-    <target>オーバーロードから{f801}サテライトキラーが射出された!{f801}</target>
+    <target>至高之主から{f801}サテライトキラーが射出された!{f801}</target>
   </entry>
   <entry id="561">
     <source>バジリスクの瞳があやしく輝き始めた!{f801}</source>
@@ -2065,15 +2065,15 @@
   </entry>
   <entry id="597">
     <source>スキュレーと触手{f801}</source>
-    <target>スキュレーと触手{f801}</target>
+    <target>斯库拉と触手{f801}</target>
   </entry>
   <entry id="598">
     <source>スキュレーの触手{f801}</source>
-    <target>スキュレーの触手{f801}</target>
+    <target>斯库拉の触手{f801}</target>
   </entry>
   <entry id="599">
     <source>フォレスト・セルと触手{f801}</source>
-    <target>フォレスト・セルと触手{f801}</target>
+    <target>森林・细胞と触手{f801}</target>
   </entry>
   <entry id="600">
     <source>{f811}{0100}は{f801}テラー状態になった!{f801}</source>
@@ -2085,15 +2085,15 @@
   </entry>
   <entry id="610">
     <source>フォレスト・セルと複顔{f801}</source>
-    <target>フォレスト・セルと複顔{f801}</target>
+    <target>森林・细胞と複顔{f801}</target>
   </entry>
   <entry id="611">
     <source>フォレスト・セルの触手と複顔{f801}</source>
-    <target>フォレスト・セルの触手と複顔{f801}</target>
+    <target>森林・细胞の触手と複顔{f801}</target>
   </entry>
   <entry id="612">
     <source>フォレスト・セル、触手、複顔{f801}</source>
-    <target>フォレスト・セル、触手、複顔{f801}</target>
+    <target>森林・细胞、触手、複顔{f801}</target>
   </entry>
   <entry id="613">
     <source>始原の萌芽{f801}</source>
@@ -2101,11 +2101,11 @@
   </entry>
   <entry id="614">
     <source>オーバーロードとロードコア{f801}</source>
-    <target>オーバーロードとロードコア{f801}</target>
+    <target>至高之主とロードコア{f801}</target>
   </entry>
   <entry id="615">
     <source>オーバーロードとサテライトキラー{f801}</source>
-    <target>オーバーロードとサテライトキラー{f801}</target>
+    <target>至高之主とサテライトキラー{f801}</target>
   </entry>
   <entry id="616">
     <source>ロードコアとサテライトキラー{f801}</source>
@@ -2113,19 +2113,19 @@
   </entry>
   <entry id="617">
     <source>オーバーロード、ロードコア、サテライトキラー{f801}</source>
-    <target>オーバーロード、ロードコア、サテライトキラー{f801}</target>
+    <target>至高之主、ロードコア、サテライトキラー{f801}</target>
   </entry>
   <entry id="618">
     <source>偉大なる赤竜とドラゴンハート紅{f801}</source>
-    <target>偉大なる赤竜とドラゴンハート紅{f801}</target>
+    <target>伟大红龙と龙之心・红{f801}</target>
   </entry>
   <entry id="619">
     <source>氷嵐の支配者とドラゴンハート蒼{f801}</source>
-    <target>氷嵐の支配者とドラゴンハート蒼{f801}</target>
+    <target>冰暴支配者と龙之心・苍{f801}</target>
   </entry>
   <entry id="620">
     <source>雷鳴と共に現る者とドラゴンハート輝{f801}</source>
-    <target>雷鳴と共に現る者とドラゴンハート輝{f801}</target>
+    <target>雷鸣伴随者と龙之心・辉{f801}</target>
   </entry>
   <entry id="621">
     <source>アーテリンデとライシュッツ{f801}</source>
@@ -2221,7 +2221,7 @@
   </entry>
   <entry id="644">
     <source>始原の幼子の精神体が具現化した!{f801}</source>
-    <target>始原の幼子の精神体が具現化した!{f801}</target>
+    <target>原初幼子の精神体が具現化した!{f801}</target>
   </entry>
   <entry id="645">
     <source>{f811}{0000}のコアが輝き始めた!{f801}</source>
