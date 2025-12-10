@@ -85,7 +85,7 @@
   </entry>
   <entry id="21">
     <source>オプション画面を終了してゲームへ戻ります{f801}</source>
-    <target>将关闭选项画面，并返回标题画面。{f801}</target>
+    <target>关闭选项画面，返回游戏。{f801}</target>
   </entry>
   <entry id="22">
     <source>体験版のセーブデータが削除できます{f801}</source>
