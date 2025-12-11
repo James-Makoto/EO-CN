@@ -749,7 +749,7 @@ msgstr ""
 
 msgctxt "184"
 msgid "潰れた天鉄殻"
-msgstr ""
+msgstr "碎裂的天铁壳"
 
 msgctxt "185"
 msgid "無傷の宿貝"
