@@ -521,7 +521,7 @@
   </entry>
   <entry id="137">
     <source>{f811}{0100}に{f801}かかっていた弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}{f801}身上的减益!{f801}</target>
+    <target>消除了{f811}{0100}{f801}身上的弱化!{f801}</target>
   </entry>
   <entry id="138">
     <source>{f811}{0100}の{f801}強化を消し去った!{f801}</source>
@@ -529,7 +529,7 @@
   </entry>
   <entry id="139">
     <source>{f811}{0100}の{f801}弱体を消し去った!{f801}</source>
-    <target>消除了{f811}{0100}的减益!{f801}</target>
+    <target>消除了{f811}{0100}的弱化!{f801}</target>
   </entry>
   <entry id="140">
     <source>{f811}{0100}の{f801}攻撃力強化を打ち消した!{f801}</source>
@@ -553,23 +553,23 @@
   </entry>
   <entry id="145">
     <source>{f811}{0100}の{f801}攻撃力弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}的{f801}攻击力减益！{f801}</target>
+    <target>消除了{f811}{0100}的{f801}攻击力弱化！{f801}</target>
   </entry>
   <entry id="146">
     <source>{f811}{0100}の{f801}防御力弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}的{f801}防御力减益！{f801}</target>
+    <target>消除了{f811}{0100}的{f801}防御力弱化！{f801}</target>
   </entry>
   <entry id="147">
     <source>{f811}{0100}の{f801}行動速度弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}的{f801}行动速度减益！{f801}</target>
+    <target>消除了{f811}{0100}的{f801}行动速度弱化！{f801}</target>
   </entry>
   <entry id="148">
     <source>{f811}{0100}の{f801}命中率弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}的{f801}命中率减益！{f801}</target>
+    <target>消除了{f811}{0100}的{f801}命中率弱化！{f801}</target>
   </entry>
   <entry id="149">
     <source>{f811}{0100}の{f801}回避率弱体を打ち消した!{f801}</source>
-    <target>消除了{f811}{0100}的{f801}闪避率减益！{f801}</target>
+    <target>消除了{f811}{0100}的{f801}闪避率弱化！{f801}</target>
   </entry>
   <entry id="150">
     <source>{f811}{0100}の{f801}物理攻撃力が上昇した!{f801}</source>
