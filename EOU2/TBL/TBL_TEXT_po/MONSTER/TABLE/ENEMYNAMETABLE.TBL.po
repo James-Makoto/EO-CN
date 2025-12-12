@@ -821,7 +821,7 @@ msgstr "奇美拉"
 
 msgctxt "202"
 msgid "サラマンドラ"
-msgstr "沙罗曼蛇"
+msgstr "沙拉曼达"
 
 msgctxt "203"
 msgid "炎の魔人"
