@@ -2045,7 +2045,7 @@ msgstr "远古饰物"
 
 msgctxt "508"
 msgid "枝に絡まった鞭"
-msgstr "缠绕树枝的辫子"
+msgstr "缠绕树枝的鞭子"
 
 msgctxt "509"
 msgid "落とし物の鞭"
