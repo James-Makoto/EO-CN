@@ -789,7 +789,7 @@ msgstr ""
 
 msgctxt "194"
 msgid "オーバーロード"
-msgstr "至高之主"
+msgstr "至高主宰"
 
 msgctxt "195"
 msgid "フォレスト・セル"
@@ -857,11 +857,11 @@ msgstr "双足飞龙"
 
 msgctxt "211"
 msgid "オーバーロード"
-msgstr "至高之主"
+msgstr "至高主宰"
 
 msgctxt "212"
 msgid "オーバーロード"
-msgstr "至高之主"
+msgstr "至高主宰"
 
 msgctxt "213"
 msgid "偉大なる赤竜"
