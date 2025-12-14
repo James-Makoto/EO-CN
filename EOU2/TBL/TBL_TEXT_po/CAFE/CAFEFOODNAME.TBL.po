@@ -33,7 +33,7 @@ msgstr "滚圆球兽"
 
 msgctxt "5"
 msgid "梟の軟骨"
-msgstr "枭软骨"
+msgstr "枭的软骨"
 
 msgctxt "6"
 msgid "玉になった巨花"
