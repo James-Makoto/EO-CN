@@ -361,7 +361,7 @@ msgstr "三头飞南瓜"
 
 msgctxt "87"
 msgid "シユウ"
-msgstr ""
+msgstr "蚩尤"
 
 msgctxt "88"
 msgid "アステリオス"
@@ -445,7 +445,7 @@ msgstr ""
 
 msgctxt "108"
 msgid "ニチリンソウ"
-msgstr ""
+msgstr "日轮草"
 
 msgctxt "109"
 msgid "バグベア"
@@ -505,11 +505,11 @@ msgstr ""
 
 msgctxt "123"
 msgid "ナイトフラワー"
-msgstr ""
+msgstr "暗夜花"
 
 msgctxt "124"
 msgid "ラクライウサギ"
-msgstr ""
+msgstr "落雷兔"
 
 msgctxt "125"
 msgid "ロンギスクアマ"
