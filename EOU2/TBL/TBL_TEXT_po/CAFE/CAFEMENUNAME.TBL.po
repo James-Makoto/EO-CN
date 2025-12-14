@@ -29,7 +29,7 @@ msgstr "核桃羊羹"
 
 msgctxt "4"
 msgid "鹿肉と樹海野菜のすき鍋"
-msgstr "鹿肉与树海蔬菜的寿喜锅"
+msgstr "树海蔬菜鹿肉寿喜锅"
 
 msgctxt "5"
 msgid "怪しい石焼き鍋"
@@ -117,7 +117,7 @@ msgstr "球兽肉与芦笋中式炒菜"
 
 msgctxt "26"
 msgid "軟骨揚げのシトロン餡かけ丼"
-msgstr "软骨炸物配香橼糖醋的盖饭"
+msgstr "糖醋炸软骨物盖饭"
 
 msgctxt "27"
 msgid "シカ肉のタタキ風"
