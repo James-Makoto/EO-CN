@@ -293,7 +293,7 @@ msgstr "飞奔袭击者"
 
 msgctxt "70"
 msgid "ラプターロード"
-msgstr ""
+msgstr "迅猛龙领主"
 
 msgctxt "71"
 msgid "ヨロイリュウ"
@@ -325,7 +325,7 @@ msgstr "巨大石像"
 
 msgctxt "78"
 msgid "ワイルドウイング"
-msgstr ""
+msgstr "野性之翼"
 
 msgctxt "79"
 msgid "ブラックウイング"
@@ -373,7 +373,7 @@ msgstr "魔界邪龙"
 
 msgctxt "90"
 msgid "ドレッドヒュドラ"
-msgstr ""
+msgstr "骇怖九头蛇"
 
 msgctxt "91"
 msgid "サウロポセイドン"
@@ -389,11 +389,11 @@ msgstr "树海炎王"
 
 msgctxt "94"
 msgid "アイスドレイク"
-msgstr ""
+msgstr "冰霜地龙"
 
 msgctxt "95"
 msgid "サンダードレイク"
-msgstr ""
+msgstr "雷电地龙"
 
 msgctxt "96"
 msgid "ラフレシア"
@@ -405,15 +405,15 @@ msgstr "巨大邪花"
 
 msgctxt "98"
 msgid "突貫する大蛙"
-msgstr ""
+msgstr "冲锋巨蛙"
 
 msgctxt "99"
 msgid "怒れる猛禽"
-msgstr ""
+msgstr "暴怒猛禽"
 
 msgctxt "100"
 msgid "冷獄の傍観者"
-msgstr ""
+msgstr "冷狱的旁观者"
 
 msgctxt "101"
 msgid "蒼翼の踊り手"
@@ -461,11 +461,11 @@ msgstr ""
 
 msgctxt "112"
 msgid "ハギス"
-msgstr ""
+msgstr "哈吉斯"
 
 msgctxt "113"
 msgid "狩り立てる圧壊者"
-msgstr ""
+msgstr "追踪压裂者"
 
 msgctxt "114"
 msgid "NONE"
@@ -473,7 +473,7 @@ msgstr ""
 
 msgctxt "115"
 msgid "レッドハギス"
-msgstr ""
+msgstr "红色哈吉斯"
 
 msgctxt "116"
 msgid "嗅ぎまわる大飛鼠"
@@ -797,19 +797,19 @@ msgstr "森林・细胞"
 
 msgctxt "196"
 msgid "セル・イーラ"
-msgstr ""
+msgstr "细胞・愤怒"
 
 msgctxt "197"
 msgid "セル・イーラ"
-msgstr ""
+msgstr "细胞・愤怒"
 
 msgctxt "198"
 msgid "セル・オディウム"
-msgstr ""
+msgstr "细胞・仇恨"
 
 msgctxt "199"
 msgid "セル・オディウム"
-msgstr ""
+msgstr "细胞・仇恨"
 
 msgctxt "200"
 msgid "フォレスト・セル"
@@ -889,7 +889,7 @@ msgstr ""
 
 msgctxt "219"
 msgid "アラクネー"
-msgstr ""
+msgstr "阿拉克涅"
 
 msgctxt "220"
 msgid "NONE"
@@ -901,7 +901,7 @@ msgstr ""
 
 msgctxt "222"
 msgid "デミファフニール"
-msgstr ""
+msgstr "半・法夫纳"
 
 msgctxt "223"
 msgid "キマイラ"
@@ -957,7 +957,7 @@ msgstr "龙之心・辉"
 
 msgctxt "236"
 msgid "物欲を欺く者"
-msgstr ""
+msgstr "贪欲欺诈者"
 
 msgctxt "237"
 msgid "闇黒に揺らめく者"
@@ -969,7 +969,7 @@ msgstr ""
 
 msgctxt "239"
 msgid "ジェントルトード"
-msgstr ""
+msgstr "绅士蟾蜍"
 
 msgctxt "240"
 msgid "氷の大王"
@@ -985,7 +985,7 @@ msgstr "雷之女王"
 
 msgctxt "243"
 msgid "ティンダロス"
-msgstr ""
+msgstr "廷达洛斯"
 
 msgctxt "244"
 msgid "スノードリフト"
