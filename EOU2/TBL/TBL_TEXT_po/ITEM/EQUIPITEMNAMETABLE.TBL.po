@@ -1185,7 +1185,7 @@ msgstr "斩风爪"
 
 msgctxt "293"
 msgid "棘の拳"
-msgstr "荆棘拳"
+msgstr "刺拳套"
 
 msgctxt "294"
 msgid "ソニッククロー"
@@ -2353,7 +2353,7 @@ msgstr ""
 
 msgctxt "585"
 msgid "リザードブレスト"
-msgstr ""
+msgstr "蜥蜴皮胸甲"
 
 msgctxt "586"
 msgid "ブリガンダイン"
@@ -2385,7 +2385,7 @@ msgstr "纯白胸铠"
 
 msgctxt "593"
 msgid "ワニ皮の胸当て"
-msgstr ""
+msgstr "鳄鱼皮胸甲"
 
 msgctxt "594"
 msgid "妖精の胸当て"
@@ -2913,7 +2913,7 @@ msgstr "妖精之靴"
 
 msgctxt "725"
 msgid "フォレストランナー"
-msgstr "森林跑者"
+msgstr "树海跑者"
 
 msgctxt "726"
 msgid "駿足の靴"
