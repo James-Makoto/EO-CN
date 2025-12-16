@@ -369,7 +369,7 @@ msgstr "钢铁牙齿"
 
 msgctxt "89"
 msgid "コウモリの赤膜"
-msgstr 蝙蝠的红膜""
+msgstr "蝙蝠的红膜"
 
 msgctxt "90"
 msgid "黒竜の足爪"
@@ -609,7 +609,7 @@ msgstr "火龙牙齿"
 
 msgctxt "149"
 msgid "紡がれた糸"
-msgstr 纺成的丝线""
+msgstr "纺成的丝线"
 
 msgctxt "150"
 msgid "魔弾の欠片"
@@ -673,7 +673,7 @@ msgstr "冰龙逆鳞"
 
 msgctxt "165"
 msgid "雷竜の逆鱗"
-msgstr "冰龙逆鳞"
+msgstr "雷龙逆鳞"
 
 msgctxt "166"
 msgid "無傷の赤棘"
