@@ -277,7 +277,7 @@ msgstr "不祥的肉冻"
 
 msgctxt "66"
 msgid "3種食べ比べハンバーグ"
-msgstr "3款汉堡排拼盘"
+msgstr "三款汉堡排拼盘"
 
 msgctxt "67"
 msgid "タルタルステーキ"
