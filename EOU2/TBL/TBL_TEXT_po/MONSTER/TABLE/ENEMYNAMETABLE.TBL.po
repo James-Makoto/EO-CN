@@ -921,7 +921,7 @@ msgstr "主宰核心"
 
 msgctxt "227"
 msgid "サテライトキラー"
-msgstr 卫星杀手"
+msgstr "卫星杀手"
 
 msgctxt "228"
 msgid "始原の萌芽"
