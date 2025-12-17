@@ -85,7 +85,7 @@ msgstr "特制大釜铠龙什锦饭"
 
 msgctxt "18"
 msgid "桜肉のしゃぶしゃぶ"
-msgstr "樱肉涮锅"
+msgstr "马肉涮锅"
 
 msgctxt "19"
 msgid "雲海山鳥の茶碗蒸し"
@@ -281,7 +281,7 @@ msgstr "三款汉堡排拼盘"
 
 msgctxt "67"
 msgid "タルタルステーキ"
-msgstr "鞑靼马肉"
+msgstr "草原风味马肉堡"
 
 msgctxt "68"
 msgid "ストーンガレット "

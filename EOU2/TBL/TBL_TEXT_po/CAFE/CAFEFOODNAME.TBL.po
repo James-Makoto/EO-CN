@@ -261,7 +261,7 @@ msgstr "野槌粗躯"
 
 msgctxt "62"
 msgid "脂の乗った桜肉"
-msgstr "油脂丰富的樱肉"
+msgstr "油脂丰富的马肉"
 
 msgctxt "63"
 msgid "空になった胴体"
