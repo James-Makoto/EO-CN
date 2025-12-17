@@ -1185,7 +1185,7 @@ msgstr "斩风爪"
 
 msgctxt "293"
 msgid "棘の拳"
-msgstr "刺拳套"
+msgstr "棘刺拳套"
 
 msgctxt "294"
 msgid "ソニッククロー"
@@ -1393,7 +1393,7 @@ msgstr "飞龙之枪"
 
 msgctxt "345"
 msgid "手鉾"
-msgstr "手矛"
+msgstr "手持矛"
 
 msgctxt "346"
 msgid "ダミー"
@@ -2665,7 +2665,7 @@ msgstr "埃吉尔之盔"
 
 msgctxt "663"
 msgid "竜兜"
-msgstr "龙兜"
+msgstr "龙之盔"
 
 msgctxt "664"
 msgid "フルフェイス"
