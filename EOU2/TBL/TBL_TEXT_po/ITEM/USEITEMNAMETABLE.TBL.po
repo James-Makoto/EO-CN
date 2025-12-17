@@ -69,11 +69,11 @@ msgstr "粘附薄皮"
 
 msgctxt "14"
 msgid "大鳥の羽"
-msgstr "大鸟羽毛"
+msgstr "巨鸟的羽毛"
 
 msgctxt "15"
 msgid "梟の嘴"
-msgstr "枭之喙"
+msgstr "猫头鹰的鸟喙"
 
 msgctxt "16"
 msgid "金属質の殻"
@@ -317,7 +317,7 @@ msgstr "青生生魂的头骨"
 
 msgctxt "76"
 msgid "苔生した宿貝"
-msgstr "长苔寄居蟹壳"
+msgstr "长苔的寄居蟹壳"
 
 msgctxt "77"
 msgid "うごめく樹材"
@@ -329,7 +329,7 @@ msgstr "金色的角"
 
 msgctxt "79"
 msgid "枯れ果てた棘"
-msgstr "枯萎棘刺"
+msgstr "枯萎的棘刺"
 
 msgctxt "80"
 msgid "虐殺者の鉤爪"
@@ -341,7 +341,7 @@ msgstr "大马士革短爪"
 
 msgctxt "82"
 msgid "柔らかな黒皮"
-msgstr "柔软黑皮革"
+msgstr "柔软的黑皮革"
 
 msgctxt "83"
 msgid "トカゲの王冠"
@@ -377,11 +377,11 @@ msgstr "黑龙足爪"
 
 msgctxt "91"
 msgid "輝く尾骨"
-msgstr ""
+msgstr "闪耀的尾骨"
 
 msgctxt "92"
 msgid "雷兎の鋭歯"
-msgstr "雷兔锐齿"
+msgstr "雷兔的锐齿"
 
 msgctxt "93"
 msgid "弾力のある背羽"
@@ -397,7 +397,7 @@ msgstr "奇怪的鹿角"
 
 msgctxt "96"
 msgid "刃こぼれした剣片"
-msgstr ""
+msgstr "碎刃剑片"
 
 msgctxt "97"
 msgid "魔竜の骨鱗"
@@ -409,7 +409,7 @@ msgstr "黄色绒毛"
 
 msgctxt "99"
 msgid "使い古された折柄"
-msgstr ""
+msgstr "破旧剑柄"
 
 msgctxt "100"
 msgid "黒革の口輪"
@@ -429,11 +429,11 @@ msgstr "球状水泡"
 
 msgctxt "104"
 msgid "焔鉄のカケラ"
-msgstr ""
+msgstr "焰铁碎片"
 
 msgctxt "105"
 msgid "獰黒獣の突牙"
-msgstr ""
+msgstr "凶黑兽的尖牙"
 
 msgctxt "106"
 msgid "骨竜の胸殻"
@@ -441,15 +441,15 @@ msgstr "骨龙胸壳"
 
 msgctxt "107"
 msgid "熾火石"
-msgstr ""
+msgstr "炽火石"
 
 msgctxt "108"
 msgid "不気味な紫尾"
-msgstr ""
+msgstr "诡异的紫尾"
 
 msgctxt "109"
 msgid "殺戮者の鋭爪"
-msgstr ""
+msgstr "屠戮者的利爪"
 
 msgctxt "110"
 msgid "額の一枚羽"
@@ -465,15 +465,15 @@ msgstr "强韧的蛛丝"
 
 msgctxt "113"
 msgid "純白の狼牙"
-msgstr ""
+msgstr "纯白狼牙"
 
 msgctxt "114"
 msgid "邪竜の紫鱗"
-msgstr ""
+msgstr "邪龙紫鳞"
 
 msgctxt "115"
 msgid "特大の水晶体"
-msgstr ""
+msgstr "特大水晶体"
 
 msgctxt "116"
 msgid "ゼラチン質の青核"
@@ -497,23 +497,23 @@ msgstr "淡红软皮"
 
 msgctxt "121"
 msgid "醜悪な小角"
-msgstr ""
+msgstr "丑陋小角"
 
 msgctxt "122"
 msgid "堅剛な壁片"
-msgstr ""
+msgstr "坚固墙片"
 
 msgctxt "123"
 msgid "薄紫の花蔓"
-msgstr ""
+msgstr "淡紫花蔓"
 
 msgctxt "124"
 msgid "黄金色の小爪"
-msgstr ""
+msgstr "黄金色小爪"
 
 msgctxt "125"
 msgid "赤角の欠片"
-msgstr ""
+msgstr "赤角碎片"
 
 msgctxt "126"
 msgid "蛙のホホ皮"
@@ -521,7 +521,7 @@ msgstr "青蛙脸颊皮"
 
 msgctxt "127"
 msgid "猛禽の漆黒羽"
-msgstr ""
+msgstr "猛禽漆黑羽"
 
 msgctxt "128"
 msgid "血塗れの大刃"
@@ -553,7 +553,7 @@ msgstr "白色结晶"
 
 msgctxt "135"
 msgid "戦慄の尾針"
-msgstr ""
+msgstr "战栗尾针"
 
 msgctxt "136"
 msgid "煉氷蝶の翅"
@@ -573,11 +573,11 @@ msgstr "危险球根"
 
 msgctxt "140"
 msgid "青白い呪骨"
-msgstr ""
+msgstr "青白咒骨"
 
 msgctxt "141"
 msgid "玉鋼のカケラ"
-msgstr ""
+msgstr "玉钢碎片"
 
 msgctxt "142"
 msgid "氷爆葛の果皮"
@@ -585,7 +585,7 @@ msgstr "冰爆葛的果皮"
 
 msgctxt "143"
 msgid "魔獣の蛇尾"
-msgstr ""
+msgstr "魔兽的蛇尾"
 
 msgctxt "144"
 msgid "飛竜の鉤爪"
@@ -593,15 +593,15 @@ msgstr "飞龙的钩爪"
 
 msgctxt "145"
 msgid "硬質な蛇皮"
-msgstr ""
+msgstr "硬质蛇皮"
 
 msgctxt "146"
 msgid "紅蓮の膜翼"
-msgstr ""
+msgstr "红莲膜翼"
 
 msgctxt "147"
 msgid "焔鉄の骨髄"
-msgstr ""
+msgstr "焰铁骨髓"
 
 msgctxt "148"
 msgid "火竜の牙"
@@ -613,11 +613,11 @@ msgstr "纺成的丝线"
 
 msgctxt "150"
 msgid "魔弾の欠片"
-msgstr ""
+msgstr "魔弹碎片"
 
 msgctxt "151"
 msgid "呪衣の切れ端"
-msgstr ""
+msgstr "咒衣残片"
 
 msgctxt "152"
 msgid "氷姫の雪蔓"
@@ -641,7 +641,7 @@ msgstr "雷龙胡须"
 
 msgctxt "157"
 msgid "守護獣の鉄膚"
-msgstr ""
+msgstr "守护兽的铁肤"
 
 msgctxt "158"
 msgid "上帝の逆鱗"
@@ -649,7 +649,7 @@ msgstr "上帝逆鳞"
 
 msgctxt "159"
 msgid "魔神の礎"
-msgstr ""
+msgstr "魔神之礎"
 
 msgctxt "160"
 msgid "石像のカケラ"
@@ -657,11 +657,11 @@ msgstr "石像碎片"
 
 msgctxt "161"
 msgid "千手巨人の魔皮"
-msgstr ""
+msgstr "千手举人的魔皮"
 
 msgctxt "162"
 msgid "原初の果実"
-msgstr ""
+msgstr "原初果实"
 
 msgctxt "163"
 msgid "火竜の逆鱗"
@@ -681,7 +681,7 @@ msgstr "无伤赤棘刺"
 
 msgctxt "167"
 msgid "凍った翼竜骨"
-msgstr ""
+msgstr "冰冻翼龙骨"
 
 msgctxt "168"
 msgid "素材169"
@@ -689,43 +689,43 @@ msgstr ""
 
 msgctxt "169"
 msgid "電気を帯びた殻"
-msgstr "带电蜗壳"
+msgstr "带电的蜗壳"
 
 msgctxt "170"
 msgid "切断された鹿角"
-msgstr ""
+msgstr "被斩下的鹿角"
 
 msgctxt "171"
 msgid "穴のあいた蝙蝠羽"
-msgstr ""
+msgstr "穿洞的蝙蝠翅膀"
 
 msgctxt "172"
 msgid "斬られた頭角"
-msgstr ""
+msgstr "被斩下的头角"
 
 msgctxt "173"
 msgid "震えた前歯"
-msgstr ""
+msgstr "颤动的前牙"
 
 msgctxt "174"
 msgid "呪われた蛙皮"
-msgstr ""
+msgstr "被诅咒的蛙皮"
 
 msgctxt "175"
 msgid "封じられた石腕"
-msgstr ""
+msgstr "被封印的石臂"
 
 msgctxt "176"
 msgid "狂った球根"
-msgstr ""
+msgstr "狂乱的球根"
 
 msgctxt "177"
 msgid "圧した猪皮"
-msgstr ""
+msgstr "压制的猪皮"
 
 msgctxt "178"
 msgid "封じられた翼眼"
-msgstr ""
+msgstr "被封印的翼眼"
 
 msgctxt "179"
 msgid "氷漬けの紅鉄片"
@@ -733,15 +733,15 @@ msgstr "冰封的红铁片"
 
 msgctxt "180"
 msgid "刹那の長棘"
-msgstr ""
+msgstr "刹那长荆刺"
 
 msgctxt "181"
 msgid "一突きの心臓"
-msgstr ""
+msgstr "瞬杀的心脏"
 
 msgctxt "182"
 msgid "燃え残った溶岩"
-msgstr ""
+msgstr "燃尽的熔岩"
 
 msgctxt "183"
 msgid "斬られた前翅"
@@ -753,35 +753,35 @@ msgstr "碎裂的天铁壳"
 
 msgctxt "185"
 msgid "無傷の宿貝"
-msgstr ""
+msgstr "无伤的宿贝"
 
 msgctxt "186"
 msgid "凍った白石"
-msgstr ""
+msgstr "冰冻白石"
 
 msgctxt "187"
 msgid "狂気に満ちた狼眼"
-msgstr ""
+msgstr "疯狂的狼眼"
 
 msgctxt "188"
 msgid "石化した七首"
-msgstr ""
+msgstr "石化的七首"
 
 msgctxt "189"
 msgid "乱れた氷剣骨"
-msgstr ""
+msgstr "狂乱的冰剑骨"
 
 msgctxt "190"
 msgid "委縮した濃蜜"
-msgstr ""
+msgstr "被吓浓缩的蜜"
 
 msgctxt "191"
 msgid "封じられた鋏角"
-msgstr ""
+msgstr "被封印的钳角"
 
 msgctxt "192"
 msgid "凍った青花弁"
-msgstr ""
+msgstr "冰冻蓝花瓣"
 
 msgctxt "193"
 msgid "休眠した黒種子"
@@ -789,7 +789,7 @@ msgstr "休眠的黑色种子"
 
 msgctxt "194"
 msgid "封じられた赤角"
-msgstr ""
+msgstr "被封印的赤角"
 
 msgctxt "195"
 msgid "震えた甲殻"
@@ -797,39 +797,39 @@ msgstr "颤动的甲壳"
 
 msgctxt "196"
 msgid "毒染めの雷角"
-msgstr ""
+msgstr "染毒的雷角"
 
 msgctxt "197"
 msgid "光失の魔眼"
-msgstr ""
+msgstr "失明的魔眼"
 
 msgctxt "198"
 msgid "封じられた根"
-msgstr ""
+msgstr "被封印的根"
 
 msgctxt "199"
 msgid "頭青石"
-msgstr ""
+msgstr "头青石"
 
 msgctxt "200"
 msgid "石化した鳴尾"
-msgstr ""
+msgstr "石化的鸣尾"
 
 msgctxt "201"
 msgid "眠った黒蹄"
-msgstr ""
+msgstr "沉睡的黑蹄"
 
 msgctxt "202"
 msgid "呪われた黒核"
-msgstr ""
+msgstr "被诅咒的黑核"
 
 msgctxt "203"
 msgid "畏縮する真白銀"
-msgstr ""
+msgstr "胆怯的真白银"
 
 msgctxt "204"
 msgid "封じられた漆黒片"
-msgstr ""
+msgstr "被封印的漆黑片"
 
 msgctxt "205"
 msgid "緋緋色金の剣片"
@@ -837,19 +837,19 @@ msgstr "绯绯色金剑片"
 
 msgctxt "206"
 msgid "練磨された宿貝"
-msgstr ""
+msgstr "打磨过的宿贝"
 
 msgctxt "207"
 msgid "石化した紫鱗"
-msgstr ""
+msgstr "石化的紫鳞"
 
 msgctxt "208"
 msgid "毒染めの柔皮"
-msgstr ""
+msgstr "染毒的软皮"
 
 msgctxt "209"
 msgid "狂い針"
-msgstr ""
+msgstr "狂乱刺"
 
 msgctxt "210"
 msgid "傷の無い黒獣皮"
@@ -857,51 +857,51 @@ msgstr ""
 
 msgctxt "211"
 msgid "無光の王冠"
-msgstr ""
+msgstr "失明的王冠"
 
 msgctxt "212"
 msgid "呪われた白角"
-msgstr ""
+msgstr "被诅咒的白角"
 
 msgctxt "213"
 msgid "焼け焦げた赤鉄"
-msgstr ""
+msgstr "烧焦的赤铁"
 
 msgctxt "214"
 msgid "突き落とされた牙"
-msgstr ""
+msgstr "被刺落的牙"
 
 msgctxt "215"
 msgid "極上の呪花"
-msgstr ""
+msgstr "极品诅咒花"
 
 msgctxt "216"
 msgid "毒まみれの南瓜"
-msgstr ""
+msgstr "淬毒的南瓜"
 
 msgctxt "217"
 msgid "玉鋼の塊"
-msgstr ""
+msgstr "玉钢块"
 
 msgctxt "218"
 msgid "永劫の氷皮"
-msgstr ""
+msgstr "永劫冰皮"
 
 msgctxt "219"
 msgid "魔獣の毒翼"
-msgstr ""
+msgstr "魔兽的毒翼"
 
 msgctxt "220"
 msgid "飛竜の痺れた翼"
-msgstr ""
+msgstr "麻痹飞龙翼"
 
 msgctxt "221"
 msgid "瞬刻の剣爪"
-msgstr ""
+msgstr "瞬刻剑爪"
 
 msgctxt "222"
 msgid "焔の吐息"
-msgstr ""
+msgstr "火焰吐息"
 
 msgctxt "223"
 msgid "灼熱の竜角"
@@ -917,11 +917,11 @@ msgstr "冰冻龙翼"
 
 msgctxt "226"
 msgid "女王の風切り羽"
-msgstr ""
+msgstr "女王风翼羽"
 
 msgctxt "227"
 msgid "霹靂の竜眼"
-msgstr ""
+msgstr "霹雳龙眼"
 
 msgctxt "228"
 msgid "緋緋色金の尾骨"
@@ -929,7 +929,7 @@ msgstr "绯绯色金尾骨"
 
 msgctxt "229"
 msgid "石像の剛腕"
-msgstr ""
+msgstr "石像刚臂"
 
 msgctxt "230"
 msgid "千手巨人の砕杭"
@@ -937,11 +937,11 @@ msgstr "千手巨人的碎桩"
 
 msgctxt "231"
 msgid "凝固した溶岩"
-msgstr ""
+msgstr "凝固熔岩"
 
 msgctxt "232"
 msgid "硬質なワニ皮"
-msgstr ""
+msgstr "硬质鳄鱼皮"
 
 msgctxt "233"
 msgid "純白の冠羽"
@@ -1369,35 +1369,35 @@ msgstr "带刺的脸颊皮"
 
 msgctxt "339"
 msgid "圧された蛙皮"
-msgstr ""
+msgstr "压制蛙皮"
 
 msgctxt "340"
 msgid "大王の胸板"
-msgstr ""
+msgstr "大王胸板"
 
 msgctxt "341"
 msgid "制約された氷腕"
-msgstr ""
+msgstr "受制的冰腕"
 
 msgctxt "342"
 msgid "変貌の雷輪"
-msgstr ""
+msgstr "变貌的雷轮"
 
 msgctxt "343"
 msgid "煩擾の弓幹"
-msgstr ""
+msgstr "烦扰弓干"
 
 msgctxt "344"
 msgid "異形の紫皮"
-msgstr ""
+msgstr "异形的紫皮"
 
 msgctxt "345"
 msgid "封じられた毒爪"
-msgstr ""
+msgstr "被封印的毒爪"
 
 msgctxt "346"
 msgid "棘付きの口髭"
-msgstr ""
+msgstr "带刺的胡须"
 
 msgctxt "347"
 msgid "ユニーク27"
@@ -1405,27 +1405,27 @@ msgstr ""
 
 msgctxt "348"
 msgid "アカガネのベルト"
-msgstr ""
+msgstr "赤铜腰带"
 
 msgctxt "349"
 msgid "シロガネのベルト"
-msgstr ""
+msgstr "白银腰带"
 
 msgctxt "350"
 msgid "コガネのベルト"
-msgstr ""
+msgstr "黄金腰带"
 
 msgctxt "351"
 msgid "鹿角霊芝"
-msgstr ""
+msgstr "鹿角灵芝"
 
 msgctxt "352"
 msgid "血黒の朝露"
-msgstr ""
+msgstr "血黑晨露"
 
 msgctxt "353"
 msgid "薄葉甘野老"
-msgstr ""
+msgstr "薄叶甘野老"
 
 msgctxt "354"
 msgid "ユニーク34"
@@ -2633,87 +2633,87 @@ msgstr "火之术式魔导石"
 
 msgctxt "655"
 msgid "ヒュプノバイトのグリモア"
-msgstr ""
+msgstr "睡神突刺魔导石"
 
 msgctxt "656"
 msgid "先の先のグリモア"
-msgstr ""
+msgstr "先の先魔导石"
 
 msgctxt "657"
 msgid "フェンサーのグリモア"
-msgstr ""
+msgstr "フェンサー魔导石"
 
 msgctxt "658"
 msgid "零距離射撃のグリモア"
-msgstr ""
+msgstr "零距離射撃魔导石"
 
 msgctxt "659"
 msgid "危機感知のグリモア"
-msgstr ""
+msgstr "危機感知魔导石"
 
 msgctxt "660"
 msgid "ブラッドルージュのグリモア"
-msgstr ""
+msgstr "ブラッドルージュ魔导石"
 
 msgctxt "661"
 msgid "オーバーヒールのグリモア"
-msgstr ""
+msgstr "オーバーヒール魔导石"
 
 msgctxt "662"
 msgid "みがわりのグリモア"
-msgstr ""
+msgstr "みがわり魔导石"
 
 msgctxt "663"
 msgid "限界突破のグリモア"
-msgstr ""
+msgstr "限界突破魔导石"
 
 msgctxt "664"
 msgid "巫術:呼応のグリモア"
-msgstr ""
+msgstr "巫術:呼応魔导石"
 
 msgctxt "665"
 msgid "音の反響のグリモア"
-msgstr ""
+msgstr "音の反響魔导石"
 
 msgctxt "666"
 msgid "ダブルアクションのグリモア"
-msgstr ""
+msgstr "ダブルアクション魔导石"
 
 msgctxt "667"
 msgid "センチネルガードのグリモア"
-msgstr ""
+msgstr "センチネルガード魔导石"
 
 msgctxt "668"
 msgid "リインカーネートのグリモア"
-msgstr ""
+msgstr "リインカーネート魔导石"
 
 msgctxt "669"
 msgid "クリアランスのグリモア"
-msgstr ""
+msgstr "クリアランス魔导石"
 
 msgctxt "670"
 msgid "圧縮錬金術のグリモア"
-msgstr ""
+msgstr "圧縮錬金術魔导石"
 
 msgctxt "671"
 msgid "封の呪言:上肢のグリモア"
-msgstr ""
+msgstr "封の呪言:上肢魔导石"
 
 msgctxt "672"
 msgid "採掘のグリモア"
-msgstr ""
+msgstr "挖掘魔导石"
 
 msgctxt "673"
 msgid "癒しのリズムのグリモア"
-msgstr ""
+msgstr "癒しのリズム魔导石"
 
 msgctxt "674"
 msgid "ホーリーギフトのグリモア"
-msgstr ""
+msgstr "ホーリーギフト魔导石"
 
 msgctxt "675"
 msgid "バインドリカバリのグリモア"
-msgstr ""
+msgstr "バインドリカバリ魔导石"
 
 msgctxt "676"
 msgid "グリモア026"

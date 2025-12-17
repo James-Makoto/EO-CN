@@ -2177,7 +2177,7 @@ msgstr "树海特选回锅肉"
 
 msgctxt "541"
 msgid "梟の軟骨からあげ"
-msgstr "炸枭软骨"
+msgstr "炸猫头鹰软骨"
 
 msgctxt "542"
 msgid "肉と野菜のすき鍋"

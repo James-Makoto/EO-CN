@@ -157,7 +157,7 @@ msgstr "巨钳蟹"
 
 msgctxt "36"
 msgid "モモンガトカゲ"
-msgstr ""
+msgstr "飞鼠蜥蜴"
 
 msgctxt "37"
 msgid "焔トカゲ"
@@ -197,7 +197,7 @@ msgstr "明胶怪之王"
 
 msgctxt "46"
 msgid "シロショウジョウ"
-msgstr ""
+msgstr "白猩猩"
 
 msgctxt "47"
 msgid "ブラックネイル"
@@ -261,7 +261,7 @@ msgstr "毛虫"
 
 msgctxt "62"
 msgid "マッドキャタピラ"
-msgstr ""
+msgstr "泥土毛虫"
 
 msgctxt "63"
 msgid "ハイクローラー"
@@ -417,7 +417,7 @@ msgstr "冷狱的旁观者"
 
 msgctxt "101"
 msgid "蒼翼の踊り手"
-msgstr ""
+msgstr "苍翼舞者"
 
 msgctxt "102"
 msgid "螺旋の水泡樹"
@@ -425,15 +425,15 @@ msgstr "螺旋水泡树"
 
 msgctxt "103"
 msgid "ベビーサラマンダ"
-msgstr ""
+msgstr "火焰幼蜥"
 
 msgctxt "104"
 msgid "ジャムクリーパー"
-msgstr ""
+msgstr "拦路潜伏者"
 
 msgctxt "105"
 msgid "自走型爆弾"
-msgstr ""
+msgstr "自走式炸弹"
 
 msgctxt "106"
 msgid "ワーボア"
@@ -441,7 +441,7 @@ msgstr "野猪人"
 
 msgctxt "107"
 msgid "猪勇の大親分"
-msgstr ""
+msgstr "勇猪大头目"
 
 msgctxt "108"
 msgid "ニチリンソウ"
@@ -885,7 +885,7 @@ msgstr "亚特琳德"
 
 msgctxt "218"
 msgid "バジリスク"
-msgstr ""
+msgstr "蛇鸡兽"
 
 msgctxt "219"
 msgid "アラクネー"
@@ -913,7 +913,7 @@ msgstr ""
 
 msgctxt "225"
 msgid "ルインクリーパー"
-msgstr ""
+msgstr "毁灭潜伏者"
 
 msgctxt "226"
 msgid "ロードコア"
@@ -929,7 +929,7 @@ msgstr ""
 
 msgctxt "229"
 msgid "バジリスクアイ"
-msgstr ""
+msgstr "蛇鸡兽之眼"
 
 msgctxt "230"
 msgid "NONE"
