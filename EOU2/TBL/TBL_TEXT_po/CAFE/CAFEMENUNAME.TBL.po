@@ -281,7 +281,7 @@ msgstr "三款汉堡排拼盘"
 
 msgctxt "67"
 msgid "タルタルステーキ"
-msgstr "草原风味马肉堡"
+msgstr "塔塔尔马肉"
 
 msgctxt "68"
 msgid "ストーンガレット "
