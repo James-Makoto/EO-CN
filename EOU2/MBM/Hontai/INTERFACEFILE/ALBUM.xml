@@ -161,7 +161,7 @@
   </entry>
   <entry id="218">
     <source>黒の護り手{f801}</source>
-    <target>黒の護り手{f801}</target>
+    <target>黑之守护者{f801}</target>
   </entry>
   <entry id="219">
     <source>教授{f801}</source>
@@ -169,6 +169,6 @@
   </entry>
   <entry id="220">
     <source>掛け合い{f801}</source>
-    <target>掛け合い{f801}</target>
+    <target>对话{f801}</target>
   </entry>
 </mbm>

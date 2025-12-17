@@ -537,11 +537,11 @@ msgstr "恶魔翼骨"
 
 msgctxt "131"
 msgid "漆黒の鉄鋼片"
-msgstr "漆黑铁钢片"
+msgstr "漆黑的铁钢片"
 
 msgctxt "132"
 msgid "純白銅の外殻"
-msgstr "純白銅外壳"
+msgstr "純白铜的外壳"
 
 msgctxt "133"
 msgid "ウーツ鋼のカケラ"
