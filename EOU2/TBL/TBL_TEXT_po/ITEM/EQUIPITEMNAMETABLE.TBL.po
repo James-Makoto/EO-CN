@@ -2185,7 +2185,7 @@ msgstr ""
 
 msgctxt "543"
 msgid "MSアーマー"
-msgstr "MS装甲"
+msgstr ""
 
 msgctxt "544"
 msgid "ダミー"
