@@ -1361,7 +1361,7 @@ msgstr ""
 
 msgctxt "337"
 msgid "漢の羽毛"
-msgstr ""
+msgstr "男子汉的羽毛"
 
 msgctxt "338"
 msgid "棘の付いたホホ皮"
