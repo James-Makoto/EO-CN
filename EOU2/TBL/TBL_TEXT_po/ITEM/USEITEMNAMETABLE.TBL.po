@@ -853,7 +853,7 @@ msgstr "狂乱刺"
 
 msgctxt "210"
 msgid "傷の無い黒獣皮"
-msgstr ""
+msgstr "无伤的黑兽皮"
 
 msgctxt "211"
 msgid "無光の王冠"
