@@ -449,7 +449,7 @@ msgstr "日轮草"
 
 msgctxt "109"
 msgid "バグベア"
-msgstr "小病哥布林"
+msgstr "弱疾哥布林"
 
 msgctxt "110"
 msgid "ジャッカロープ"
