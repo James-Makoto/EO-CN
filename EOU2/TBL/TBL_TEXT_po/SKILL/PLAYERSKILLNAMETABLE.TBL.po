@@ -2641,15 +2641,15 @@ msgstr ""
 
 msgctxt "657"
 msgid "斬術の起動符"
-msgstr ""
+msgstr "斩术启动符"
 
 msgctxt "658"
 msgid "壊術の起動符"
-msgstr ""
+msgstr "坏术启动符"
 
 msgctxt "659"
 msgid "突術の起動符"
-msgstr ""
+msgstr "突术启动符"
 
 msgctxt "660"
 msgid "恐怖の香"
