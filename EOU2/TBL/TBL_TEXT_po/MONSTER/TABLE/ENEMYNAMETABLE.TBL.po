@@ -925,7 +925,7 @@ msgstr "卫星杀手"
 
 msgctxt "228"
 msgid "始原の萌芽"
-msgstr "始原萌芽"
+msgstr "原初萌芽"
 
 msgctxt "229"
 msgid "バジリスクアイ"
@@ -1033,7 +1033,7 @@ msgstr "爱娜温"
 
 msgctxt "255"
 msgid "始原の魔神"
-msgstr "始原魔神"
+msgstr "原初魔神"
 
 msgctxt "256"
 msgid "カエルの袋"
@@ -1045,27 +1045,27 @@ msgstr "毒素容器"
 
 msgctxt "258"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "259"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "260"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "261"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "262"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "263"
 msgid "始原の瞳"
-msgstr "始原眼瞳"
+msgstr "原初眼瞳"
 
 msgctxt "264"
 msgid "NONE"
