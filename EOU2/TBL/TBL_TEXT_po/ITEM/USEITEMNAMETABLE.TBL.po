@@ -753,7 +753,7 @@ msgstr "碎裂的天铁壳"
 
 msgctxt "185"
 msgid "無傷の宿貝"
-msgstr "无伤的宿贝"
+msgstr "无伤的寄居壳"
 
 msgctxt "186"
 msgid "凍った白石"
@@ -837,7 +837,7 @@ msgstr "绯绯色金剑片"
 
 msgctxt "206"
 msgid "練磨された宿貝"
-msgstr "打磨过的宿贝"
+msgstr "打磨过的寄居壳"
 
 msgctxt "207"
 msgid "石化した紫鱗"
