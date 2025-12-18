@@ -157,7 +157,7 @@ msgstr "巨钳蟹"
 
 msgctxt "36"
 msgid "モモンガトカゲ"
-msgstr ""
+msgstr "飞鼠蜥蜴"
 
 msgctxt "37"
 msgid "焔トカゲ"
@@ -197,7 +197,7 @@ msgstr "明胶怪之王"
 
 msgctxt "46"
 msgid "シロショウジョウ"
-msgstr ""
+msgstr "白猩猩"
 
 msgctxt "47"
 msgid "ブラックネイル"
@@ -261,7 +261,7 @@ msgstr "毛虫"
 
 msgctxt "62"
 msgid "マッドキャタピラ"
-msgstr ""
+msgstr "泥土毛虫"
 
 msgctxt "63"
 msgid "ハイクローラー"
@@ -289,7 +289,7 @@ msgstr "漆黑魔骑士"
 
 msgctxt "69"
 msgid "駆け寄る襲撃者"
-msgstr "飞奔袭击者"
+msgstr "飞奔的袭击者"
 
 msgctxt "70"
 msgid "ラプターロード"
@@ -417,7 +417,7 @@ msgstr "冷狱的旁观者"
 
 msgctxt "101"
 msgid "蒼翼の踊り手"
-msgstr ""
+msgstr "苍翼舞者"
 
 msgctxt "102"
 msgid "螺旋の水泡樹"
@@ -425,15 +425,15 @@ msgstr "螺旋水泡树"
 
 msgctxt "103"
 msgid "ベビーサラマンダ"
-msgstr ""
+msgstr "火焰幼蜥"
 
 msgctxt "104"
 msgid "ジャムクリーパー"
-msgstr ""
+msgstr "拦路潜伏者"
 
 msgctxt "105"
 msgid "自走型爆弾"
-msgstr ""
+msgstr "自走式炸弹"
 
 msgctxt "106"
 msgid "ワーボア"
@@ -441,7 +441,7 @@ msgstr "野猪人"
 
 msgctxt "107"
 msgid "猪勇の大親分"
-msgstr ""
+msgstr "勇猪大头目"
 
 msgctxt "108"
 msgid "ニチリンソウ"
@@ -449,15 +449,15 @@ msgstr "日轮草"
 
 msgctxt "109"
 msgid "バグベア"
-msgstr ""
+msgstr "弱疾哥布林"
 
 msgctxt "110"
 msgid "ジャッカロープ"
-msgstr ""
+msgstr "鹿角兔怪"
 
 msgctxt "111"
 msgid "アホロートル"
-msgstr ""
+msgstr "六角恐龙"
 
 msgctxt "112"
 msgid "ハギス"
@@ -477,31 +477,31 @@ msgstr "红色哈吉斯"
 
 msgctxt "116"
 msgid "嗅ぎまわる大飛鼠"
-msgstr ""
+msgstr "四处嗅探的大飞鼠"
 
 msgctxt "117"
 msgid "飛躍する大蛙"
-msgstr ""
+msgstr "飞跃的大蛙"
 
 msgctxt "118"
 msgid "烈烈たる溶岩獣"
-msgstr ""
+msgstr "炽烈熔岩兽"
 
 msgctxt "119"
 msgid "烈烈たる溶岩獣"
-msgstr ""
+msgstr "炽烈熔岩兽"
 
 msgctxt "120"
 msgid "残酷なる蹂躙者"
-msgstr ""
+msgstr "残酷的蹂躏者"
 
 msgctxt "121"
 msgid "ビッグスノー"
-msgstr ""
+msgstr "大雪鬼"
 
 msgctxt "122"
 msgid "恨み募る蛙"
-msgstr ""
+msgstr "积怨蛙"
 
 msgctxt "123"
 msgid "ナイトフラワー"
@@ -513,23 +513,23 @@ msgstr "落雷兔"
 
 msgctxt "125"
 msgid "ロンギスクアマ"
-msgstr ""
+msgstr "长鳞龙"
 
 msgctxt "126"
 msgid "駆け寄る襲撃者"
-msgstr ""
+msgstr "飞奔的袭击者"
 
 msgctxt "127"
 msgid "残酷なる蹂躙者"
-msgstr ""
+msgstr "残酷的蹂躏者"
 
 msgctxt "128"
 msgid "ブラックボア"
-msgstr ""
+msgstr "黑野猪"
 
 msgctxt "129"
 msgid "イルベア"
-msgstr ""
+msgstr "疫病哥布林"
 
 msgctxt "130"
 msgid "ルーカサイト"
@@ -549,35 +549,35 @@ msgstr "红细胞"
 
 msgctxt "134"
 msgid "さすらいの剣猪"
-msgstr ""
+msgstr "流浪剑猪"
 
 msgctxt "135"
 msgid "シロップベアー"
-msgstr ""
+msgstr "糖浆熊"
 
 msgctxt "136"
 msgid "スウォームスノー"
-msgstr ""
+msgstr "雪鬼聚合体"
 
 msgctxt "137"
 msgid "ムベンガ"
-msgstr ""
+msgstr "姆本加鱼人"
 
 msgctxt "138"
 msgid "固き鎧の主"
-msgstr ""
+msgstr "坚甲之主"
 
 msgctxt "139"
 msgid "手負いのバビルサ"
-msgstr ""
+msgstr "负伤的鹿豚"
 
 msgctxt "140"
 msgid "ドンムベンガ"
-msgstr ""
+msgstr "姆本加大王"
 
 msgctxt "141"
 msgid "洗脳されし労働者"
-msgstr ""
+msgstr "被洗脑的劳工"
 
 msgctxt "142"
 msgid "NONE"
@@ -585,27 +585,27 @@ msgstr ""
 
 msgctxt "143"
 msgid "幸災楽禍の処刑針"
-msgstr ""
+msgstr "幸灾乐祸的处刑针"
 
 msgctxt "144"
 msgid "義憤の断罪鎌"
-msgstr ""
+msgstr "义愤的断罪镰"
 
 msgctxt "145"
 msgid "貫禄の大角"
-msgstr ""
+msgstr "威严的巨角"
 
 msgctxt "146"
 msgid "引き裂きモグラ"
-msgstr ""
+msgstr "开膛手鼹鼠"
 
 msgctxt "147"
 msgid "クランパー"
-msgstr ""
+msgstr "夹钳怪"
 
 msgctxt "148"
 msgid "ヘールフラワー"
-msgstr ""
+msgstr "地狱花"
 
 msgctxt "149"
 msgid "NONE"
@@ -621,11 +621,11 @@ msgstr ""
 
 msgctxt "152"
 msgid "束縛する毒蜘蛛"
-msgstr ""
+msgstr "束缚毒蛛"
 
 msgctxt "153"
 msgid "潜伏の白狼"
-msgstr ""
+msgstr "潜伏白狼"
 
 msgctxt "154"
 msgid "NONE"
@@ -633,7 +633,7 @@ msgstr ""
 
 msgctxt "155"
 msgid "グリムマンティス"
-msgstr ""
+msgstr "恐怖螳螂"
 
 msgctxt "156"
 msgid "NONE"
@@ -649,7 +649,7 @@ msgstr ""
 
 msgctxt "159"
 msgid "エビルマンモス"
-msgstr ""
+msgstr "邪恶猛犸"
 
 msgctxt "160"
 msgid "世界樹の芽"
@@ -885,7 +885,7 @@ msgstr "亚特琳德"
 
 msgctxt "218"
 msgid "バジリスク"
-msgstr ""
+msgstr "蛇鸡兽"
 
 msgctxt "219"
 msgid "アラクネー"
@@ -909,27 +909,27 @@ msgstr "奇美拉"
 
 msgctxt "224"
 msgid "フレイムキューブ"
-msgstr ""
+msgstr "火焰方块怪"
 
 msgctxt "225"
 msgid "ルインクリーパー"
-msgstr ""
+msgstr "毁灭潜伏者"
 
 msgctxt "226"
 msgid "ロードコア"
-msgstr ""
+msgstr "主宰核心"
 
 msgctxt "227"
 msgid "サテライトキラー"
-msgstr ""
+msgstr "卫星杀手"
 
 msgctxt "228"
 msgid "始原の萌芽"
-msgstr ""
+msgstr "原初萌芽"
 
 msgctxt "229"
 msgid "バジリスクアイ"
-msgstr ""
+msgstr "蛇鸡兽之眼"
 
 msgctxt "230"
 msgid "NONE"
@@ -937,11 +937,11 @@ msgstr ""
 
 msgctxt "231"
 msgid "制御装置"
-msgstr ""
+msgstr "控制装置"
 
 msgctxt "232"
 msgid "制御装置"
-msgstr ""
+msgstr "控制装置"
 
 msgctxt "233"
 msgid "ドラゴンハート紅"
@@ -961,11 +961,11 @@ msgstr "贪欲欺诈者"
 
 msgctxt "237"
 msgid "闇黒に揺らめく者"
-msgstr ""
+msgstr "在暗黑中摇曳者"
 
 msgctxt "238"
 msgid "マスターバード"
-msgstr ""
+msgstr "鸟大师"
 
 msgctxt "239"
 msgid "ジェントルトード"
@@ -977,7 +977,7 @@ msgstr "冰之大王"
 
 msgctxt "241"
 msgid "氷の鎧"
-msgstr ""
+msgstr "冰之铠"
 
 msgctxt "242"
 msgid "雷の女王"
@@ -1033,39 +1033,39 @@ msgstr "爱娜温"
 
 msgctxt "255"
 msgid "始原の魔神"
-msgstr ""
+msgstr "原初魔神"
 
 msgctxt "256"
 msgid "カエルの袋"
-msgstr ""
+msgstr "蛙袋"
 
 msgctxt "257"
 msgid "トキシンコンテナ"
-msgstr ""
+msgstr "毒素容器"
 
 msgctxt "258"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "259"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "260"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "261"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "262"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "263"
 msgid "始原の瞳"
-msgstr ""
+msgstr "原初眼瞳"
 
 msgctxt "264"
 msgid "NONE"

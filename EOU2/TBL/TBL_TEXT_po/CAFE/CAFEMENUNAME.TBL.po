@@ -21,7 +21,7 @@ msgstr "整只凤蝶佃煮"
 
 msgctxt "2"
 msgid "梟の軟骨からあげ"
-msgstr "炸枭软骨"
+msgstr "炸猫头鹰软骨"
 
 msgctxt "3"
 msgid "くるみ羊羹"
@@ -141,7 +141,7 @@ msgstr "栗月饼"
 
 msgctxt "32"
 msgid "火龍果杏仁"
-msgstr "火龙果柿冻"
+msgstr "火龙果杏仁豆腐"
 
 msgctxt "33"
 msgid "リンゴ入り愛玉子風ブルーゼリー"
