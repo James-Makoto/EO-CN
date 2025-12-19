@@ -597,7 +597,7 @@ msgstr "警戒斥候"
 
 msgctxt "146"
 msgid "採取"
-msgstr "采集"
+msgstr "采摘"
 
 msgctxt "147"
 msgid "集中治療"
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "206"
 msgid "採取"
-msgstr "采集"
+msgstr "采摘"
 
 msgctxt "207"
 msgid "長期決戦の歌"
@@ -1317,7 +1317,7 @@ msgstr ""
 
 msgctxt "326"
 msgid "採取"
-msgstr "采集"
+msgstr "采摘"
 
 msgctxt "327"
 msgid "アクトブースト"
@@ -1677,7 +1677,7 @@ msgstr ""
 
 msgctxt "416"
 msgid "採取"
-msgstr "采集"
+msgstr "采摘"
 
 msgctxt "417"
 msgid "勝利への誓い"

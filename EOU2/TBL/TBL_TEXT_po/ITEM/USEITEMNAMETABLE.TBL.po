@@ -2617,7 +2617,7 @@ msgstr ""
 
 msgctxt "651"
 msgid "採取のグリモア"
-msgstr "采集魔导石"
+msgstr "采摘魔导石"
 
 msgctxt "652"
 msgid "ドラッグバレットのグリモア"
