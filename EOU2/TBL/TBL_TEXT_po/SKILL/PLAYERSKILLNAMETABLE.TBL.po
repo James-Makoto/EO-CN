@@ -321,11 +321,11 @@ msgstr ""
 
 msgctxt "77"
 msgid "フロントガード"
-msgstr "前列守护"
+msgstr "前排守护"
 
 msgctxt "78"
 msgid "バックガード"
-msgstr "后列守护"
+msgstr "后排守护"
 
 msgctxt "79"
 msgid "ファイアガード"
