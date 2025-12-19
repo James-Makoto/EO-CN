@@ -937,11 +937,11 @@ msgstr "拔刀冰雪"
 
 msgctxt "231"
 msgid "地走撃"
-msgstr ""
+msgstr "地走击"
 
 msgctxt "232"
 msgid "無双連撃"
-msgstr ""
+msgstr "无双连击"
 
 msgctxt "233"
 msgid "無双の構え"
@@ -1117,7 +1117,7 @@ msgstr "物理防御提升"
 
 msgctxt "276"
 msgid "槍マスタリー"
-msgstr "枪精通"
+msgstr "长枪精通"
 
 msgctxt "277"
 msgid "血の暴走"
@@ -1253,7 +1253,7 @@ msgstr "贯穿打击"
 
 msgctxt "310"
 msgid "後方撹乱"
-msgstr ""
+msgstr "后方扰乱"
 
 msgctxt "311"
 msgid "クイックアクト"
