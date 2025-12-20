@@ -1549,7 +1549,7 @@
   </entry>
   <entry id="429">
     <source>フォースブースト中{f801}ターン終了時にTPが回復する{f801}</source>
-    <target>威能解放状态下{f801}回合结束时恢复TP{f801}</target>
+    <target>威能强化状态下{f801}回合结束时恢复TP{f801}</target>
   </entry>
   <entry id="430">
     <source>装備制限を無視して一定割合の威力で{f801}スキルが使用可能になる{f801}</source>
@@ -1609,11 +1609,11 @@
   </entry>
   <entry id="444">
     <source>フォースブーストを解除し{f801}フォースゲージの消費を抑える{f801}</source>
-    <target>解除威能解放状态{f801}并抑制威能值的消耗{f801}</target>
+    <target>解除威能强化状态{f801}并抑制威能值的消耗{f801}</target>
   </entry>
   <entry id="445">
     <source>フォースブースト持続ターンを1ターン延長{f801}このターン、全てのダメージを軽減する{f801}</source>
-    <target>将威能解放持续回合延长1回合{f801}本回合内，受到的所有伤害减轻{f801}</target>
+    <target>将威能强化持续回合延长1回合{f801}本回合内，受到的所有伤害减轻{f801}</target>
   </entry>
   <entry id="446">
     <source>敵全体へランダムに{f85a}{a300}回遠隔炎属性攻撃{f801}</source>
@@ -1641,7 +1641,7 @@
   </entry>
   <entry id="452">
     <source>フォースブースト持続ターンを{f801}初期値に戻す{f801}</source>
-    <target>将威能解放持续回合数{f801}恢复为初始值{f801}</target>
+    <target>将威能强化持续回合数{f801}恢复为初始值{f801}</target>
   </entry>
   <entry id="453">
     <source>ターン終了時にHPが回復する{f801}</source>
