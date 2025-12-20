@@ -2001,7 +2001,7 @@ msgstr "抗破坏喷雾"
 
 msgctxt "497"
 msgid "耐突ミスト"
-msgstr "抗突击喷雾"
+msgstr "抗突刺喷雾"
 
 msgctxt "498"
 msgid "絶耐ミスト"

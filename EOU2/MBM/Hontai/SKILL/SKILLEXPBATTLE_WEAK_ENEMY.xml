@@ -61,7 +61,7 @@
   </entry>
   <entry id="78">
     <source>風の護り{f801}【状態】状態異常耐性UP{f801}</source>
-    <target>風の護り{f801}【状态】状态异常抗性UP{f801}</target>
+    <target>風の護り{f801}【状态】异常状态抗性UP{f801}</target>
   </entry>
   <entry id="80">
     <source>黒い翼{f801}【攻撃】属性攻撃DOWN{f801}</source>
@@ -69,7 +69,7 @@
   </entry>
   <entry id="84">
     <source>無空波{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>無空波{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>無空波{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="98">
     <source>雷王の憤怒{f801}【攻撃】属性攻撃DOWN{f801}</source>
@@ -125,7 +125,7 @@
   </entry>
   <entry id="237">
     <source>カオススクリーム{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>カオススクリーム{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>カオススクリーム{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="241">
     <source>腐った息{f801}【命中】命中率DOWN{f801}</source>
@@ -173,7 +173,7 @@
   </entry>
   <entry id="295">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>我の領域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="300">
     <source>破滅の吐息{f801}【MAXHP】MAXHPDOWN{f801}</source>
@@ -241,7 +241,7 @@
   </entry>
   <entry id="351">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>我の領域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="401">
     <source>溶解液{f801}【攻撃】物理攻撃DOWN{f801}</source>
