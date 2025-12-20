@@ -1609,7 +1609,7 @@ msgstr "号令精通"
 
 msgctxt "399"
 msgid "レイズモラル"
-msgstr ""
+msgstr "士气提升"
 
 msgctxt "400"
 msgid "攻撃の号令"
