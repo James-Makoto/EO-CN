@@ -1189,7 +1189,7 @@ msgstr "挖掘"
 
 msgctxt "294"
 msgid "絆の恩恵"
-msgstr "羁绊恩惠"""
+msgstr "纽带恩惠"
 
 msgctxt "295"
 msgid "不可視の霊盾"
@@ -1481,7 +1481,7 @@ msgstr "殊死觉悟"
 
 msgctxt "367"
 msgid "オート傷舐め"
-msgstr ""
+msgstr "自动舔伤"
 
 msgctxt "368"
 msgid "忠義マスタリー"
@@ -1493,11 +1493,11 @@ msgstr "爪精通"
 
 msgctxt "370"
 msgid "先制ビーストロア"
-msgstr ""
+msgstr "先制野兽怒号"
 
 msgctxt "371"
 msgid "傷舐め"
-msgstr ""
+msgstr "舔伤"
 
 msgctxt "372"
 msgid "自衛の本能"
@@ -1609,7 +1609,7 @@ msgstr "号令精通"
 
 msgctxt "399"
 msgid "レイズモラル"
-msgstr ""
+msgstr "士气提升"
 
 msgctxt "400"
 msgid "攻撃の号令"
@@ -2001,7 +2001,7 @@ msgstr "抗破坏喷雾"
 
 msgctxt "497"
 msgid "耐突ミスト"
-msgstr "抗突击喷雾"
+msgstr "抗突刺喷雾"
 
 msgctxt "498"
 msgid "絶耐ミスト"

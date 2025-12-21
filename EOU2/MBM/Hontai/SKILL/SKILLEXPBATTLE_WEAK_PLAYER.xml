@@ -25,7 +25,7 @@
   </entry>
   <entry id="74">
     <source>加護の鎧{f801}【状態】封じ・状態異常・弱体無効{f801}</source>
-    <target>加護の鎧{f801}【状态】封印・状态异常・弱化无效{f801}</target>
+    <target>加護の鎧{f801}【状态】封印・异常状态・弱化无效{f801}</target>
   </entry>
   <entry id="84">
     <source>シールドラッシュ{f801}【攻撃】物理攻撃DOWN{f801}</source>
@@ -65,7 +65,7 @@
   </entry>
   <entry id="196">
     <source>耐邪の鎮魂歌{f801}【状態】封じ・状態異常耐性UP{f801}</source>
-    <target>耐邪の鎮魂歌{f801}【状态】封印・状态异常抗性UP{f801}</target>
+    <target>耐邪の鎮魂歌{f801}【状态】封印・异常状态抗性UP{f801}</target>
   </entry>
   <entry id="197">
     <source>火劇の序曲{f801}【付与】炎属性付与{f801}</source>
@@ -105,15 +105,15 @@
   </entry>
   <entry id="250">
     <source>虚弱の呪言{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>虚弱の呪言{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>虚弱の呪言{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="279">
     <source>防衛本能{f801}【状態】状態異常無効{f801}</source>
-    <target>防衛本能{f801}【状态】状态异常无效{f801}</target>
+    <target>防衛本能{f801}【状态】异常状态无效{f801}</target>
   </entry>
   <entry id="292">
     <source>グッドラック{f801}【状態】封じ・状態異常成功率UP{f801}</source>
-    <target>グッドラック{f801}【状态】封印・状态异常成功率UP{f801}</target>
+    <target>グッドラック{f801}【状态】封印・异常状态成功率UP{f801}</target>
   </entry>
   <entry id="295">
     <source>不可視の霊盾{f801}【防御】属性防御UP{f801}</source>
@@ -145,7 +145,7 @@
   </entry>
   <entry id="377">
     <source>身代りの誓い{f801}【ガード】HP一定割合以下の味方をかばう{f801}</source>
-    <target>身代りの誓い{f801}【ガード】HP一定割合以下の味方をかばう{f801}</target>
+    <target>身代りの誓い{f801}【防护】为HP低于一定比例的队友承担伤害{f801}</target>
   </entry>
   <entry id="378">
     <source>ビーストロア{f801}【攻撃】物理攻撃力DOWN{f801}</source>
@@ -161,7 +161,7 @@
   </entry>
   <entry id="402">
     <source>予防の号令{f801}【状態】状態異常無効{f801}</source>
-    <target>予防の号令{f801}【状态】状态异常无效{f801}</target>
+    <target>予防の号令{f801}【状态】异常状态无效{f801}</target>
   </entry>
   <entry id="403">
     <source>庇護の号令{f801}【回復】HP自動回復{f801}</source>
@@ -185,59 +185,59 @@
   </entry>
   <entry id="490">
     <source>ブレイバント{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>ブレイバント{f801}【攻击】物理攻击UP{f801}</target>
+    <target>勇士补药{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="491">
     <source>ストナード{f801}【防御】物理防御UP{f801}</source>
-    <target>ストナード{f801}【防御】物理防御UP{f801}</target>
+    <target>刚硬石胶{f801}【防御】物理防御UP{f801}</target>
   </entry>
   <entry id="492">
     <source>耐熱ミスト{f801}【耐性】炎属性耐性UP{f801}</source>
-    <target>耐熱ミスト{f801}【抗性】火属性抗性UP{f801}</target>
+    <target>抗热喷雾{f801}【抗性】火属性抗性UP{f801}</target>
   </entry>
   <entry id="493">
     <source>耐氷ミスト{f801}【耐性】氷属性耐性UP{f801}</source>
-    <target>耐氷ミスト{f801}【抗性】冰属性抗性UP{f801}</target>
+    <target>抗冰喷雾{f801}【抗性】冰属性抗性UP{f801}</target>
   </entry>
   <entry id="494">
     <source>耐雷ミスト{f801}【耐性】雷属性耐性UP{f801}</source>
-    <target>耐雷ミスト{f801}【抗性】雷属性抗性UP{f801}</target>
+    <target>抗雷喷雾{f801}【抗性】雷属性抗性UP{f801}</target>
   </entry>
   <entry id="495">
     <source>耐斬ミスト{f801}【耐性】斬攻撃耐性UP{f801}</source>
-    <target>耐斬ミスト{f801}【抗性】斬攻击抗性UP{f801}</target>
+    <target>抗斩击喷雾{f801}【抗性】斩击攻击抗性UP{f801}</target>
   </entry>
   <entry id="496">
     <source>耐壊ミスト{f801}【耐性】壊攻撃耐性UP{f801}</source>
-    <target>耐壊ミスト{f801}【抗性】壊攻击抗性UP{f801}</target>
+    <target>抗破坏喷雾{f801}【抗性】破坏攻击抗性UP{f801}</target>
   </entry>
   <entry id="497">
     <source>耐突ミスト{f801}【耐性】突攻撃耐性UP{f801}</source>
-    <target>耐突ミスト{f801}【抗性】突攻击抗性UP{f801}</target>
+    <target>抗突刺喷雾{f801}【抗性】突刺攻击抗性UP{f801}</target>
   </entry>
   <entry id="498">
     <source>絶耐ミスト{f801}【耐性】属性耐性UP{f801}</source>
-    <target>絶耐ミスト{f801}【抗性】属性抗性UP{f801}</target>
+    <target>全抗喷雾{f801}【抗性】属性抗性UP{f801}</target>
   </entry>
   <entry id="499">
     <source>ファイアオイル{f801}【付与】炎属性付与{f801}</source>
-    <target>ファイアオイル{f801}【附加】附加火属性{f801}</target>
+    <target>火焰油{f801}【附加】附加火属性{f801}</target>
   </entry>
   <entry id="500">
     <source>フリーズオイル{f801}【付与】氷属性付与{f801}</source>
-    <target>フリーズオイル{f801}【附加】附加冰属性{f801}</target>
+    <target>冰冻油{f801}【附加】附加冰属性{f801}</target>
   </entry>
   <entry id="501">
     <source>ショックオイル{f801}【付与】雷属性付与{f801}</source>
-    <target>ショックオイル{f801}【附加】附加冰属性{f801}</target>
+    <target>电击油{f801}【附加】附加冰属性{f801}</target>
   </entry>
   <entry id="545">
     <source>鶏唐揚げの甘酢餡かけ{f801}【探索準備】状態異常無効{f801}</source>
-    <target>鶏唐揚げの甘酢餡かけ{f801}【探索準備】状态异常无效{f801}</target>
+    <target>炸鸡配糖醋酱{f801}【探索准备】异常状态无效{f801}</target>
   </entry>
   <entry id="546">
     <source>シカ肉のタタキ風{f801}【探索準備】封じ無効{f801}</source>
-    <target>シカ肉のタタキ風{f801}【探索準備】封印无效{f801}</target>
+    <target>鹿肉炙{f801}【探索准备】封印无效{f801}</target>
   </entry>
   <entry id="547">
     <source>逆襲の手筈{f801}【管理人】通常攻撃反撃{f801}</source>
@@ -249,7 +249,7 @@
   </entry>
   <entry id="582">
     <source>防衛本能{f801}【状態】状態異常無効{f801}</source>
-    <target>防衛本能{f801}【状态】状态异常无效{f801}</target>
+    <target>防衛本能{f801}【状态】异常状态无效{f801}</target>
   </entry>
   <entry id="595">
     <source>巫剣:霊攻衰斬{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
@@ -325,7 +325,7 @@
   </entry>
   <entry id="745">
     <source>風の護り{f801}【状態】状態異常耐性UP{f801}</source>
-    <target>風の護り{f801}【状态】状态异常抗性UP{f801}</target>
+    <target>風の護り{f801}【状态】异常状态抗性UP{f801}</target>
   </entry>
   <entry id="747">
     <source>黒い翼{f801}【攻撃】属性攻撃DOWN{f801}</source>
@@ -333,7 +333,7 @@
   </entry>
   <entry id="751">
     <source>無空波{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>無空波{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>無空波{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="758">
     <source>徹底抗戦{f801}【攻撃】物理攻撃UP{f801}</source>
@@ -401,7 +401,7 @@
   </entry>
   <entry id="904">
     <source>カオススクリーム{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>カオススクリーム{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>カオススクリーム{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="908">
     <source>腐った息{f801}【命中】命中率DOWN{f801}</source>
@@ -449,7 +449,7 @@
   </entry>
   <entry id="962">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>我の領域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="967">
     <source>破滅の吐息{f801}【MAXHP】MAXHPDOWN{f801}</source>
@@ -517,7 +517,7 @@
   </entry>
   <entry id="1018">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>我の領域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="1068">
     <source>溶解液{f801}【攻撃】物理攻撃DOWN{f801}</source>
