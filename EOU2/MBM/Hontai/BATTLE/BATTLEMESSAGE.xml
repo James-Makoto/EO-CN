@@ -1781,7 +1781,7 @@
   </entry>
   <entry id="526">
     <source>{f811}{0100}は加護の鎧に守られた!{f801}</source>
-    <target>{f811}{0100}被加護の鎧保护了！{f801}</target>
+    <target>{f811}{0100}被加护之铠保护了！{f801}</target>
   </entry>
   <entry id="527">
     <source>{f811}{0300}は{f801}こちらをかばっている!{f801}</source>
@@ -1893,7 +1893,7 @@
   </entry>
   <entry id="554">
     <source>毒の沼により体が蝕まれる!{f801}</source>
-    <target>因为毒の沼，身体被侵蚀了！{f801}</target>
+    <target>因为毒沼，身体被侵蚀了！{f801}</target>
   </entry>
   <entry id="555">
     <source>炎陣により体が焼き尽くされる!{f801}</source>
@@ -1953,7 +1953,7 @@
   </entry>
   <entry id="569">
     <source>{f811}{0000}は毒を吐いて{f801}周囲に毒の沼を形成した!{f801}</source>
-    <target>{f811}{0000}吐出毒液，{f801}在周围形成了毒の沼！{f801}</target>
+    <target>{f811}{0000}吐出毒液，{f801}在周围形成了毒沼！{f801}</target>
   </entry>
   <entry id="570">
     <source>{f811}{0100}は{f801}がまんした!{f801}</source>
@@ -2037,11 +2037,11 @@
   </entry>
   <entry id="590">
     <source>死の領域があたりを支配する!{f801}あらゆる悪い効果が回復しなくなった!{f801}</source>
-    <target>死の領域支配了四周！{f801}一切负面效果都无法恢复了！{f801}</target>
+    <target>死之领域支配了四周！{f801}一切负面效果都无法恢复了！{f801}</target>
   </entry>
   <entry id="591">
     <source>{f811}{0200}から{f801}破壊の波動が放たれる!{f801}</source>
-    <target>{f811}{0200}{f801}释放了破壊の波動！{f801}</target>
+    <target>{f811}{0200}{f801}释放了破坏之波动！{f801}</target>
   </entry>
   <entry id="592">
     <source>破壊された部位が再生した!{f801}</source>
@@ -2337,7 +2337,7 @@
   </entry>
   <entry id="673">
     <source>死の領域が消え去った!{f801}</source>
-    <target>死の領域消失！{f801}</target>
+    <target>死之领域消失！{f801}</target>
   </entry>
   <entry id="674">
     <source>{f811}{0000}が{f801}力を増幅させる・・・!{f801}</source>
