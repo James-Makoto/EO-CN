@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "28"
 msgid "フルゲイン"
-msgstr ""
+msgstr "全力猛击"
 
 msgctxt "29"
 msgid "DUMMY"
@@ -161,7 +161,7 @@ msgstr "弓精通"
 
 msgctxt "37"
 msgid "奇襲"
-msgstr ""
+msgstr "奇袭"
 
 msgctxt "38"
 msgid "エイミングフット"
@@ -193,15 +193,15 @@ msgstr "调整步调"
 
 msgctxt "45"
 msgid "ブラインドアロー"
-msgstr ""
+msgstr "失明箭"
 
 msgctxt "46"
 msgid "スリープアロー"
-msgstr ""
+msgstr "睡眠箭"
 
 msgctxt "47"
 msgid "パライズアロー"
-msgstr ""
+msgstr "麻痹箭"
 
 msgctxt "48"
 msgid "フランクショット"
@@ -229,7 +229,7 @@ msgstr "猫头鹰之眼"
 
 msgctxt "54"
 msgid "危機感知"
-msgstr ""
+msgstr "危机感知"
 
 msgctxt "55"
 msgid "警戒歩行"
@@ -241,7 +241,7 @@ msgstr "野性直觉"
 
 msgctxt "57"
 msgid "夢幻残影"
-msgstr ""
+msgstr "梦幻残影"
 
 msgctxt "58"
 msgid "五月雨撃ち"
