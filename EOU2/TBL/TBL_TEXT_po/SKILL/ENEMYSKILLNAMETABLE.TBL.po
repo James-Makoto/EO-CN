@@ -10,606 +10,607 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
 
 msgctxt "0"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "1"
 msgid "アタック"
-msgstr ""
+msgstr "攻击"
 
 msgctxt "2"
 msgid "堅殻"
-msgstr ""
+msgstr "坚壳"
 
 msgctxt "3"
 msgid "窮鼠の針"
-msgstr ""
+msgstr "穷鼠之针"
 
 msgctxt "4"
 msgid "絡みの糸"
-msgstr ""
+msgstr "捆缚之丝"
 
 msgctxt "5"
 msgid "毒の粉"
-msgstr ""
+msgstr "毒之粉尘"
 
 msgctxt "6"
 msgid "灼熱光線"
-msgstr ""
+msgstr "灼热光线"
 
 msgctxt "7"
 msgid "サンフレイム"
-msgstr ""
+msgstr "阳辉烈焰"
 
 msgctxt "8"
 msgid "ローリング"
-msgstr ""
+msgstr "滚动"
 
 msgctxt "9"
 msgid "ラッシュビーク"
-msgstr ""
+msgstr "喙冲"
 
 msgctxt "10"
 msgid "ダイブキック"
-msgstr ""
+msgstr "飞身踢"
 
 msgctxt "11"
 msgid "眠りの粉"
-msgstr ""
+msgstr "睡眠粉尘"
 
 msgctxt "12"
 msgid "マイマイマーチ"
-msgstr ""
+msgstr "蜗牛行军"
 
 msgctxt "13"
 msgid "力溜め"
-msgstr ""
+msgstr "蓄力"
 
 msgctxt "14"
 msgid "捕食の冷気"
-msgstr ""
+msgstr "捕食的冷气"
 
 msgctxt "15"
 msgid "困惑のステップ"
-msgstr ""
+msgstr "困惑步伐"
 
 msgctxt "16"
 msgid "かちあげ"
-msgstr ""
+msgstr "战吼"
 
 msgctxt "17"
 msgid "麻痺の牙"
-msgstr ""
+msgstr "麻痹之牙"
 
 msgctxt "18"
 msgid "食いちぎり"
-msgstr ""
+msgstr "啃噬"
 
 msgctxt "19"
 msgid "威圧の眼光"
-msgstr ""
+msgstr "威压的目光"
 
 msgctxt "20"
 msgid "暴虐の牙"
-msgstr ""
+msgstr "暴虐之牙"
 
 msgctxt "21"
 msgid "天雷"
-msgstr ""
+msgstr "天雷"
 
 msgctxt "22"
 msgid "衰弱の尾"
-msgstr ""
+msgstr "衰弱之尾"
 
 msgctxt "23"
 msgid "毒の体液"
-msgstr ""
+msgstr "有毒体液"
 
 msgctxt "24"
 msgid "脱力ダイブ"
-msgstr ""
+msgstr "脱力俯冲"
 
 msgctxt "25"
 msgid "麻痺の胞子"
-msgstr ""
+msgstr "麻痹孢子"
 
 msgctxt "26"
 msgid "突き上げ"
-msgstr ""
+msgstr "向上冲撞"
 
 msgctxt "27"
 msgid "なぎ払い"
-msgstr ""
+msgstr "横斩"
 
 msgctxt "28"
 msgid "ヘヴィスタンプ"
-msgstr ""
+msgstr "重踏步"
 
 msgctxt "29"
 msgid "足かせのツタ"
-msgstr ""
+msgstr "缠腿藤蔓"
 
 msgctxt "30"
 msgid "盲目のトゲ"
-msgstr ""
+msgstr "盲目之棘"
 
 msgctxt "31"
 msgid "猪突猛進"
-msgstr ""
+msgstr "猪突猛进"
 
 msgctxt "32"
 msgid "火炎の吐息"
-msgstr ""
+msgstr "火炎吐息"
 
 msgctxt "33"
 msgid "耐熱ゲル"
-msgstr ""
+msgstr "耐热凝胶"
 
 msgctxt "34"
 msgid "叩きつけ"
-msgstr ""
+msgstr "砸击"
 
 msgctxt "35"
 msgid "混乱の粉"
-msgstr ""
+msgstr "混乱粉尘"
 
 msgctxt "36"
 msgid "切り裂く風爪"
-msgstr ""
+msgstr "斩裂的风爪"
 
 msgctxt "37"
 msgid "コロシッブオーラ"
-msgstr ""
+msgstr "腐蚀气息"
 
 msgctxt "38"
 msgid "ブラストホーン"
-msgstr ""
+msgstr "碎裂角"
 
 msgctxt "39"
 msgid "パワーレイジ"
-msgstr ""
+msgstr "愤怒之力"
 
 msgctxt "40"
 msgid "毒の花粉"
-msgstr ""
+msgstr "有毒花粉"
 
 msgctxt "41"
 msgid "自爆"
-msgstr ""
+msgstr "自爆"
 
 msgctxt "42"
 msgid "ハンマーヘッド"
-msgstr ""
+msgstr "头槌"
 
 msgctxt "43"
 msgid "リベンジニードル"
-msgstr ""
+msgstr "复仇之针"
 
 msgctxt "44"
 msgid "ダブルニードル"
-msgstr ""
+msgstr "双重针刺"
 
 msgctxt "45"
 msgid "炎神の憤怒"
-msgstr ""
+msgstr "炎神之怒"
 
 msgctxt "46"
 msgid "恐怖の咆哮"
-msgstr ""
+msgstr "恐怖咆哮"
 
 msgctxt "47"
 msgid "スピンドライブ"
-msgstr ""
+msgstr "回转驱动"
 
 msgctxt "48"
 msgid "耳障りな鳴き声"
-msgstr ""
+msgstr "刺耳叫声"
 
 msgctxt "49"
 msgid "ダストテイル"
-msgstr ""
+msgstr "扬尘尾击"
 
 msgctxt "50"
 msgid "激突"
-msgstr ""
+msgstr "冲撞"
 
 msgctxt "51"
 msgid "呪いの牙"
-msgstr ""
+msgstr "诅咒之牙"
 
 msgctxt "52"
 msgid "死の眼光"
-msgstr ""
+msgstr "死之目光"
 
 msgctxt "53"
 msgid "溶岩塊"
-msgstr ""
+msgstr "熔岩块"
 
 msgctxt "54"
 msgid "耐氷の紅焔"
-msgstr ""
+msgstr "耐冰红炎"
 
 msgctxt "55"
 msgid "雪つぶて"
-msgstr ""
+msgstr "雪球"
 
 msgctxt "56"
 msgid "惑乱の急襲"
-msgstr ""
+msgstr "扰乱急袭"
 
 msgctxt "57"
 msgid "尾撃"
-msgstr ""
+msgstr "尾击"
 
 msgctxt "58"
 msgid "踏みつぶし"
-msgstr ""
+msgstr "踏碎"
 
 msgctxt "59"
 msgid "氷雪の息吹"
-msgstr ""
+msgstr "冰雪吹息"
 
 msgctxt "60"
 msgid "いらつく羽音"
-msgstr ""
+msgstr "不快翅音"
 
 msgctxt "61"
 msgid "踏み荒らし"
-msgstr ""
+msgstr "践踏"
 
 msgctxt "62"
 msgid "シールドシェル"
-msgstr ""
+msgstr "甲壳护盾"
 
 msgctxt "63"
 msgid "殲滅の牙"
-msgstr ""
+msgstr "歼灭之牙"
 
 msgctxt "64"
 msgid "流氷の尾びれ"
-msgstr ""
+msgstr "流水尾鳍"
 
 msgctxt "65"
 msgid "白い翼"
-msgstr ""
+msgstr "白翼"
 
 msgctxt "66"
 msgid "ストーンゲイズ"
-msgstr ""
+msgstr "石化凝视"
 
 msgctxt "67"
 msgid "ショックアサルト"
-msgstr ""
+msgstr "雷电冲击"
 
 msgctxt "68"
 msgid "乱れ雪つぶて"
-msgstr ""
+msgstr "雪球乱击"
 
 msgctxt "69"
 msgid "アタックハウル"
-msgstr ""
+msgstr "攻击咆哮"
 
 msgctxt "70"
 msgid "フロストファング"
-msgstr ""
+msgstr "冻结之牙"
 
 msgctxt "71"
 msgid "古蛇の毒牙"
-msgstr ""
+msgstr "古蛇的毒牙"
 
 msgctxt "72"
 msgid "狂気の瞳"
-msgstr ""
+msgstr "疯狂的眼瞳"
 
 msgctxt "73"
 msgid "突進"
-msgstr ""
+msgstr "突进"
 
 msgctxt "74"
 msgid "エレメントゲル"
-msgstr ""
+msgstr "元素凝胶"
 
 msgctxt "75"
 msgid "氷王の咆哮"
-msgstr ""
+msgstr "冰王咆哮"
 
 msgctxt "76"
 msgid "封雷"
-msgstr ""
+msgstr "封雷"
 
 msgctxt "77"
 msgid "毒針"
-msgstr ""
+msgstr "毒针"
 
 msgctxt "78"
 msgid "風の護り"
-msgstr ""
+msgstr "风之庇护"
 
 msgctxt "79"
 msgid "破壊の顎"
-msgstr ""
+msgstr "破坏之颚"
 
 msgctxt "80"
 msgid "黒い翼"
-msgstr ""
+msgstr "黑翼"
 
 msgctxt "81"
 msgid "捕縛の糸"
-msgstr ""
+msgstr "捆缚之丝"
 
 msgctxt "82"
 msgid "困惑のリンプン"
-msgstr ""
+msgstr "困惑鳞粉"
 
 msgctxt "83"
 msgid "切り刻み"
-msgstr ""
+msgstr "斩裂"
 
 msgctxt "84"
 msgid "無空波"
-msgstr ""
+msgstr "无空波"
 
 msgctxt "85"
 msgid "恐怖の大針"
-msgstr ""
+msgstr "恐怖的大针"
 
 msgctxt "86"
 msgid "大放電"
-msgstr ""
+msgstr "大放电"
 
 msgctxt "87"
 msgid "仲間食い"
-msgstr ""
+msgstr "吞噬同伴"
 
 msgctxt "88"
 msgid "ナイトコール"
-msgstr ""
+msgstr "黑夜呼唤"
 
 msgctxt "89"
 msgid "狂牙"
-msgstr ""
+msgstr "狂牙"
 
 msgctxt "90"
 msgid "ブルータルレイ"
-msgstr ""
+msgstr "残忍光线"
 
 msgctxt "91"
 msgid "徹底抗戦"
-msgstr ""
+msgstr "彻底抗战"
 
 msgctxt "92"
 msgid "角撃"
-msgstr ""
+msgstr "角击"
 
 msgctxt "93"
 msgid "ジャンピング"
-msgstr ""
+msgstr "飞跃"
 
 msgctxt "94"
 msgid "呪いの舌"
-msgstr ""
+msgstr "诅咒之舌"
 
 msgctxt "95"
 msgid "暴風の翼"
-msgstr ""
+msgstr "暴风之翼"
 
 msgctxt "96"
 msgid "引きちぎる大爪"
-msgstr ""
+msgstr "撕裂的大爪"
 
 msgctxt "97"
 msgid "死神の爪"
-msgstr ""
+msgstr "死神之爪"
 
 msgctxt "98"
 msgid "雷王の憤怒"
-msgstr ""
+msgstr "雷王的愤怒"
 
 msgctxt "99"
 msgid "狂奮の瞳"
-msgstr ""
+msgstr "狂奋的眼瞳"
 
 msgctxt "100"
 msgid "掻き切る爪"
-msgstr ""
+msgstr "抓挠"
 
 msgctxt "101"
 msgid "断末魔の叫び"
-msgstr ""
+msgstr "临终惨叫"
 
 msgctxt "102"
 msgid "ヘッドバット"
-msgstr ""
+msgstr "头槌"
 
 msgctxt "103"
 msgid "四肢潰し"
-msgstr ""
+msgstr "四肢破坏"
 
 msgctxt "104"
 msgid "フレイルオーラ"
-msgstr ""
+msgstr "虚弱气息"
 
 msgctxt "105"
 msgid "パワーゲル"
-msgstr ""
+msgstr "强力凝胶"
 
 msgctxt "106"
 msgid "報いの烈爪"
-msgstr ""
+msgstr "报应的烈爪"
 
 msgctxt "107"
 msgid "白銀の炎弾"
-msgstr ""
+msgstr "白银炎弹"
 
 msgctxt "108"
 msgid "ナイトメア"
-msgstr ""
+msgstr "噩梦"
 
 msgctxt "109"
 msgid "夜駆け"
-msgstr ""
+msgstr "暗夜疾驰"
 
 msgctxt "110"
 msgid "王の中の王"
-msgstr ""
+msgstr "王中之王"
 
 msgctxt "111"
 msgid "粛清の白刃"
-msgstr ""
+msgstr "肃清之白刃"
 
 msgctxt "112"
 msgid "流光の追刃"
-msgstr ""
+msgstr "流光追斩"
 
 msgctxt "113"
 msgid "死の黒刃"
-msgstr ""
+msgstr "死之黑刃"
 
 msgctxt "114"
 msgid "無道の闇刃"
-msgstr ""
+msgstr "残忍暗刃"
 
 msgctxt "115"
 msgid "電磁波"
-msgstr ""
+msgstr "电磁波"
 
 msgctxt "116"
 msgid "身構え"
-msgstr ""
+msgstr "准备架势"
 
 msgctxt "117"
 msgid "殺戮の光刃"
-msgstr ""
+msgstr "杀戮光刃"
 
 msgctxt "118"
 msgid "貪欲な顎"
-msgstr ""
+msgstr "贪欲之颚"
 
 msgctxt "119"
 msgid "エレキインパクト"
-msgstr ""
+msgstr "雷电冲击"
 
 msgctxt "120"
 msgid "古の守り"
-msgstr ""
+msgstr "远古守护"
 
 msgctxt "121"
 msgid "慈愛の襟巻き"
-msgstr ""
+msgstr "慈爱的伞膜"
 
 msgctxt "122"
 msgid "呪爪大乱舞"
-msgstr ""
+msgstr "咒爪大乱舞"
 
 msgctxt "123"
 msgid "拒絶の針"
-msgstr ""
+msgstr "拒绝之针"
 
 msgctxt "124"
 msgid "暴悪の牙"
-msgstr ""
+msgstr "暴恶之牙"
 
 msgctxt "125"
 msgid "輝ける灼熱"
-msgstr ""
+msgstr "灼热炎辉"
 
 msgctxt "126"
 msgid "狂気のリンプン"
-msgstr ""
+msgstr "疯狂鳞粉"
 
 msgctxt "127"
 msgid "デビルクライ"
-msgstr ""
+msgstr "恶魔的咆哮"
 
 msgctxt "128"
 msgid "トライ・デス"
-msgstr ""
+msgstr "三重死亡"
 
 msgctxt "129"
 msgid "血塗れの刃"
-msgstr ""
+msgstr "染血之刃"
 
 msgctxt "130"
 msgid "昏睡の花粉"
-msgstr ""
+msgstr "昏睡花粉"
 
 msgctxt "131"
 msgid "舞い散る花びら"
-msgstr ""
+msgstr "飘落的花瓣"
 
 msgctxt "132"
 msgid "テラーペイン"
-msgstr ""
+msgstr "恐惧之咒"
 
 msgctxt "133"
 msgid "吸い取るツタ"
-msgstr ""
+msgstr "吸收藤蔓"
 
 msgctxt "134"
 msgid "ウォーハンマー"
-msgstr ""
+msgstr "战锤"
 
 msgctxt "135"
 msgid "リバーサルビート"
-msgstr ""
+msgstr "逆转一击"
 
 msgctxt "136"
 msgid "未使用"
-msgstr ""
+msgstr "未使用"
 
 msgctxt "137"
 msgid "甘噛み"
-msgstr ""
+msgstr "轻咬"
 
 msgctxt "138"
 msgid "じゃれる"
-msgstr ""
+msgstr "戏耍"
 
 msgctxt "139"
 msgid "ぐずる"
-msgstr ""
+msgstr "搔痒"
 
 msgctxt "140"
 msgid "ブラッドサック"
-msgstr ""
+msgstr "吸血"
 
 msgctxt "141"
 msgid "超音波"
-msgstr ""
+msgstr "超音波"
 
 msgctxt "142"
 msgid "猛毒の息"
-msgstr ""
+msgstr "猛毒气息"
 
 msgctxt "143"
 msgid "爆雷陣"
-msgstr ""
+msgstr "爆雷阵"
 
 msgctxt "144"
 msgid "石化の眼光"
-msgstr ""
+msgstr "石化的目光"
 
 msgctxt "145"
 msgid "ジョルトブロー"
-msgstr ""
+msgstr "冲击拳"
 
 msgctxt "146"
 msgid "悪夢の晩餐"
-msgstr ""
+msgstr "噩梦的晚餐"
 
 msgctxt "147"
 msgid "ホーリーショック"
-msgstr ""
+msgstr "圣雷"
 
 msgctxt "148"
 msgid "ボアコマンド"
-msgstr ""
+msgstr "野猪号令"
 
 msgctxt "149"
 msgid "スイング"
-msgstr ""
+msgstr "挥砍"
 
 msgctxt "150"
 msgid "品定め"
@@ -617,1379 +618,1379 @@ msgstr ""
 
 msgctxt "151"
 msgid "熱病の棍"
-msgstr ""
+msgstr "热病之棍"
 
 msgctxt "152"
 msgid "破壊の爪"
-msgstr ""
+msgstr "破坏之爪"
 
 msgctxt "153"
 msgid "ホーリーファイア"
-msgstr ""
+msgstr "圣炎"
 
 msgctxt "154"
 msgid "頭蓋割り"
-msgstr ""
+msgstr "碎颅一击"
 
 msgctxt "155"
 msgid "捕食の糸"
-msgstr ""
+msgstr "捕食之丝"
 
 msgctxt "156"
 msgid "毒の牙"
-msgstr ""
+msgstr "毒牙"
 
 msgctxt "157"
 msgid "混乱のツタ"
-msgstr ""
+msgstr "混乱藤蔓"
 
 msgctxt "158"
 msgid "大鎌斬"
-msgstr ""
+msgstr "大镰斩"
 
 msgctxt "159"
 msgid "首狩りの鎌"
-msgstr ""
+msgstr "猎首之镰"
 
 msgctxt "160"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "161"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "162"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "163"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "164"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "165"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "166"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "167"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "168"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "169"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "170"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "171"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "172"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "173"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "174"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "175"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "176"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "177"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "178"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "179"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "180"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "181"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "182"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "183"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "184"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "185"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "186"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "187"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "188"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "189"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "190"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "191"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "192"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "193"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "194"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "195"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "196"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "197"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "198"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "199"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "200"
 msgid "スネークパイル"
-msgstr ""
+msgstr "蛇之柱"
 
 msgctxt "201"
 msgid "劫火"
-msgstr ""
+msgstr "劫火"
 
 msgctxt "202"
 msgid "双連撃"
-msgstr ""
+msgstr "双连击"
 
 msgctxt "203"
 msgid "威圧の咆哮"
-msgstr ""
+msgstr "威压的咆哮"
 
 msgctxt "204"
 msgid "狂乱の咆哮"
-msgstr ""
+msgstr "狂乱的咆哮"
 
 msgctxt "205"
 msgid "霧散の暴虐"
-msgstr ""
+msgstr "雾散的暴虐"
 
 msgctxt "206"
 msgid "極炎撃"
-msgstr ""
+msgstr "极炎击"
 
 msgctxt "207"
 msgid "特殊待機スタン"
-msgstr ""
+msgstr "特殊待机晕眩"
 
 msgctxt "208"
 msgid "悪夢の抱擁"
-msgstr ""
+msgstr "噩梦的拥抱"
 
 msgctxt "209"
 msgid "炎の王"
-msgstr ""
+msgstr "炎王"
 
 msgctxt "210"
 msgid "大爆炎"
-msgstr ""
+msgstr "大爆炎"
 
 msgctxt "211"
 msgid "盲人独笑"
-msgstr ""
+msgstr "盲人独笑"
 
 msgctxt "212"
 msgid "もつれ糸"
-msgstr ""
+msgstr "捆缚索"
 
 msgctxt "213"
 msgid "百鬼夜行"
-msgstr ""
+msgstr "百鬼夜行"
 
 msgctxt "214"
 msgid "描かれた花"
-msgstr ""
+msgstr "绘花"
 
 msgctxt "215"
 msgid "亡者の灰"
-msgstr ""
+msgstr "亡者之灰"
 
 msgctxt "216"
 msgid "巫剣解放"
-msgstr ""
+msgstr "巫剑解放"
 
 msgctxt "217"
 msgid "大巫術:森羅万象"
-msgstr ""
+msgstr "大巫术:森罗万象"
 
 msgctxt "218"
 msgid "盲人独笑"
-msgstr ""
+msgstr "盲人独笑"
 
 msgctxt "219"
 msgid "もつれ糸"
-msgstr ""
+msgstr "捆缚索"
 
 msgctxt "220"
 msgid "フレイムショット"
-msgstr ""
+msgstr "火炎射击"
 
 msgctxt "221"
 msgid "アイスショット"
-msgstr ""
+msgstr "冰寒射击"
 
 msgctxt "222"
 msgid "サンダーショット"
-msgstr ""
+msgstr "雷电射击"
 
 msgctxt "223"
 msgid "高速乱射"
-msgstr ""
+msgstr "高速乱射"
 
 msgctxt "224"
 msgid "アクセルブースト"
-msgstr ""
+msgstr "行动爆发"
 
 msgctxt "225"
 msgid "魔弾の射手"
-msgstr ""
+msgstr "魔弹射手"
 
 msgctxt "226"
 msgid "フレイムショット"
-msgstr ""
+msgstr "火炎射击"
 
 msgctxt "227"
 msgid "アイスショット"
-msgstr ""
+msgstr "冰寒射击"
 
 msgctxt "228"
 msgid "サンダーショット"
-msgstr ""
+msgstr "雷电射击"
 
 msgctxt "229"
 msgid "クライソウル"
-msgstr ""
+msgstr "灵魂哭号"
 
 msgctxt "230"
 msgid "子守唄"
-msgstr ""
+msgstr "摇篮曲"
 
 msgctxt "231"
 msgid "貫く穿貝"
-msgstr ""
+msgstr "贯穿的贝壳"
 
 msgctxt "232"
 msgid "アイスシェイブ"
-msgstr ""
+msgstr "寒冰薙"
 
 msgctxt "233"
 msgid "六つの罪"
-msgstr ""
+msgstr "六大罪"
 
 msgctxt "234"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "235"
 msgid "這い寄る触手"
-msgstr ""
+msgstr "伏行而来的触手"
 
 msgctxt "236"
 msgid "金切り声"
-msgstr ""
+msgstr "尖啸"
 
 msgctxt "237"
 msgid "カオススクリーム"
-msgstr ""
+msgstr "混沌尖啸"
 
 msgctxt "238"
 msgid "絶望の大爪"
-msgstr ""
+msgstr "绝望大爪"
 
 msgctxt "239"
 msgid "ストームフェザー"
-msgstr ""
+msgstr "骤羽风暴"
 
 msgctxt "240"
 msgid "捕食の宴"
-msgstr ""
+msgstr "捕食之宴"
 
 msgctxt "241"
 msgid "腐った息"
-msgstr ""
+msgstr "腐坏气息"
 
 msgctxt "242"
 msgid "激しい咆哮"
-msgstr ""
+msgstr "激昂咆哮"
 
 msgctxt "243"
 msgid "バーサクハウル"
-msgstr ""
+msgstr "狂战咆哮"
 
 msgctxt "244"
 msgid "蛮勇の障壁"
-msgstr ""
+msgstr "蛮勇之障壁"
 
 msgctxt "245"
 msgid "巨角の一撃"
-msgstr ""
+msgstr "巨角一击"
 
 msgctxt "246"
 msgid "ブン回し"
-msgstr ""
+msgstr "回转打击"
 
 msgctxt "247"
 msgid "完全破壊"
-msgstr ""
+msgstr "完全破坏"
 
 msgctxt "248"
 msgid "王者の爆進"
-msgstr ""
+msgstr "王者的猛冲"
 
 msgctxt "249"
 msgid "VOID0"
-msgstr ""
+msgstr "VOID0"
 
 msgctxt "250"
 msgid "VOID1"
-msgstr ""
+msgstr "VOID1"
 
 msgctxt "251"
 msgid "VOID2"
-msgstr ""
+msgstr "VOID2"
 
 msgctxt "252"
 msgid "VOID3"
-msgstr ""
+msgstr "VOID3"
 
 msgctxt "253"
 msgid "LRDA"
-msgstr ""
+msgstr "LRDA"
 
 msgctxt "254"
 msgid "AACV"
-msgstr ""
+msgstr "AACV"
 
 msgctxt "255"
 msgid "連携用待機"
-msgstr ""
+msgstr "连携用待机"
 
 msgctxt "256"
 msgid "MACV"
-msgstr ""
+msgstr "MACV"
 
 msgctxt "257"
 msgid "REPAIR"
-msgstr ""
+msgstr "REPAIR"
 
 msgctxt "258"
 msgid "美しき陽光"
-msgstr ""
+msgstr "青蝉独噪日光斜"
 
 msgctxt "259"
 msgid "凍雨と雨氷"
-msgstr ""
+msgstr "萧萧寒雨湿枯荄"
 
 msgctxt "260"
 msgid "雷鳴と我が身"
-msgstr ""
+msgstr "雷惊天地龙蛇蛰"
 
 msgctxt "261"
 msgid "生れ出づる悩み"
-msgstr ""
+msgstr "烦恼无根日日生"
 
 msgctxt "262"
 msgid "山行水行"
-msgstr ""
+msgstr "山重水复疑无路"
 
 msgctxt "263"
 msgid "孤独そして孤立"
-msgstr ""
+msgstr "孤灯不明思欲绝"
 
 msgctxt "264"
 msgid "メッセージ付待機"
-msgstr ""
+msgstr "带信息待机"
 
 msgctxt "265"
 msgid "何処何処"
-msgstr ""
+msgstr "人生何处不相逢"
 
 msgctxt "266"
 msgid "如く舞う"
-msgstr ""
+msgstr "星河欲转千帆舞"
 
 msgctxt "267"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "268"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "269"
 msgid "奈落からの慟哭"
-msgstr ""
+msgstr "来自地狱的恸哭"
 
 msgctxt "270"
 msgid "メガリスメテオ"
-msgstr ""
+msgstr "极巨陨石"
 
 msgctxt "271"
 msgid "グラインメイス"
-msgstr ""
+msgstr "碎碾巨锤"
 
 msgctxt "272"
 msgid "バインドスパイク"
-msgstr ""
+msgstr "束缚刺"
 
 msgctxt "273"
 msgid "百烈震"
-msgstr ""
+msgstr "百烈震"
 
 msgctxt "274"
 msgid "貪欲な爪"
-msgstr ""
+msgstr "贪欲之爪"
 
 msgctxt "275"
 msgid "クラッシュテイル"
-msgstr ""
+msgstr "破碎之尾"
 
 msgctxt "276"
 msgid "獄炎の吐息"
-msgstr ""
+msgstr "狱炎吐息"
 
 msgctxt "277"
 msgid "ヒールクライ"
-msgstr ""
+msgstr "治愈咆哮"
 
 msgctxt "278"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "279"
 msgid "汝、力を捧げよ"
-msgstr ""
+msgstr "汝，献上力量"
 
 msgctxt "280"
 msgid "我は軟弱を嫌う"
-msgstr ""
+msgstr "吾厌恶软弱"
 
 msgctxt "281"
 msgid "力を見よ"
-msgstr ""
+msgstr "见证力量吧"
 
 msgctxt "282"
 msgid "踊り狂え"
-msgstr ""
+msgstr "狂舞吧"
 
 msgctxt "283"
 msgid "強者への賞賛"
-msgstr ""
+msgstr "对强者的赞赏"
 
 msgctxt "284"
 msgid "隠者への賞賛"
-msgstr ""
+msgstr "对隐者的赞赏"
 
 msgctxt "285"
 msgid "孤独は尊ぶ"
-msgstr ""
+msgstr "吾尊奉孤独"
 
 msgctxt "286"
 msgid "我の怒り"
-msgstr ""
+msgstr "吾之怒火"
 
 msgctxt "287"
 msgid "我の悲しみ"
-msgstr ""
+msgstr "吾之哀怜"
 
 msgctxt "288"
 msgid "我の慈悲"
-msgstr ""
+msgstr "吾之慈悲"
 
 msgctxt "289"
 msgid "開放、そして力"
-msgstr ""
+msgstr "解放、而后伟力缠身"
 
 msgctxt "290"
 msgid "全てを解き放つ光"
-msgstr ""
+msgstr "解放一切的光辉"
 
 msgctxt "291"
 msgid "去れ、永久に"
-msgstr ""
+msgstr "消逝吧，直至永恒"
 
 msgctxt "292"
 msgid "滅ぼす風"
-msgstr ""
+msgstr "破灭之风"
 
 msgctxt "293"
 msgid "崇高なる休息"
-msgstr ""
+msgstr "崇高的休息"
 
 msgctxt "294"
 msgid "我に触れるな"
-msgstr ""
+msgstr "毋触吾身"
 
 msgctxt "295"
 msgid "我の領域"
-msgstr ""
+msgstr "吾之领域"
 
 msgctxt "296"
 msgid "黄昏を見よ"
-msgstr ""
+msgstr "见证黄昏吧"
 
 msgctxt "297"
 msgid "陽はまた昇る"
-msgstr ""
+msgstr "重见天日"
 
 msgctxt "298"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "299"
 msgid "石化の輝き"
-msgstr ""
+msgstr "石化之光"
 
 msgctxt "300"
 msgid "破滅の吐息"
-msgstr ""
+msgstr "破灭的吐息"
 
 msgctxt "301"
 msgid "くらいつき"
-msgstr ""
+msgstr "吞噬殆尽"
 
 msgctxt "302"
 msgid "蹂躙する剛爪"
-msgstr ""
+msgstr "蹂躏的刚爪"
 
 msgctxt "303"
 msgid "打ち鳴らし"
-msgstr ""
+msgstr "震响敲击"
 
 msgctxt "304"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "305"
 msgid "毒の沼"
-msgstr ""
+msgstr "毒沼"
 
 msgctxt "306"
 msgid "シルクスプレッド"
-msgstr ""
+msgstr "蛛丝喷洒"
 
 msgctxt "307"
 msgid "シルクスピット"
-msgstr ""
+msgstr "蛛丝喷射"
 
 msgctxt "308"
 msgid "ポイズンバイト"
-msgstr ""
+msgstr "毒咬击"
 
 msgctxt "309"
 msgid "尾針"
-msgstr ""
+msgstr "尾针"
 
 msgctxt "310"
 msgid "氷結の雪崩"
-msgstr ""
+msgstr "冰结雪崩"
 
 msgctxt "311"
 msgid "ソウルフロスト"
-msgstr ""
+msgstr "灵魂冻结"
 
 msgctxt "312"
 msgid "パイルバンカー"
-msgstr ""
+msgstr "打桩机"
 
 msgctxt "313"
 msgid "バスターアーム"
-msgstr ""
+msgstr "粉碎之腕"
 
 msgctxt "314"
 msgid "結晶の綻び"
-msgstr ""
+msgstr "结晶绽裂"
 
 msgctxt "315"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "316"
 msgid "電撃の嵐矢"
-msgstr ""
+msgstr "电击之岚矢"
 
 msgctxt "317"
 msgid "プラズマショット"
-msgstr ""
+msgstr "等离子喷射"
 
 msgctxt "318"
 msgid "雷の矢"
-msgstr ""
+msgstr "雷之矢"
 
 msgctxt "319"
 msgid "閃光疾走"
-msgstr ""
+msgstr "闪光疾驰"
 
 msgctxt "320"
 msgid "閃光疾走"
-msgstr ""
+msgstr "闪光疾驰"
 
 msgctxt "321"
 msgid "スピンドリフト"
-msgstr ""
+msgstr "旋转漂移"
 
 msgctxt "322"
 msgid "電撃の嵐矢"
-msgstr ""
+msgstr "电击之岚矢"
 
 msgctxt "323"
 msgid "フレイムアリズン"
-msgstr ""
+msgstr "烈焰升腾"
 
 msgctxt "324"
 msgid "威圧"
-msgstr ""
+msgstr "威压"
 
 msgctxt "325"
 msgid "断罪の双刃"
-msgstr ""
+msgstr "裁决双刃"
 
 msgctxt "326"
 msgid "虚無の閃刃"
-msgstr ""
+msgstr "虚无闪刃"
 
 msgctxt "327"
 msgid "静寂の闇刃"
-msgstr ""
+msgstr "寂静暗刃"
 
 msgctxt "328"
 msgid "爆炎陣"
-msgstr ""
+msgstr "爆炎阵"
 
 msgctxt "329"
 msgid "炎陣展開"
-msgstr ""
+msgstr "炎阵展开"
 
 msgctxt "330"
 msgid "フラッシュ"
-msgstr ""
+msgstr "闪光"
 
 msgctxt "331"
 msgid "パワーオブロック"
-msgstr ""
+msgstr "岩石之力"
 
 msgctxt "332"
 msgid "盲人独笑"
-msgstr ""
+msgstr "盲人独笑"
 
 msgctxt "333"
 msgid "盲人独笑"
-msgstr ""
+msgstr "盲人独笑"
 
 msgctxt "334"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "335"
 msgid "百鬼夜行"
-msgstr ""
+msgstr "百鬼夜行"
 
 msgctxt "336"
 msgid "描かれた花"
-msgstr ""
+msgstr "绘花"
 
 msgctxt "337"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "338"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "339"
 msgid "何処何処"
-msgstr ""
+msgstr "人生何处不相逢"
 
 msgctxt "340"
 msgid "結晶の綻び"
-msgstr ""
+msgstr "结晶绽裂"
 
 msgctxt "341"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "342"
 msgid "パワーオブロック"
-msgstr ""
+msgstr "岩石之力"
 
 msgctxt "343"
 msgid "パワーオブロック"
-msgstr ""
+msgstr "岩石之力"
 
 msgctxt "344"
 msgid "パワーオブロック"
-msgstr ""
+msgstr "岩石之力"
 
 msgctxt "345"
 msgid "開放、そして力"
-msgstr ""
+msgstr "解放、而后伟力缠身"
 
 msgctxt "346"
 msgid "開放、そして力"
-msgstr ""
+msgstr "解放、而后伟力缠身"
 
 msgctxt "347"
 msgid "我に触れるな"
-msgstr ""
+msgstr "毋触吾身"
 
 msgctxt "348"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "349"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "350"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "351"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "352"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "353"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "354"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "355"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "356"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "357"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "358"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "359"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "360"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "361"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "362"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "363"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "364"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "365"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "366"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "367"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "368"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "369"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "370"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "371"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "372"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "373"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "374"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "375"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "376"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "377"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "378"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "379"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "380"
 msgid "溶解液"
-msgstr ""
+msgstr "溶解液"
 
 msgctxt "381"
 msgid "強化液"
-msgstr ""
+msgstr "强化液"
 
 msgctxt "382"
 msgid "凍りつく体液"
-msgstr ""
+msgstr "冰冻体液"
 
 msgctxt "383"
 msgid "生存本能"
-msgstr ""
+msgstr "生存本能"
 
 msgctxt "384"
 msgid "痺れる体液"
-msgstr ""
+msgstr "麻痹体液"
 
 msgctxt "385"
 msgid "チェイスレーザー"
-msgstr ""
+msgstr "追踪激光"
 
 msgctxt "386"
 msgid "黄泉の糸"
-msgstr ""
+msgstr "黄泉之丝"
 
 msgctxt "387"
 msgid "特殊待機移行"
-msgstr ""
+msgstr "进入特殊待机"
 
 msgctxt "388"
 msgid "毒の樹液"
-msgstr ""
+msgstr "有毒树汁"
 
 msgctxt "389"
 msgid "怒りの獄炎弾"
-msgstr ""
+msgstr "愤怒的狱炎弹"
 
 msgctxt "390"
 msgid "食いしばり"
-msgstr ""
+msgstr "啃噬"
 
 msgctxt "391"
 msgid "チェイスレーザー"
-msgstr ""
+msgstr "追踪激光"
 
 msgctxt "392"
 msgid "千の監視"
-msgstr ""
+msgstr "千之监视"
 
 msgctxt "393"
 msgid "禁忌の光"
-msgstr ""
+msgstr "禁忌之光"
 
 msgctxt "394"
 msgid "セルメンブレン"
-msgstr ""
+msgstr "细胞膜"
 
 msgctxt "395"
 msgid "氷自爆"
-msgstr ""
+msgstr "冰自爆"
 
 msgctxt "396"
 msgid "セルメンブレン"
-msgstr ""
+msgstr "细胞膜"
 
 msgctxt "397"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "398"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "399"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "400"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "401"
 msgid "溶解液"
-msgstr ""
+msgstr "溶解液"
 
 msgctxt "402"
 msgid "強化液"
-msgstr ""
+msgstr "强化液"
 
 msgctxt "403"
 msgid "凍りつく体液"
-msgstr ""
+msgstr "冰冻体液"
 
 msgctxt "404"
 msgid "痺れる体液"
-msgstr ""
+msgstr "麻痹体液"
 
 msgctxt "405"
 msgid "毒の樹液"
-msgstr ""
+msgstr "有毒树汁"
 
 msgctxt "406"
 msgid "黄泉の糸"
-msgstr ""
+msgstr "黄泉之丝"
 
 msgctxt "407"
 msgid "リベンジニードル"
-msgstr ""
+msgstr "复仇之针"
 
 msgctxt "408"
 msgid "拒絶の針"
-msgstr ""
+msgstr "拒绝之针"
 
 msgctxt "409"
 msgid "徹底抗戦"
-msgstr ""
+msgstr "彻底抗战"
 
 msgctxt "410"
 msgid "仲間食い"
-msgstr ""
+msgstr "吞噬同伴"
 
 msgctxt "411"
 msgid "仲間食い"
-msgstr ""
+msgstr "吞噬同伴"
 
 msgctxt "412"
 msgid "流光の追刃"
-msgstr ""
+msgstr "流光追斩"
 
 msgctxt "413"
 msgid "殺戮の光刃"
-msgstr ""
+msgstr "杀戮光刃"
 
 msgctxt "414"
 msgid "ウォーハンマー"
-msgstr ""
+msgstr "战锤"
 
 msgctxt "415"
 msgid "リバーサルビート"
-msgstr ""
+msgstr "逆转一击"
 
 msgctxt "416"
 msgid "生存本能"
-msgstr ""
+msgstr "生存本能"
 
 msgctxt "417"
 msgid "アイスブレス"
-msgstr ""
+msgstr "冰寒吐息"
 
 msgctxt "418"
 msgid "ミラーシールド"
-msgstr ""
+msgstr "镜面护盾"
 
 msgctxt "419"
 msgid "クラッシュアーム"
-msgstr ""
+msgstr "粉碎之腕"
 
 msgctxt "420"
 msgid "氷河の再生"
-msgstr ""
+msgstr "冰川再生"
 
 msgctxt "421"
 msgid "劈く叫び"
-msgstr ""
+msgstr "刺耳尖啸"
 
 msgctxt "422"
 msgid "三連牙"
-msgstr ""
+msgstr "三连牙"
 
 msgctxt "423"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "424"
 msgid "氷の共鳴"
-msgstr ""
+msgstr "冰之共鸣"
 
 msgctxt "425"
 msgid "サンダーブレス"
-msgstr ""
+msgstr "雷电吐息"
 
 msgctxt "426"
 msgid "古竜の呪撃"
-msgstr ""
+msgstr "古龙的咒击"
 
 msgctxt "427"
 msgid "竜の鉄槌"
-msgstr ""
+msgstr "龙之铁锤"
 
 msgctxt "428"
 msgid "呪われし遠吠え"
-msgstr ""
+msgstr "被诅咒的咆哮"
 
 msgctxt "429"
 msgid "呪縛の円舞"
-msgstr ""
+msgstr "咒缚圆舞曲"
 
 msgctxt "430"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "431"
 msgid "雷の共鳴"
-msgstr ""
+msgstr "雷之共鸣"
 
 msgctxt "432"
 msgid "ファイアブレス"
-msgstr ""
+msgstr "火炎吐息"
 
 msgctxt "433"
 msgid "とどろく咆哮"
-msgstr ""
+msgstr "轰鸣咆哮"
 
 msgctxt "434"
 msgid "ドラゴンビート"
-msgstr ""
+msgstr "龙之乱击"
 
 msgctxt "435"
 msgid "火竜の猛攻"
-msgstr ""
+msgstr "火龙的猛攻"
 
 msgctxt "436"
 msgid "ドラゴンクロー"
-msgstr ""
+msgstr "龙之爪"
 
 msgctxt "437"
 msgid "火竜の激震"
-msgstr ""
+msgstr "火龙的激震"
 
 msgctxt "438"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "439"
 msgid "炎の共鳴"
-msgstr ""
+msgstr "炎之共鸣"
 
 msgctxt "440"
 msgid "ウィングクロー"
-msgstr ""
+msgstr "翼爪击"
 
 msgctxt "441"
 msgid "テイルストライク"
-msgstr ""
+msgstr "尾击"
 
 msgctxt "442"
 msgid "大翼の旋風"
-msgstr ""
+msgstr "大翼的旋风"
 
 msgctxt "443"
 msgid "閃光の烈線"
-msgstr ""
+msgstr "闪光烈线"
 
 msgctxt "444"
 msgid "シャープロア"
-msgstr ""
+msgstr "咆哮飞扑"
 
 msgctxt "445"
 msgid "爆炎陣の構え"
-msgstr ""
+msgstr "爆炎阵之架势"
 
 msgctxt "446"
 msgid "ミラーシールド"
-msgstr ""
+msgstr "镜面护盾"
 
 msgctxt "447"
 msgid "暴悪の牙"
-msgstr ""
+msgstr "暴恶之牙"
 
 msgctxt "448"
 msgid "AACV"
-msgstr ""
+msgstr "AACV"
 
 msgctxt "449"
 msgid "MACV"
-msgstr ""
+msgstr "MACV"
 
 msgctxt "450"
 msgid "我の領域"
-msgstr ""
+msgstr "吾之领域"
 
 msgctxt "451"
 msgid "毒の沼"
-msgstr ""
+msgstr "毒沼"
 
 msgctxt "452"
 msgid "炎陣展開"
-msgstr ""
+msgstr "炎阵展开"
 
 msgctxt "453"
 msgid "リジェネ"
-msgstr ""
+msgstr "再生术"
 
 msgctxt "454"
 msgid "フォースウォール"
-msgstr ""
+msgstr "威能护盾"
 
 msgctxt "455"
 msgid "パワーウォール"
-msgstr ""
+msgstr "后备能源"
 
 msgctxt "456"
 msgid "ロックハンマー"
-msgstr ""
+msgstr "岩锤"
 
 msgctxt "457"
 msgid "トリプルハンマー"
-msgstr ""
+msgstr "三连锤"
 
 msgctxt "458"
 msgid "怒りの獄炎弾"
-msgstr ""
+msgstr "愤怒的狱炎弹"
 
 msgctxt "459"
 msgid "祝福の光"
-msgstr ""
+msgstr "祝福之光"
 
 msgctxt "460"
 msgid "疫病の棍"
-msgstr ""
+msgstr "疫病之棍"
 
 msgctxt "461"
 msgid "押しつぶし"
-msgstr ""
+msgstr "压碎"
 
 msgctxt "462"
 msgid "リフレクトガード"
-msgstr ""
+msgstr "反射守护"
 
 msgctxt "463"
 msgid "荒れ狂うツタ"
-msgstr ""
+msgstr "藤蔓乱击"
 
 msgctxt "464"
 msgid "絡め取るツタ"
-msgstr ""
+msgstr "束缚藤蔓"
 
 msgctxt "465"
 msgid "白いプラズマ"
-msgstr ""
+msgstr "白色胞浆"
 
 msgctxt "466"
 msgid "鋼の大針"
-msgstr ""
+msgstr "钢之大针"
 
 msgctxt "467"
 msgid "フリーズ"
-msgstr ""
+msgstr "冰冻"
 
 msgctxt "468"
 msgid "赤いプラズマ"
-msgstr ""
+msgstr "红色胞浆"
 
 msgctxt "469"
 msgid "癒しの舞い"
-msgstr ""
+msgstr "治愈之舞"
 
 msgctxt "470"
 msgid "乱れ舞い"
-msgstr ""
+msgstr "乱舞"
 
 msgctxt "471"
 msgid "ボアコマンド"
-msgstr ""
+msgstr "野猪号令"
 
 msgctxt "472"
 msgid "禁忌の光"
-msgstr ""
+msgstr "禁忌之光"
 
 msgctxt "473"
 msgid "千の監視"
-msgstr ""
+msgstr "千之监视"
 
 msgctxt "474"
 msgid "リフレクトガード"
-msgstr ""
+msgstr "反射守护"
 
 msgctxt "475"
 msgid "カラミティアイ"
-msgstr ""
+msgstr "灾祸之眼"
 
 msgctxt "476"
 msgid "セルチャージ"
-msgstr ""
+msgstr "细胞蓄力"
 
 msgctxt "477"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "478"
 msgid "落とし穴で行動不能"
-msgstr ""
+msgstr "因陷坑而无法行动"
 
 msgctxt "479"
 msgid "落とし穴から脱出"
-msgstr ""
+msgstr "从陷坑中逃脱"
 
 msgctxt "480"
 msgid "サイクロンルーツ"
-msgstr ""
+msgstr "根茎风暴"
 
 msgctxt "481"
 msgid "ランドスライス"
-msgstr ""
+msgstr "泥石流"
 
 msgctxt "482"
 msgid "デモンズランス"
-msgstr ""
+msgstr "恶魔之枪"
 
 msgctxt "483"
 msgid "ポイズンダスト"
-msgstr ""
+msgstr "有毒粉尘"
 
 msgctxt "484"
 msgid "カラミティアイ"
-msgstr ""
+msgstr "灾祸之眼"
 
 msgctxt "485"
 msgid "カースオブルイン"
-msgstr ""
+msgstr "毁灭之咒"
 
 msgctxt "486"
 msgid "パンデミック"
-msgstr ""
+msgstr "瘟疫"
 
 msgctxt "487"
 msgid "アイソレイト"
-msgstr ""
+msgstr "孤立"
 
 msgctxt "488"
 msgid "ハルマゲドン"
-msgstr ""
+msgstr "终末之战"
 
 msgctxt "489"
 msgid "ハルマゲドン予告"
-msgstr ""
+msgstr "终末之战预告"
 
 msgctxt "490"
 msgid "セルチャージ"
-msgstr ""
+msgstr "细胞蓄力"
 
 msgctxt "491"
 msgid "セグメント"
-msgstr ""
+msgstr "分裂重组"
 
 msgctxt "492"
 msgid "ギガフレイム"
-msgstr ""
+msgstr "万亿烈焰"
 
 msgctxt "493"
 msgid "フリーズノヴァ"
-msgstr ""
+msgstr "霜冻星爆"
 
 msgctxt "494"
 msgid "サンダーレイン"
-msgstr ""
+msgstr "雷鸣如雨"
 
 msgctxt "495"
 msgid "顔が目覚める"
@@ -1997,420 +1998,420 @@ msgstr ""
 
 msgctxt "496"
 msgid "猛進連牙"
-msgstr ""
+msgstr "猛进连牙"
 
 msgctxt "497"
 msgid "大氷河の尾びれ"
-msgstr ""
+msgstr "大冰河尾鳍"
 
 msgctxt "498"
 msgid "苛む針"
-msgstr ""
+msgstr "折磨之针"
 
 msgctxt "499"
 msgid "極刑の針"
-msgstr ""
+msgstr "酷刑之针"
 
 msgctxt "500"
 msgid "ランドスライス"
-msgstr ""
+msgstr "泥石流"
 
 msgctxt "501"
 msgid "デモンズランス"
-msgstr ""
+msgstr "恶魔之枪"
 
 msgctxt "502"
 msgid "ギガフレイム"
-msgstr ""
+msgstr "万亿烈焰"
 
 msgctxt "503"
 msgid "フリーズノヴァ"
-msgstr ""
+msgstr "霜冻星爆"
 
 msgctxt "504"
 msgid "サンダーレイン"
-msgstr ""
+msgstr "雷鸣如雨"
 
 msgctxt "505"
 msgid "デバ用全体麻痺"
-msgstr ""
+msgstr "DEBUG用全体麻痹"
 
 msgctxt "506"
 msgid "デバ用全体テラー"
-msgstr ""
+msgstr "DEBUG用全体恐怖"
 
 msgctxt "507"
 msgid "デバ用全体睡眠"
-msgstr ""
+msgstr "DEBUG用全体睡眠"
 
 msgctxt "508"
 msgid "デバ用全体混乱"
-msgstr ""
+msgstr "DEBUG用全体混乱"
 
 msgctxt "509"
 msgid "デバ用全体スタン"
-msgstr ""
+msgstr "DEBUG用全体眩晕"
 
 msgctxt "510"
 msgid "デバ用全体頭封じ"
-msgstr ""
+msgstr "DEBUG用全体头封"
 
 msgctxt "511"
 msgid "デバ用全体腕封じ"
-msgstr ""
+msgstr "DEBUG用全体臂封"
 
 msgctxt "512"
 msgid "デバ用全体脚封じ"
-msgstr ""
+msgstr "DEBUG用全体腿封"
 
 msgctxt "513"
 msgid "デバ用一列即死"
-msgstr ""
+msgstr "DEBUG用一列即死"
 
 msgctxt "514"
 msgid "デバ用一列石化"
-msgstr ""
+msgstr "DEBUG用一列石化"
 
 msgctxt "515"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "516"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "517"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "518"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "519"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "520"
 msgid "パワースポイト"
-msgstr ""
+msgstr "汲能之针"
 
 msgctxt "521"
 msgid "テンタクルレイジ"
-msgstr ""
+msgstr "触手狂怒"
 
 msgctxt "522"
 msgid "ショックスイング"
-msgstr ""
+msgstr "震慑冲撞"
 
 msgctxt "523"
 msgid "ベノムネイル"
-msgstr ""
+msgstr "毒尾"
 
 msgctxt "524"
 msgid "カオススラッシュ"
-msgstr ""
+msgstr "混沌斩"
 
 msgctxt "525"
 msgid "トキシックガス"
-msgstr ""
+msgstr "毒气"
 
 msgctxt "526"
 msgid "パワースポイト"
-msgstr ""
+msgstr "汲能之针"
 
 msgctxt "527"
 msgid "トキシックガス"
-msgstr ""
+msgstr "毒气"
 
 msgctxt "528"
 msgid "テラーハウル"
-msgstr ""
+msgstr "恐惧咆哮"
 
 msgctxt "529"
 msgid "凍てつく牙"
-msgstr ""
+msgstr "冰冻之牙"
 
 msgctxt "530"
 msgid "シルバーファング"
-msgstr ""
+msgstr "银白之牙"
 
 msgctxt "531"
 msgid "バインドハウル"
-msgstr ""
+msgstr "束缚咆哮"
 
 msgctxt "532"
 msgid "沈黙の瞳"
-msgstr ""
+msgstr "沉默的眼瞳"
 
 msgctxt "533"
 msgid "クロスカウンター"
-msgstr ""
+msgstr "交叉反击拳"
 
 msgctxt "534"
 msgid "クロスカウンター"
-msgstr ""
+msgstr "交叉反击拳"
 
 msgctxt "535"
 msgid "ホーンラッシュ"
-msgstr ""
+msgstr "角突"
 
 msgctxt "536"
 msgid "スマッシュコンボ"
-msgstr ""
+msgstr "崩拳连击"
 
 msgctxt "537"
 msgid "ハリケーンパンチ"
-msgstr ""
+msgstr "旋风拳"
 
 msgctxt "538"
 msgid "キュア"
-msgstr ""
+msgstr "治疗术"
 
 msgctxt "539"
 msgid "神秘のヴェール"
-msgstr ""
+msgstr "神秘面纱"
 
 msgctxt "540"
 msgid "かみくだき"
-msgstr ""
+msgstr "咬碎"
 
 msgctxt "541"
 msgid "女王の鉄槌"
-msgstr ""
+msgstr "女王的铁锤"
 
 msgctxt "542"
 msgid "土けむり"
-msgstr ""
+msgstr "扬尘"
 
 msgctxt "543"
 msgid "支配の眼光"
-msgstr ""
+msgstr "支配之目光"
 
 msgctxt "544"
 msgid "攻撃隊列"
-msgstr ""
+msgstr "攻击阵型"
 
 msgctxt "545"
 msgid "防御隊列"
-msgstr ""
+msgstr "防御阵型"
 
 msgctxt "546"
 msgid "アイスブレス"
-msgstr ""
+msgstr "冰寒吐息"
 
 msgctxt "547"
 msgid "大海原の浸食"
-msgstr ""
+msgstr "大海原之侵食"
 
 msgctxt "548"
 msgid "体当たり"
-msgstr ""
+msgstr "冲撞"
 
 msgctxt "549"
 msgid "テイルコイル"
-msgstr ""
+msgstr "撞击"
 
 msgctxt "550"
 msgid "フリーズオーラ"
-msgstr ""
+msgstr "寒冰气场"
 
 msgctxt "551"
 msgid "水のヴェール"
-msgstr ""
+msgstr "水帘面纱"
 
 msgctxt "552"
 msgid "サンダーウィング"
-msgstr ""
+msgstr "雷电之翼"
 
 msgctxt "553"
 msgid "フェザースピアー"
-msgstr ""
+msgstr "羽毛尖枪"
 
 msgctxt "554"
 msgid "デスブリンガー"
-msgstr ""
+msgstr "死亡使者"
 
 msgctxt "555"
 msgid "カオスブリンガー"
-msgstr ""
+msgstr "混乱使者"
 
 msgctxt "556"
 msgid "鷲づかみ"
-msgstr ""
+msgstr "抓取"
 
 msgctxt "557"
 msgid "ウインドプレス"
-msgstr ""
+msgstr "风压"
 
 msgctxt "558"
 msgid "フレイムサイ"
-msgstr ""
+msgstr "火焰一击"
 
 msgctxt "559"
 msgid "フロストスマイル"
-msgstr ""
+msgstr "冻结微笑"
 
 msgctxt "560"
 msgid "ライトニング"
-msgstr ""
+msgstr "雷霆"
 
 msgctxt "561"
 msgid "テンタクルビート"
-msgstr ""
+msgstr "触手打击"
 
 msgctxt "562"
 msgid "ヴァンパイアキス"
-msgstr ""
+msgstr "吸血鬼之吻"
 
 msgctxt "563"
 msgid "太古の呪粉"
-msgstr ""
+msgstr "太古咒粉"
 
 msgctxt "564"
 msgid "魔の子守唄"
-msgstr ""
+msgstr "恶魔摇篮曲"
 
 msgctxt "565"
 msgid "ダークネイル"
-msgstr ""
+msgstr "黑暗之爪"
 
 msgctxt "566"
 msgid "ポイズンテイル"
-msgstr ""
+msgstr "毒尾"
 
 msgctxt "567"
 msgid "ペトロボイス"
-msgstr ""
+msgstr "石化之音"
 
 msgctxt "568"
 msgid "大食らい"
-msgstr ""
+msgstr "暴食"
 
 msgctxt "569"
 msgid "捕獲の触手"
-msgstr ""
+msgstr "捕获的触手"
 
 msgctxt "570"
 msgid "貪食"
-msgstr ""
+msgstr "贪食"
 
 msgctxt "571"
 msgid "畏怖の眼光"
-msgstr ""
+msgstr "畏惧的目光"
 
 msgctxt "572"
 msgid "気功脚"
-msgstr ""
+msgstr "气功脚"
 
 msgctxt "573"
 msgid "紅蓮旋風翔"
-msgstr ""
+msgstr "红莲旋风翔"
 
 msgctxt "574"
 msgid "鳳凰爪撃"
-msgstr ""
+msgstr "凤凰爪击"
 
 msgctxt "575"
 msgid "朱雀の構え"
-msgstr ""
+msgstr "朱雀架势"
 
 msgctxt "576"
 msgid "ヘヴィジャンプ"
-msgstr ""
+msgstr "沉重飞跃"
 
 msgctxt "577"
 msgid "ハイドロジャンプ"
-msgstr ""
+msgstr "水溅跃"
 
 msgctxt "578"
 msgid "舐めまわし"
-msgstr ""
+msgstr "舔遍全身"
 
 msgctxt "579"
 msgid "抱きしめ"
-msgstr ""
+msgstr "抱紧"
 
 msgctxt "580"
 msgid "興奮する"
-msgstr ""
+msgstr "兴奋"
 
 msgctxt "581"
 msgid "興奮から戻る"
-msgstr ""
+msgstr "结束兴奋"
 
 msgctxt "582"
 msgid "目が釘付け"
-msgstr ""
+msgstr "盯上目标"
 
 msgctxt "583"
 msgid "孤独は卑しむ"
-msgstr ""
+msgstr "吾鄙斥孤独"
 
 msgctxt "584"
 msgid "全てを包み込む闇"
-msgstr ""
+msgstr "吞没一切的黑暗"
 
 msgctxt "585"
 msgid "死の領域"
-msgstr ""
+msgstr "死之领域"
 
 msgctxt "586"
 msgid "流れよ涙"
-msgstr ""
+msgstr "落泪吧"
 
 msgctxt "587"
 msgid "理を知れ"
-msgstr ""
+msgstr "知晓真理吧"
 
 msgctxt "588"
 msgid "誰が為の力"
-msgstr ""
+msgstr "汝之力量为何而存"
 
 msgctxt "589"
 msgid "仲間呼び"
-msgstr ""
+msgstr "呼唤同伴"
 
 msgctxt "590"
 msgid "死の輝き"
-msgstr ""
+msgstr "死之光辉"
 
 msgctxt "591"
 msgid "破壊の波動"
-msgstr ""
+msgstr "破坏之波动"
 
 msgctxt "592"
 msgid "興奮する"
-msgstr ""
+msgstr "兴奋"
 
 msgctxt "593"
 msgid "興奮から戻る"
-msgstr ""
+msgstr "结束兴奋"
 
 msgctxt "594"
 msgid "全てを包み込む闇"
-msgstr ""
+msgstr "吞没一切的黑暗"
 
 msgctxt "595"
 msgid "死の領域"
-msgstr ""
+msgstr "死之领域"
 
 msgctxt "596"
 msgid "破壊の波動"
-msgstr ""
+msgstr "破坏之波动"
 
 msgctxt "597"
 msgid "スパイダーリリィ"
-msgstr ""
+msgstr "彼岸花"
 
 msgctxt "598"
 msgid "閃光疾走"
-msgstr ""
+msgstr "闪光疾驰"
 
 msgctxt "599"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
 
 msgctxt "600"
 msgid "NONE"
-msgstr ""
+msgstr "NONE"
