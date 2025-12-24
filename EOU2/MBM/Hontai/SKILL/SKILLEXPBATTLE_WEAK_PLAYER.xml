@@ -21,7 +21,7 @@
   </entry>
   <entry id="71">
     <source>挑発{f801}【標的】狙われ率UP{f801}</source>
-    <target>挑衅{f801}【標的】狙われ率UP{f801}</target>
+    <target>挑衅{f801}【目标】被攻击率UP{f801}</target>
   </entry>
   <entry id="74">
     <source>加護の鎧{f801}【状態】封じ・状態異常・弱体無効{f801}</source>
@@ -153,7 +153,7 @@
   </entry>
   <entry id="400">
     <source>攻撃の号令{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>攻击の号令{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>攻击号令{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="401">
     <source>防御の号令{f801}【防御】物理・属性攻撃UP{f801}</source>

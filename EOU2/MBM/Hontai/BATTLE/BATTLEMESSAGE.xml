@@ -1637,7 +1637,7 @@
   </entry>
   <entry id="489">
     <source>{f811}{0100}は{f801}状態異常が付着しなくなった!{f801}</source>
-    <target>{f811}{0100}は{f801}不会受到异常状态影响了！{f801}</target>
+    <target>{f811}{0100}{f801}不会受到异常状态影响了！{f801}</target>
   </entry>
   <entry id="490">
     <source>{f811}{0100}は{f801}死に対する耐性がついた!{f801}</source>
@@ -1709,7 +1709,7 @@
   </entry>
   <entry id="508">
     <source>{f811}{0000}は{f801}{f811}{0300}を掛けた!{f801}</source>
-    <target>{f811}{0000}{f801}{f811}{0300}を掛けた！{f801}</target>
+    <target>{f811}{0000}{f801}发动了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="509">
     <source>天空より砲弾が飛来する!{f801}</source>
@@ -1901,7 +1901,7 @@
   </entry>
   <entry id="556">
     <source>幼子の領域により体が蝕まれる!{f801}</source>
-    <target>因为幼子の領域，身体被侵蚀了！{f801}</target>
+    <target>因为幼子的领域，身体被侵蚀了！{f801}</target>
   </entry>
   <entry id="557">
     <source>制御装置が起動した!{f801}</source>
@@ -1945,7 +1945,7 @@
   </entry>
   <entry id="567">
     <source>幼子の領域が消え去った!{f801}</source>
-    <target>幼子の領域消失了！{f801}</target>
+    <target>幼子的领域消失了！{f801}</target>
   </entry>
   <entry id="568">
     <source>{f811}{0000}は怪しく輝いた!{f801}</source>
@@ -2117,15 +2117,15 @@
   </entry>
   <entry id="618">
     <source>偉大なる赤竜とドラゴンハート紅{f801}</source>
-    <target>伟大红龙と龙之心・红{f801}</target>
+    <target>伟大红龙与龙之心・红{f801}</target>
   </entry>
   <entry id="619">
     <source>氷嵐の支配者とドラゴンハート蒼{f801}</source>
-    <target>冰暴支配者と龙之心・苍{f801}</target>
+    <target>冰暴支配者与龙之心・苍{f801}</target>
   </entry>
   <entry id="620">
     <source>雷鳴と共に現る者とドラゴンハート輝{f801}</source>
-    <target>雷鸣伴随者と龙之心・辉{f801}</target>
+    <target>雷鸣伴随者与龙之心・辉{f801}</target>
   </entry>
   <entry id="621">
     <source>アーテリンデとライシュッツ{f801}</source>
@@ -2333,7 +2333,7 @@
   </entry>
   <entry id="672">
     <source>{f811}{0100}は{f801}封じの成功率が上昇した!{f801}</source>
-    <target>{f811}{0100}的{f801}封印の成功率が上昇した！{f801}</target>
+    <target>{f811}{0100}的{f801}封印成功率提升！{f801}</target>
   </entry>
   <entry id="673">
     <source>死の領域が消え去った!{f801}</source>
