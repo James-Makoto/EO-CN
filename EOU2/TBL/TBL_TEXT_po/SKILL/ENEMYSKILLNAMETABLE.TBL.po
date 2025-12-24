@@ -614,7 +614,7 @@ msgstr "挥砍"
 
 msgctxt "150"
 msgid "品定め"
-msgstr ""
+msgstr "鉴别"
 
 msgctxt "151"
 msgid "熱病の棍"
@@ -1994,7 +1994,7 @@ msgstr "雷鸣如雨"
 
 msgctxt "495"
 msgid "顔が目覚める"
-msgstr ""
+msgstr "复颜苏醒"
 
 msgctxt "496"
 msgid "猛進連牙"

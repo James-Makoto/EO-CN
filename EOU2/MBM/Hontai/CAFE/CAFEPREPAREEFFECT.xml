@@ -261,7 +261,7 @@
   </entry>
   <entry id="65">
     <source>敵が眠った際{f801}攻撃しても起きにくくなった!{f801}</source>
-    <target>敌人睡着时攻击，{f801}也不会被叫醒！{f801}</target>
+    <target>敌人睡着时攻击，{f801}也不容易被叫醒！{f801}</target>
   </entry>
   <entry id="66">
     <source>グリモア付加効果の付着率が{f801}大幅に上昇した!{f801}</source>
