@@ -53,7 +53,7 @@ msgstr "东国传统兜烧"
 
 msgctxt "10"
 msgid "雪鳥卵の熱々おでん"
-msgstr "雪鸟蛋热关东煮"
+msgstr "热乎乎的雪鸟蛋关东煮"
 
 msgctxt "11"
 msgid "カニの樹海茶漬け"
@@ -249,7 +249,7 @@ msgstr "野牛牛排佐苹果酱"
 
 msgctxt "59"
 msgid "カニクリームコロッケ"
-msgstr "蟹肉奶油可乐饼"
+msgstr "奶油蟹肉可乐饼"
 
 msgctxt "60"
 msgid "樹海パエリア"

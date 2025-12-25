@@ -9,7 +9,7 @@
   </entry>
   <entry id="3">
     <source>お疲れ様でした{f801}電源をお切りください{f801}</source>
-    <target>辛苦了！{f801}電源をお切り请关闭电源吧。ください{f801}</target>
+    <target>辛苦了！{f801}请关闭电源吧。{f801}</target>
   </entry>
   <entry id="4">
     <source>習得条件はありません{f801}</source>

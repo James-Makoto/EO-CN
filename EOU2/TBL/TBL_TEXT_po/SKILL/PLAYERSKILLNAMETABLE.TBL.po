@@ -70,7 +70,7 @@ msgstr "狂怒之刃"
 
 msgctxt "14"
 msgid "トルネード"
-msgstr "龙卷斩击"
+msgstr "旋风斩击"
 
 msgctxt "15"
 msgid "ハヤブサ駆け"
@@ -82,7 +82,7 @@ msgstr "奋力挥砍"
 
 msgctxt "17"
 msgid "ハリケーン"
-msgstr "飓风拳击"
+msgstr "龙卷斩击"
 
 msgctxt "18"
 msgid "ブーメランアクス"
@@ -2558,31 +2558,31 @@ msgstr "DUMMY"
 
 msgctxt "636"
 msgid "斬攻撃力UP"
-msgstr "斩击攻击力UP"
+msgstr "斩攻击力UP"
 
 msgctxt "637"
 msgid "突攻撃力UP"
-msgstr "突击攻击力UP"
+msgstr "突攻击力UP"
 
 msgctxt "638"
 msgid "壊攻撃力UP"
-msgstr "破坏攻击力UP"
+msgstr "坏攻击力UP"
 
 msgctxt "639"
 msgid "炎攻撃力UP"
-msgstr "火炎攻击力UP"
+msgstr "火攻击力UP"
 
 msgctxt "640"
 msgid "氷攻撃力UP"
-msgstr "冰寒攻击力UP"
+msgstr "冰攻击力UP"
 
 msgctxt "641"
 msgid "雷攻撃力UP"
-msgstr "雷电攻击力UP"
+msgstr "雷攻击力UP"
 
 msgctxt "642"
 msgid "状態異常成功UP"
-msgstr "状态异常命中UP"
+msgstr "异常状态成功UP"
 
 msgctxt "643"
 msgid "封じ成功UP"
@@ -2594,15 +2594,15 @@ msgstr "收获时间触发率UP"
 
 msgctxt "645"
 msgid "希少個体出現率UP"
-msgstr "稀有个体出现率UP"
+msgstr "稀有敌人出现率UP"
 
 msgctxt "646"
 msgid "状態異常回復率UP"
-msgstr "状态异常回复率UP"
+msgstr "异常状态恢复率UP"
 
 msgctxt "647"
 msgid "封じ効果回復率UP"
-msgstr "封印效果回复率UP"
+msgstr "封印效果恢复率UP"
 
 msgctxt "648"
 msgid "ドロップ数UP"
@@ -2610,19 +2610,19 @@ msgstr "物品掉落数UP"
 
 msgctxt "649"
 msgid "戦闘勝利時HP回復"
-msgstr "战斗胜利时HP回复"
+msgstr "战斗胜利时HP恢复"
 
 msgctxt "650"
 msgid "戦闘勝利時TP回復"
-msgstr "战斗胜利时TP回复"
+msgstr "战斗胜利时TP恢复"
 
 msgctxt "651"
 msgid "減少時自動HP回復"
-msgstr "减少时HP自动回复"
+msgstr "减少时HP自动恢复"
 
 msgctxt "652"
 msgid "自身への回復効果UP"
-msgstr "受到回复量UP"
+msgstr "受到恢复量UP"
 
 msgctxt "653"
 msgid "戦闘開始時フォースUP"
@@ -2634,11 +2634,11 @@ msgstr "技能等级UP"
 
 msgctxt "655"
 msgid "ターン終了時TP回復"
-msgstr "回合结束时TP回复"
+msgstr "回合结束时TP恢复"
 
 msgctxt "656"
 msgid "消費TP回復"
-msgstr "消耗TP回复"
+msgstr "消耗TP恢复"
 
 msgctxt "657"
 msgid "斬術の起動符"
@@ -3282,7 +3282,7 @@ msgstr "挥砍"
 
 msgctxt "817"
 msgid "品定め"
-msgstr "蓄力"
+msgstr "鉴别"
 
 msgctxt "818"
 msgid "熱病の棍"
