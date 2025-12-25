@@ -70,7 +70,7 @@ msgstr "狂怒之刃"
 
 msgctxt "14"
 msgid "トルネード"
-msgstr "龙卷斩击"
+msgstr "旋风斩击"
 
 msgctxt "15"
 msgid "ハヤブサ駆け"
@@ -82,7 +82,7 @@ msgstr "奋力挥砍"
 
 msgctxt "17"
 msgid "ハリケーン"
-msgstr "飓风拳击"
+msgstr "龙卷斩击"
 
 msgctxt "18"
 msgid "ブーメランアクス"
