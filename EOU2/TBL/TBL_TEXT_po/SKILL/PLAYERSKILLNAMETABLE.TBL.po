@@ -2166,7 +2166,7 @@ msgstr "野牛肉拉面"
 
 msgctxt "538"
 msgid "樹海鳥の雷炒飯"
-msgstr "树海鸟雷炒饭"
+msgstr "树海雷鸟炒饭"
 
 msgctxt "539"
 msgid "蜘蛛の姿揚げ"

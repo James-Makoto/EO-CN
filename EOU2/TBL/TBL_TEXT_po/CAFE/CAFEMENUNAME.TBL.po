@@ -165,7 +165,7 @@ msgstr "整只炸蜘蛛"
 
 msgctxt "38"
 msgid "樹海鳥の雷炒飯"
-msgstr "树海鸟雷炒饭"
+msgstr "树海雷鸟炒饭"
 
 msgctxt "39"
 msgid "森林サイ角煮"
