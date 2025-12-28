@@ -1050,7 +1050,7 @@ msgstr "青蝉独噪日光斜"
 
 msgctxt "259"
 msgid "凍雨と雨氷"
-msgstr "萧萧寒雨湿枯荄"
+msgstr "满江寒雨正萧骚"
 
 msgctxt "260"
 msgid "雷鳴と我が身"
