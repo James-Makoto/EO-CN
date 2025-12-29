@@ -33,7 +33,7 @@
   </entry>
   <entry id="51">
     <source>ギルドカードを受け取っています{f801}</source>
-    <target>正在接收公会卡片{f801}</target>
+    <target>正在接收公会名片{f801}</target>
   </entry>
   <entry id="52">
     <source>すれちがい通信にデータを{f801}反映しています{f801}</source>
@@ -41,6 +41,6 @@
   </entry>
   <entry id="53">
     <source>{f811}{0000}枚のギルドカードを{f801}受け取りました!{f801}</source>
-    <target>收到了{f811}{0000}张公会卡片!{f801}</target>
+    <target>收到了{f811}{0000}张公会名片!{f801}</target>
   </entry>
 </mbm>
