@@ -1333,7 +1333,7 @@
   </entry>
   <entry id="404">
     <source>{f811}{0000}は様々な技を{f801}グリモアへ記録した!{f801}</source>
-    <target>{f811}{0000}可以把各种各样的技能{f801}记录到魔导石上!{f801}</target>
+    <target>{f811}{0000}把各种各样的技能{f801}记录到魔导石了上!{f801}</target>
   </entry>
   <entry id="405">
     <source>周囲のFOEが戸惑っている{f801}</source>
@@ -1341,7 +1341,7 @@
   </entry>
   <entry id="406">
     <source>{f811}{0100}は驚いて{f801}身構えを解除した{f801}</source>
-    <target>{f811}{0100}感到很吃惊{f801}解除了防御的姿势{f801}</target>
+    <target>{f811}{0100}出于吃惊{f801}放下了警戒姿势{f801}</target>
   </entry>
   <entry id="407">
     <source>周囲にFOEが出現した!{f801}</source>
@@ -1377,7 +1377,7 @@
   </entry>
   <entry id="415">
     <source>{f811}{0100}は{f801}華麗に受け流した!{f801}</source>
-    <target>{f811}{0100}{f801}华丽地躲开了攻击!{f801}</target>
+    <target>{f811}{0100}{f801}华丽地格挡了!{f801}</target>
   </entry>
   <entry id="416">
     <source>{f811}{0100}は{f801}攻撃を受け止めた!{f801}</source>
@@ -1617,7 +1617,7 @@
   </entry>
   <entry id="475">
     <source>{f811}{0000}はオーバーフローした!{f801}</source>
-    <target>{f811}{0000}溢出了!{f801}</target>
+    <target>{f811}{0000}过载了!{f801}</target>
   </entry>
   <entry id="476">
     <source>{f811}{0300}が足りなかった!{f801}</source>

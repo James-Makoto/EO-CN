@@ -5,119 +5,119 @@
   </entry>
   <entry id="2">
     <source>堅殻{f801}【防御】物理防御UP{f801}</source>
-    <target>堅殻{f801}【防御】物理防御UP{f801}</target>
+    <target>坚壳{f801}【防御】物理防御UP{f801}</target>
   </entry>
   <entry id="19">
     <source>威圧の眼光{f801}【防御】物理防御DOWN{f801}</source>
-    <target>威圧の眼光{f801}【防御】物理防御DOWN{f801}</target>
+    <target>威压的目光{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="22">
     <source>衰弱の尾{f801}【攻撃】物理攻撃DOWN{f801}</source>
-    <target>衰弱の尾{f801}【攻击】物理攻击DOWN{f801}</target>
+    <target>衰弱之尾{f801}【攻击】物理攻击DOWN{f801}</target>
   </entry>
   <entry id="24">
     <source>脱力ダイブ{f801}【MAXHP】MAXHPDOWN{f801}</source>
-    <target>脱力ダイブ{f801}【MAXHP】MAXHPDOWN{f801}</target>
+    <target>脱力俯冲{f801}【MAXHP】MAXHPDOWN{f801}</target>
   </entry>
   <entry id="33">
     <source>耐熱ゲル{f801}【耐性】炎属性耐性UP{f801}</source>
-    <target>耐熱ゲル{f801}【抗性】火属性抗性UP{f801}</target>
+    <target>耐热凝胶{f801}【抗性】火属性抗性UP{f801}</target>
   </entry>
   <entry id="36">
     <source>切り裂く風爪{f801}【回避】回避率DOWN{f801}</source>
-    <target>切り裂く風爪{f801}【回避】回避率DOWN{f801}</target>
+    <target>斩裂的风爪{f801}【回避】回避率DOWN{f801}</target>
   </entry>
   <entry id="37">
     <source>コロシッブオーラ{f801}【防御】物理防御DOWN{f801}</source>
-    <target>コロシッブオーラ{f801}【防御】物理防御DOWN{f801}</target>
+    <target>腐蚀气息{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="39">
     <source>パワーレイジ{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>パワーレイジ{f801}【攻击】物理攻击UP{f801}</target>
+    <target>愤怒之力{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="48">
     <source>耳障りな鳴き声{f801}【防御】属性防御DOWN{f801}</source>
-    <target>耳障りな鳴き声{f801}【防御】属性防御DOWN{f801}</target>
+    <target>刺耳叫声{f801}【防御】属性防御DOWN{f801}</target>
   </entry>
   <entry id="54">
     <source>耐氷の紅焔{f801}【攻撃】属性攻撃UP{f801}</source>
-    <target>耐氷の紅焔{f801}【攻击】属性攻击UP{f801}</target>
+    <target>耐冰红炎{f801}【攻击】属性攻击UP{f801}</target>
   </entry>
   <entry id="62">
     <source>シールドシェル{f801}【防御】属性防御UP{f801}</source>
-    <target>シールドシェル{f801}【防御】属性防御UP{f801}</target>
+    <target>甲壳护盾{f801}【防御】属性防御UP{f801}</target>
   </entry>
   <entry id="65">
     <source>白い翼{f801}【防御】属性防御DOWN{f801}</source>
-    <target>白い翼{f801}【防御】属性防御DOWN{f801}</target>
+    <target>白翼{f801}【防御】属性防御DOWN{f801}</target>
   </entry>
   <entry id="69">
     <source>アタックハウル{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>アタックハウル{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>攻击咆哮{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="74">
     <source>エレメントゲル{f801}【攻撃】属性攻撃UP{f801}</source>
-    <target>エレメントゲル{f801}【攻击】属性攻击UP{f801}</target>
+    <target>元素凝胶{f801}【攻击】属性攻击UP{f801}</target>
   </entry>
   <entry id="78">
     <source>風の護り{f801}【状態】状態異常耐性UP{f801}</source>
-    <target>風の護り{f801}【状态】状态异常抗性UP{f801}</target>
+    <target>风之庇护{f801}【状态】异常状态抗性UP{f801}</target>
   </entry>
   <entry id="80">
     <source>黒い翼{f801}【攻撃】属性攻撃DOWN{f801}</source>
-    <target>黒い翼{f801}【攻击】属性攻击DOWN{f801}</target>
+    <target>黑翼{f801}【攻击】属性攻击DOWN{f801}</target>
   </entry>
   <entry id="84">
     <source>無空波{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>無空波{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>无空波{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="98">
     <source>雷王の憤怒{f801}【攻撃】属性攻撃DOWN{f801}</source>
-    <target>雷王の憤怒{f801}【攻击】属性攻击DOWN{f801}</target>
+    <target>雷王的愤怒{f801}【攻击】属性攻击DOWN{f801}</target>
   </entry>
   <entry id="99">
     <source>狂奮の瞳{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>狂奮の瞳{f801}【攻击】物理攻击UP{f801}</target>
+    <target>狂奋的眼瞳{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="104">
     <source>フレイルオーラ{f801}【攻撃】物理攻撃DOWN{f801}</source>
-    <target>フレイルオーラ{f801}【攻击】物理攻击DOWN{f801}</target>
+    <target>虚弱气息{f801}【攻击】物理攻击DOWN{f801}</target>
   </entry>
   <entry id="105">
     <source>パワーゲル{f801}【攻撃】物理・属性攻撃UP、行動速度UP{f801}</source>
-    <target>パワーゲル{f801}【攻击】物理・属性攻击UP、行动速度UP{f801}</target>
+    <target>强力凝胶{f801}【攻击】物理・属性攻击UP、行动速度UP{f801}</target>
   </entry>
   <entry id="118">
     <source>貪欲な顎{f801}【防御】物理防御DOWN{f801}</source>
-    <target>貪欲な顎{f801}【防御】物理防御DOWN{f801}</target>
+    <target>贪欲之颚{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="120">
     <source>古の守り{f801}【防御】物理・属性防御UP{f801}</source>
-    <target>古の守り{f801}【防御】物理・属性防御UP{f801}</target>
+    <target>远古守护{f801}【防御】物理・属性防御UP{f801}</target>
   </entry>
   <entry id="121">
     <source>慈愛の襟巻き{f801}【速度】行動速度UP{f801}</source>
-    <target>慈愛の襟巻き{f801}【速度】行动速度UP{f801}</target>
+    <target>慈爱的伞膜{f801}【速度】行动速度UP{f801}</target>
   </entry>
   <entry id="124">
     <source>暴悪の牙{f801}【回避】回避率DOWN{f801}</source>
-    <target>暴悪の牙{f801}【回避】回避率DOWN{f801}</target>
+    <target>暴恶之牙{f801}【回避】回避率DOWN{f801}</target>
   </entry>
   <entry id="127">
     <source>デビルクライ{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>デビルクライ{f801}【攻击】物理攻击UP{f801}</target>
+    <target>恶魔的咆哮{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="151">
     <source>熱病の棍{f801}【回復】HP回復量DOWN{f801}</source>
-    <target>熱病の棍{f801}【恢复】HP恢复量DOWN{f801}</target>
+    <target>热病之棍{f801}【恢复】HP恢复量DOWN{f801}</target>
   </entry>
   <entry id="203">
     <source>威圧の咆哮{f801}【防御】物理防御DOWN{f801}</source>
-    <target>威圧の咆哮{f801}【防御】物理防御DOWN{f801}</target>
+    <target>威压的咆哮{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="205">
     <source>霧散の暴虐{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
-    <target>霧散の暴虐{f801}【攻击】物理・属性攻击DOWN{f801}</target>
+    <target>雾散的暴虐{f801}【攻击】物理・属性攻击DOWN{f801}</target>
   </entry>
   <entry id="213">
     <source>百鬼夜行{f801}【攻撃】物理・属性攻撃UP{f801}</source>
@@ -125,39 +125,39 @@
   </entry>
   <entry id="237">
     <source>カオススクリーム{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>カオススクリーム{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>混沌尖啸{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="241">
     <source>腐った息{f801}【命中】命中率DOWN{f801}</source>
-    <target>腐った息{f801}【命中】命中率DOWN{f801}</target>
+    <target>腐坏气息{f801}【命中】命中率DOWN{f801}</target>
   </entry>
   <entry id="243">
     <source>バーサクハウル{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>バーサクハウル{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>狂战咆哮{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="244">
     <source>蛮勇の障壁{f801}【防御】物理・属性防御UP{f801}</source>
-    <target>蛮勇の障壁{f801}【防御】物理・属性防御UP{f801}</target>
+    <target>蛮勇之障壁{f801}【防御】物理・属性防御UP{f801}</target>
   </entry>
   <entry id="247">
     <source>完全破壊{f801}【防御】物理防御DOWN{f801}</source>
-    <target>完全破壊{f801}【防御】物理防御DOWN{f801}</target>
+    <target>完全破坏{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="261">
     <source>生れ出づる悩み{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
-    <target>生れ出づる悩み{f801}【攻击】物理・属性攻击DOWN{f801}</target>
+    <target>烦恼无根日日生{f801}【攻击】物理・属性攻击DOWN{f801}</target>
   </entry>
   <entry id="263">
     <source>孤独そして孤立{f801}【防御】物理防御DOWN{f801}</source>
-    <target>孤独そして孤立{f801}【防御】物理防御DOWN{f801}</target>
+    <target>孤灯不明思欲绝{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="269">
     <source>奈落からの慟哭{f801}【MAXHP】MAXHPDOWN{f801}</source>
-    <target>奈落からの慟哭{f801}【MAXHP】MAXHPDOWN{f801}</target>
+    <target>来自地狱的恸哭{f801}【MAXHP】MAXHPDOWN{f801}</target>
   </entry>
   <entry id="271">
     <source>グラインメイス{f801}【防御】物理防御DOWN{f801}</source>
-    <target>グラインメイス{f801}【防御】物理防御DOWN{f801}</target>
+    <target>碎碾巨锤{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="273">
     <source>百烈震{f801}【回避】回避率DOWN{f801}</source>
@@ -165,31 +165,31 @@
   </entry>
   <entry id="279">
     <source>汝、力を捧げよ{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
-    <target>汝、力を捧げよ{f801}【攻击】物理・属性攻击DOWN{f801}</target>
+    <target>汝，献上力量{f801}【攻击】物理・属性攻击DOWN{f801}</target>
   </entry>
   <entry id="280">
     <source>我は軟弱を嫌う{f801}【防御】物理・属性防御DOWN{f801}</source>
-    <target>我は軟弱を嫌う{f801}【防御】物理・属性防御DOWN{f801}</target>
+    <target>吾厌恶软弱{f801}【防御】物理・属性防御DOWN{f801}</target>
   </entry>
   <entry id="295">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>吾之领域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="300">
     <source>破滅の吐息{f801}【MAXHP】MAXHPDOWN{f801}</source>
-    <target>破滅の吐息{f801}【MAXHP】MAXHPDOWN{f801}</target>
+    <target>破灭的吐息{f801}【MAXHP】MAXHPDOWN{f801}</target>
   </entry>
   <entry id="319">
     <source>閃光疾走{f801}【回避】回避率DOWN{f801}</source>
-    <target>閃光疾走{f801}【回避】回避率DOWN{f801}</target>
+    <target>闪光疾驰{f801}【回避】回避率DOWN{f801}</target>
   </entry>
   <entry id="320">
     <source>閃光疾走{f801}【回避】回避率DOWN{f801}</source>
-    <target>閃光疾走{f801}【回避】回避率DOWN{f801}</target>
+    <target>闪光疾驰{f801}【回避】回避率DOWN{f801}</target>
   </entry>
   <entry id="324">
     <source>威圧{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
-    <target>威圧{f801}【攻击】物理・属性攻击DOWN{f801}</target>
+    <target>威压{f801}【攻击】物理・属性攻击DOWN{f801}</target>
   </entry>
   <entry id="332">
     <source>盲人独笑{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
@@ -213,35 +213,35 @@
   </entry>
   <entry id="339">
     <source>何処何処{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>何処何処{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>人生何处不相逢{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="340">
     <source>結晶の綻び{f801}【防御】物理・属性防御DOWN{f801}</source>
-    <target>結晶の綻び{f801}【防御】物理・属性防御DOWN{f801}</target>
+    <target>结晶绽裂{f801}【防御】物理・属性防御DOWN{f801}</target>
   </entry>
   <entry id="342">
     <source>パワーオブロック{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>パワーオブロック{f801}【攻击】物理攻击UP{f801}</target>
+    <target>岩石之力{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="343">
     <source>パワーオブロック{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>パワーオブロック{f801}【攻击】物理攻击UP{f801}</target>
+    <target>岩石之力{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="344">
     <source>パワーオブロック{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>パワーオブロック{f801}【攻击】物理攻击UP{f801}</target>
+    <target>岩石之力{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="345">
     <source>開放、そして力{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>開放、そして力{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>解放、而后伟力缠身{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="346">
     <source>開放、そして力{f801}【防御】物理・属性防御UP{f801}</source>
-    <target>開放、そして力{f801}【防御】物理・属性防御UP{f801}</target>
+    <target>解放、而后伟力缠身{f801}【防御】物理・属性防御UP{f801}</target>
   </entry>
   <entry id="351">
     <source>我の領域{f801}【状態】封じ・状態異常耐性DOWN{f801}</source>
-    <target>我の領域{f801}【状态】封印・状态异常抗性DOWN{f801}</target>
+    <target>吾之领域{f801}【状态】封印・异常状态抗性DOWN{f801}</target>
   </entry>
   <entry id="401">
     <source>溶解液{f801}【攻撃】物理攻撃DOWN{f801}</source>
@@ -249,23 +249,23 @@
   </entry>
   <entry id="402">
     <source>強化液{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>強化液{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>强化液{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="409">
     <source>徹底抗戦{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>徹底抗戦{f801}【攻击】物理攻击UP{f801}</target>
+    <target>彻底抗战{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="411">
     <source>仲間食い{f801}【攻撃】属性攻撃UP{f801}</source>
-    <target>仲間食い{f801}【攻击】属性攻击UP{f801}</target>
+    <target>吞噬同伴{f801}【攻击】属性攻击UP{f801}</target>
   </entry>
   <entry id="413">
     <source>殺戮の光刃{f801}【攻撃】物理攻撃UP{f801}</source>
-    <target>殺戮の光刃{f801}【攻击】物理攻击UP{f801}</target>
+    <target>杀戮光刃{f801}【攻击】物理攻击UP{f801}</target>
   </entry>
   <entry id="414">
     <source>ウォーハンマー{f801}【防御】物理防御DOWN{f801}</source>
-    <target>ウォーハンマー{f801}【防御】物理防御DOWN{f801}</target>
+    <target>战锤{f801}【防御】物理防御DOWN{f801}</target>
   </entry>
   <entry id="416">
     <source>生存本能{f801}【攻撃】物理攻撃UP{f801}</source>
@@ -273,67 +273,67 @@
   </entry>
   <entry id="420">
     <source>氷河の再生{f801}【回復】HP回復{f801}</source>
-    <target>氷河の再生{f801}【恢复】HP恢复{f801}</target>
+    <target>冰川再生{f801}【恢复】HP恢复{f801}</target>
   </entry>
   <entry id="421">
     <source>劈く叫び{f801}【防御】物理・属性防御DOWN{f801}</source>
-    <target>劈く叫び{f801}【防御】物理・属性防御DOWN{f801}</target>
+    <target>刺耳尖啸{f801}【防御】物理・属性防御DOWN{f801}</target>
   </entry>
   <entry id="433">
     <source>とどろく咆哮{f801}【攻撃】物理攻撃DOWN{f801}</source>
-    <target>とどろく咆哮{f801}【攻击】物理攻击DOWN{f801}</target>
+    <target>轰鸣咆哮{f801}【攻击】物理攻击DOWN{f801}</target>
   </entry>
   <entry id="435">
     <source>火竜の猛攻{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>火竜の猛攻{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>火龙的猛攻{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="453">
     <source>リジェネ{f801}【回復】HP回復{f801}</source>
-    <target>リジェネ{f801}【恢复】HP恢复{f801}</target>
+    <target>再生术{f801}【恢复】HP恢复{f801}</target>
   </entry>
   <entry id="454">
     <source>フォースウォール{f801}【防御】属性防御UP{f801}</source>
-    <target>フォースウォール{f801}【防御】属性防御UP{f801}</target>
+    <target>威能护壁{f801}【防御】属性防御UP{f801}</target>
   </entry>
   <entry id="455">
     <source>パワーウォール{f801}【防御】物理防御UP{f801}</source>
-    <target>パワーウォール{f801}【防御】物理防御UP{f801}</target>
+    <target>强力凝胶{f801}【防御】物理防御UP{f801}</target>
   </entry>
   <entry id="460">
     <source>疫病の棍{f801}【回復】HP回復量DOWN{f801}</source>
-    <target>疫病の棍{f801}【恢复】HP恢复量DOWN{f801}</target>
+    <target>疫病之棍{f801}【恢复】HP恢复量DOWN{f801}</target>
   </entry>
   <entry id="470">
     <source>乱れ舞い{f801}【命中】命中率DOWN{f801}</source>
-    <target>乱れ舞い{f801}【命中】命中率DOWN{f801}</target>
+    <target>乱舞{f801}【命中】命中率DOWN{f801}</target>
   </entry>
   <entry id="475">
     <source>カラミティアイ{f801}【防御】物理・属性防御DOWN{f801}</source>
-    <target>カラミティアイ{f801}【防御】物理・属性防御DOWN{f801}</target>
+    <target>灾祸之眼{f801}【防御】物理・属性防御DOWN{f801}</target>
   </entry>
   <entry id="483">
     <source>ポイズンダスト{f801}【回復】HP回復量DOWN{f801}</source>
-    <target>ポイズンダスト{f801}【恢复】HP恢复量DOWN{f801}</target>
+    <target>有毒粉尘{f801}【恢复】HP恢复量DOWN{f801}</target>
   </entry>
   <entry id="485">
     <source>カースオブルイン{f801}【MAXHP】MAXHPDOWN{f801}</source>
-    <target>カースオブルイン{f801}【MAXHP】MAXHPDOWN{f801}</target>
+    <target>毁灭之咒{f801}【MAXHP】MAXHPDOWN{f801}</target>
   </entry>
   <entry id="490">
     <source>セルチャージ{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>セルチャージ{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>细胞蓄力{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="520">
     <source>パワースポイト{f801}【攻撃】物理・属性攻撃DOWN{f801}</source>
-    <target>パワースポイト{f801}【攻击】物理・属性攻击DOWN{f801}</target>
+    <target>汲能之针{f801}【攻击】物理・属性攻击DOWN{f801}</target>
   </entry>
   <entry id="539">
     <source>神秘のヴェール{f801}【防御】属性防御UP{f801}</source>
-    <target>神秘のヴェール{f801}【防御】属性防御UP{f801}</target>
+    <target>神秘面纱{f801}【防御】属性防御UP{f801}</target>
   </entry>
   <entry id="542">
     <source>土けむり{f801}【命中】命中率DOWN{f801}</source>
-    <target>土けむり{f801}【命中】命中率DOWN{f801}</target>
+    <target>扬尘{f801}【命中】命中率DOWN{f801}</target>
   </entry>
   <entry id="544">
     <source>攻撃隊列{f801}【攻撃】物理攻撃UP{f801}</source>
@@ -341,34 +341,34 @@
   </entry>
   <entry id="545">
     <source>防御隊列{f801}【防御】物理防御UP{f801}</source>
-    <target>防御隊列{f801}【防御】物理防御UP{f801}</target>
+    <target>防御阵型{f801}【防御】物理防御UP{f801}</target>
   </entry>
   <entry id="550">
     <source>フリーズオーラ{f801}【攻撃】物理・属性攻撃UP{f801}</source>
-    <target>フリーズオーラ{f801}【攻击】物理・属性攻击UP{f801}</target>
+    <target>寒冰气场{f801}【攻击】物理・属性攻击UP{f801}</target>
   </entry>
   <entry id="551">
     <source>水のヴェール{f801}【耐性】炎属性耐性UP{f801}</source>
-    <target>水のヴェール{f801}【抗性】火属性抗性UP{f801}</target>
+    <target>水帘面纱{f801}【抗性】火属性抗性UP{f801}</target>
   </entry>
   <entry id="557">
     <source>ウインドプレス{f801}【回避】回避率DOWN{f801}</source>
-    <target>ウインドプレス{f801}【回避】回避率DOWN{f801}</target>
+    <target>风压{f801}【回避】回避率DOWN{f801}</target>
   </entry>
   <entry id="571">
     <source>畏怖の眼光{f801}【攻撃】物理攻撃DOWN{f801}</source>
-    <target>畏怖の眼光{f801}【攻击】物理攻击DOWN{f801}</target>
+    <target>畏惧的目光{f801}【攻击】物理攻击DOWN{f801}</target>
   </entry>
   <entry id="578">
     <source>舐めまわし{f801}【防御】物理・属性防御DOWN{f801}</source>
-    <target>舐めまわし{f801}【防御】物理・属性防御DOWN{f801}</target>
+    <target>舔遍全身{f801}【防御】物理・属性防御DOWN{f801}</target>
   </entry>
   <entry id="594">
     <source>全てを包み込む闇{f801}【回復】HP回復量DOWN{f801}</source>
-    <target>全てを包み込む闇{f801}【恢复】HP恢复量DOWN{f801}</target>
+    <target>吞没一切的黑暗{f801}【恢复】HP恢复量DOWN{f801}</target>
   </entry>
   <entry id="598">
     <source>閃光疾走{f801}【回避】回避率DOWN{f801}</source>
-    <target>閃光疾走{f801}【回避】回避率DOWN{f801}</target>
+    <target>闪光疾驰{f801}【回避】回避率DOWN{f801}</target>
   </entry>
 </mbm>

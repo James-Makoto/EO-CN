@@ -37,7 +37,7 @@
   </entry>
   <entry id="13">
     <source>落とし穴だ!!{f801}</source>
-    <target>是陷阱!!{f801}</target>
+    <target>是落穴!!{f801}</target>
   </entry>
   <entry id="14">
     <source>伐採ポイントがある。{f801}伐採しますか?{f801}</source>
@@ -49,7 +49,7 @@
   </entry>
   <entry id="16">
     <source>採取ポイントがある。{f801}採取しますか?{f801}</source>
-    <target>这里是采集点，{f801}要进行采集吗?{f801}</target>
+    <target>这里是采摘点，{f801}要进行采摘吗?{f801}</target>
   </entry>
   <entry id="32">
     <source>辺りに敵の気配はない。{f801}ここなら安心して野営出来そうだ。{f801}</source>
@@ -769,7 +769,7 @@
   </entry>
   <entry id="308">
     <source>さらに、採取の技術により・・・{f801}</source>
-    <target>此外，因为练就了采集的技术・・・{f801}</target>
+    <target>此外，因为练就了采摘的技术・・・{f801}</target>
   </entry>
   <entry id="309">
     <source>さらに、野生の勘により・・・{f801}</source>

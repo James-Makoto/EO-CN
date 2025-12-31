@@ -829,11 +829,11 @@ msgstr "胆怯的真白银"
 
 msgctxt "204"
 msgid "封じられた漆黒片"
-msgstr "被封印的漆黑片"
+msgstr "被封印的漆黑碎片"
 
 msgctxt "205"
 msgid "緋緋色金の剣片"
-msgstr "绯绯色金剑片"
+msgstr "绯绯色金剑碎片"
 
 msgctxt "206"
 msgid "練磨された宿貝"
@@ -2617,7 +2617,7 @@ msgstr ""
 
 msgctxt "651"
 msgid "採取のグリモア"
-msgstr "采集魔导石"
+msgstr "采摘魔导石"
 
 msgctxt "652"
 msgid "ドラッグバレットのグリモア"

@@ -45,7 +45,7 @@
   </entry>
   <entry id="11">
     <source>取得経験値↑{f801}</source>
-    <target>获得经验值{f801}</target>
+    <target>获得经验值↑{f801}</target>
   </entry>
   <entry id="12">
     <source>TEC+10{f801}</source>
@@ -245,7 +245,7 @@
   </entry>
   <entry id="61">
     <source>強化アイテム効果が列に{f801}</source>
-    <target>强化道具效果扩大至列{f801}</target>
+    <target>强化道具效果扩大至一排{f801}</target>
   </entry>
   <entry id="62">
     <source>敵への盲目効果↑↑{f801}</source>
@@ -265,7 +265,7 @@
   </entry>
   <entry id="66">
     <source>グリモア付加効果付着率↑{f801}</source>
-    <target>魔导石付附加效果附着率↑{f801}</target>
+    <target>魔导石附加效果附着率↑{f801}</target>
   </entry>
   <entry id="67">
     <source>稀少個体が出現しなくなる{f801}</source>
