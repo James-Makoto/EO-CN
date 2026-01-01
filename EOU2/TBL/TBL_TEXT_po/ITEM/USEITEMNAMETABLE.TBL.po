@@ -1805,7 +1805,7 @@ msgstr "毒之香"
 
 msgctxt "448"
 msgid "麻痺の香"
-msgstr "麻痺の香"
+msgstr "麻痹之香"
 
 msgctxt "449"
 msgid "混乱の香"
@@ -2637,67 +2637,67 @@ msgstr "睡神突刺魔导石"
 
 msgctxt "656"
 msgid "先の先のグリモア"
-msgstr "先の先魔导石"
+msgstr "先发制人魔导石"
 
 msgctxt "657"
 msgid "フェンサーのグリモア"
-msgstr "フェンサー魔导石"
+msgstr "剑术大师魔导石"
 
 msgctxt "658"
 msgid "零距離射撃のグリモア"
-msgstr "零距離射撃魔导石"
+msgstr "零距离射击魔导石"
 
 msgctxt "659"
 msgid "危機感知のグリモア"
-msgstr "危機感知魔导石"
+msgstr "危机感知魔导石"
 
 msgctxt "660"
 msgid "ブラッドルージュのグリモア"
-msgstr "ブラッドルージュ魔导石"
+msgstr "鲜烈之血魔导石"
 
 msgctxt "661"
 msgid "オーバーヒールのグリモア"
-msgstr "オーバーヒール魔导石"
+msgstr "过量治愈术魔导石"
 
 msgctxt "662"
 msgid "みがわりのグリモア"
-msgstr "みがわり魔导石"
+msgstr "替身魔导石"
 
 msgctxt "663"
 msgid "限界突破のグリモア"
-msgstr "限界突破魔导石"
+msgstr "极限突破魔导石"
 
 msgctxt "664"
 msgid "巫術:呼応のグリモア"
-msgstr "巫術:呼応魔导石"
+msgstr "巫术:呼应魔导石"
 
 msgctxt "665"
 msgid "音の反響のグリモア"
-msgstr "音の反響魔导石"
+msgstr "回音魔导石"
 
 msgctxt "666"
 msgid "ダブルアクションのグリモア"
-msgstr "ダブルアクション魔导石"
+msgstr "双重行动魔导石"
 
 msgctxt "667"
 msgid "センチネルガードのグリモア"
-msgstr "センチネルガード魔导石"
+msgstr "哨卫之护魔导石"
 
 msgctxt "668"
 msgid "リインカーネートのグリモア"
-msgstr "リインカーネート魔导石"
+msgstr "转生之术魔导石"
 
 msgctxt "669"
 msgid "クリアランスのグリモア"
-msgstr "クリアランス魔导石"
+msgstr "净化魔导石"
 
 msgctxt "670"
 msgid "圧縮錬金術のグリモア"
-msgstr "圧縮錬金術魔导石"
+msgstr "压缩炼金术魔导石"
 
 msgctxt "671"
 msgid "封の呪言:上肢のグリモア"
-msgstr "封の呪言:上肢魔导石"
+msgstr "封之咒言:上肢魔导石"
 
 msgctxt "672"
 msgid "採掘のグリモア"
@@ -2705,15 +2705,15 @@ msgstr "挖掘魔导石"
 
 msgctxt "673"
 msgid "癒しのリズムのグリモア"
-msgstr "癒しのリズム魔导石"
+msgstr "治愈旋律魔导石"
 
 msgctxt "674"
 msgid "ホーリーギフトのグリモア"
-msgstr "ホーリーギフト魔导石"
+msgstr "神圣赠礼魔导石"
 
 msgctxt "675"
 msgid "バインドリカバリのグリモア"
-msgstr "バインドリカバリ魔导石"
+msgstr "束缚解除魔导石"
 
 msgctxt "676"
 msgid "グリモア026"
