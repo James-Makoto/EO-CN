@@ -2421,7 +2421,7 @@ msgstr "咒印武装"
 
 msgctxt "602"
 msgid "アミアントゥスメイル"
-msgstr "耐热石棉甲"
+msgstr "不焚战甲"
 
 msgctxt "603"
 msgid "アポカリプス"

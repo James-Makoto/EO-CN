@@ -2229,7 +2229,7 @@
   </entry>
   <entry id="774">
     <source>敵{f85a}{a300}体に遠隔炎属性攻撃{f801}</source>
-    <target>对1个{f85a}{a300}敌人发动远隔火属性攻击{f801}</target>
+    <target>对{f85a}{a300}个敌人发动远隔火属性攻击{f801}</target>
   </entry>
   <entry id="775">
     <source>敵1列に一定確率で{f801}睡眠かテラー効果が発動する{f801}</source>
