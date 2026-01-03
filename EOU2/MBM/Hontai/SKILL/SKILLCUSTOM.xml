@@ -6977,7 +6977,7 @@
   </entry>
   <entry id="1744">
     <source>炎属性攻撃無効化{f801}消費TP{f85a}{0100}{f801}</source>
-    <target>使火属性攻击无效化{f801}消耗TP{f85a}{0100}{f801}</target>
+    <target>免疫火属性攻击{f801}消耗TP{f85a}{0100}{f801}</target>
   </entry>
   <entry id="1745">
     <source>消費TP{f85a}{0100}{f801}</source>
@@ -7065,7 +7065,7 @@
   </entry>
   <entry id="1766">
     <source>氷属性攻撃無効化{f801}消費TP{f85a}{0100}{f801}</source>
-    <target>使冰属性攻击无效化{f801}消耗TP{f85a}{0100}{f801}</target>
+    <target>免疫冰属性攻击{f801}消耗TP{f85a}{0100}{f801}</target>
   </entry>
   <entry id="1767">
     <source>消費TP{f85a}{0100}{f801}</source>
@@ -7153,7 +7153,7 @@
   </entry>
   <entry id="1788">
     <source>雷属性攻撃無効化{f801}消費TP{f85a}{0100}{f801}</source>
-    <target>使雷属性攻击无效化{f801}消耗TP{f85a}{0100}{f801}</target>
+    <target>免疫雷属性攻击{f801}消耗TP{f85a}{0100}{f801}</target>
   </entry>
   <entry id="1789">
     <source>消費TP{f85a}{0100}{f801}</source>
@@ -34149,7 +34149,7 @@
   </entry>
   <entry id="8537">
     <source>味方の前に立ちはだかり全てに耐えるスキル{f801}効果中はスタン・封じ・状態異常を{f801}無効化する{f801}</source>
-    <target>挺身站在队友前方、承受一切的技能{f801}效果期间无效化眩晕・封印・异常状态{f801} {f801}</target>
+    <target>挺身站在队友前方、承受一切的技能{f801}效果期间免疫眩晕・封印・异常状态{f801} {f801}</target>
   </entry>
   <entry id="8538">
     <source>−−{f801}</source>

@@ -741,7 +741,7 @@ msgstr "瞬杀的心脏"
 
 msgctxt "182"
 msgid "燃え残った溶岩"
-msgstr "燃尽的熔岩"
+msgstr "不焚熔岩"
 
 msgctxt "183"
 msgid "斬られた前翅"

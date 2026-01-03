@@ -1541,19 +1541,19 @@
   </entry>
   <entry id="462">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>对{f811}{0100}的攻击无效了！{f801}</target>
+    <target>{f811}{0100}免疫了攻击！{f801}</target>
   </entry>
   <entry id="463">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>对{f811}{0100}的攻击无效了！{f801}</target>
+    <target>{f811}{0100}免疫了攻击！{f801}</target>
   </entry>
   <entry id="464">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>对{f811}{0100}的攻击无效了！{f801}</target>
+    <target>{f811}{0100}免疫了攻击！{f801}</target>
   </entry>
   <entry id="465">
     <source>{f811}{0100}は攻撃を無効化した!{f801}</source>
-    <target>对{f811}{0100}的攻击无效了！{f801}</target>
+    <target>{f811}{0100}免疫了攻击！{f801}</target>
   </entry>
   <entry id="467">
     <source>{f811}{0000}は{f801}{f811}{0300}で反撃した!{f801}</source>
@@ -1593,7 +1593,7 @@
   </entry>
   <entry id="478">
     <source>{f811}{0100}の状態異常と封じ付着は{f801}無効化された!{f801}</source>
-    <target>{f811}{0100}的异常状态{f801}与封印效果被无效化了！{f801}</target>
+    <target>{f811}{0100}免疫了{f801}异常状态与封印效果！{f801}</target>
   </entry>
   <entry id="479">
     <source>{f811}{0300}発動!{f801}</source>
@@ -1721,7 +1721,7 @@
   </entry>
   <entry id="511">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を無効化した!{f801}</source>
-    <target>{f811}{0300}将{f801}对{f811}{0100}的攻击无效化了！{f801}</target>
+    <target>{f811}{0300}将{f801}对{f811}{0100}的攻击免疫了！{f801}</target>
   </entry>
   <entry id="512">
     <source>{f811}{0300}の{f801}{f811}{0200}が発動した!{f801}</source>
@@ -1729,7 +1729,7 @@
   </entry>
   <entry id="513">
     <source>{f811}{0100}への攻撃を無効化した!{f801}</source>
-    <target>对{f811}{0100}的攻击被无效化了！{f801}</target>
+    <target>对{f811}{0100}的攻击被免疫！{f801}</target>
   </entry>
   <entry id="514">
     <source>{f811}{0100}への攻撃を軽減した!{f801}</source>
@@ -1853,7 +1853,7 @@
   </entry>
   <entry id="544">
     <source>{f811}{0100}の{f801}強化解除を無効化した!{f801}</source>
-    <target>{f811}{0100}的{f801}强化效果解除无效化了！{f801}</target>
+    <target>{f811}{0100}免疫了{f801}强化效果解除！{f801}</target>
   </entry>
   <entry id="545">
     <source>{f811}{0100}は{f801}大巫術:精霊衣に守られた!{f801}</source>
@@ -2021,7 +2021,7 @@
   </entry>
   <entry id="586">
     <source>精神障壁が攻撃を無効化した!{f801}</source>
-    <target>精神障壁使攻击无效化了！{f801}</target>
+    <target>精神障壁使攻击被免疫了！{f801}</target>
   </entry>
   <entry id="587">
     <source>{f811}{0000}は興奮した!{f801}</source>

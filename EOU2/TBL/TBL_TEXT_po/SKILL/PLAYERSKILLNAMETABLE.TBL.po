@@ -446,15 +446,15 @@ msgstr "鲜烈之血"
 
 msgctxt "108"
 msgid "ヒュプノバイト"
-msgstr "睡神突刺"
+msgstr "睡神之噬"
 
 msgctxt "109"
 msgid "ショックバイト"
-msgstr "麻痹突刺"
+msgstr "麻痹之噬"
 
 msgctxt "110"
 msgid "ミラージュバイト"
-msgstr "幻影突刺"
+msgstr "幻影之噬"
 
 msgctxt "111"
 msgid "ソウルリベレイト"
@@ -462,11 +462,11 @@ msgstr "魂之解放"
 
 msgctxt "112"
 msgid "ドレインバイト"
-msgstr "吸血突刺"
+msgstr "吸血之噬"
 
 msgctxt "113"
 msgid "スコーピオン"
-msgstr "蝎尾枪"
+msgstr "天蝎斩"
 
 msgctxt "114"
 msgid "トラッピング"
@@ -1770,7 +1770,7 @@ msgstr "雷鸣之刃"
 
 msgctxt "439"
 msgid "ゲイルラッシュ"
-msgstr "暴风冲"
+msgstr "暴风乱斩"
 
 msgctxt "440"
 msgid "オーバーキラー"
