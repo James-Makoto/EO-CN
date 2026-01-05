@@ -1994,7 +1994,7 @@ msgstr "雷鸣如雨"
 
 msgctxt "495"
 msgid "顔が目覚める"
-msgstr "复颜苏醒"
+msgstr "复脸苏醒"
 
 msgctxt "496"
 msgid "猛進連牙"

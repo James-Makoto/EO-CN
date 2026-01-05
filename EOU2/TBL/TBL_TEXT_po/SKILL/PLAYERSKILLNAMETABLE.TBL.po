@@ -4662,7 +4662,7 @@ msgstr "雷鸣如雨"
 
 msgctxt "1162"
 msgid "顔が目覚める"
-msgstr "复颜苏醒"
+msgstr "复脸苏醒"
 
 msgctxt "1163"
 msgid "猛進連牙"
