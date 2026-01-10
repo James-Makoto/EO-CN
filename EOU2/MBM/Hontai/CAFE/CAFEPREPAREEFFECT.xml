@@ -37,7 +37,7 @@
   </entry>
   <entry id="9">
     <source>稀少個体の出現率が上昇した!{f801}</source>
-    <target>稀有敌人的出现率提升了！{f801}</target>
+    <target>稀有个体的出现率提升了！{f801}</target>
   </entry>
   <entry id="10">
     <source>STRが+10された!{f801}</source>
@@ -269,7 +269,7 @@
   </entry>
   <entry id="67">
     <source>稀少個体が出現しなくなった!{f801}</source>
-    <target>稀有敌人出现概率归零了！{f801}</target>
+    <target>稀有个体出现概率归零了！{f801}</target>
   </entry>
   <entry id="68">
     <source>生成されるグリモアの{f801}スキルレベルが高くなり易くなった!{f801}</source>

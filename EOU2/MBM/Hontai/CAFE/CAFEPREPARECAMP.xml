@@ -37,7 +37,7 @@
   </entry>
   <entry id="9">
     <source>稀少個体出現率↑{f801}</source>
-    <target>稀有敌人出现率↑{f801}</target>
+    <target>稀有个体出现率↑{f801}</target>
   </entry>
   <entry id="10">
     <source>STR+10{f801}</source>
@@ -269,7 +269,7 @@
   </entry>
   <entry id="67">
     <source>稀少個体が出現しなくなる{f801}</source>
-    <target>稀有敌人不会出现{f801}</target>
+    <target>稀有个体不会出现{f801}</target>
   </entry>
   <entry id="68">
     <source>生成グリモアの優良化{f801}</source>
