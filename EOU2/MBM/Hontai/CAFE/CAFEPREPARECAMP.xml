@@ -101,7 +101,7 @@
   </entry>
   <entry id="25">
     <source>確率でフォースゲージ復活{f801}</source>
-    <target>一定几率威能值回满{f801}</target>
+    <target>一定几率复活威能槽{f801}</target>
   </entry>
   <entry id="26">
     <source>状態異常封じ自然回復率↑{f801}</source>
