@@ -1005,7 +1005,7 @@
   </entry>
   <entry id="260">
     <source>群の中に稀少個体がいる!{f801}</source>
-    <target>对手中有稀有敌人！{f801}</target>
+    <target>对手中有稀有个体！{f801}</target>
   </entry>
   <entry id="261">
     <source>{f811}{0000}の稀少個体だ!{f801}</source>

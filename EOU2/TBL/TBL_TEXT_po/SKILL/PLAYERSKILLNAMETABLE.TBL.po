@@ -2594,7 +2594,7 @@ msgstr "收获时间触发率UP"
 
 msgctxt "645"
 msgid "希少個体出現率UP"
-msgstr "稀有敌人出现率UP"
+msgstr "稀有个体出现率UP"
 
 msgctxt "646"
 msgid "状態異常回復率UP"
