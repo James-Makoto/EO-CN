@@ -261,7 +261,7 @@
   </entry>
   <entry id="67">
     <source>{f811}{0000}は逃げ出した!{f801}しかし、逃げることはできなかった!{f801}</source>
-    <target>{f811}{0000}准备逃跑！{f801}但是没能脱身！{f801}</target>
+    <target>{f811}{0000}逃跑了！{f801}但是没能脱身！{f801}</target>
   </entry>
   <entry id="68">
     <source>この戦いからは逃げられない!!{f801}</source>
