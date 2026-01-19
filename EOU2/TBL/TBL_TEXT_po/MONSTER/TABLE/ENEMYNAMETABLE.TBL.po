@@ -877,7 +877,7 @@ msgstr "雷鸣伴随者"
 
 msgctxt "216"
 msgid "ライシュッツ"
-msgstr "莱修茨"
+msgstr "莱施茨"
 
 msgctxt "217"
 msgid "アーテリンデ"
