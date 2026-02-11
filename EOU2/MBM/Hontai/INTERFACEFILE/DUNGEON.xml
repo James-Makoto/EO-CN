@@ -49,7 +49,7 @@
   </entry>
   <entry id="16">
     <source>採取ポイントがある。{f801}採取しますか?{f801}</source>
-    <target>这里是采摘点，{f801}要进行采摘吗?{f801}</target>
+    <target>这里是采集点，{f801}要进行采摘吗?{f801}</target>
   </entry>
   <entry id="32">
     <source>辺りに敵の気配はない。{f801}ここなら安心して野営出来そうだ。{f801}</source>
