@@ -537,7 +537,7 @@
   </entry>
   <entry id="146">
     <source>採取ポイントで入手できる素材数が増える{f801}</source>
-    <target>提升在采摘点获得素材数{f801}</target>
+    <target>提升在采集点获得素材数{f801}</target>
   </entry>
   <entry id="147">
     <source>{f85a}{a903}ターンの間、自身が使用する回復スキルの{f801}効果と行動速度が上昇し消費TPが半減する{f801}</source>
@@ -753,7 +753,7 @@
   </entry>
   <entry id="206">
     <source>採取ポイントで入手できる素材数が増える{f801}</source>
-    <target>提升在采摘点获得素材数{f801}</target>
+    <target>提升在采集点获得素材数{f801}</target>
   </entry>
   <entry id="207">
     <source>{f85a}{a903}ターンの間、味方の強化のターン数が{f801}減少せず、敵に解除されない{f801}</source>
@@ -1185,7 +1185,7 @@
   </entry>
   <entry id="326">
     <source>採取ポイントで入手できる素材数が増える{f801}</source>
-    <target>提升在采摘点获得素材数{f801}</target>
+    <target>提升在采集点获得素材数{f801}</target>
   </entry>
   <entry id="327">
     <source>{f85a}{a903}ターンの間、銃スキルが{f801}2回連続で発動するようになる{f801}</source>
@@ -1509,7 +1509,7 @@
   </entry>
   <entry id="416">
     <source>採取ポイントで入手できる素材数が増える{f801}</source>
-    <target>提升在采摘点获得素材数{f801}</target>
+    <target>提升在采集点获得素材数{f801}</target>
   </entry>
   <entry id="417">
     <source>{f85a}{a903}ターンの間、自身の使用する{f801}号令を全体化し号令の消費TPを半減する{f801}</source>
