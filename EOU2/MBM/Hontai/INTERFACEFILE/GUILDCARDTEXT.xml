@@ -29,7 +29,7 @@
   </entry>
   <entry id="7">
     <source>レベルが足りません。{f801}</source>
-    <target>等级不够。{f801}</target>
+    <target>等级不足。{f801}</target>
   </entry>
   <entry id="8">
     <source>ギルドが一杯です。{f801}</source>
@@ -81,7 +81,7 @@
   </entry>
   <entry id="24">
     <source>QRコードのエンコードに失敗しました。{f801}</source>
-    <target>QR吗编码失败。{f801}</target>
+    <target>QR码编码失败。{f801}</target>
   </entry>
   <entry id="25">
     <source>QRコードと画像データを{f801}SDカードに出力しました。{f801}</source>

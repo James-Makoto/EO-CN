@@ -125,7 +125,7 @@
   </entry>
   <entry id="31">
     <source>迷宮を進み、およそ半数の宝箱の中身を{f801}手に入れた証{f801}</source>
-    <target>在探索迷宫时{f801}打开了半数的宝箱的证明{f801}</target>
+    <target>在探索迷宫时{f801}打开了半数宝箱的证明{f801}</target>
   </entry>
   <entry id="32">
     <source>トレジャーハンター{f801}</source>
