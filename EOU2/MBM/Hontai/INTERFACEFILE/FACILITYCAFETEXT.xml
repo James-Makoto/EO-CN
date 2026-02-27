@@ -165,26 +165,26 @@
   </entry>
   <entry id="80">
     <source>東区が新規に解放されました。{f801}</source>
-    <target>东区新增为可进入区域。{f801}</target>
+    <target>已经解锁东区。{f801}</target>
   </entry>
   <entry id="81">
     <source>西区が新規に解放されました。{f801}</source>
-    <target>西区新增为可进入区域。{f801}</target>
+    <target>已经解锁西区。{f801}</target>
   </entry>
   <entry id="82">
     <source>南区が新規に解放されました。{f801}</source>
-    <target>南区新增为可进入区域。{f801}</target>
+    <target>已经解锁南区。{f801}</target>
   </entry>
   <entry id="83">
     <source>北区が新規に解放されました。{f801}</source>
-    <target>北区新增为可进入区域。{f801}</target>
+    <target>已经解锁北区。{f801}</target>
   </entry>
   <entry id="84">
     <source>中央区が新規に解放されました。{f801}</source>
-    <target>中央区新增为可进入区域。{f801}</target>
+    <target>已经解锁中央区。{f801}</target>
   </entry>
   <entry id="85">
     <source>街外れが新規に解放されました。{f801}</source>
-    <target>城郊新增为可进入区域。{f801}</target>
+    <target>已经解锁城郊。{f801}</target>
   </entry>
 </mbm>

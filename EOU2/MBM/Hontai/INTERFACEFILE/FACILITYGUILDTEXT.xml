@@ -5,11 +5,11 @@
   </entry>
   <entry id="2">
     <source>{f840}メンバーの{f801}転職や引退、休養、抹消、名前変更ができます{f801}</source>
-    <target>可对{f840}成员{f801}进行除名、退役、休养以及变更姓名的操作。{f801}</target>
+    <target>可对{f840}成员进行{f801}转职、退役、休养、除名以及变更姓名的操作。{f801}</target>
   </entry>
   <entry id="3">
     <source>{f840}のパーティ編成と{f801}登録順番の入れ替えをします{f801}</source>
-    <target>可唤出{f840}的{f801}队伍编组和队伍登记。{f801}</target>
+    <target>可以进行{f840}的{f801}队伍编组和队伍登记。{f801}</target>
   </entry>
   <entry id="4">
     <source>ギルド長と話します{f801}</source>
@@ -189,7 +189,7 @@
   </entry>
   <entry id="52">
     <source>『{f811}{0000}』の新たなる道{f801}その職業名は・・・{f801}</source>
-    <target>『{f811}{0000}』的崭新之路，{f801}其职业名为……{f801}</target>
+    <target>『{f811}{0000}』的崭新道路，{f801}其职业名为……{f801}</target>
   </entry>
   <entry id="53">
     <source>{f840}メンバーの{f801}修行・転職・休養ができます{f801}</source>
