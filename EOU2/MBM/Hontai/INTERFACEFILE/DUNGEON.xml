@@ -33,7 +33,7 @@
   </entry>
   <entry id="8">
     <source>しかし、これ以上グリモアを{f801}持てないようだ。{f801}</source>
-    <target>但是似乎拿不下{f801}更的魔导石了。{f801}</target>
+    <target>但是似乎拿不下{f801}更多魔导石了。{f801}</target>
   </entry>
   <entry id="13">
     <source>落とし穴だ!!{f801}</source>
@@ -49,11 +49,11 @@
   </entry>
   <entry id="16">
     <source>採取ポイントがある。{f801}採取しますか?{f801}</source>
-    <target>这里是采集点，{f801}要进行采摘吗?{f801}</target>
+    <target>这里是采摘点，{f801}要进行采摘吗?{f801}</target>
   </entry>
   <entry id="32">
     <source>辺りに敵の気配はない。{f801}ここなら安心して野営出来そうだ。{f801}</source>
-    <target>周围没有敌人的迹象，{f801}这里看起来很安全，可以放心露营。{f801}</target>
+    <target>周围没有敌人的气息，{f801}这里看起来很安全，可以放心露营。{f801}</target>
   </entry>
   <entry id="33">
     <source>この辺りはあまり敵の気配がない。{f801}少し危険だが野営出来そうだ。{f801}</source>
@@ -325,7 +325,7 @@
   </entry>
   <entry id="110">
     <source>押してみたが氷塊が動く様子はない。{f801}</source>
-    <target>虽然试着推了，但冰块纹丝不动。{f801}</target>
+    <target>虽然试图推动，但冰块纹丝不动。{f801}</target>
   </entry>
   <entry id="111">
     <source>{f804}{0500}通行できる状態だ。{f801}機械を操作しますか?{f804}{0000}{f801}</source>
@@ -337,7 +337,7 @@
   </entry>
   <entry id="113">
     <source>魔物が近くにいるため操作できない。{f801}</source>
-    <target>因为有魔物再靠近，无法进行操作。{f801}</target>
+    <target>因为有魔物在靠近，无法进行操作。{f801}</target>
   </entry>
   <entry id="114">
     <source>拘束されて身動きが取れない!{f801}</source>
