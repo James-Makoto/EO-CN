@@ -9,7 +9,7 @@
   </entry>
   <entry id="2">
     <source>SEの音量が変更できます{f801}</source>
-    <target>可更改效果音的音量。{f801}</target>
+    <target>可更改音效的音量。{f801}</target>
   </entry>
   <entry id="3">
     <source>VOICEの音量が変更できます{f801}</source>
@@ -41,7 +41,7 @@
   </entry>
   <entry id="10">
     <source>戦闘中にコマンド入力を終了した時の確認を変更できます{f801}</source>
-    <target>可更改显示是否结束输入指令的确认提示。{f801}</target>
+    <target>可更改是否在输入指令结束时进行确认。{f801}</target>
   </entry>
   <entry id="11">
     <source>左右のカメラ操作が変更できます{f801}</source>
@@ -97,7 +97,7 @@
   </entry>
   <entry id="31">
     <source>ゲーム中のSEの音量を{f801}変更することができます{f801}</source>
-    <target>可更改游戏中播放的效果音的音量。{f801}</target>
+    <target>可更改游戏中播放的音效的音量。{f801}</target>
   </entry>
   <entry id="32">
     <source>ゲーム中のVOICEの音量を{f801}変更することができます{f801}</source>
@@ -129,7 +129,7 @@
   </entry>
   <entry id="39">
     <source>戦闘中、全員分のコマンド入力終了時に{f801}確認を行うように変更することができます{f801}</source>
-    <target>可更改战斗中全员命令输入完毕时{f801}显示的是否结束命令的确认提示。{f801}</target>
+    <target>可更改战斗中输入完毕全员命令时{f801}是否显示的确认结束命令的提示。{f801}</target>
   </entry>
   <entry id="40">
     <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの左右入力の挙動を{f801}変更することができます{f801}</source>
@@ -221,19 +221,19 @@
   </entry>
   <entry id="80">
     <source>SEを無音にします{f801}</source>
-    <target>将效果音设置为静音。{f801}</target>
+    <target>将音效设置为静音。{f801}</target>
   </entry>
   <entry id="81">
     <source>SEの音量を小にします{f801}</source>
-    <target>将效果音的音量设置为小。{f801}</target>
+    <target>将音效的音量设置为小。{f801}</target>
   </entry>
   <entry id="82">
     <source>SEの音量を中にします{f801}</source>
-    <target>将效果音的音量设置为中。{f801}</target>
+    <target>将音效的音量设置为中。{f801}</target>
   </entry>
   <entry id="83">
     <source>SEの音量を大にします{f801}</source>
-    <target>将效果音的音量设置为大。{f801}</target>
+    <target>将音效的音量设置为大。{f801}</target>
   </entry>
   <entry id="90">
     <source>VOICEを無音にします{f801}</source>
