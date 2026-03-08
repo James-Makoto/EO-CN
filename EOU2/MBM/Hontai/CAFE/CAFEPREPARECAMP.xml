@@ -213,7 +213,7 @@
   </entry>
   <entry id="53">
     <source>敵への毒ダメージが2倍{f801}</source>
-    <target>对敌方的毒伤害变为2倍{f801}</target>
+    <target>对敌方造成的毒伤害变为2倍{f801}</target>
   </entry>
   <entry id="54">
     <source>行動速度強化1T{f801}</source>
