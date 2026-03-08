@@ -749,7 +749,7 @@
   </entry>
   <entry id="205">
     <source>一定歩数の間、エンカウント率が上昇する{f801}</source>
-    <target>一定步数内，降低遇敌率{f801}</target>
+    <target>一定步数内，提升遇敌率{f801}</target>
   </entry>
   <entry id="206">
     <source>採取ポイントで入手できる素材数が増える{f801}</source>
