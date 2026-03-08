@@ -265,7 +265,7 @@
   </entry>
   <entry id="72">
     <source>味方1列のHPを大きく回復する{f801}</source>
-    <target>大量恢复我方1人的HP{f801}</target>
+    <target>大量恢复我方1排的HP{f801}</target>
   </entry>
   <entry id="73">
     <source>味方1列のHPを回復する{f801}</source>
