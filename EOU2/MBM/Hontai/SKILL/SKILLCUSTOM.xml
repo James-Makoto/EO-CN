@@ -40129,7 +40129,7 @@
   </entry>
   <entry id="10032">
     <source>特殊スキル:フォースブースト{f801}</source>
-    <target>特殊技能:威能提升{f801}</target>
+    <target>特殊技能:威能强化{f801}</target>
   </entry>
   <entry id="10033">
     <source>契約者としての力を開放するスキル{f801}</source>
@@ -69633,7 +69633,7 @@
   </entry>
   <entry id="17408">
     <source>敵への攻撃力↑ 敵回避率↓{f801}</source>
-    <target>对敌攻击力↑ 敌回避率↓{f801}</target>
+    <target>对敌攻击力↑ 敌方回避率↓{f801}</target>
   </entry>
   <entry id="17409">
     <source>敵への攻撃力↑{f801}</source>
@@ -69653,7 +69653,7 @@
   </entry>
   <entry id="17413">
     <source>敵への攻撃力↑ 敵回避率↓{f801}</source>
-    <target>对敌攻击力↑ 敌回避率↓{f801}</target>
+    <target>对敌攻击力↑ 敌方回避率↓{f801}</target>
   </entry>
   <entry id="17414">
     <source>−−{f801}</source>
