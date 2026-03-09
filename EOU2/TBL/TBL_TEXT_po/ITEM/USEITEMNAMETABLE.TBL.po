@@ -2101,7 +2101,7 @@ msgstr "咒术香木"
 
 msgctxt "522"
 msgid "樹海のバラ"
-msgstr "树海玫瑰"
+msgstr "树海的蔷薇"
 
 msgctxt "523"
 msgid "手甲の欠片"
