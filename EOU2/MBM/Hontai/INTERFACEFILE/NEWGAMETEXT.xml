@@ -73,11 +73,11 @@
   </entry>
   <entry id="18">
     <source>食材を引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承商店库存。{f801}</target>
+    <target>选择是否继承食材。{f801}</target>
   </entry>
   <entry id="19">
     <source>商店の在庫を引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承图鉴。{f801}</target>
+    <target>选择是否继承商店库存。{f801}</target>
   </entry>
   <entry id="20">
     <source>図鑑の状態を引き継ぐか選択できます{f801}</source>
