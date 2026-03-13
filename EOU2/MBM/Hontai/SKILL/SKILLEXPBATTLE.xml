@@ -2089,7 +2089,7 @@
   </entry>
   <entry id="739">
     <source>敵1列に一定確率で麻痺か混乱効果が発動する{f801}</source>
-    <target>一定概率对1排敌人造成混乱效果{f801}</target>
+    <target>一定概率对1排敌人造成麻痹或混乱效果{f801}</target>
   </entry>
   <entry id="740">
     <source>敵1体に近接壊攻撃{f801}</source>
