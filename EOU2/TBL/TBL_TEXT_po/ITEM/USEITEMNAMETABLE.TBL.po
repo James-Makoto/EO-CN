@@ -541,7 +541,7 @@ msgstr "漆黑的铁钢片"
 
 msgctxt "132"
 msgid "純白銅の外殻"
-msgstr "純白铜的外壳"
+msgstr "纯白铜的外壳"
 
 msgctxt "133"
 msgid "ウーツ鋼のカケラ"
