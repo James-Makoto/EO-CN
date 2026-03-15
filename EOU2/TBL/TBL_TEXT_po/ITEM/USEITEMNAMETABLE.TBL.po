@@ -2065,7 +2065,7 @@ msgstr "蓝色的小花"
 
 msgctxt "513"
 msgid "瓶入りの透き通った蜜"
-msgstr "装在瓶中的透明蜜糖"
+msgstr "装在瓶中的透明糖蜜"
 
 msgctxt "514"
 msgid "宝石の原石"
