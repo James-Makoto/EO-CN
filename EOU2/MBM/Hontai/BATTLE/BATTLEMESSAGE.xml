@@ -1677,7 +1677,7 @@
   </entry>
   <entry id="499">
     <source>{f811}{0000}は{f801}天高く矢を放った!{f801}</source>
-    <target>{f811}{0000}{f801}箭矢从天空飞来！{f801}</target>
+    <target>{f811}{0000}{f801}射出箭矢向天空飞去！{f801}</target>
   </entry>
   <entry id="500">
     <source>天空より矢が飛来する!{f801}</source>
