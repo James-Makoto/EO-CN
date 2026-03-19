@@ -657,7 +657,7 @@ msgstr "石像碎片"
 
 msgctxt "161"
 msgid "千手巨人の魔皮"
-msgstr "千手举人的魔皮"
+msgstr "千手巨人的魔皮"
 
 msgctxt "162"
 msgid "原初の果実"
