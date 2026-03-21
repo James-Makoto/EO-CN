@@ -2190,7 +2190,7 @@ msgstr "雪鸟蛋关东煮"
 
 msgctxt "544"
 msgid "巨猪の豚汁"
-msgstr "巨猪猪肉汤"
+msgstr "巨猪味噌汤"
 
 msgctxt "545"
 msgid "鶏唐揚げ甘酢餡"
