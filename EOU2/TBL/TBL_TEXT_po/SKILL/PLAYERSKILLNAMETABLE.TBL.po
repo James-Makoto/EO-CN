@@ -94,7 +94,7 @@ msgstr "震慑猛击"
 
 msgctxt "20"
 msgid "ヘッドバッシュ"
-msgstr "头部重击"
+msgstr "头部猛击"
 
 msgctxt "21"
 msgid "パワーゲイン"
@@ -110,7 +110,7 @@ msgstr "烈火追击"
 
 msgctxt "24"
 msgid "チェイスフリーズ"
-msgstr "冰结追击"
+msgstr "冰寒追击"
 
 msgctxt "25"
 msgid "チェイスショック"
@@ -750,7 +750,7 @@ msgstr "最大TP提升"
 
 msgctxt "184"
 msgid "素早さブースト"
-msgstr "敏捷精通"
+msgstr "敏捷提升"
 
 msgctxt "185"
 msgid "ホーリーギフト"
@@ -1310,7 +1310,7 @@ msgstr "跳弹"
 
 msgctxt "324"
 msgid "チャージショット"
-msgstr "充能射击"
+msgstr "蓄力射击"
 
 msgctxt "325"
 msgid "バーストショット"
@@ -2418,7 +2418,7 @@ msgstr "皇家面纱"
 
 msgctxt "601"
 msgid "庇護の号令"
-msgstr "庇护之号令"
+msgstr "庇护号令"
 
 msgctxt "602"
 msgid "リンクオーダー"
@@ -2950,7 +2950,7 @@ msgstr "石化凝视"
 
 msgctxt "734"
 msgid "ショックアサルト"
-msgstr "雷电冲击"
+msgstr "雷电猛攻"
 
 msgctxt "735"
 msgid "乱れ雪つぶて"
@@ -3006,7 +3006,7 @@ msgstr "黑翼"
 
 msgctxt "748"
 msgid "捕縛の糸"
-msgstr "捆缚之丝"
+msgstr "捕缚之丝"
 
 msgctxt "749"
 msgid "困惑のリンプン"
@@ -3090,7 +3090,7 @@ msgstr "临终惨叫"
 
 msgctxt "769"
 msgid "ヘッドバット"
-msgstr "头槌"
+msgstr "头部重击"
 
 msgctxt "770"
 msgid "四肢潰し"
@@ -4070,7 +4070,7 @@ msgstr "解放、而后伟力缠身"
 
 msgctxt "1014"
 msgid "我に触れるな"
-msgstr "汝，毋触吾身"
+msgstr "毋触吾身"
 
 msgctxt "1015"
 msgid "NONE"
@@ -4242,7 +4242,7 @@ msgstr "愤怒的狱炎弹"
 
 msgctxt "1057"
 msgid "食いしばり"
-msgstr "啃噬"
+msgstr "不屈"
 
 msgctxt "1058"
 msgid "チェイスレーザー"
@@ -4358,7 +4358,7 @@ msgstr "镜面护盾"
 
 msgctxt "1086"
 msgid "クラッシュアーム"
-msgstr "粉碎之腕"
+msgstr "冲击之腕"
 
 msgctxt "1087"
 msgid "氷河の再生"
@@ -4410,7 +4410,7 @@ msgstr "雷之共鸣"
 
 msgctxt "1099"
 msgid "ファイアブレス"
-msgstr "火炎吐息"
+msgstr "烈焰吐息"
 
 msgctxt "1100"
 msgid "とどろく咆哮"
@@ -4446,7 +4446,7 @@ msgstr "翼爪击"
 
 msgctxt "1108"
 msgid "テイルストライク"
-msgstr "尾击"
+msgstr "龙尾甩击"
 
 msgctxt "1109"
 msgid "大翼の旋風"
@@ -4502,7 +4502,7 @@ msgstr "威能护壁"
 
 msgctxt "1122"
 msgid "パワーウォール"
-msgstr "强力凝胶"
+msgstr "后备能源"
 
 msgctxt "1123"
 msgid "ロックハンマー"
@@ -4774,7 +4774,7 @@ msgstr "震慑冲撞"
 
 msgctxt "1190"
 msgid "ベノムネイル"
-msgstr "毒尾"
+msgstr "毒爪"
 
 msgctxt "1191"
 msgid "カオススラッシュ"
@@ -4874,7 +4874,7 @@ msgstr "大海原之侵食"
 
 msgctxt "1215"
 msgid "体当たり"
-msgstr "冲撞"
+msgstr "以身撞击"
 
 msgctxt "1216"
 msgid "テイルコイル"
