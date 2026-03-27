@@ -282,7 +282,7 @@ msgstr "石化凝视"
 
 msgctxt "67"
 msgid "ショックアサルト"
-msgstr "雷电冲击"
+msgstr "雷电猛攻"
 
 msgctxt "68"
 msgid "乱れ雪つぶて"
@@ -338,7 +338,7 @@ msgstr "黑翼"
 
 msgctxt "81"
 msgid "捕縛の糸"
-msgstr "捆缚之丝"
+msgstr "捕缚之丝"
 
 msgctxt "82"
 msgid "困惑のリンプン"
@@ -422,7 +422,7 @@ msgstr "临终惨叫"
 
 msgctxt "102"
 msgid "ヘッドバット"
-msgstr "头槌"
+msgstr "头部重击"
 
 msgctxt "103"
 msgid "四肢潰し"
@@ -1574,7 +1574,7 @@ msgstr "愤怒的狱炎弹"
 
 msgctxt "390"
 msgid "食いしばり"
-msgstr "啃噬"
+msgstr "不屈"
 
 msgctxt "391"
 msgid "チェイスレーザー"
@@ -1690,7 +1690,7 @@ msgstr "镜面护盾"
 
 msgctxt "419"
 msgid "クラッシュアーム"
-msgstr "粉碎之腕"
+msgstr "冲击之腕"
 
 msgctxt "420"
 msgid "氷河の再生"
@@ -1742,7 +1742,7 @@ msgstr "雷之共鸣"
 
 msgctxt "432"
 msgid "ファイアブレス"
-msgstr "火炎吐息"
+msgstr "烈焰吐息"
 
 msgctxt "433"
 msgid "とどろく咆哮"
@@ -1778,7 +1778,7 @@ msgstr "翼爪击"
 
 msgctxt "441"
 msgid "テイルストライク"
-msgstr "尾击"
+msgstr "龙尾甩击"
 
 msgctxt "442"
 msgid "大翼の旋風"
@@ -2106,7 +2106,7 @@ msgstr "震慑冲撞"
 
 msgctxt "523"
 msgid "ベノムネイル"
-msgstr "毒尾"
+msgstr "毒爪"
 
 msgctxt "524"
 msgid "カオススラッシュ"
@@ -2206,7 +2206,7 @@ msgstr "大海原之侵食"
 
 msgctxt "548"
 msgid "体当たり"
-msgstr "冲撞"
+msgstr "以身撞击"
 
 msgctxt "549"
 msgid "テイルコイル"
