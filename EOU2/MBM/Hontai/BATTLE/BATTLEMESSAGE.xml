@@ -1989,7 +1989,7 @@
   </entry>
   <entry id="578">
     <source>毒ガスが周囲に充満し{f801}回復力を低下させる!{f801}</source>
-    <target>毒气充满四周，{f801}恢复能降低！{f801}</target>
+    <target>毒气充满四周，{f801}恢复力降低！{f801}</target>
   </entry>
   <entry id="579">
     <source>周囲のガス濃度が上昇した!{f801}</source>
