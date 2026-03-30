@@ -657,7 +657,7 @@ msgstr "石像碎片"
 
 msgctxt "161"
 msgid "千手巨人の魔皮"
-msgstr "千手举人的魔皮"
+msgstr "千手巨人的魔皮"
 
 msgctxt "162"
 msgid "原初の果実"
@@ -1385,7 +1385,7 @@ msgstr "变貌的雷轮"
 
 msgctxt "343"
 msgid "煩擾の弓幹"
-msgstr "烦扰弓干"
+msgstr "烦扰弓身"
 
 msgctxt "344"
 msgid "異形の紫皮"

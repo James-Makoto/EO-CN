@@ -493,11 +493,11 @@
   </entry>
   <entry id="129">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分对{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="130">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分对{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="131">
     <source>{f811}{0300}は{f801}仲間達をかばった!{f801}</source>
@@ -997,7 +997,7 @@
   </entry>
   <entry id="258">
     <source>貫通効果発動!{f801}</source>
-    <target>貫贯穿效果发动！{f801}</target>
+    <target>贯穿效果发动！{f801}</target>
   </entry>
   <entry id="259">
     <source>拡散効果発動!{f801}</source>
@@ -1677,7 +1677,7 @@
   </entry>
   <entry id="499">
     <source>{f811}{0000}は{f801}天高く矢を放った!{f801}</source>
-    <target>{f811}{0000}{f801}箭矢从天空飞来！{f801}</target>
+    <target>{f811}{0000}{f801}射出箭矢向天空飞去！{f801}</target>
   </entry>
   <entry id="500">
     <source>天空より矢が飛来する!{f801}</source>
@@ -1989,7 +1989,7 @@
   </entry>
   <entry id="578">
     <source>毒ガスが周囲に充満し{f801}回復力を低下させる!{f801}</source>
-    <target>毒气充满四周，{f801}恢复能降低！{f801}</target>
+    <target>毒气充满四周，{f801}恢复力降低！{f801}</target>
   </entry>
   <entry id="579">
     <source>周囲のガス濃度が上昇した!{f801}</source>
