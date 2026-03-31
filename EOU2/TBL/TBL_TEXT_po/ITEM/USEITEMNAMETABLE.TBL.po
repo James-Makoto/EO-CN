@@ -1385,7 +1385,7 @@ msgstr "变貌的雷轮"
 
 msgctxt "343"
 msgid "煩擾の弓幹"
-msgstr "烦扰弓干"
+msgstr "烦扰弓身"
 
 msgctxt "344"
 msgid "異形の紫皮"

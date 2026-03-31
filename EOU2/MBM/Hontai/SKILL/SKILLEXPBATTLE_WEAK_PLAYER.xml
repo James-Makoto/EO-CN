@@ -169,7 +169,7 @@
   </entry>
   <entry id="404">
     <source>不屈の号令{f801}【回復】食いしばり付与{f801}</source>
-    <target>不屈号令{f801}【恢复】啃噬付与{f801}</target>
+    <target>不屈号令{f801}【恢复】赋予不屈{f801}</target>
   </entry>
   <entry id="405">
     <source>ホーリークラウン{f801}【回復】回復量UP{f801}</source>
@@ -573,7 +573,7 @@
   </entry>
   <entry id="1122">
     <source>パワーウォール{f801}【防御】物理防御UP{f801}</source>
-    <target>强力凝胶{f801}【防御】物理防御UP{f801}</target>
+    <target>后备能源{f801}【防御】物理防御UP{f801}</target>
   </entry>
   <entry id="1127">
     <source>疫病の棍{f801}【回復】HP回復量DOWN{f801}</source>

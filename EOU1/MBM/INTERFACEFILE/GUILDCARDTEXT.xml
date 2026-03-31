@@ -33,7 +33,7 @@
   </entry>
   <entry id="8">
     <source>ギルドが一杯です。{f801}</source>
-    <target>技能已满。{f801}</target>
+    <target>公会已满。{f801}</target>
   </entry>
   <entry id="9">
     <source>ゲームコインが足りません。{f801}</source>

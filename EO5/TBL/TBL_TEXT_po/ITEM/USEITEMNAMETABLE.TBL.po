@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Etrian Odyssey IV\n"
 "Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
 "POT-Creation-Date: 2024/4/1\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2026-03-31 20:53+0800\n"
 "Last-Translator: \n"
 "Language-Team: TraduSquare\n"
 "Language: es\n"
@@ -1617,59 +1617,59 @@ msgstr ""
 
 msgctxt "401"
 msgid "メディカ"
-msgstr ""
+msgstr "药水"
 
 msgctxt "402"
 msgid "メディカⅡ"
-msgstr ""
+msgstr "药水Ⅱ"
 
 msgctxt "403"
 msgid "メディカⅢ"
-msgstr ""
+msgstr "药水Ⅲ"
 
 msgctxt "404"
 msgid "メディカⅣ"
-msgstr ""
+msgstr "药水Ⅳ"
 
 msgctxt "405"
 msgid "アムリタ"
-msgstr ""
+msgstr "甘露"
 
 msgctxt "406"
 msgid "アムリタⅡ"
-msgstr ""
+msgstr "甘露Ⅱ"
 
 msgctxt "407"
 msgid "ハマオ"
-msgstr ""
+msgstr "神酒"
 
 msgctxt "408"
 msgid "ハマオプライム"
-msgstr ""
+msgstr "顶级神酒"
 
 msgctxt "409"
 msgid "ソーマ"
-msgstr ""
+msgstr "苏摩"
 
 msgctxt "410"
 msgid "ソーマプライム"
-msgstr ""
+msgstr "顶级苏摩"
 
 msgctxt "411"
 msgid "ネクタル"
-msgstr ""
+msgstr "琼浆"
 
 msgctxt "412"
 msgid "ネクタルⅡ"
-msgstr ""
+msgstr "琼浆Ⅱ"
 
 msgctxt "413"
 msgid "テリアカα"
-msgstr ""
+msgstr "万能药α"
 
 msgctxt "414"
 msgid "テリアカβ"
-msgstr ""
+msgstr "万能药β"
 
 msgctxt "415"
 msgid "ダミー"
@@ -1677,67 +1677,67 @@ msgstr ""
 
 msgctxt "416"
 msgid "耐熱ミスト"
-msgstr ""
+msgstr "抗热喷雾"
 
 msgctxt "417"
 msgid "耐氷ミスト"
-msgstr ""
+msgstr "抗冰喷雾"
 
 msgctxt "418"
 msgid "耐雷ミスト"
-msgstr ""
+msgstr "抗雷喷雾"
 
 msgctxt "419"
 msgid "絶耐ミスト"
-msgstr ""
+msgstr "全抗喷雾"
 
 msgctxt "420"
 msgid "ブレイバント"
-msgstr ""
+msgstr "勇士补药"
 
 msgctxt "421"
 msgid "ストナード"
-msgstr ""
+msgstr "刚硬石胶"
 
 msgctxt "422"
 msgid "ファイアオイル"
-msgstr ""
+msgstr "火焰油"
 
 msgctxt "423"
 msgid "フリーズオイル"
-msgstr ""
+msgstr "冰冻油"
 
 msgctxt "424"
 msgid "ショックオイル"
-msgstr ""
+msgstr "电击油"
 
 msgctxt "425"
 msgid "ラウダナム"
-msgstr ""
+msgstr "阿片酊"
 
 msgctxt "426"
 msgid "ウニコウル"
-msgstr ""
+msgstr "独角兽角"
 
 msgctxt "427"
 msgid "聖なる贈り物"
-msgstr ""
+msgstr "神圣馈赠"
 
 msgctxt "428"
 msgid "解析グラス"
-msgstr ""
+msgstr "解析眼镜"
 
 msgctxt "429"
 msgid "獣避けの鈴"
-msgstr ""
+msgstr "避兽铃铛"
 
 msgctxt "430"
 msgid "獣寄せの鈴"
-msgstr ""
+msgstr "诱兽铃铛"
 
 msgctxt "431"
 msgid "アリアドネの糸"
-msgstr ""
+msgstr "阿里阿德涅之线"
 
 msgctxt "432"
 msgid "ダミー"
@@ -1745,11 +1745,11 @@ msgstr ""
 
 msgctxt "433"
 msgid "斥候の長靴"
-msgstr ""
+msgstr "斥候的长靴"
 
 msgctxt "434"
 msgid "解剖用水溶液"
-msgstr ""
+msgstr "解剖用水溶液"
 
 msgctxt "435"
 msgid "ダミー"
@@ -1773,63 +1773,63 @@ msgstr ""
 
 msgctxt "440"
 msgid "火術の起動符"
-msgstr ""
+msgstr "火术启动符"
 
 msgctxt "441"
 msgid "氷術の起動符"
-msgstr ""
+msgstr "冰术启动符"
 
 msgctxt "442"
 msgid "雷術の起動符"
-msgstr ""
+msgstr "雷术启动符"
 
 msgctxt "443"
 msgid "火炎術の起動符"
-msgstr ""
+msgstr "火炎术启动符"
 
 msgctxt "444"
 msgid "氷結術の起動符"
-msgstr ""
+msgstr "冰结术启动符"
 
 msgctxt "445"
 msgid "雷電術の起動符"
-msgstr ""
+msgstr "雷电术启动符"
 
 msgctxt "446"
 msgid "盲目の香"
-msgstr ""
+msgstr "失明之香"
 
 msgctxt "447"
 msgid "毒の香"
-msgstr ""
+msgstr "毒之香"
 
 msgctxt "448"
 msgid "麻痺の香"
-msgstr ""
+msgstr "麻痹之香"
 
 msgctxt "449"
 msgid "混乱の香"
-msgstr ""
+msgstr "混乱之香"
 
 msgctxt "450"
 msgid "呪いの香"
-msgstr ""
+msgstr "诅咒之香"
 
 msgctxt "451"
 msgid "睡眠の香"
-msgstr ""
+msgstr "睡眠之香"
 
 msgctxt "452"
 msgid "縺れ糸:頭"
-msgstr ""
+msgstr "捆缚索:头"
 
 msgctxt "453"
 msgid "縺れ糸:腕"
-msgstr ""
+msgstr "捆缚索:臂"
 
 msgctxt "454"
 msgid "縺れ糸:脚"
-msgstr ""
+msgstr "捆缚索:腿"
 
 msgctxt "455"
 msgid "ダミー"
@@ -1841,15 +1841,15 @@ msgstr ""
 
 msgctxt "457"
 msgid "斬術の起動符"
-msgstr ""
+msgstr "斩术启动符"
 
 msgctxt "458"
 msgid "壊術の起動符"
-msgstr ""
+msgstr "坏术启动符"
 
 msgctxt "459"
 msgid "突術の起動符"
-msgstr ""
+msgstr "突术启动符"
 
 msgctxt "460"
 msgid "ダミー"
@@ -1857,7 +1857,7 @@ msgstr ""
 
 msgctxt "461"
 msgid "石化の香"
-msgstr ""
+msgstr "石化之香"
 
 msgctxt "462"
 msgid "ダミー"

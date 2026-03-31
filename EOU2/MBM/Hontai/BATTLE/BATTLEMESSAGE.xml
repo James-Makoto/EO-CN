@@ -493,11 +493,11 @@
   </entry>
   <entry id="129">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分对{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="130">
     <source>{f811}{0300}は{f801}{f811}{0100}への攻撃を軽減した!{f801}</source>
-    <target>{f811}{0300}抵御了{f801}部分来自{f811}{0100}的攻击！{f801}</target>
+    <target>{f811}{0300}抵御了{f801}部分对{f811}{0100}的攻击！{f801}</target>
   </entry>
   <entry id="131">
     <source>{f811}{0300}は{f801}仲間達をかばった!{f801}</source>
@@ -1061,7 +1061,7 @@
   </entry>
   <entry id="274">
     <source>{f811}{0000}は凍っている!{f801}</source>
-    <target>{f811}{0000}被冻住了！{f801}</target>
+    <target>{f811}{0000}处于冻结状态！{f801}</target>
   </entry>
   <entry id="275">
     <source>{f811}{0000}の周囲から発生した{f801}黒い霧が、敵を包み込んだ!{f801}</source>
@@ -1325,7 +1325,7 @@
   </entry>
   <entry id="406">
     <source>{f811}{0100}は驚いて{f801}身構えを解除した{f801}</source>
-    <target>{f811}{0100}出于吃惊{f801}放下了警戒姿势{f801}</target>
+    <target>{f811}{0100}出于吃惊{f801}解除了戒备姿态{f801}</target>
   </entry>
   <entry id="408">
     <source>{f811}{0100}発動!!{f801}{f811}{0000}のダメージは減少した!{f801}</source>
@@ -1837,7 +1837,7 @@
   </entry>
   <entry id="540">
     <source>誰にコピーする?{f801}</source>
-    <target>“复制给谁？{f801}</target>
+    <target>复制给谁？{f801}</target>
   </entry>
   <entry id="541">
     <source>{f811}{0100}は変身した!{f801}</source>
@@ -1989,7 +1989,7 @@
   </entry>
   <entry id="578">
     <source>毒ガスが周囲に充満し{f801}回復力を低下させる!{f801}</source>
-    <target>毒气充满四周，{f801}恢复能降低！{f801}</target>
+    <target>毒气充满四周，{f801}恢复力降低！{f801}</target>
   </entry>
   <entry id="579">
     <source>周囲のガス濃度が上昇した!{f801}</source>
