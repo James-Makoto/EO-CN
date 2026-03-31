@@ -1837,7 +1837,7 @@
   </entry>
   <entry id="540">
     <source>誰にコピーする?{f801}</source>
-    <target>“复制给谁？{f801}</target>
+    <target>复制给谁？{f801}</target>
   </entry>
   <entry id="541">
     <source>{f811}{0100}は変身した!{f801}</source>
