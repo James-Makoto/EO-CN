@@ -1830,7 +1830,7 @@ msgstr "再生术"
 
 msgctxt "454"
 msgid "フォースウォール"
-msgstr "威能护盾"
+msgstr "威能护壁"
 
 msgctxt "455"
 msgid "パワーウォール"
