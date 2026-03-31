@@ -129,7 +129,7 @@
   </entry>
   <entry id="34">
     <source>装備を変更したことで{f801}使用できるスキルが変化しました{f801}</source>
-    <target>装备不同的武器{f801}将影响可使用的技能。{f801}</target>
+    <target>因为更换了不同种类的武器，{f801}可使用的技能受到了影响。{f801}</target>
   </entry>
   <entry id="35">
     <source>このキャラクターの装備は{f801}変更できません!{f801}</source>
