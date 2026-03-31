@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Etrian Odyssey IV\n"
 "Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
 "POT-Creation-Date: 2024/4/1\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2026-03-31 20:58+0800\n"
 "Last-Translator: \n"
 "Language-Team: TraduSquare\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "1"
 msgid "アタック"
-msgstr ""
+msgstr "攻击"
 
 msgctxt "2"
 msgid "絡みつき"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "8"
 msgid "猪突猛進"
-msgstr ""
+msgstr "猪突猛进"
 
 msgctxt "9"
 msgid "蛭毒"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "10"
 msgid "食いちぎり"
-msgstr ""
+msgstr "啃噬"
 
 msgctxt "11"
 msgid "斬り払い"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "13"
 msgid "力溜め"
-msgstr ""
+msgstr "蓄力"
 
 msgctxt "14"
 msgid "毒牙"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "54"
 msgid "尾撃"
-msgstr ""
+msgstr "尾击"
 
 msgctxt "55"
 msgid "捕食の針"
@@ -329,7 +329,7 @@ msgstr ""
 
 msgctxt "79"
 msgid "挑発"
-msgstr ""
+msgstr "挑衅"
 
 msgctxt "80"
 msgid "豪氷尾"
@@ -353,7 +353,7 @@ msgstr ""
 
 msgctxt "85"
 msgid "ポイズンバイト"
-msgstr ""
+msgstr "毒咬击"
 
 msgctxt "86"
 msgid "アームバイト"
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "89"
 msgid "ライトニング"
-msgstr ""
+msgstr "雷霆"
 
 msgctxt "90"
 msgid "ネイルハンマー"
@@ -469,7 +469,7 @@ msgstr ""
 
 msgctxt "114"
 msgid "真空一閃"
-msgstr ""
+msgstr "真空一闪"
 
 msgctxt "115"
 msgid "ダイナモサンダー"
@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "116"
 msgid "身構え"
-msgstr ""
+msgstr "准备架势"
 
 msgctxt "117"
 msgid "オルタネーター"
@@ -501,7 +501,7 @@ msgstr ""
 
 msgctxt "122"
 msgid "挑発"
-msgstr ""
+msgstr "挑衅"
 
 msgctxt "123"
 msgid "NONE"
@@ -601,7 +601,7 @@ msgstr ""
 
 msgctxt "147"
 msgid "パリング"
-msgstr ""
+msgstr "招架"
 
 msgctxt "148"
 msgid "ストームエッジ"
@@ -609,7 +609,7 @@ msgstr ""
 
 msgctxt "149"
 msgid "叩きつけ"
-msgstr ""
+msgstr "砸击"
 
 msgctxt "150"
 msgid "ブレイクブレイド"
