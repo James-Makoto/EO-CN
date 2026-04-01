@@ -41,15 +41,15 @@
   </entry>
   <entry id="10">
     <source>ギルド登録後に自動でセーブされます{f801}よろしいですか?{f801}</source>
-    <target>公会登录后将会自动保存。{f801}确定吗?{f801}</target>
+    <target>公会登记后将会自动保存。{f801}确定吗?{f801}</target>
   </entry>
   <entry id="11">
     <source>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか。{f801}</source>
-    <target>要使用20枚游戏硬币{f801}来登录这个角色到公会中吗?{f801}</target>
+    <target>要使用20枚游戏硬币{f801}来登记这个角色到公会中吗?{f801}</target>
   </entry>
   <entry id="12">
     <source>ギルドに登録しました。{f801}</source>
-    <target>已登录到公会中。{f801}</target>
+    <target>已登记到公会中。{f801}</target>
   </entry>
   <entry id="13">
     <source>不適切な内容です。{f801}もう一度、入力してください。{f801}</source>

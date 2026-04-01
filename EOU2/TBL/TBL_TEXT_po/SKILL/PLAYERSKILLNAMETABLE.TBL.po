@@ -2038,7 +2038,7 @@ msgstr "经验值上升"
 
 msgctxt "506"
 msgid "図鑑登録"
-msgstr "登录图鉴"
+msgstr "登记图鉴"
 
 msgctxt "507"
 msgid "好機のスカラベ"

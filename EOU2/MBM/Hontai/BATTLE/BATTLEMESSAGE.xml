@@ -1745,7 +1745,7 @@
   </entry>
   <entry id="517">
     <source>{f811}{0100}は図鑑に登録出来ない{f801}</source>
-    <target>{f811}{0100}无法登录到图鉴{f801}</target>
+    <target>{f811}{0100}无法登记到图鉴{f801}</target>
   </entry>
   <entry id="518">
     <source>{f811}{0100}は毒に耐えた!{f801}</source>
