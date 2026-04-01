@@ -37,7 +37,7 @@
   </entry>
   <entry id="10">
     <source>全てのゲームデータが{f801}破損しています{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</source>
-    <target>全部游戏存档已损坏。{f801}{f802}请在OPTION初始化所有数据，{f801}并重启游戏。{f801}</target>
+    <target>游戏的所有存档已损坏。{f801}{f802}请在OPTION初始化所有数据，{f801}并重启游戏。{f801}</target>
   </entry>
   <entry id="11">
     <source>ゲームデータがありません{f801}</source>
@@ -105,7 +105,7 @@
   </entry>
   <entry id="33">
     <source>セーブデータを初期化しています{f801}</source>
-    <target>初始化存档数据。{f801}</target>
+    <target>正在初始化存档数据。{f801}</target>
   </entry>
   <entry id="34">
     <source>ゲームデータの読み込みに{f801}失敗しました。バックアップデータ{f801}から復帰します{f801}</source>

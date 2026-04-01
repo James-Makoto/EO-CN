@@ -37,7 +37,7 @@
   </entry>
   <entry id="10">
     <source>全てのゲームデータが{f801}破損しています{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</source>
-    <target>全部游戏存档已损坏。{f801}{f802}请在OPTION初始化所有数据，{f801}并重启游戏。{f801}</target>
+    <target>游戏的所有存档已损坏。{f801}{f802}请在OPTION初始化所有数据，{f801}并重启游戏。{f801}</target>
   </entry>
   <entry id="11">
     <source>ゲームデータがありません{f801}</source>
@@ -105,7 +105,7 @@
   </entry>
   <entry id="33">
     <source>セーブデータを初期化しています{f801}</source>
-    <target>初始化存档数据。{f801}</target>
+    <target>正在初始化存档数据。{f801}</target>
   </entry>
   <entry id="34">
     <source>ゲームデータの読み込みに{f801}失敗しました。バックアップデータ{f801}から復帰します{f801}</source>
@@ -117,7 +117,7 @@
   </entry>
   <entry id="36">
     <source>中断データを削除しています{f801}</source>
-    <target>已删除中断存档。{f801}</target>
+    <target>正在删除中断存档。{f801}</target>
   </entry>
   <entry id="37">
     <source>セーブデータにアクセスできません{f801}{f802}OPTIONで全データを初期化し、{f801}最初からプレイしてください{f801}</source>
@@ -185,7 +185,7 @@
   </entry>
   <entry id="101">
     <source>追加データが破損しています{f801}追加データを作成し直します{f801}</source>
-    <target>追加数据损坏。{f801}将创建追加数据。{f801}</target>
+    <target>追加数据损坏。{f801}将重新创建追加数据。{f801}</target>
   </entry>
   <entry id="102">
     <source>SDカードを認識できませんでした{f801}</source>
@@ -193,7 +193,7 @@
   </entry>
   <entry id="103">
     <source>追加データが破損しています{f801}追加データを作成し直します{f801}</source>
-    <target>追加数据损坏。{f801}将创建追加数据。{f801}</target>
+    <target>追加数据损坏。{f801}将重新创建追加数据。{f801}</target>
   </entry>
   <entry id="104">
     <source>SDカードを認識できませんでした{f801}</source>
@@ -269,7 +269,7 @@
   </entry>
   <entry id="136">
     <source>SDカードに必要な空き容量が{f801}ありません。SDカードへの{f801}書き込みに失敗しました{f801}</source>
-    <target>SDカードに必要な空き容量が{f801}ありません。SDカードへの{f801}書き込みに失敗しました{f801}</target>
+    <target>SD卡必需空余容量不足。{f801}SD卡写入失败。{f801}</target>
   </entry>
   <entry id="140">
     <source>データがありません{f801}</source>
