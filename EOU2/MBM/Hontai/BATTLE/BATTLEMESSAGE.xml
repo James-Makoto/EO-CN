@@ -1449,7 +1449,7 @@
   </entry>
   <entry id="438">
     <source>{f811}{0100}を図鑑に登録した!{f801}</source>
-    <target>已将{f811}{0100}登记到图鉴中！{f801}</target>
+    <target>已将{f811}{0100}登录到图鉴中！{f801}</target>
   </entry>
   <entry id="439">
     <source>しかし、{f811}{0100}は{f801}スタンしなかった{f801}</source>
@@ -1645,7 +1645,7 @@
   </entry>
   <entry id="491">
     <source>{f811}{0100}は既に図鑑登録されている{f801}</source>
-    <target>{f811}{0100}已登记在图鉴中{f801}</target>
+    <target>{f811}{0100}已登录在图鉴中{f801}</target>
   </entry>
   <entry id="492">
     <source>{f811}{0100}のグリモアが{f801}必ず生成されるようになった!{f801}</source>
@@ -1745,7 +1745,7 @@
   </entry>
   <entry id="517">
     <source>{f811}{0100}は図鑑に登録出来ない{f801}</source>
-    <target>{f811}{0100}无法登记到图鉴{f801}</target>
+    <target>{f811}{0100}无法登录到图鉴{f801}</target>
   </entry>
   <entry id="518">
     <source>{f811}{0100}は毒に耐えた!{f801}</source>
