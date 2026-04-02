@@ -141,7 +141,7 @@
   </entry>
   <entry id="37">
     <source>装備を変更したことで{f801}使用できるスキルが変化しました{f801}</source>
-    <target>更改装备将会{f801}影响使用的技能。{f801}</target>
+    <target>因为更换了不同种类的武器，{f801}可使用的技能受到了影响。{f801}</target>
   </entry>
   <entry id="38">
     <source>選択したアイテムを{f811}{0000}個売却しました{f801}</source>

@@ -9,11 +9,11 @@
   </entry>
   <entry id="3">
     <source>酒場にやってくる冒険者と話し{f801}さまざまな情報を得られます{f801}</source>
-    <target>在酒馆可以与冒险者对话，{f801}获取各种信息。{f801}</target>
+    <target>在酒馆与冒险者对话，{f801}可以获取各种信息。{f801}{f801}</target>
   </entry>
   <entry id="4">
     <source>店の女店主と話します{f801}</source>
-    <target>和女店主对话。{f801}</target>
+    <target>和酒馆的女店主对话。{f801}</target>
   </entry>
   <entry id="5">
     <source>広場へ戻ります{f801}</source>
@@ -53,7 +53,7 @@
   </entry>
   <entry id="14">
     <source>誰もいません{f801}</source>
-    <target>谁也不在。{f801}</target>
+    <target>没有人在。{f801}</target>
   </entry>
   <entry id="15">
     <source>これ以上受けられません!{f801}</source>
