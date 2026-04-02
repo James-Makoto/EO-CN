@@ -9,15 +9,15 @@
   </entry>
   <entry id="3">
     <source>このキャラクターで登録します{f801}いいですか?{f801}</source>
-    <target>将登记该角色，{f801}确定吗?{f801}</target>
+    <target>将登录该角色，{f801}确定吗?{f801}</target>
   </entry>
   <entry id="4">
     <source>キャラクターを登録しました{f801}</source>
-    <target>已登记角色。{f801}</target>
+    <target>已登录角色。{f801}</target>
   </entry>
   <entry id="5">
     <source>続けて冒険者を登録しますか?{f801}ギルド登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</source>
-    <target>要继续登记冒险者吗?{f801}公会登记人数{f811}{0000}人:剩余位{f811}{0100}人{f801}</target>
+    <target>要继续登录冒险者吗?{f801}公会登录人数{f811}{0000}人:剩余位{f811}{0100}人{f801}</target>
   </entry>
   <entry id="6">
     <source>サブクラスを選択してください{f801}</source>

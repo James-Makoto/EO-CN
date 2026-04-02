@@ -9,7 +9,7 @@
   </entry>
   <entry id="3">
     <source>{f840}のパーティ編成と{f801}登録順番の入れ替えをします{f801}</source>
-    <target>可以进行{f840}的{f801}队伍编组和队伍登记。{f801}</target>
+    <target>可以进行{f840}的{f801}队伍编组和队伍登录。{f801}</target>
   </entry>
   <entry id="4">
     <source>ギルド長と話します{f801}</source>
@@ -21,7 +21,7 @@
   </entry>
   <entry id="6">
     <source>誰を管理しますか?{f801}登録者数{f811}{0000}人:残り枠{f811}{0100}人{f801}</source>
-    <target>要管理哪位成员呢?{f801}登记人数{f811}{0000}人:剩余位{f811}{0100}人{f801}</target>
+    <target>要管理哪位成员呢?{f801}登录人数{f811}{0000}人:剩余位{f811}{0100}人{f801}</target>
   </entry>
   <entry id="7">
     <source>冒険者がギルドを去り、{f801}少し優秀な新人を連れて来ます{f801}</source>
@@ -77,7 +77,7 @@
   </entry>
   <entry id="20">
     <source>{f840}のパーティの編成と、{f801}登録順番の入れ替えをします{f801}</source>
-    <target>进行{f840}的队伍编组以及{f801}更改登记顺序的操作。{f801}</target>
+    <target>进行{f840}的队伍编组以及{f801}更改登录顺序的操作。{f801}</target>
   </entry>
   <entry id="21">
     <source>『{f811}{0000}』は引退し{f801}後継の新人がやってきました{f801}</source>
@@ -101,11 +101,11 @@
   </entry>
   <entry id="26">
     <source>登録者がいません!{f801}</source>
-    <target>没有以登录的冒险者!{f801}</target>
+    <target>没有已登录的冒险者!{f801}</target>
   </entry>
   <entry id="27">
     <source>『{f811}{0000}』にこれ以上{f801}冒険者を登録できません!{f801}</source>
-    <target>『{f811}{0000}』中{f801}无法登记更多冒险者!{f801}</target>
+    <target>『{f811}{0000}』中{f801}无法登录更多冒险者!{f801}</target>
   </entry>
   <entry id="28">
     <source>所持品が一杯で装備が外せません!{f801}所持品を整理してください{f801}</source>
@@ -129,7 +129,7 @@
   </entry>
   <entry id="33">
     <source>{f840}のパーティを{f801}お気に入り登録します{f801}</source>
-    <target>登记喜欢的{f840}队伍编组。{f801}</target>
+    <target>登录喜欢的{f840}队伍编组。{f801}</target>
   </entry>
   <entry id="34">
     <source>{f840}のお気に入りパーティを{f801}呼び出します{f801}</source>
@@ -141,7 +141,7 @@
   </entry>
   <entry id="40">
     <source>有効なパーティがありません!{f801}パーティの登録を確認してください{f801}</source>
-    <target>没有有效的队伍!{f801}请查看登记的队伍。{f801}</target>
+    <target>没有有效的队伍!{f801}请查看登录的队伍。{f801}</target>
   </entry>
   <entry id="41">
     <source>このパーティを呼び出しますか?{f801}</source>
@@ -161,7 +161,7 @@
   </entry>
   <entry id="45">
     <source>現在のパーティをセット{f811}{0000}に登録します{f801}よろしいですか?{f801}</source>
-    <target>现在的队伍编组{f811}{0000}将被登录。{f801}这样可以吗?{f801}</target>
+    <target>现在的队伍编组将登录至{f811}{0000}。{f801}这样可以吗?{f801}</target>
   </entry>
   <entry id="46">
     <source>パーティを登録しました{f801}</source>

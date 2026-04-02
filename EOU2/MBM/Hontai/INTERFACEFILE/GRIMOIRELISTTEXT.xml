@@ -85,7 +85,7 @@
   </entry>
   <entry id="22">
     <source>付加効果が登録されているグリモアのみ表示します{f801}</source>
-    <target>只显示登记了附加效果的魔导石{f801}</target>
+    <target>只显示登录了附加效果的魔导石{f801}</target>
   </entry>
   <entry id="23">
     <source>入力した文字列が含まれるスキル名のみを表示します{f801}</source>
