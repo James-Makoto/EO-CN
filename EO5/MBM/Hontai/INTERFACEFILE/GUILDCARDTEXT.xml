@@ -41,15 +41,15 @@
   </entry>
   <entry id="10">
     <source>ギルドに登録しますか?{f801}</source>
-    <target>要登录到公会吗?{f801}</target>
+    <target>要注册到公会吗?{f801}</target>
   </entry>
   <entry id="11">
     <source>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか。{f801}</source>
-    <target>要使用20枚游戏硬币{f801}来登录这个角色到公会中吗?{f801}</target>
+    <target>要使用20枚游戏硬币{f801}来注册这个角色到公会中吗?{f801}</target>
   </entry>
   <entry id="12">
     <source>ギルドに登録しました。{f801}</source>
-    <target>已登录到公会中。{f801}</target>
+    <target>已注册到公会中。{f801}</target>
   </entry>
   <entry id="13">
     <source>不適切な内容です。{f801}もう一度、入力してください。{f801}</source>

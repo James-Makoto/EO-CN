@@ -141,7 +141,7 @@
   </entry>
   <entry id="36">
     <source>しかし{f811}{0000}の体勢が{f801}崩れているため発動できなかった!{f801}</source>
-    <target>しかし{f811}{0000}の体勢が{f801}崩れているため発動できなかった!{f801}</target>
+    <target>然而由于{f811}{0000}摆好的架势被打乱，{f801}因此无法发动！{f801}</target>
   </entry>
   <entry id="37">
     <source>モンスターの群れ{f801}</source>
@@ -365,15 +365,15 @@
   </entry>
   <entry id="92">
     <source>{f811}{0100}は{f801}崩壊した!{f801}</source>
-    <target>{f811}{0100}は{f801}崩壊した!{f801}</target>
+    <target>{f811}{0100}{f801}崩溃了！{f801}</target>
   </entry>
   <entry id="93">
     <source>{f811}{0000}は{f801}{f811}{0100}を設置した!{f801}</source>
-    <target>{f811}{0000}は{f801}{f811}{0100}を設置した!{f801}</target>
+    <target>{f811}{0000}{f801}设置了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="94">
     <source>{f811}{0000}は{f801}地面に潜った!{f801}</source>
-    <target>{f811}{0000}は{f801}地面に潜った!{f801}</target>
+    <target>{f811}{0000}{f801}钻进了地底！{f801}</target>
   </entry>
   <entry id="95">
     <source>{f811}{0100}の{f801}クリティカル率が低下した!{f801}</source>
@@ -425,7 +425,7 @@
   </entry>
   <entry id="107">
     <source>{f811}{0100}は死亡した!{f801}</source>
-    <target>{f811}{0100}は死亡した!{f801}</target>
+    <target>{f811}{0100}死亡了！{f801}</target>
   </entry>
   <entry id="108">
     <source>{f811}{0000}は、行動を{f801}さえぎられて動けない!{f801}</source>
@@ -433,7 +433,7 @@
   </entry>
   <entry id="109">
     <source>{f811}{0100}は{f801}去っていった!{f801}</source>
-    <target>{f811}{0100}は{f801}去っていった!{f801}</target>
+    <target>{f811}{0100}{f801}离开了！{f801}</target>
   </entry>
   <entry id="110">
     <source>{f811}{0100}の最大HPが{f801}{f811}{0200}減った!{f801}</source>
@@ -441,7 +441,7 @@
   </entry>
   <entry id="111">
     <source>{f811}{0000}は{f801}地面から這いだした!{f801}</source>
-    <target>{f811}{0000}は{f801}地面から這いだした!{f801}</target>
+    <target>{f811}{0000}{f801}从地底钻出来了！{f801}</target>
   </entry>
   <entry id="112">
     <source>{f811}{0100}と{f811}{0200}は{f801}合体して{f811}{0000}になった!{f801}</source>
@@ -457,7 +457,7 @@
   </entry>
   <entry id="115">
     <source>しかし、{f811}{0000}は{f801}設置できなかった!{f801}</source>
-    <target>しかし、{f811}{0000}は{f801}設置できなかった!{f801}</target>
+    <target>{f811}{0000}{f801}未能设置成功！{f801}</target>
   </entry>
   <entry id="116">
     <source>{f811}{0000}は{f801}入れ替われなかった!{f801}</source>
@@ -473,11 +473,11 @@
   </entry>
   <entry id="119">
     <source>{f811}{0100}は{f801}{f811}{0200}の付着率が上昇した!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0200}の付着率が上昇した!{f801}</target>
+    <target>{f811}{0100}{f801}{f811}{0200}的附着率提升!{f801}</target>
   </entry>
   <entry id="120">
     <source>{f811}{0000}は{f811}{0300}の{f801}砲撃体勢に入った!{f801}</source>
-    <target>{f811}{0000}は{f811}{0300}の{f801}砲撃体勢に入った!{f801}</target>
+    <target>{f811}{0000}进入了{f801}{f811}{0300}的炮击姿势！{f801}</target>
   </entry>
   <entry id="121">
     <source>盾を構え{f801}敵の攻撃に備えた!{f801}</source>
@@ -501,7 +501,7 @@
   </entry>
   <entry id="126">
     <source>{f811}{0000}は{f801}消滅した!{f801}</source>
-    <target>{f811}{0000}は{f801}消滅した!{f801}</target>
+    <target>{f811}{0000}{f801}消失了！{f801}</target>
   </entry>
   <entry id="127">
     <source>{f811}{0000}から{f801}{f811}{0100}が現れた!{f801}</source>
@@ -529,7 +529,7 @@
   </entry>
   <entry id="133">
     <source>{f811}{0000}は{f801}攻撃に備えた!{f801}</source>
-    <target>{f811}{0000}は{f801}攻撃に備えた!{f801}</target>
+    <target>{f811}{0000}{f801}做好了攻击的准备！{f801}</target>
   </entry>
   <entry id="134">
     <source>しかし、{f811}{0100}は{f801}その効果を受けている…{f801}</source>
@@ -697,7 +697,7 @@
   </entry>
   <entry id="175">
     <source>{f811}{0100}の{f801}攻撃力と命中率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力と命中率が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}攻击力和命中率提升！{f801}</target>
   </entry>
   <entry id="176">
     <source>{f811}{0000}は、最後の力で{f801}{f811}{0300}を使った!{f801}</source>
@@ -705,7 +705,7 @@
   </entry>
   <entry id="177">
     <source>{f811}{0000}は、{f801}{f811}{0100}に憑依した!{f801}</source>
-    <target>{f811}{0000}は、{f801}{f811}{0100}に憑依した!{f801}</target>
+    <target>{f811}{0000}{f801}附身在了{f811}{0100}身上！{f801}</target>
   </entry>
   <entry id="178">
     <source>{f811}{0000}は{f801}輝きを増している!{f801}</source>
@@ -713,11 +713,11 @@
   </entry>
   <entry id="179">
     <source>{f811}{0100}の{f801}攻撃力が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}攻击力提升！{f801}</target>
   </entry>
   <entry id="180">
     <source>{f811}{0100}の{f801}防御力が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}防御力が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}防御力提升！{f801}</target>
   </entry>
   <entry id="181">
     <source>{f811}{0000}の{f801}耐性が上がった!{f801}</source>
