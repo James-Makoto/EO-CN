@@ -2117,7 +2117,7 @@ msgstr "僵硬之躯"
 
 msgctxt "526"
 msgid "白いプラズマ"
-msgstr "白色等离子体"
+msgstr "白色胞浆"
 
 msgctxt "527"
 msgid "猛毒の息"
@@ -2145,7 +2145,7 @@ msgstr "音速斩"
 
 msgctxt "533"
 msgid "赤いプラズマ"
-msgstr "红色等离子体"
+msgstr "红色胞浆"
 
 msgctxt "534"
 msgid "断末魔の叫び"
