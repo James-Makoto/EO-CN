@@ -41,7 +41,7 @@
   </entry>
   <entry id="11">
     <source>『{f811}{0000}』を休養させますか?{f801}</source>
-    <target>要让『{f811}{0000}』修养吗?{f801}</target>
+    <target>要让『{f811}{0000}』休养吗?{f801}</target>
   </entry>
   <entry id="12">
     <source>本当に休養させてもいいですか?{f801}</source>
@@ -85,7 +85,7 @@
   </entry>
   <entry id="22">
     <source>『{f811}{0000}』は{f801}休養しました{f801}</source>
-    <target>『{f811}{0000}』已修养。{f801}</target>
+    <target>『{f811}{0000}』已休养。{f801}</target>
   </entry>
   <entry id="23">
     <source>『{f811}{0000}』を{f801}抹消しました{f801}</source>
@@ -193,6 +193,6 @@
   </entry>
   <entry id="53">
     <source>{f840}メンバーの{f801}転職・休養ができます{f801}</source>
-    <target>可对{f840}成员{f801}进行转职、修养的操作。</target>
+    <target>可对{f840}成员{f801}进行转职、休养的操作。</target>
   </entry>
 </mbm>
