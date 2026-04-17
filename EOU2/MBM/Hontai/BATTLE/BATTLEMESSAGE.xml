@@ -1673,7 +1673,7 @@
   </entry>
   <entry id="498">
     <source>{f811}{0000}は{f801}{f811}{0200}をとった!{f801}</source>
-    <target>{f811}{0000}{f801}抓住了{f811}{0200}！{f801}</target>
+    <target>{f811}{0000}{f801}施展了{f811}{0200}！{f801}</target>
   </entry>
   <entry id="499">
     <source>{f811}{0000}は{f801}天高く矢を放った!{f801}</source>
@@ -2233,7 +2233,7 @@
   </entry>
   <entry id="647">
     <source>{f811}{0000}は{f801}{f811}{0300}をとった!{f801}</source>
-    <target>{f811}{0000}{f801}抓住了{f811}{0300}！{f801}</target>
+    <target>{f811}{0000}{f801}施展了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="648">
     <source>{f811}{0100}効果で先手をとった!{f801}</source>
