@@ -33,7 +33,7 @@ msgstr "突刺短剑"
 
 msgctxt "5"
 msgid "ボアスピアソード"
-msgstr "猪牙剑"
+msgstr "猪矛剑"
 
 msgctxt "6"
 msgid "コラ"
