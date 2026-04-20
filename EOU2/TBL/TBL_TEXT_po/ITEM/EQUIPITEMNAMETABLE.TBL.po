@@ -1337,7 +1337,7 @@ msgstr "短柄锥枪"
 
 msgctxt "331"
 msgid "ホルカンカ"
-msgstr "兽骨长矛"
+msgstr "黑曜石长枪"
 
 msgctxt "332"
 msgid "大身槍"
