@@ -33,7 +33,7 @@ msgstr "突刺短剑"
 
 msgctxt "5"
 msgid "ボアスピアソード"
-msgstr "猪牙剑"
+msgstr "猪矛剑"
 
 msgctxt "6"
 msgid "コラ"
@@ -1337,7 +1337,7 @@ msgstr "短柄锥枪"
 
 msgctxt "331"
 msgid "ホルカンカ"
-msgstr "兽骨长矛"
+msgstr "黑曜石长枪"
 
 msgctxt "332"
 msgid "大身槍"
