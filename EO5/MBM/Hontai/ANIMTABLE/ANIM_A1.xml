@@ -1,38 +1,38 @@
 <mbm>
   <entry id="1">
     <source>この樹海の美しい木々の向こうには{f801}</source>
-    <target>この樹海の美しい木々の向こうには{f801}</target>
+    <target>这片树海美丽林木的彼端{f801}</target>
   </entry>
   <entry id="2">
     <source>魔法の石像があると言う{f801}</source>
-    <target>魔法の石像があると言う{f801}</target>
+    <target>听说有个魔法石像{f801}</target>
   </entry>
   <entry id="3">
     <source>その石像は人々を惑わせ{f801}</source>
-    <target>その石像は人々を惑わせ{f801}</target>
+    <target>据说那尊石像会迷惑人们{f801}</target>
   </entry>
   <entry id="4">
     <source>行く手を遮ると言われている{f801}</source>
-    <target>行く手を遮ると言われている{f801}</target>
+    <target>阻挡人们前行{f801}</target>
   </entry>
   <entry id="5">
     <source>今日もまた樹海へ挑む冒険者たちの前に{f801}</source>
-    <target>今日もまた樹海へ挑む冒険者たちの前に{f801}</target>
+    <target>今天 挑战树海的冒险者们{f801}</target>
   </entry>
   <entry id="6">
     <source>物言わぬ小さな石像たちが 立ち塞がる{f801}</source>
-    <target>物言わぬ小さな石像たちが 立ち塞がる{f801}</target>
+    <target>又被沉默的小石像们挡住了去路{f801}</target>
   </entry>
   <entry id="7">
     <source>でも 私は思うのだ{f801}</source>
-    <target>でも 私は思うのだ{f801}</target>
+    <target>然而 我却这么想{f801}</target>
   </entry>
   <entry id="8">
     <source>石像はいつもジッとその場に立っているだけ{f801}</source>
-    <target>石像はいつもジッとその場に立っているだけ{f801}</target>
+    <target>石像只是静静地立在原地{f801}</target>
   </entry>
   <entry id="9">
     <source>惑いは人にあり 石像にはないのではと{f801}</source>
-    <target>惑いは人にあり 石像にはないのではと{f801}</target>
+    <target>困惑在人 而非石像</target>
   </entry>
 </mbm>
