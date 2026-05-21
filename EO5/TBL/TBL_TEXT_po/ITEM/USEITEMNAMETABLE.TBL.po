@@ -2029,7 +2029,7 @@ msgstr "树海的土壤"
 
 msgctxt "504"
 msgid "樹海鵜"
-msgstr "树海鱼鹰"
+msgstr "树海鸬鹚"
 
 msgctxt "505"
 msgid "重いツルハシ"
