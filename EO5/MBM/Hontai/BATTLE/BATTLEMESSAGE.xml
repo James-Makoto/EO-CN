@@ -361,7 +361,7 @@
   </entry>
   <entry id="91">
     <source>{f811}{0100}の肉体に{f801}力がみなぎっていく…{f801}</source>
-    <target>{f811}{0100}的肉体{f801}开始源源不断地涌出力量……{f801}</target>
+    <target>{f811}{0100}的肉体{f801}开始源源不绝地涌出力量……{f801}</target>
   </entry>
   <entry id="92">
     <source>{f811}{0100}は{f801}崩壊した!{f801}</source>
@@ -473,7 +473,7 @@
   </entry>
   <entry id="119">
     <source>{f811}{0100}は{f801}{f811}{0200}の付着率が上昇した!{f801}</source>
-    <target>{f811}{0100}{f801}{f811}{0200}的附着率提升！{f801}</target>
+    <target>{f811}{0100}将{f801}{f811}{0200}的附着率提升了！{f801}</target>
   </entry>
   <entry id="120">
     <source>{f811}{0000}は{f811}{0300}の{f801}砲撃体勢に入った!{f801}</source>
@@ -1057,7 +1057,7 @@
   </entry>
   <entry id="268">
     <source>コストカット発動!{f801}</source>
-    <target>コストカット発動！{f801}</target>
+    <target>コストカット发动！{f801}</target>
   </entry>
   <entry id="269">
     <source>{f811}{0000}は{f801}周囲に瘴気をまき散らした!{f801}</source>
@@ -1533,7 +1533,7 @@
   </entry>
   <entry id="453">
     <source>冒険者達に{f801}力がみなぎっていく・・・{f801}</source>
-    <target>冒险者们开始{f801}源源不断地涌出力量・・・{f801}</target>
+    <target>冒险者们开始{f801}源源不绝地涌出力量・・・{f801}</target>
   </entry>
   <entry id="454">
     <source>冒険者達の{f801}攻撃力が上昇した!{f801}</source>
@@ -1577,7 +1577,7 @@
   </entry>
   <entry id="465">
     <source>エレメントデコイは{f801}攻撃を無効化した!{f801}</source>
-    <target>エレメントデコイは{f801}攻撃を無効化した！{f801}</target>
+    <target>因为エレメントデコイ{f801}免疫了攻击！{f801}</target>
   </entry>
   <entry id="466">
     <source>{f811}{0100}は{f801}{f811}{0300}を無効化した!{f801}</source>
@@ -2245,7 +2245,7 @@
   </entry>
   <entry id="662">
     <source>{f811}{0100}の{f801}魔法属性耐性が低下した!{f801}</source>
-    <target>{f811}{0100}的{f801}魔法属性耐性下降！{f801}</target>
+    <target>{f811}{0100}的{f801}魔法属性抗性下降！{f801}</target>
   </entry>
   <entry id="663">
     <source>すべての耐性が低下した!{f801}</source>
@@ -2413,7 +2413,7 @@
   </entry>
   <entry id="705">
     <source>瘴気が誘爆した!{f801}</source>
-    <target>瘴气被引发了连锁爆炸！{f801}</target>
+    <target>瘴气引发了连锁爆炸！{f801}</target>
   </entry>
   <entry id="706">
     <source>竜の咆哮とともに瘴気が満ちた!{f801}</source>
@@ -2421,7 +2421,7 @@
   </entry>
   <entry id="707">
     <source>ダークヒール発動!{f801}</source>
-    <target>ダークヒール発動！{f801}</target>
+    <target>ダークヒール发动！{f801}</target>
   </entry>
   <entry id="708">
     <source>瘴気が晴れた!{f801}</source>
@@ -2433,151 +2433,151 @@
   </entry>
   <entry id="710">
     <source>ミラーアイアイは{f801}猿走高飛を使った!{f801}</source>
-    <target>ミラーアイアイは{f801}猿走高飛を使った！{f801}</target>
+    <target>镜像指猴{f801}使用了猿走高飛！{f801}</target>
   </entry>
   <entry id="711">
     <source>反骨の針雀から{f801}無数の針が飛び出した!{f801}</source>
-    <target>反骨の針雀から{f801}無数の針が飛び出した！{f801}</target>
+    <target>从反骨针雀身上{f801}射出了无数的针！{f801}</target>
   </entry>
   <entry id="712">
     <source>{f811}{0100}の{f801}攻撃力と防御力と命中率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力と防御力と命中率が上昇した！{f801}</target>
+    <target>{f811}{0100}的{f801}攻击力、防御力和命中率提升！{f801}</target>
   </entry>
   <entry id="713">
     <source>攻撃しようとしたが{f801}デッドソードマンが居なかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}デッドソードマンが居なかった！{f801}</target>
+    <target>试图发起攻击，{f801}可是没有亡骸剑士在！{f801}</target>
   </entry>
   <entry id="714">
     <source>攻撃しようとしたが{f801}デッドボウマンが居なかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}デッドボウマンが居なかった！{f801}</target>
+    <target>试图发起攻击，{f801}可是没有亡骸弓手在！{f801}</target>
   </entry>
   <entry id="715">
     <source>{f811}{0100}の空蝉の衣が{f801}解除された!!{f801}</source>
-    <target>{f811}{0100}の空蝉の衣が{f801}解除された！！{f801}</target>
+    <target>{f811}{0100}的{f801}空蝉の衣解除了！！{f801}</target>
   </entry>
   <entry id="716">
     <source>{f811}{0000}は{f811}{0200}を{f801}生贄にしてモンスターを召喚した!{f801}</source>
-    <target>{f811}{0000}は{f811}{0200}を{f801}生贄にしてモンスターを召喚した！{f801}</target>
+    <target>{f811}{0000}将{f801}{f811}{0200}作为祭品，召唤了魔物！{f801}</target>
   </entry>
   <entry id="717">
     <source>グリムドッグの魂喰いが発動した!!{f801}</source>
-    <target>グリムドッグの魂喰いが発動した！！{f801}</target>
+    <target>冷酷猎犬的魂喰い发动了！！{f801}</target>
   </entry>
   <entry id="718">
     <source>星喰はロケットエンジンを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はロケットエンジンを修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复火箭引擎，{f801}然而火箭引擎并没有坏！！{f801}</target>
   </entry>
   <entry id="719">
     <source>星喰は機敏の光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰は機敏の光剣を修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复机敏的光剑，{f801}然而机敏的光剑并没有坏！！{f801}</target>
   </entry>
   <entry id="720">
     <source>星喰は大振りの光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰は大振りの光剣を修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复大抡的光剑，{f801}然而大抡的光剑并没有坏！！{f801}</target>
   </entry>
   <entry id="721">
     <source>星喰はサウンドカノンを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はサウンドカノンを修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复音波加农炮，{f801}然而音波加农炮并没有坏！！{f801}</target>
   </entry>
   <entry id="722">
     <source>星喰はエナジーチューブを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はエナジーチューブを修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复能量导管，{f801}然而能量导管并没有坏！！{f801}</target>
   </entry>
   <entry id="723">
     <source>星喰はボムズチャンバーを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はボムズチャンバーを修復しようとしたが、{f801}壊れていなかった！！{f801}</target>
+    <target>噬星者试图修复炸弹舱，{f801}然而炸弹舱并没有坏！！{f801}</target>
   </entry>
   <entry id="724">
     <source>{f811}{0100}の{f801}封じ、状態異常耐性が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}封じ、状態異常耐性が低下した！{f801}</target>
+    <target>{f811}{0100}的{f801}封印、异常状态抗性下降！{f801}</target>
   </entry>
   <entry id="725">
     <source>首刈りの断罪者は{f801}次の攻撃に備えている!{f801}</source>
-    <target>首刈りの断罪者は{f801}次の攻撃に備えている！{f801}</target>
+    <target>斩首的断罪者{f801}正在为下一次攻击做准备！{f801}</target>
   </entry>
   <entry id="726">
     <source>周囲に満ちた瘴気が体を蝕んだ!{f801}</source>
-    <target>周囲に満ちた瘴気が体を蝕んだ！{f801}</target>
+    <target>周围弥漫的瘴气侵蚀了身体！{f801}</target>
   </entry>
   <entry id="727">
     <source>幽冥なる原初の主は{f801}周囲の瘴気を吸い込んだ!{f801}</source>
-    <target>幽冥なる原初の主は{f801}周囲の瘴気を吸い込んだ！{f801}</target>
+    <target>幽冥的原始之主{f801}吸入了周围的瘴气！{f801}</target>
   </entry>
   <entry id="728">
     <source>星喰は{f801}ロケットエンジンを再生させた!{f801}</source>
-    <target>星喰は{f801}ロケットエンジンを再生させた！{f801}</target>
+    <target>噬星者{f801}修复了火箭引擎！{f801}</target>
   </entry>
   <entry id="729">
     <source>星喰は{f801}機敏の光剣を再生させた!{f801}</source>
-    <target>星喰は{f801}機敏の光剣を再生させた！{f801}</target>
+    <target>噬星者{f801}修复了机敏的光剑！{f801}</target>
   </entry>
   <entry id="730">
     <source>星喰は{f801}大振りの光剣を再生させた!{f801}</source>
-    <target>星喰は{f801}大振りの光剣を再生させた！{f801}</target>
+    <target>噬星者{f801}修复了大抡的光剑！{f801}</target>
   </entry>
   <entry id="731">
     <source>星喰は{f801}サウンドカノンを再生させた!{f801}</source>
-    <target>星喰は{f801}サウンドカノンを再生させた！{f801}</target>
+    <target>噬星者{f801}修复了音波加农炮！{f801}</target>
   </entry>
   <entry id="732">
     <source>星喰は{f801}エナジーチューブを再生させた!{f801}</source>
-    <target>星喰は{f801}エナジーチューブを再生させた！{f801}</target>
+    <target>噬星者{f801}修复了能量导管！{f801}</target>
   </entry>
   <entry id="733">
     <source>星喰は{f801}ボムズチャンバーを再生させた!{f801}</source>
-    <target>星喰は{f801}ボムズチャンバーを再生させた！{f801}</target>
+    <target>噬星者{f801}修复了炸弹舱！{f801}</target>
   </entry>
   <entry id="734">
     <source>ロケットエンジンは行動できない!{f801}</source>
-    <target>ロケットエンジンは行動できない！{f801}</target>
+    <target>火箭引擎无法行动！{f801}</target>
   </entry>
   <entry id="735">
     <source>機敏の光剣は行動できない!{f801}</source>
-    <target>機敏の光剣は行動できない！{f801}</target>
+    <target>机敏的光剑无法行动！{f801}</target>
   </entry>
   <entry id="736">
     <source>大振りの光剣は行動できない!{f801}</source>
-    <target>大振りの光剣は行動できない！{f801}</target>
+    <target>大抡的光剑无法行动！{f801}</target>
   </entry>
   <entry id="737">
     <source>サウンドカノンは行動できない!{f801}</source>
-    <target>サウンドカノンは行動できない！{f801}</target>
+    <target>音波加农炮无法行动！{f801}</target>
   </entry>
   <entry id="738">
     <source>エナジーチューブは行動できない!{f801}</source>
-    <target>エナジーチューブは行動できない！{f801}</target>
+    <target>能量导管无法行动！{f801}</target>
   </entry>
   <entry id="739">
     <source>ボムズチャンバーは行動できない!{f801}</source>
-    <target>ボムズチャンバーは行動できない！{f801}</target>
+    <target>炸弹舱无法行动！{f801}</target>
   </entry>
   <entry id="740">
     <source>{f811}{0100}は{f801}不思議な香りに包まれた!{f801}</source>
-    <target>{f811}{0100}は{f801}不思議な香りに包まれた！{f801}</target>
+    <target>{f811}{0100}{f801}被不可思议的香气包围了！{f801}</target>
   </entry>
   <entry id="741">
     <source>{f811}{0100}は{f801}ハーブの香りに包まれた!{f801}</source>
-    <target>{f811}{0100}は{f801}ハーブの香りに包まれた！{f801}</target>
+    <target>{f811}{0100}{f801}被香草的香气包围了！{f801}</target>
   </entry>
   <entry id="742">
     <source>ヒポグリフは{f801}ウイングシールドを解除した!{f801}</source>
-    <target>骏鹰は{f801}ウイングシールドを解除した！{f801}</target>
+    <target>骏鹰{f801}解除了ウイングシールド！{f801}</target>
   </entry>
   <entry id="743">
     <source>水晶竜は{f801}モードチェンジをした!{f801}</source>
-    <target>水晶竜は{f801}モードチェンジをした！{f801}</target>
+    <target>水晶龙{f801}进行了モードチェンジ！{f801}</target>
   </entry>
   <entry id="744">
     <source>星喰は{f801}エネルギーを充填した!{f801}</source>
-    <target>星喰は{f801}エネルギーを充填した！{f801}</target>
+    <target>噬星者{f801}进行了エネルギー充填！{f801}</target>
   </entry>
   <entry id="745">
     <source>星喰は{f801}強壮剤を注入した!{f801}</source>
-    <target>星喰は{f801}強壮剤を注入した！{f801}</target>
+    <target>噬星者{f801}注射了强壮剂！{f801}</target>
   </entry>
   <entry id="746">
     <source>星喰は{f801}硬化剤を注入した!{f801}</source>
-    <target>星喰は{f801}硬化剤を注入した！{f801}</target>
+    <target>噬星者{f801}注射了硬化剂！{f801}</target>
   </entry>
   <entry id="747">
     <source>万物を刈りしものは{f801}逆切れした!{f801}</source>
@@ -2593,14 +2593,14 @@
   </entry>
   <entry id="750">
     <source>ドリアードは形態を変化させた!{f801}</source>
-    <target>ドリアードは形態を変化させた！{f801}</target>
+    <target>德律阿得斯改变了形态！{f801}</target>
   </entry>
   <entry id="751">
     <source>{f811}{0100}はチェインスキルの{f801}追撃率と攻撃力を高めた!{f801}</source>
-    <target>{f811}{0100}はチェインスキルの{f801}追撃率と攻撃力を高めた！{f801}</target>
+    <target>{f811}{0100}提高了{f801}连携技能的追击率和攻击力！{f801}</target>
   </entry>
   <entry id="752">
     <source>{f811}{0100}は{f801}{f811}{0300}の効果で無効化した!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0300}の効果で無効化した！{f801}</target>
+    <target>{f811}{0100}{f801}将{f811}{0300}的效果无效了！{f801}</target>
   </entry>
 </mbm>
