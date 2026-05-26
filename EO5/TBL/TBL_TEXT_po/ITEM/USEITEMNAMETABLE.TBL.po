@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Etrian Odyssey IV\n"
 "Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
 "POT-Creation-Date: 2024/4/1\n"
-"PO-Revision-Date: 2026-03-31 20:53+0800\n"
+"PO-Revision-Date: 2026-05-11 21:28+0800\n"
 "Last-Translator: \n"
 "Language-Team: TraduSquare\n"
 "Language: es\n"
@@ -13,1607 +13,1607 @@ msgstr ""
 
 msgctxt "0"
 msgid "素材1"
-msgstr ""
+msgstr "素材1"
 
 msgctxt "1"
 msgid "硬質な殻斗"
-msgstr ""
+msgstr "硬质壳斗"
 
 msgctxt "2"
 msgid "割れた堅果"
-msgstr ""
+msgstr "裂开的坚果"
 
 msgctxt "3"
 msgid "棘付きのツタ"
-msgstr ""
+msgstr "带刺的藤蔓"
 
 msgctxt "4"
 msgid "フカフカな襟巻"
-msgstr ""
+msgstr "蓬松的围领"
 
 msgctxt "5"
 msgid "円錐形の重牙"
-msgstr ""
+msgstr "圆锥形重牙"
 
 msgctxt "6"
 msgid "冷たい翼膜"
-msgstr ""
+msgstr "冰冷的翼膜"
 
 msgctxt "7"
 msgid "突き落とされた牙"
-msgstr ""
+msgstr "被刺下的牙"
 
 msgctxt "8"
 msgid "重厚な石突き"
-msgstr ""
+msgstr "厚重的蘑菇根"
 
 msgctxt "9"
 msgid "欠けた亀甲羅"
-msgstr ""
+msgstr "残缺的龟甲"
 
 msgctxt "10"
 msgid "焼入れられた甲羅"
-msgstr ""
+msgstr "淬火过的甲壳"
 
 msgctxt "11"
 msgid "枝分かれした牙"
-msgstr ""
+msgstr "分叉的牙"
 
 msgctxt "12"
 msgid "ブヨブヨの表皮"
-msgstr ""
+msgstr "软塌塌的表皮"
 
 msgctxt "13"
 msgid "素材14"
-msgstr ""
+msgstr "素材14"
 
 msgctxt "14"
 msgid "曲がった爪"
-msgstr ""
+msgstr "弯曲的爪"
 
 msgctxt "15"
 msgid "鋼質な兎牙"
-msgstr ""
+msgstr "钢质兔牙"
 
 msgctxt "16"
 msgid "太いツタ"
-msgstr ""
+msgstr "粗壮的藤蔓"
 
 msgctxt "17"
 msgid "封じられたツタ"
-msgstr ""
+msgstr "被封印的藤蔓"
 
 msgctxt "18"
 msgid "芋虫の鉄角"
-msgstr ""
+msgstr "毛虫的铁角"
 
 msgctxt "19"
 msgid "熊鳥の羽根"
-msgstr ""
+msgstr "熊鸟的羽毛"
 
 msgctxt "20"
 msgid "真紅の頭胸甲"
-msgstr ""
+msgstr "真红的头胸甲"
 
 msgctxt "21"
 msgid "切り落とされた鋏"
-msgstr ""
+msgstr "被斩下的螯钳"
 
 msgctxt "22"
 msgid "薄茶色の翅"
-msgstr ""
+msgstr "淡茶色的翅膀"
 
 msgctxt "23"
 msgid "子猫の三角耳"
-msgstr ""
+msgstr "小猫的三角耳"
 
 msgctxt "24"
 msgid "警戒鳥の尾羽"
-msgstr ""
+msgstr "警戒鸟的尾羽"
 
 msgctxt "25"
 msgid "折れた鋭爪"
-msgstr ""
+msgstr "折断的锐爪"
 
 msgctxt "26"
 msgid "ネズミの尾棘"
-msgstr ""
+msgstr "鼠尾的棘刺"
 
 msgctxt "27"
 msgid "曲がった電気角"
-msgstr ""
+msgstr "弯曲的电气角"
 
 msgctxt "28"
 msgid "プリンの核"
-msgstr ""
+msgstr "布丁的核"
 
 msgctxt "29"
 msgid "毒々しいプリン"
-msgstr ""
+msgstr "布丁的核"
 
 msgctxt "30"
 msgid "欠けた山羊角"
-msgstr ""
+msgstr "缺损的山羊角"
 
 msgctxt "31"
 msgid "封じられた蹄"
-msgstr ""
+msgstr "被封印的蹄"
 
 msgctxt "32"
 msgid "浮遊魚の尾ヒレ"
-msgstr ""
+msgstr "浮游鱼的尾鳍"
 
 msgctxt "33"
 msgid "冠羽鳥の片翼"
-msgstr ""
+msgstr "冠羽鸟的单翼"
 
 msgctxt "34"
 msgid "オウムの王冠"
-msgstr ""
+msgstr "鹦鹉的王冠"
 
 msgctxt "35"
 msgid "電気を帯びた嘴"
-msgstr ""
+msgstr "带电的喙"
 
 msgctxt "36"
 msgid "巨大な腕骨"
-msgstr ""
+msgstr "巨大的腕骨"
 
 msgctxt "37"
 msgid "焦げた胸袋"
-msgstr ""
+msgstr "烧焦的胸袋"
 
 msgctxt "38"
 msgid "猛犬の下顎"
-msgstr ""
+msgstr "猛犬的下颚"
 
 msgctxt "39"
 msgid "黒ずんだ鉤爪"
-msgstr ""
+msgstr "发黑的钩爪"
 
 msgctxt "40"
 msgid "鋭利な大鋏"
-msgstr ""
+msgstr "锋利的大螯"
 
 msgctxt "41"
 msgid "石化した結晶"
-msgstr ""
+msgstr "石化的结晶"
 
 msgctxt "42"
 msgid "首長獣の体毛"
-msgstr ""
+msgstr "长颈兽的体毛"
 
 msgctxt "43"
 msgid "テングの長鼻"
-msgstr ""
+msgstr "天狗的长鼻"
 
 msgctxt "44"
 msgid "プニプニの足"
-msgstr ""
+msgstr "软弹弹的足"
 
 msgctxt "45"
 msgid "浮き頭頂骨"
-msgstr ""
+msgstr "漂浮的天灵盖"
 
 msgctxt "46"
 msgid "薄汚れた矢筒"
-msgstr ""
+msgstr "脏兮兮的箭筒"
 
 msgctxt "47"
 msgid "犀利な外輪"
-msgstr ""
+msgstr "犀利的轮箍"
 
 msgctxt "48"
 msgid "伸縮する腕蔓"
-msgstr ""
+msgstr "伸缩的腕蔓"
 
 msgctxt "49"
 msgid "腐犬のあばら"
-msgstr ""
+msgstr "腐犬的肋骨"
 
 msgctxt "50"
 msgid "困惑の頭針"
-msgstr ""
+msgstr "困惑的头针"
 
 msgctxt "51"
 msgid "黒い巨尾"
-msgstr ""
+msgstr "黑色的巨尾"
 
 msgctxt "52"
 msgid "壊死した巨指"
-msgstr ""
+msgstr "坏死的巨指"
 
 msgctxt "53"
 msgid "真白の袋"
-msgstr ""
+msgstr "纯白的袋"
 
 msgctxt "54"
 msgid "強靭な飛膜"
-msgstr ""
+msgstr "强韧的飞膜"
 
 msgctxt "55"
 msgid "吸血鬼の冠"
-msgstr ""
+msgstr "吸血鬼之冠"
 
 msgctxt "56"
 msgid "封じられた魔石"
-msgstr ""
+msgstr "被封印的魔石"
 
 msgctxt "57"
 msgid "ドクロの黒角"
-msgstr ""
+msgstr "骷髅的黑角"
 
 msgctxt "58"
 msgid "凍結した魂"
-msgstr ""
+msgstr "冻结的灵魂"
 
 msgctxt "59"
 msgid "空虚な棺"
-msgstr ""
+msgstr "空虚的棺木"
 
 msgctxt "60"
 msgid "錆びた剣"
-msgstr ""
+msgstr "生锈的剑"
 
 msgctxt "61"
 msgid "幻影の布"
-msgstr ""
+msgstr "幻影之布"
 
 msgctxt "62"
 msgid "漆黒の鎧板"
-msgstr ""
+msgstr "漆黑的铠板"
 
 msgctxt "63"
 msgid "燃え尽きた肩当て"
-msgstr ""
+msgstr "燃尽的肩甲"
 
 msgctxt "64"
 msgid "歪な雷石"
-msgstr ""
+msgstr "扭曲的雷石"
 
 msgctxt "65"
 msgid "痺れた糖核"
-msgstr ""
+msgstr "麻痹的糖核"
 
 msgctxt "66"
 msgid "コウモリの突牙"
-msgstr ""
+msgstr "蝙蝠的突牙"
 
 msgctxt "67"
 msgid "モチモチの蛭皮"
-msgstr ""
+msgstr "糯韧的蛭皮"
 
 msgctxt "68"
 msgid "刃こぼれした刀身"
-msgstr ""
+msgstr "卷刃的刀身"
 
 msgctxt "69"
 msgid "尖鋭な王爪"
-msgstr ""
+msgstr "尖锐的王爪"
 
 msgctxt "70"
 msgid "半透明な紅殻"
-msgstr ""
+msgstr "半透明的红壳"
 
 msgctxt "71"
 msgid "淀んだ結晶"
-msgstr ""
+msgstr "浑浊的结晶"
 
 msgctxt "72"
 msgid "猛獣の腕膜"
-msgstr ""
+msgstr "猛兽的腕膜"
 
 msgctxt "73"
 msgid "棘つきの肩甲"
-msgstr ""
+msgstr "带刺的肩甲"
 
 msgctxt "74"
 msgid "斬り飛んだ刃先"
-msgstr ""
+msgstr "被斩飞的刃尖"
 
 msgctxt "75"
 msgid "深紅の鶏冠"
-msgstr ""
+msgstr "深红的鸡冠"
 
 msgctxt "76"
 msgid "虚蝉の赤翅"
-msgstr ""
+msgstr "虚蝉的红翅"
 
 msgctxt "77"
 msgid "鳴らないサイレン"
-msgstr ""
+msgstr "不响的警笛"
 
 msgctxt "78"
 msgid "蒼色の水晶核"
-msgstr ""
+msgstr "苍蓝的水晶核"
 
 msgctxt "79"
 msgid "鈍色の鉄塊"
-msgstr ""
+msgstr "暗灰色的铁块"
 
 msgctxt "80"
 msgid "トカゲのしっぽ"
-msgstr ""
+msgstr "蜥蜴的尾巴"
 
 msgctxt "81"
 msgid "凍てつく放熱翼"
-msgstr ""
+msgstr "冰结的散热翼"
 
 msgctxt "82"
 msgid "強剛な甲羅"
-msgstr ""
+msgstr "强刚的甲壳"
 
 msgctxt "83"
 msgid "巨虫の爪針"
-msgstr ""
+msgstr "巨虫的爪针"
 
 msgctxt "84"
 msgid "双頭獣の毛皮"
-msgstr ""
+msgstr "双头兽的毛皮"
 
 msgctxt "85"
 msgid "魔獣の雷爪"
-msgstr ""
+msgstr "魔兽的雷爪"
 
 msgctxt "86"
 msgid "黒白の節足"
-msgstr ""
+msgstr "黑白的节足"
 
 msgctxt "87"
 msgid "モコモコの尻尾"
-msgstr ""
+msgstr "毛茸茸的尾巴"
 
 msgctxt "88"
 msgid "頑強な鉄殻"
-msgstr ""
+msgstr "顽强的铁壳"
 
 msgctxt "89"
 msgid "剣虫の細枝"
-msgstr ""
+msgstr "剑虫的细枝"
 
 msgctxt "90"
 msgid "焼け焦げた葉刃"
-msgstr ""
+msgstr "烧焦的叶刃"
 
 msgctxt "91"
 msgid "赤猫の掌球"
-msgstr ""
+msgstr "红猫的掌球"
 
 msgctxt "92"
 msgid "石製の獣耳"
-msgstr ""
+msgstr "石制的兽耳"
 
 msgctxt "93"
 msgid "封じられた石脚"
-msgstr ""
+msgstr "被封印的石脚"
 
 msgctxt "94"
 msgid "黒山羊の禍角"
-msgstr ""
+msgstr "黑山羊的祸角"
 
 msgctxt "95"
 msgid "猛々しい猪牙"
-msgstr ""
+msgstr "凶猛的野猪牙"
 
 msgctxt "96"
 msgid "火蟻の鋭顎"
-msgstr ""
+msgstr "火蚁的锐颚"
 
 msgctxt "97"
 msgid "柔らかな黄核"
-msgstr ""
+msgstr "柔软的黄核"
 
 msgctxt "98"
 msgid "穴あきプリン"
-msgstr ""
+msgstr "带孔的布丁"
 
 msgctxt "99"
 msgid "石人形の破片"
-msgstr ""
+msgstr "石人偶的碎片"
 
 msgctxt "100"
 msgid "鮮血の大鎌"
-msgstr ""
+msgstr "鲜血的大镰"
 
 msgctxt "101"
 msgid "眠れる鎌姫の翅"
-msgstr ""
+msgstr "沉睡镰姬的翅膀"
 
 msgctxt "102"
 msgid "ひび入りの針棘"
-msgstr ""
+msgstr "有裂痕的针棘"
 
 msgctxt "103"
 msgid "悪魔の毛皮"
-msgstr ""
+msgstr "恶魔的毛皮"
 
 msgctxt "104"
 msgid "呪殺の魔爪"
-msgstr ""
+msgstr "咒杀的魔爪"
 
 msgctxt "105"
 msgid "魔人の腕突板"
-msgstr ""
+msgstr "魔人的腕突板"
 
 msgctxt "106"
 msgid "フサフサの獄尾"
-msgstr ""
+msgstr "蓬松的狱尾"
 
 msgctxt "107"
 msgid "落ちた星屑"
-msgstr ""
+msgstr "坠落的星尘"
 
 msgctxt "108"
 msgid "一撃の糖星"
-msgstr ""
+msgstr "一击的糖星"
 
 msgctxt "109"
 msgid "平たい触手"
-msgstr ""
+msgstr "扁平的触手"
 
 msgctxt "110"
 msgid "宙魚の軟骨"
-msgstr ""
+msgstr "宙鱼的软骨"
 
 msgctxt "111"
 msgid "小悪魔の鋭翼"
-msgstr ""
+msgstr "小恶魔的锐翼"
 
 msgctxt "112"
 msgid "昏迷の紅珠"
-msgstr ""
+msgstr "昏迷的红珠"
 
 msgctxt "113"
 msgid "三頭獣の犬歯"
-msgstr ""
+msgstr "三头兽的犬齿"
 
 msgctxt "114"
 msgid "獄蝉の双翅"
-msgstr ""
+msgstr "狱蝉的双翅"
 
 msgctxt "115"
 msgid "完封の魔針"
-msgstr ""
+msgstr "完封的魔针"
 
 msgctxt "116"
 msgid "硬質な嘴"
-msgstr ""
+msgstr "硬质的喙"
 
 msgctxt "117"
 msgid "研がれた鉤爪"
-msgstr ""
+msgstr "磨利的钩爪"
 
 msgctxt "118"
 msgid "禍々しい杖剣"
-msgstr ""
+msgstr "不祥的杖剑"
 
 msgctxt "119"
 msgid "充足の魔力晶"
-msgstr ""
+msgstr "充能的魔力晶"
 
 msgctxt "120"
 msgid "湾曲した肩部"
-msgstr ""
+msgstr "弯曲的肩部"
 
 msgctxt "121"
 msgid "ひしゃげた紐腕"
-msgstr ""
+msgstr "压扁的纽臂"
 
 msgctxt "122"
 msgid "漆黒の歪角"
-msgstr ""
+msgstr "漆黑的歪角"
 
 msgctxt "123"
 msgid "狂逸の魔指"
-msgstr ""
+msgstr "狂逸的魔指"
 
 msgctxt "124"
 msgid "悪夢の後髪"
-msgstr ""
+msgstr "噩梦的后发"
 
 msgctxt "125"
 msgid "タプタプの筒腕"
-msgstr ""
+msgstr "晃荡的筒腕"
 
 msgctxt "126"
 msgid "硬化した角芯"
-msgstr ""
+msgstr "硬化的角芯"
 
 msgctxt "127"
 msgid "ゲル質の美脚"
-msgstr ""
+msgstr "凝胶质的美腿"
 
 msgctxt "128"
 msgid "ひずみの球核"
-msgstr ""
+msgstr "扭曲的球核"
 
 msgctxt "129"
 msgid "迷彩犬の大牙"
-msgstr ""
+msgstr "迷彩犬的大牙"
 
 msgctxt "130"
 msgid "騎虫の大盾"
-msgstr ""
+msgstr "骑虫的大盾"
 
 msgctxt "131"
 msgid "炎獣の曲角"
-msgstr ""
+msgstr "炎兽的曲角"
 
 msgctxt "132"
 msgid "封じられし尻尾"
-msgstr ""
+msgstr "被封印的尾巴"
 
 msgctxt "133"
 msgid "弧状の輪刃"
-msgstr ""
+msgstr "弧状的轮刃"
 
 msgctxt "134"
 msgid "盲目の目玉"
-msgstr ""
+msgstr "盲目的眼球"
 
 msgctxt "135"
 msgid "魔虫の尾針"
-msgstr ""
+msgstr "魔虫的尾针"
 
 msgctxt "136"
 msgid "痺れた虫皮"
-msgstr ""
+msgstr "麻痹的虫皮"
 
 msgctxt "137"
 msgid "厄像の金属球"
-msgstr ""
+msgstr "厄像的金属球"
 
 msgctxt "138"
 msgid "素材139"
-msgstr ""
+msgstr "素材139"
 
 msgctxt "139"
 msgid "素材140"
-msgstr ""
+msgstr "素材140"
 
 msgctxt "140"
 msgid "素材141"
-msgstr ""
+msgstr "素材141"
 
 msgctxt "141"
 msgid "素材142"
-msgstr ""
+msgstr "素材142"
 
 msgctxt "142"
 msgid "素材143"
-msgstr ""
+msgstr "素材143"
 
 msgctxt "143"
 msgid "素材144"
-msgstr ""
+msgstr "素材144"
 
 msgctxt "144"
 msgid "素材145"
-msgstr ""
+msgstr "素材145"
 
 msgctxt "145"
 msgid "素材146"
-msgstr ""
+msgstr "素材146"
 
 msgctxt "146"
 msgid "素材147"
-msgstr ""
+msgstr "素材147"
 
 msgctxt "147"
 msgid "素材148"
-msgstr ""
+msgstr "素材148"
 
 msgctxt "148"
 msgid "素材149"
-msgstr ""
+msgstr "素材149"
 
 msgctxt "149"
 msgid "素材150"
-msgstr ""
+msgstr "素材150"
 
 msgctxt "150"
 msgid "素材151"
-msgstr ""
+msgstr "素材151"
 
 msgctxt "151"
 msgid "素材152"
-msgstr ""
+msgstr "素材152"
 
 msgctxt "152"
 msgid "素材153"
-msgstr ""
+msgstr "素材153"
 
 msgctxt "153"
 msgid "素材154"
-msgstr ""
+msgstr "素材154"
 
 msgctxt "154"
 msgid "素材155"
-msgstr ""
+msgstr "素材155"
 
 msgctxt "155"
 msgid "素材156"
-msgstr ""
+msgstr "素材156"
 
 msgctxt "156"
 msgid "素材157"
-msgstr ""
+msgstr "素材157"
 
 msgctxt "157"
 msgid "素材158"
-msgstr ""
+msgstr "素材158"
 
 msgctxt "158"
 msgid "素材159"
-msgstr ""
+msgstr "素材159"
 
 msgctxt "159"
 msgid "素材160"
-msgstr ""
+msgstr "素材160"
 
 msgctxt "160"
 msgid "素材161"
-msgstr ""
+msgstr "素材161"
 
 msgctxt "161"
 msgid "素材162"
-msgstr ""
+msgstr "素材162"
 
 msgctxt "162"
 msgid "素材163"
-msgstr ""
+msgstr "素材163"
 
 msgctxt "163"
 msgid "素材164"
-msgstr ""
+msgstr "素材164"
 
 msgctxt "164"
 msgid "素材165"
-msgstr ""
+msgstr "素材165"
 
 msgctxt "165"
 msgid "素材166"
-msgstr ""
+msgstr "素材166"
 
 msgctxt "166"
 msgid "素材167"
-msgstr ""
+msgstr "素材167"
 
 msgctxt "167"
 msgid "素材168"
-msgstr ""
+msgstr "素材168"
 
 msgctxt "168"
 msgid "素材169"
-msgstr ""
+msgstr "素材169"
 
 msgctxt "169"
 msgid "素材170"
-msgstr ""
+msgstr "素材170"
 
 msgctxt "170"
 msgid "素材171"
-msgstr ""
+msgstr "素材171"
 
 msgctxt "171"
 msgid "素材172"
-msgstr ""
+msgstr "素材172"
 
 msgctxt "172"
 msgid "素材173"
-msgstr ""
+msgstr "素材173"
 
 msgctxt "173"
 msgid "素材174"
-msgstr ""
+msgstr "素材174"
 
 msgctxt "174"
 msgid "素材175"
-msgstr ""
+msgstr "素材175"
 
 msgctxt "175"
 msgid "素材176"
-msgstr ""
+msgstr "素材176"
 
 msgctxt "176"
 msgid "素材177"
-msgstr ""
+msgstr "素材177"
 
 msgctxt "177"
 msgid "悠久の結界片"
-msgstr ""
+msgstr "悠久的结界碎片"
 
 msgctxt "178"
 msgid "魔獣の翼拳"
-msgstr ""
+msgstr "魔兽的翼拳"
 
 msgctxt "179"
 msgid "屍王のデスマスク"
-msgstr ""
+msgstr "尸王的死亡面具"
 
 msgctxt "180"
 msgid "蒼龍の晶角"
-msgstr ""
+msgstr "苍龙的晶角"
 
 msgctxt "181"
 msgid "邪の背鰭"
-msgstr ""
+msgstr "邪之背鳍"
 
 msgctxt "182"
 msgid "侵蝕者の仲核"
-msgstr ""
+msgstr "侵蚀者的核心"
 
 msgctxt "183"
 msgid "妖華の蕾"
-msgstr ""
+msgstr "妖花的花蕾"
 
 msgctxt "184"
 msgid "巨象の冠"
-msgstr ""
+msgstr "巨象之冠"
 
 msgctxt "185"
 msgid "腐竜の尺骨"
-msgstr ""
+msgstr "腐龙的尺骨"
 
 msgctxt "186"
 msgid "怪女の蛇蔓"
-msgstr ""
+msgstr "怪女的蛇蔓"
 
 msgctxt "187"
 msgid "痺縞の結界"
-msgstr ""
+msgstr "麻痹条纹的结界"
 
 msgctxt "188"
 msgid "刹那の鶴嘴"
-msgstr ""
+msgstr "刹那的鹤嘴"
 
 msgctxt "189"
 msgid "呪跡の上布"
-msgstr ""
+msgstr "咒迹的布帛"
 
 msgctxt "190"
 msgid "神竜の光翼"
-msgstr ""
+msgstr "神龙的光翼"
 
 msgctxt "191"
 msgid "樹姫のビロード"
-msgstr ""
+msgstr "树姬的天鹅绒"
 
 msgctxt "192"
 msgid "古象の大樹"
-msgstr ""
+msgstr "古象的大树"
 
 msgctxt "193"
 msgid "自壊の竜骨"
-msgstr ""
+msgstr "自毁的龙骨"
 
 msgctxt "194"
 msgid "絡まったおさげ"
-msgstr ""
+msgstr "缠绕的辫子"
 
 msgctxt "195"
 msgid "素材196"
-msgstr ""
+msgstr "素材196"
 
 msgctxt "196"
 msgid "素材197"
-msgstr ""
+msgstr "素材197"
 
 msgctxt "197"
 msgid "素材198"
-msgstr ""
+msgstr "素材198"
 
 msgctxt "198"
 msgid "素材199"
-msgstr ""
+msgstr "素材199"
 
 msgctxt "199"
 msgid "素材200"
-msgstr ""
+msgstr "素材200"
 
 msgctxt "200"
 msgid "素材201"
-msgstr ""
+msgstr "素材201"
 
 msgctxt "201"
 msgid "素材202"
-msgstr ""
+msgstr "素材202"
 
 msgctxt "202"
 msgid "素材203"
-msgstr ""
+msgstr "素材203"
 
 msgctxt "203"
 msgid "素材204"
-msgstr ""
+msgstr "素材204"
 
 msgctxt "204"
 msgid "素材205"
-msgstr ""
+msgstr "素材205"
 
 msgctxt "205"
 msgid "素材206"
-msgstr ""
+msgstr "素材206"
 
 msgctxt "206"
 msgid "素材207"
-msgstr ""
+msgstr "素材207"
 
 msgctxt "207"
 msgid "素材208"
-msgstr ""
+msgstr "素材208"
 
 msgctxt "208"
 msgid "素材209"
-msgstr ""
+msgstr "素材209"
 
 msgctxt "209"
 msgid "素材210"
-msgstr ""
+msgstr "素材210"
 
 msgctxt "210"
 msgid "素材211"
-msgstr ""
+msgstr "素材211"
 
 msgctxt "211"
 msgid "素材212"
-msgstr ""
+msgstr "素材212"
 
 msgctxt "212"
 msgid "素材213"
-msgstr ""
+msgstr "素材213"
 
 msgctxt "213"
 msgid "素材214"
-msgstr ""
+msgstr "素材214"
 
 msgctxt "214"
 msgid "素材215"
-msgstr ""
+msgstr "素材215"
 
 msgctxt "215"
 msgid "素材216"
-msgstr ""
+msgstr "素材216"
 
 msgctxt "216"
 msgid "素材217"
-msgstr ""
+msgstr "素材217"
 
 msgctxt "217"
 msgid "素材218"
-msgstr ""
+msgstr "素材218"
 
 msgctxt "218"
 msgid "素材219"
-msgstr ""
+msgstr "素材219"
 
 msgctxt "219"
 msgid "素材220"
-msgstr ""
+msgstr "素材220"
 
 msgctxt "220"
 msgid "素材221"
-msgstr ""
+msgstr "素材221"
 
 msgctxt "221"
 msgid "素材222"
-msgstr ""
+msgstr "素材222"
 
 msgctxt "222"
 msgid "素材223"
-msgstr ""
+msgstr "素材223"
 
 msgctxt "223"
 msgid "素材224"
-msgstr ""
+msgstr "素材224"
 
 msgctxt "224"
 msgid "素材225"
-msgstr ""
+msgstr "素材225"
 
 msgctxt "225"
 msgid "素材226"
-msgstr ""
+msgstr "素材226"
 
 msgctxt "226"
 msgid "素材227"
-msgstr ""
+msgstr "素材227"
 
 msgctxt "227"
 msgid "素材228"
-msgstr ""
+msgstr "素材228"
 
 msgctxt "228"
 msgid "素材229"
-msgstr ""
+msgstr "素材229"
 
 msgctxt "229"
 msgid "素材230"
-msgstr ""
+msgstr "素材230"
 
 msgctxt "230"
 msgid "素材231"
-msgstr ""
+msgstr "素材231"
 
 msgctxt "231"
 msgid "素材232"
-msgstr ""
+msgstr "素材232"
 
 msgctxt "232"
 msgid "素材233"
-msgstr ""
+msgstr "素材233"
 
 msgctxt "233"
 msgid "素材234"
-msgstr ""
+msgstr "素材234"
 
 msgctxt "234"
 msgid "素材235"
-msgstr ""
+msgstr "素材235"
 
 msgctxt "235"
 msgid "素材236"
-msgstr ""
+msgstr "素材236"
 
 msgctxt "236"
 msgid "素材237"
-msgstr ""
+msgstr "素材237"
 
 msgctxt "237"
 msgid "素材238"
-msgstr ""
+msgstr "素材238"
 
 msgctxt "238"
 msgid "素材239"
-msgstr ""
+msgstr "素材239"
 
 msgctxt "239"
 msgid "素材240"
-msgstr ""
+msgstr "素材240"
 
 msgctxt "240"
 msgid "素材241"
-msgstr ""
+msgstr "素材241"
 
 msgctxt "241"
 msgid "素材242"
-msgstr ""
+msgstr "素材242"
 
 msgctxt "242"
 msgid "素材243"
-msgstr ""
+msgstr "素材243"
 
 msgctxt "243"
 msgid "素材244"
-msgstr ""
+msgstr "素材244"
 
 msgctxt "244"
 msgid "素材245"
-msgstr ""
+msgstr "素材245"
 
 msgctxt "245"
 msgid "素材246"
-msgstr ""
+msgstr "素材246"
 
 msgctxt "246"
 msgid "素材247"
-msgstr ""
+msgstr "素材247"
 
 msgctxt "247"
 msgid "苔生した鉱石"
-msgstr ""
+msgstr "长满青苔的矿石"
 
 msgctxt "248"
 msgid "欠けた泥岩"
-msgstr ""
+msgstr "缺损的泥岩"
 
 msgctxt "249"
 msgid "くすんだ輝石"
-msgstr ""
+msgstr "暗淡的辉石"
 
 msgctxt "250"
 msgid "ドロマイト"
-msgstr ""
+msgstr "白云石"
 
 msgctxt "251"
 msgid "カミソリ岩石"
-msgstr ""
+msgstr "剃刀岩石"
 
 msgctxt "252"
 msgid "ロザフェルゼン"
-msgstr ""
+msgstr "蔷薇岩"
 
 msgctxt "253"
 msgid "朽ちた金属板"
-msgstr ""
+msgstr "腐朽的金属板"
 
 msgctxt "254"
 msgid "オブシディアン"
-msgstr ""
+msgstr "黑曜石"
 
 msgctxt "255"
 msgid "パイロライター"
-msgstr ""
+msgstr "燧石"
 
 msgctxt "256"
 msgid "セレナイト"
-msgstr ""
+msgstr "透石膏"
 
 msgctxt "257"
 msgid "蒼鉛"
-msgstr ""
+msgstr "砷钴矿"
 
 msgctxt "258"
 msgid "アゲート"
-msgstr ""
+msgstr "玛瑙"
 
 msgctxt "259"
 msgid "グラナイト"
-msgstr ""
+msgstr "花岗岩"
 
 msgctxt "260"
 msgid "蛍板"
-msgstr ""
+msgstr "萤板"
 
 msgctxt "261"
 msgid "金紅石"
-msgstr ""
+msgstr "金红石"
 
 msgctxt "262"
 msgid "隕星石"
-msgstr ""
+msgstr "陨星石"
 
 msgctxt "263"
 msgid "格子模様の黒板"
-msgstr ""
+msgstr "格纹黑板"
 
 msgctxt "264"
 msgid "青碧の露"
-msgstr ""
+msgstr "青碧之露"
 
 msgctxt "265"
 msgid "褐色の塊茎"
-msgstr ""
+msgstr "褐色的块茎"
 
 msgctxt "266"
 msgid "熟した蓮実"
-msgstr ""
+msgstr "成熟的莲子"
 
 msgctxt "267"
 msgid "ザゼンソウ"
-msgstr ""
+msgstr "坐禅草"
 
 msgctxt "268"
 msgid "虫コブ"
-msgstr ""
+msgstr "虫瘿"
 
 msgctxt "269"
 msgid "アロマゴケ"
-msgstr ""
+msgstr "芳香苔"
 
 msgctxt "270"
 msgid "虹色果実"
-msgstr ""
+msgstr "虹色果实"
 
 msgctxt "271"
 msgid "クチクソウ"
-msgstr ""
+msgstr "驱逐草"
 
 msgctxt "272"
 msgid "ゾンビダケ"
-msgstr ""
+msgstr "僵尸菇"
 
 msgctxt "273"
 msgid "霧花"
-msgstr ""
+msgstr "雾花"
 
 msgctxt "274"
 msgid "ネバリゴケ"
-msgstr ""
+msgstr "黏苔"
 
 msgctxt "275"
 msgid "珪酸華"
-msgstr ""
+msgstr "硅花"
 
 msgctxt "276"
 msgid "魔晶花"
-msgstr ""
+msgstr "魔晶花"
 
 msgctxt "277"
 msgid "肉厚な茎"
-msgstr ""
+msgstr "肉厚的茎"
 
 msgctxt "278"
 msgid "コエンドロ"
-msgstr ""
+msgstr "芫荽"
 
 msgctxt "279"
 msgid "トケイバナ"
-msgstr ""
+msgstr "时钟花"
 
 msgctxt "280"
 msgid "アンブロシア"
-msgstr ""
+msgstr "安布罗希亚"
 
 msgctxt "281"
 msgid "渦花"
-msgstr ""
+msgstr "漩涡花"
 
 msgctxt "282"
 msgid "流星の果実"
-msgstr ""
+msgstr "流星果实"
 
 msgctxt "283"
 msgid "纏わり付くツタ"
-msgstr ""
+msgstr "缠绕的藤蔓"
 
 msgctxt "284"
 msgid "蔦痕の樹皮"
-msgstr ""
+msgstr "藤痕的树皮"
 
 msgctxt "285"
 msgid "曲がった老木"
-msgstr ""
+msgstr "弯曲的老木"
 
 msgctxt "286"
 msgid "細い丈夫な枝"
-msgstr ""
+msgstr "细而结实的树枝"
 
 msgctxt "287"
 msgid "ドロドロの樹脂"
-msgstr ""
+msgstr "黏糊糊的树脂"
 
 msgctxt "288"
 msgid "うねった根"
-msgstr ""
+msgstr "蜿蜒的根"
 
 msgctxt "289"
 msgid "ドクロ木材"
-msgstr ""
+msgstr "骷髅木材"
 
 msgctxt "290"
 msgid "這い寄るツタ"
-msgstr ""
+msgstr "爬行藤蔓"
 
 msgctxt "291"
 msgid "上質な若木"
-msgstr ""
+msgstr "优质的幼木"
 
 msgctxt "292"
 msgid "輝く木肌"
-msgstr ""
+msgstr "闪耀的树皮"
 
 msgctxt "293"
 msgid "クオーツの筍"
-msgstr ""
+msgstr "石英笋"
 
 msgctxt "294"
 msgid "水晶木"
-msgstr ""
+msgstr "水晶木"
 
 msgctxt "295"
 msgid "柔軟な樹皮"
-msgstr ""
+msgstr "柔软的树皮"
 
 msgctxt "296"
 msgid "弛まぬ枝"
-msgstr ""
+msgstr "不懈的枝桠"
 
 msgctxt "297"
 msgid "月白の木材"
-msgstr ""
+msgstr "月白色的木材"
 
 msgctxt "298"
 msgid "笠花の枝"
-msgstr ""
+msgstr "伞花枝"
 
 msgctxt "299"
 msgid "三脚杉"
-msgstr ""
+msgstr "三脚杉"
 
 msgctxt "300"
 msgid "逆しまの木"
-msgstr ""
+msgstr "倒立的树"
 
 msgctxt "301"
 msgid "ペトラフリッサ"
-msgstr ""
+msgstr "岩石噬咬者"
 
 msgctxt "302"
 msgid "ポイズンナックル"
-msgstr ""
+msgstr "毒液拳套"
 
 msgctxt "303"
 msgid "封頭の杖"
-msgstr ""
+msgstr "封头之杖"
 
 msgctxt "304"
 msgid "小手切"
-msgstr ""
+msgstr "小手切"
 
 msgctxt "305"
 msgid "睡魔の弓"
-msgstr ""
+msgstr "睡魔之弓"
 
 msgctxt "306"
 msgid "パニックサイズ"
-msgstr ""
+msgstr "混乱镰刀"
 
 msgctxt "307"
 msgid "ペッパーカノン"
-msgstr ""
+msgstr "胡椒加农"
 
 msgctxt "308"
 msgid "呪われし棺"
-msgstr ""
+msgstr "诅咒棺材"
 
 msgctxt "309"
 msgid "スタンナイフ"
-msgstr ""
+msgstr "眩晕小刀"
 
 msgctxt "310"
 msgid "慈悲の短刀"
-msgstr ""
+msgstr "慈悲短刀"
 
 msgctxt "311"
 msgid "脚斬りの鎌"
-msgstr ""
+msgstr "斩脚镰刀"
 
 msgctxt "312"
 msgid "パラライモルター"
-msgstr ""
+msgstr "麻痹迫击炮"
 
 msgctxt "313"
 msgid "治療ナイフ"
-msgstr ""
+msgstr "治疗小刀"
 
 msgctxt "314"
 msgid "アサルトワディ"
-msgstr ""
+msgstr "突刺棍"
 
 msgctxt "315"
 msgid "シールブレイク"
-msgstr ""
+msgstr "破盾"
 
 msgctxt "316"
 msgid "ゴルゴンアロー"
-msgstr ""
+msgstr "戈耳工之弓"
 
 msgctxt "317"
 msgid "奇跡の指輪"
-msgstr ""
+msgstr "奇迹戒指"
 
 msgctxt "318"
 msgid "閃光のペンダント"
-msgstr ""
+msgstr "闪光吊坠"
 
 msgctxt "319"
 msgid "鍛錬の珠"
-msgstr ""
+msgstr "锤炼宝珠"
 
 msgctxt "320"
 msgid "見晴らし水晶"
-msgstr ""
+msgstr "眺望水晶"
 
 msgctxt "321"
 msgid "追憶の音貝"
-msgstr ""
+msgstr "追忆音贝"
 
 msgctxt "322"
 msgid "シールグリーブ"
-msgstr ""
+msgstr "护盾护腿"
 
 msgctxt "323"
 msgid "深闇の大鎌"
-msgstr ""
+msgstr "深暗大镰"
 
 msgctxt "324"
 msgid "魔光の首飾り"
-msgstr ""
+msgstr "魔光项链"
 
 msgctxt "325"
 msgid "アルカディアの王冠"
-msgstr ""
+msgstr "阿卡狄亚王冠"
 
 msgctxt "326"
 msgid "アルカディアの佩玉"
-msgstr ""
+msgstr "阿卡狄亚佩玉"
 
 msgctxt "327"
 msgid "世界樹の指輪"
-msgstr ""
+msgstr "世界树指环"
 
 msgctxt "328"
 msgid "冒険の手引き"
-msgstr ""
+msgstr "冒险指南"
 
 msgctxt "329"
 msgid "グロースバッジ"
-msgstr ""
+msgstr "成长徽章"
 
 msgctxt "330"
 msgid "ドロップカメオ"
-msgstr ""
+msgstr "掉落浮雕"
 
 msgctxt "331"
 msgid "駆け出しの金属鎧"
-msgstr ""
+msgstr "新手金属铠"
 
 msgctxt "332"
 msgid "初心者の皮鎧"
-msgstr ""
+msgstr "新手皮甲"
 
 msgctxt "333"
 msgid "ビギナーのローブ"
-msgstr ""
+msgstr "初学者长袍"
 
 msgctxt "334"
 msgid "見習いの帽子"
-msgstr ""
+msgstr "见习帽子"
 
 msgctxt "335"
 msgid "初陣の小手"
-msgstr ""
+msgstr "初阵手套"
 
 msgctxt "336"
 msgid "旅立ちの靴"
-msgstr ""
+msgstr "启程之靴"
 
 msgctxt "337"
 msgid "ルーキーの盾"
-msgstr ""
+msgstr "新手盾"
 
 msgctxt "338"
 msgid "ユニーク18"
-msgstr ""
+msgstr "ユニーク18"
 
 msgctxt "339"
 msgid "ユニーク19"
-msgstr ""
+msgstr "ユニーク19"
 
 msgctxt "340"
 msgid "ユニーク20"
-msgstr ""
+msgstr "ユニーク20"
 
 msgctxt "341"
 msgid "ユニーク21"
-msgstr ""
+msgstr "ユニーク21"
 
 msgctxt "342"
 msgid "ユニーク22"
-msgstr ""
+msgstr "ユニーク22"
 
 msgctxt "343"
 msgid "ユニーク23"
-msgstr ""
+msgstr "ユニーク23"
 
 msgctxt "344"
 msgid "ユニーク24"
-msgstr ""
+msgstr "ユニーク24"
 
 msgctxt "345"
 msgid "ユニーク25"
-msgstr ""
+msgstr "ユニーク25"
 
 msgctxt "346"
 msgid "ユニーク26"
-msgstr ""
+msgstr "ユニーク26"
 
 msgctxt "347"
 msgid "ユニーク27"
-msgstr ""
+msgstr "ユニーク27"
 
 msgctxt "348"
 msgid "ユニーク28"
-msgstr ""
+msgstr "ユニーク28"
 
 msgctxt "349"
 msgid "ユニーク29"
-msgstr ""
+msgstr "ユニーク29"
 
 msgctxt "350"
 msgid "ユニーク30"
-msgstr ""
+msgstr "ユニーク30"
 
 msgctxt "351"
 msgid "ユニーク31"
-msgstr ""
+msgstr "ユニーク31"
 
 msgctxt "352"
 msgid "ユニーク32"
-msgstr ""
+msgstr "ユニーク32"
 
 msgctxt "353"
 msgid "ユニーク33"
-msgstr ""
+msgstr "ユニーク33"
 
 msgctxt "354"
 msgid "ユニーク34"
-msgstr ""
+msgstr "ユニーク34"
 
 msgctxt "355"
 msgid "ユニーク35"
-msgstr ""
+msgstr "ユニーク35"
 
 msgctxt "356"
 msgid "ユニーク36"
-msgstr ""
+msgstr "ユニーク36"
 
 msgctxt "357"
 msgid "ユニーク37"
-msgstr ""
+msgstr "ユニーク37"
 
 msgctxt "358"
 msgid "ユニーク38"
-msgstr ""
+msgstr "ユニーク38"
 
 msgctxt "359"
 msgid "ユニーク39"
-msgstr ""
+msgstr "ユニーク39"
 
 msgctxt "360"
 msgid "ユニーク40"
-msgstr ""
+msgstr "ユニーク40"
 
 msgctxt "361"
 msgid "ユニーク41"
-msgstr ""
+msgstr "ユニーク41"
 
 msgctxt "362"
 msgid "ユニーク42"
-msgstr ""
+msgstr "ユニーク42"
 
 msgctxt "363"
 msgid "ユニーク43"
-msgstr ""
+msgstr "ユニーク43"
 
 msgctxt "364"
 msgid "ユニーク44"
-msgstr ""
+msgstr "ユニーク44"
 
 msgctxt "365"
 msgid "ユニーク45"
-msgstr ""
+msgstr "ユニーク45"
 
 msgctxt "366"
 msgid "ユニーク46"
-msgstr ""
+msgstr "ユニーク46"
 
 msgctxt "367"
 msgid "ユニーク47"
-msgstr ""
+msgstr "ユニーク47"
 
 msgctxt "368"
 msgid "ユニーク48"
-msgstr ""
+msgstr "ユニーク48"
 
 msgctxt "369"
 msgid "ユニーク49"
-msgstr ""
+msgstr "ユニーク49"
 
 msgctxt "370"
 msgid "ユニーク50"
-msgstr ""
+msgstr "ユニーク50"
 
 msgctxt "371"
 msgid "ユニーク51"
-msgstr ""
+msgstr "ユニーク51"
 
 msgctxt "372"
 msgid "ユニーク52"
-msgstr ""
+msgstr "ユニーク52"
 
 msgctxt "373"
 msgid "ユニーク53"
-msgstr ""
+msgstr "ユニーク53"
 
 msgctxt "374"
 msgid "ユニーク54"
-msgstr ""
+msgstr "ユニーク54"
 
 msgctxt "375"
 msgid "ユニーク55"
-msgstr ""
+msgstr "ユニーク55"
 
 msgctxt "376"
 msgid "ルナリア銀貨"
-msgstr ""
+msgstr "露娜里亚银币"
 
 msgctxt "377"
 msgid "山都銅貨"
-msgstr ""
+msgstr "山都铜币"
 
 msgctxt "378"
 msgid "ゼファーリア銀貨"
-msgstr ""
+msgstr "仄费里亚银币"
 
 msgctxt "379"
 msgid "ユニーク59"
-msgstr ""
+msgstr "ユニーク59"
 
 msgctxt "380"
 msgid "竜水晶"
-msgstr ""
+msgstr "龙水晶"
 
 msgctxt "381"
 msgid "ペツォッタ大鉱石"
-msgstr ""
+msgstr "巨大的草莓红绿柱石"
 
 msgctxt "382"
 msgid "竜水晶の欠片"
-msgstr ""
+msgstr "龙水晶的碎片"
 
 msgctxt "383"
 msgid "世界樹の秘宝"
-msgstr ""
+msgstr "世界树宝藏"
 
 msgctxt "384"
 msgid "ユニーク64"
-msgstr ""
+msgstr "ユニーク64"
 
 msgctxt "385"
 msgid "ユニーク65"
-msgstr ""
+msgstr "ユニーク65"
 
 msgctxt "386"
 msgid "ユニーク66"
-msgstr ""
+msgstr "ユニーク66"
 
 msgctxt "387"
 msgid "ユニーク67"
-msgstr ""
+msgstr "ユニーク67"
 
 msgctxt "388"
 msgid "ユニーク68"
-msgstr ""
+msgstr "ユニーク68"
 
 msgctxt "389"
 msgid "ユニーク69"
-msgstr ""
+msgstr "ユニーク69"
 
 msgctxt "390"
 msgid "ユニーク70"
-msgstr ""
+msgstr "ユニーク70"
 
 msgctxt "391"
 msgid "ユニーク71"
-msgstr ""
+msgstr "ユニーク71"
 
 msgctxt "392"
 msgid "ユニーク72"
-msgstr ""
+msgstr "ユニーク72"
 
 msgctxt "393"
 msgid "ユニーク73"
-msgstr ""
+msgstr "ユニーク73"
 
 msgctxt "394"
 msgid "ユニーク74"
-msgstr ""
+msgstr "ユニーク74"
 
 msgctxt "395"
 msgid "ユニーク75"
-msgstr ""
+msgstr "ユニーク75"
 
 msgctxt "396"
 msgid "ユニーク76"
-msgstr ""
+msgstr "ユニーク76"
 
 msgctxt "397"
 msgid "ユニーク77"
-msgstr ""
+msgstr "ユニーク77"
 
 msgctxt "398"
 msgid "ユニーク78"
-msgstr ""
+msgstr "ユニーク78"
 
 msgctxt "399"
 msgid "ユニーク79"
-msgstr ""
+msgstr "ユニーク79"
 
 msgctxt "400"
 msgid "ユニーク80"
-msgstr ""
+msgstr "ユニーク80"
 
 msgctxt "401"
 msgid "メディカ"
@@ -1673,7 +1673,7 @@ msgstr "万能药β"
 
 msgctxt "415"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "416"
 msgid "耐熱ミスト"
@@ -1741,7 +1741,7 @@ msgstr "阿里阿德涅之线"
 
 msgctxt "432"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "433"
 msgid "斥候の長靴"
@@ -1753,23 +1753,23 @@ msgstr "解剖用水溶液"
 
 msgctxt "435"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "436"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "437"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "438"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "439"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "440"
 msgid "火術の起動符"
@@ -1833,11 +1833,11 @@ msgstr "捆缚索:腿"
 
 msgctxt "455"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "456"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "457"
 msgid "斬術の起動符"
@@ -1853,7 +1853,7 @@ msgstr "突术启动符"
 
 msgctxt "460"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "461"
 msgid "石化の香"
@@ -1861,756 +1861,756 @@ msgstr "石化之香"
 
 msgctxt "462"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "463"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "464"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "465"
 msgid "簡易遠眼鏡"
-msgstr ""
+msgstr "简易望远镜"
 
 msgctxt "466"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "467"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "468"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "469"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "470"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "471"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "472"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "473"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "474"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "475"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "476"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "477"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "478"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "479"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "480"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "481"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "482"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "483"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "484"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "485"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "486"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "487"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "488"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "489"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "490"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "491"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "492"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "493"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "494"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "495"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "496"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "497"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "498"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "499"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "500"
 msgid "ダミー"
-msgstr ""
+msgstr "ダミー"
 
 msgctxt "501"
 msgid "迷宮の地図"
-msgstr ""
+msgstr "迷宫地图"
 
 msgctxt "502"
 msgid "巨大な木の根"
-msgstr ""
+msgstr "巨大的树根"
 
 msgctxt "503"
 msgid "樹海の土壌"
-msgstr ""
+msgstr "树海的土壤"
 
 msgctxt "504"
 msgid "樹海鵜"
-msgstr ""
+msgstr "树海鸬鹚"
 
 msgctxt "505"
 msgid "重いツルハシ"
-msgstr ""
+msgstr "沉重的鹤嘴镐"
 
 msgctxt "506"
 msgid "封印扉の鍵"
-msgstr ""
+msgstr "封印门扉的钥匙"
 
 msgctxt "507"
 msgid "保存用の小瓶"
-msgstr ""
+msgstr "保存用小瓶"
 
 msgctxt "508"
 msgid "何かの種"
-msgstr ""
+msgstr "某种东西的种子"
 
 msgctxt "509"
 msgid "支援物資"
-msgstr ""
+msgstr "支援物资"
 
 msgctxt "510"
 msgid "落し物のお守り"
-msgstr ""
+msgstr "遗失的护身符"
 
 msgctxt "511"
 msgid "古びた本"
-msgstr ""
+msgstr "陈旧的书"
 
 msgctxt "512"
 msgid "太陽の石"
-msgstr ""
+msgstr "太阳之石"
 
 msgctxt "513"
 msgid "月の石"
-msgstr ""
+msgstr "月亮之石"
 
 msgctxt "514"
 msgid "紋章が描かれた兜"
-msgstr ""
+msgstr "绘有纹章的头盔"
 
 msgctxt "515"
 msgid "爆発玉"
-msgstr ""
+msgstr "爆炸球"
 
 msgctxt "516"
 msgid "エンペラーカブト"
-msgstr ""
+msgstr "帝王兜虫"
 
 msgctxt "517"
 msgid "七本ツノカブト"
-msgstr ""
+msgstr "七角兜虫"
 
 msgctxt "518"
 msgid "ハサミクワガタ"
-msgstr ""
+msgstr "剪刀锹形虫"
 
 msgctxt "519"
 msgid "無痛注射器"
-msgstr ""
+msgstr "无痛注射器"
 
 msgctxt "520"
 msgid "大サソリの毒素"
-msgstr ""
+msgstr "大蝎子的毒素"
 
 msgctxt "521"
 msgid "ひどく甘そうなパン"
-msgstr ""
+msgstr "看起来非常甜的面包"
 
 msgctxt "522"
 msgid "見るからに辛いパン"
-msgstr ""
+msgstr "一看就很辣的面包"
 
 msgctxt "523"
 msgid "特製フライパン"
-msgstr ""
+msgstr "特制平底锅"
 
 msgctxt "524"
 msgid "特製皮袋"
-msgstr ""
+msgstr "特制皮袋"
 
 msgctxt "525"
 msgid "ジェネッタメモ1"
-msgstr ""
+msgstr "洁涅塔的便条1"
 
 msgctxt "526"
 msgid "ジェネッタメモ2"
-msgstr ""
+msgstr "洁涅塔的便条2"
 
 msgctxt "527"
 msgid "ジェネッタメモ3"
-msgstr ""
+msgstr "洁涅塔的便条3"
 
 msgctxt "528"
 msgid "ジェネッタメモ4"
-msgstr ""
+msgstr "洁涅塔的便条4"
 
 msgctxt "529"
 msgid "ジェネッタの弁当"
-msgstr ""
+msgstr "洁涅塔的便当"
 
 msgctxt "530"
 msgid "特注のツルハシ"
-msgstr ""
+msgstr "特制的鹤嘴镐"
 
 msgctxt "531"
 msgid "洗浄した生皮"
-msgstr ""
+msgstr "清洗过的生皮"
 
 msgctxt "532"
 msgid "赤い花"
-msgstr ""
+msgstr "红色的花"
 
 msgctxt "533"
 msgid "青い花"
-msgstr ""
+msgstr "蓝色的花"
 
 msgctxt "534"
 msgid "水晶の花"
-msgstr ""
+msgstr "水晶花"
 
 msgctxt "535"
 msgid "捕獲器ツカマエル"
-msgstr ""
+msgstr "捕获器“抓住君”"
 
 msgctxt "536"
 msgid "ドジな鳥の羽根"
-msgstr ""
+msgstr "笨鸟的羽毛"
 
 msgctxt "537"
 msgid "スノードロップ"
-msgstr ""
+msgstr "雪花莲"
 
 msgctxt "538"
 msgid "メナシムカデ"
-msgstr ""
+msgstr "无眼蜈蚣"
 
 msgctxt "539"
 msgid "青く光る水晶"
-msgstr ""
+msgstr "发蓝光的水晶"
 
 msgctxt "540"
 msgid "樹海ウサギ"
-msgstr ""
+msgstr "树海兔"
 
 msgctxt "541"
 msgid "人懐っこいオウム"
-msgstr ""
+msgstr "亲近人的鹦鹉"
 
 msgctxt "542"
 msgid "一角獣のナイフ"
-msgstr ""
+msgstr "独角兽的小刀"
 
 msgctxt "543"
 msgid "小さな水晶"
-msgstr ""
+msgstr "小小的水晶"
 
 msgctxt "544"
 msgid "魔物のエサ用の肉"
-msgstr ""
+msgstr "魔物饲料用的肉"
 
 msgctxt "545"
 msgid "小さな鉄板・赤"
-msgstr ""
+msgstr "小铁板·红"
 
 msgctxt "546"
 msgid "小さな鉄板・青"
-msgstr ""
+msgstr "小铁板·蓝"
 
 msgctxt "547"
 msgid "小さな鉄板・黄"
-msgstr ""
+msgstr "小铁板·黄"
 
 msgctxt "548"
 msgid "小さな鉄板・緑"
-msgstr ""
+msgstr "小铁板·绿"
 
 msgctxt "549"
 msgid "小さな鉄板・白"
-msgstr ""
+msgstr "小铁板·白"
 
 msgctxt "550"
 msgid "小さな鉄板・黒"
-msgstr ""
+msgstr "小铁板·黑"
 
 msgctxt "551"
 msgid "酒場からの支給品"
-msgstr ""
+msgstr "酒馆的配给品"
 
 msgctxt "552"
 msgid "魔力検知機"
-msgstr ""
+msgstr "魔力探测机"
 
 msgctxt "553"
 msgid "魔力吸収のお札"
-msgstr ""
+msgstr "魔力吸收符"
 
 msgctxt "554"
 msgid "黒真珠"
-msgstr ""
+msgstr "黑珍珠"
 
 msgctxt "555"
 msgid "パンのレシピ"
-msgstr ""
+msgstr "面包的食谱"
 
 msgctxt "556"
 msgid "白い花びら"
-msgstr ""
+msgstr "白色的花瓣"
 
 msgctxt "557"
 msgid "樹海鶏"
-msgstr ""
+msgstr "树海鸡"
 
 msgctxt "558"
 msgid "樹海牛"
-msgstr ""
+msgstr "树海牛"
 
 msgctxt "559"
 msgid "山羊の角杯"
-msgstr ""
+msgstr "山羊角杯"
 
 msgctxt "560"
 msgid "遺品の在りかの写し1"
-msgstr ""
+msgstr "遗物所在之处的副本1"
 
 msgctxt "561"
 msgid "遺品の在りかの写し2"
-msgstr ""
+msgstr "遗物所在之处的副本2"
 
 msgctxt "562"
 msgid "遺品の在りかの写し3"
-msgstr ""
+msgstr "遗物所在之处的副本3"
 
 msgctxt "563"
 msgid "遺品の在りかの写し4"
-msgstr ""
+msgstr "遗物所在之处的副本4"
 
 msgctxt "564"
 msgid "評議会印の小鍋"
-msgstr ""
+msgstr "带评议会印记的小锅"
 
 msgctxt "565"
 msgid "山都の土鍋"
-msgstr ""
+msgstr "山都的砂锅"
 
 msgctxt "566"
 msgid "達人の書"
-msgstr ""
+msgstr "高手之书"
 
 msgctxt "567"
 msgid "釣り竿"
-msgstr ""
+msgstr "钓鱼竿"
 
 msgctxt "568"
 msgid "貴重品68"
-msgstr ""
+msgstr "貴重品68"
 
 msgctxt "569"
 msgid "貴重品69"
-msgstr ""
+msgstr "貴重品69"
 
 msgctxt "570"
 msgid "貴重品70"
-msgstr ""
+msgstr "貴重品70"
 
 msgctxt "571"
 msgid "貴重品71"
-msgstr ""
+msgstr "貴重品71"
 
 msgctxt "572"
 msgid "貴重品72"
-msgstr ""
+msgstr "貴重品72"
 
 msgctxt "573"
 msgid "貴重品73"
-msgstr ""
+msgstr "貴重品73"
 
 msgctxt "574"
 msgid "貴重品74"
-msgstr ""
+msgstr "貴重品74"
 
 msgctxt "575"
 msgid "貴重品75"
-msgstr ""
+msgstr "貴重品75"
 
 msgctxt "576"
 msgid "錆びた剣"
-msgstr ""
+msgstr "生锈的剑"
 
 msgctxt "577"
 msgid "錆びた拳鍔"
-msgstr ""
+msgstr "生锈的拳锷"
 
 msgctxt "578"
 msgid "錆びた杖"
-msgstr ""
+msgstr "生锈的杖"
 
 msgctxt "579"
 msgid "錆びた刀"
-msgstr ""
+msgstr "生锈的刀"
 
 msgctxt "580"
 msgid "錆びた弓"
-msgstr ""
+msgstr "生锈的弓"
 
 msgctxt "581"
 msgid "錆びた鎌"
-msgstr ""
+msgstr "生锈的镰刀"
 
 msgctxt "582"
 msgid "錆びた銃"
-msgstr ""
+msgstr "生锈的枪械"
 
 msgctxt "583"
 msgid "錆びた籠手"
-msgstr ""
+msgstr "生锈的护手"
 
 msgctxt "584"
 msgid "浄化の歌"
-msgstr ""
+msgstr "净化之歌"
 
 msgctxt "585"
 msgid "オスカーの盗品"
-msgstr ""
+msgstr "奥斯卡的赃物"
 
 msgctxt "586"
 msgid "母への手紙"
-msgstr ""
+msgstr "给母亲的信"
 
 msgctxt "587"
 msgid "イチシノハナ"
-msgstr ""
+msgstr "彼岸花"
 
 msgctxt "588"
 msgid "絹糸"
-msgstr ""
+msgstr "绢丝"
 
 msgctxt "589"
 msgid "古びた手紙・壱"
-msgstr ""
+msgstr "陈旧的信・壹"
 
 msgctxt "590"
 msgid "古びた手紙・弐"
-msgstr ""
+msgstr "陈旧的信・贰"
 
 msgctxt "591"
 msgid "古びた手紙・参"
-msgstr ""
+msgstr "陈旧的信・叁"
 
 msgctxt "592"
 msgid "古びた手紙・四"
-msgstr ""
+msgstr "陈旧的信・肆"
 
 msgctxt "593"
 msgid "古びた手紙・伍"
-msgstr ""
+msgstr "陈旧的信・伍"
 
 msgctxt "594"
 msgid "冒険者の手紙"
-msgstr ""
+msgstr "冒险者的信"
 
 msgctxt "595"
 msgid "古寂びた銃"
-msgstr ""
+msgstr "古旧的枪械"
 
 msgctxt "596"
 msgid "古寂びた大盾"
-msgstr ""
+msgstr "古旧的大盾"
 
 msgctxt "597"
 msgid "古寂びた鎧"
-msgstr ""
+msgstr "古旧的铠甲"
 
 msgctxt "598"
 msgid "古寂びた兜"
-msgstr ""
+msgstr "古旧的头盔"
 
 msgctxt "599"
 msgid "水晶石"
-msgstr ""
+msgstr "水晶石"
 
 msgctxt "600"
 msgid "貴重品100"
-msgstr ""
+msgstr "贵重品100"
 
 msgctxt "601"
 msgid "銅インゴット"
-msgstr ""
+msgstr "铜锭"
 
 msgctxt "602"
 msgid "銀インゴット"
-msgstr ""
+msgstr "银锭"
 
 msgctxt "603"
 msgid "金インゴット"
-msgstr ""
+msgstr "金锭"
 
 msgctxt "604"
 msgid "銅断片"
-msgstr ""
+msgstr "铜碎片"
 
 msgctxt "605"
 msgid "銀断片"
-msgstr ""
+msgstr "银碎片"
 
 msgctxt "606"
 msgid "金断片"
-msgstr ""
+msgstr "金碎片"
 
 msgctxt "607"
 msgid "アザー7"
-msgstr ""
+msgstr "アザー7"
 
 msgctxt "608"
 msgid "アザー8"
-msgstr ""
+msgstr "アザー8"
 
 msgctxt "609"
 msgid "アザー9"
-msgstr ""
+msgstr "アザー9"
 
 msgctxt "610"
 msgid "アザー10"
-msgstr ""
+msgstr "アザー10"
 
 msgctxt "611"
 msgid "アザー11"
-msgstr ""
+msgstr "アザー11"
 
 msgctxt "612"
 msgid "アザー12"
-msgstr ""
+msgstr "アザー12"
 
 msgctxt "613"
 msgid "アザー13"
-msgstr ""
+msgstr "アザー13"
 
 msgctxt "614"
 msgid "アザー14"
-msgstr ""
+msgstr "アザー14"
 
 msgctxt "615"
 msgid "アザー15"
-msgstr ""
+msgstr "アザー15"
 
 msgctxt "616"
 msgid "アザー16"
-msgstr ""
+msgstr "アザー16"
 
 msgctxt "617"
 msgid "アザー17"
-msgstr ""
+msgstr "アザー17"
 
 msgctxt "618"
 msgid "アザー18"
-msgstr ""
+msgstr "アザー18"
 
 msgctxt "619"
 msgid "アザー19"
-msgstr ""
+msgstr "アザー19"
 
 msgctxt "620"
 msgid "アザー20"
-msgstr ""
+msgstr "アザー20"
 
 msgctxt "621"
 msgid "アザー21"
-msgstr ""
+msgstr "アザー21"
 
 msgctxt "622"
 msgid "アザー22"
-msgstr ""
+msgstr "アザー22"
 
 msgctxt "623"
 msgid "アザー23"
-msgstr ""
+msgstr "アザー23"
 
 msgctxt "624"
 msgid "アザー24"
-msgstr ""
+msgstr "アザー24"
 
 msgctxt "625"
 msgid "アザー25"
-msgstr ""
+msgstr "アザー25"
 
 msgctxt "626"
 msgid "アザー26"
-msgstr ""
+msgstr "アザー26"
 
 msgctxt "627"
 msgid "アザー27"
-msgstr ""
+msgstr "アザー27"
 
 msgctxt "628"
 msgid "アザー28"
-msgstr ""
+msgstr "アザー28"
 
 msgctxt "629"
 msgid "アザー29"
-msgstr ""
+msgstr "アザー29"
 
 msgctxt "630"
 msgid "アザー30"
-msgstr ""
+msgstr "アザー30"
 
 msgctxt "631"
 msgid "アザー31"
-msgstr ""
+msgstr "アザー31"
 
 msgctxt "632"
 msgid "アザー32"
-msgstr ""
+msgstr "アザー32"
 
 msgctxt "633"
 msgid "アザー33"
-msgstr ""
+msgstr "アザー33"
 
 msgctxt "634"
 msgid "アザー34"
-msgstr ""
+msgstr "アザー34"
 
 msgctxt "635"
 msgid "アザー35"
-msgstr ""
+msgstr "アザー35"
 
 msgctxt "636"
 msgid "アザー36"
-msgstr ""
+msgstr "アザー36"
 
 msgctxt "637"
 msgid "アザー37"
-msgstr ""
+msgstr "アザー37"
 
 msgctxt "638"
 msgid "アザー38"
-msgstr ""
+msgstr "アザー38"
 
 msgctxt "639"
 msgid "アザー39"
-msgstr ""
+msgstr "アザー39"
 
 msgctxt "640"
 msgid "アザー40"
-msgstr ""
+msgstr "アザー40"
 
 msgctxt "641"
 msgid "アザー41"
-msgstr ""
+msgstr "アザー41"
 
 msgctxt "642"
 msgid "アザー42"
-msgstr ""
+msgstr "アザー42"
 
 msgctxt "643"
 msgid "アザー43"
-msgstr ""
+msgstr "アザー43"
 
 msgctxt "644"
 msgid "アザー44"
-msgstr ""
+msgstr "アザー44"
 
 msgctxt "645"
 msgid "アザー45"
-msgstr ""
+msgstr "アザー45"
 
 msgctxt "646"
 msgid "アザー46"
-msgstr ""
+msgstr "アザー46"
 
 msgctxt "647"
 msgid "アザー47"
-msgstr ""
+msgstr "アザー47"
 
 msgctxt "648"
 msgid "アザー48"
-msgstr ""
+msgstr "アザー48"
 
 msgctxt "649"
 msgid "アザー49"
-msgstr ""
+msgstr "アザー49"
 
 msgctxt "650"
 msgid "アザー50"
-msgstr ""
+msgstr "アザー50"

@@ -1,7 +1,7 @@
 <mbm>
   <entry id="1">
     <source>インターネットへの接続を許可しますか?{f801}</source>
-    <target>允许连接到互联网吗?{f801}</target>
+    <target>允许连接到互联网吗？{f801}</target>
   </entry>
   <entry id="2">
     <source>追加コンテンツの購入にはインターネット{f801}への接続を許可していただく必要があります。{f801}</source>
@@ -13,15 +13,15 @@
   </entry>
   <entry id="4">
     <source>この追加コンテンツを{f801}購入しますか?{f801}</source>
-    <target>是否购买这个DLC吗?{f801}</target>
+    <target>是否购买这个DLC吗？{f801}</target>
   </entry>
   <entry id="5">
     <source>この追加コンテンツをSDカードに{f801}ダウンロードしますか?{f801}</source>
-    <target>是否将这个DLC{f801}下载到SD卡吗?{f801}</target>
+    <target>是否将这个DLC{f801}下载到SD卡吗？{f801}</target>
   </entry>
   <entry id="6">
     <source>この追加コンテンツを{f801}SDカードから削除しますか?{f801}</source>
-    <target>是否将这个DLC{f801}从SD卡中删除吗?{f801}</target>
+    <target>是否将这个DLC{f801}从SD卡中删除吗？{f801}</target>
   </entry>
   <entry id="7">
     <source>SDカードが{f801}本体に挿入されていません。{f801}{f802}SDカードの挿入は本体の電源を{f801}切ってから行ってください。{f801}</source>
@@ -57,7 +57,7 @@
   </entry>
   <entry id="15">
     <source>追加コンテンツの購入を終了し{f801}タイトルに戻りますか?{f801}</source>
-    <target>已完成DLC购买{f801}要回到标题画面吗?{f801}</target>
+    <target>已完成DLC购买。{f801}是否回到标题画面？{f801}</target>
   </entry>
   <entry id="16">
     <source>ダウンロードカードをお持ちの場合は{f801}こちらで記載されたダウンロード番号{f801}の入力が行えます{f801}</source>
@@ -65,6 +65,6 @@
   </entry>
   <entry id="17">
     <source>ダウンロード番号の入力を{f801}行いますか?{f801}</source>
-    <target>是否输入下载码吗？{f801}</target>
+    <target>是否输入下载码？{f801}</target>
   </entry>
 </mbm>

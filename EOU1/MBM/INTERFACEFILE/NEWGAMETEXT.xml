@@ -93,7 +93,7 @@
   </entry>
   <entry id="23">
     <source>地図のオートパイロット記載状態を{f801}引き継ぐか選択できます{f801}</source>
-    <target>选择是否继承{f801}地图中的自动行进记载数据。{f801}</target>
+    <target>选择是否继承{f801}地图中的自动行进数据。{f801}</target>
   </entry>
   <entry id="24">
     <source>設定された状態でゲームを開始します{f801}</source>

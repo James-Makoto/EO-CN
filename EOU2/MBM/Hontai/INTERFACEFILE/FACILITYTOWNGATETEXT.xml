@@ -5,7 +5,7 @@
   </entry>
   <entry id="1">
     <source>選択した迷宮内から冒険をスタートできます{f801}磁軸に移動しますか?{f801}</source>
-    <target>将在选定的迷宫内开始冒险，{f801}要使用树海磁轴在树海内移动吗?{f801}</target>
+    <target>将在选定的迷宫内开始冒险，{f801}要移动至磁轴吗?{f801}</target>
   </entry>
   <entry id="2">
     <source>選択した迷宮へ行きます{f801}</source>

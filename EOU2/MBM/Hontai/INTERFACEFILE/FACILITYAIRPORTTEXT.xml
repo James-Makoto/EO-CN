@@ -333,7 +333,7 @@
   </entry>
   <entry id="165">
     <source>グリモアトレード中です{f801}</source>
-    <target>正在进行魔导石交易中。{f801}</target>
+    <target>正在进行魔导石交易。{f801}</target>
   </entry>
   <entry id="166">
     <source>選択したグリモアをリセットしますか?{f801}</source>

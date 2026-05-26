@@ -473,7 +473,7 @@
   </entry>
   <entry id="119">
     <source>{f811}{0100}は{f801}{f811}{0200}の付着率が上昇した!{f801}</source>
-    <target>{f811}{0100}{f801}{f811}{0200}的附着率提升!{f801}</target>
+    <target>{f811}{0100}将{f801}{f811}{0200}的附着率提升了！{f801}</target>
   </entry>
   <entry id="120">
     <source>{f811}{0000}は{f811}{0300}の{f801}砲撃体勢に入った!{f801}</source>
@@ -745,31 +745,31 @@
   </entry>
   <entry id="187">
     <source>{f811}{0000}は{f801}針で反撃された!{f801}</source>
-    <target>{f811}{0000}は{f801}針で反撃された!{f801}</target>
+    <target>{f811}{0000}{f801}遭到了针的反击！{f801}</target>
   </entry>
   <entry id="188">
     <source>{f811}{0100}の{f801}強化は復活した!{f801}</source>
-    <target>{f811}{0100}の{f801}強化は復活した!{f801}</target>
+    <target>{f811}{0100}的{f801}强化效果已恢复！{f801}</target>
   </entry>
   <entry id="189">
     <source>{f811}{0100}の封じ、状態異常付着は{f801}神域により無効化された!{f801}</source>
-    <target>{f811}{0100}の封じ、状態異常付着は{f801}神域により無効化された!{f801}</target>
+    <target>对{f811}{0100}的封印和异常状态附加，{f801}因神域的效果而被无效化了！{f801}</target>
   </entry>
   <entry id="190">
     <source>{f811}{0100}は{f801}消滅した!{f801}</source>
-    <target>{f811}{0100}は{f801}消滅した!{f801}</target>
+    <target>{f811}{0100}{f801}消失了！{f801}</target>
   </entry>
   <entry id="191">
     <source>大空から急降下した{f811}{0100}が{f801}{f811}{0300}を襲う!!{f801}</source>
-    <target>大空から急降下した{f811}{0100}が{f801}{f811}{0300}を襲う!!{f801}</target>
+    <target>从高空俯冲而下的{f811}{0100}{f801}袭击了{f811}{0300}！！{f801}</target>
   </entry>
   <entry id="192">
     <source>{f811}{0000}の追撃!{f801}</source>
-    <target>{f811}{0000}の追撃!{f801}</target>
+    <target>{f811}{0000}发动追击！{f801}</target>
   </entry>
   <entry id="193">
     <source>しかし、{f811}{0100}は{f801}現れなかった…{f801}</source>
-    <target>しかし、{f811}{0100}は{f801}現れなかった…{f801}</target>
+    <target>可是，{f811}{0100}{f801}没有出现……{f801}</target>
   </entry>
   <entry id="194">
     <source>{f811}{0000}は{f801}武器の構えを解いた!{f801}</source>
@@ -793,19 +793,19 @@
   </entry>
   <entry id="199">
     <source>ゴーレムの頭が再生した!{f801}</source>
-    <target>ゴーレムの頭が再生した!{f801}</target>
+    <target>魔像的头部再生了！{f801}</target>
   </entry>
   <entry id="200">
     <source>ゴーレムの腕が再生した!{f801}</source>
-    <target>ゴーレムの腕が再生した!{f801}</target>
+    <target>魔像的手臂再生了！{f801}</target>
   </entry>
   <entry id="201">
     <source>ゴーレムの脚が再生した!{f801}</source>
-    <target>ゴーレムの脚が再生した!{f801}</target>
+    <target>魔像的腿部再生了！{f801}</target>
   </entry>
   <entry id="202">
     <source>{f811}{0100}は集中して{f801}睡眠効果を無効化した!{f801}</source>
-    <target>{f811}{0100}は集中して{f801}睡眠効果を無効化した!{f801}</target>
+    <target>{f811}{0100}集中精神，{f801}免疫了睡眠效果！{f801}</target>
   </entry>
   <entry id="203">
     <source>通信エラーが発生しました!{f801}しばらくお待ち下さい。{f801}</source>
@@ -829,7 +829,7 @@
   </entry>
   <entry id="208">
     <source>{f811}{0100}は{f801}身をかわした!{f801}</source>
-    <target>{f811}{0100}は{f801}身をかわした!{f801}</target>
+    <target>{f811}{0100}{f801}闪开了！{f801}</target>
   </entry>
   <entry id="209">
     <source>しかし、{f811}{0100}には{f801}届かなかった!{f801}</source>
@@ -841,7 +841,7 @@
   </entry>
   <entry id="211">
     <source>{f811}{0100}は心眼で{f801}盲目効果を無効化した!{f801}</source>
-    <target>{f811}{0100}は心眼で{f801}盲目効果を無効化した!{f801}</target>
+    <target>{f811}{0100}发动心眼，{f801}免疫了失明效果！{f801}</target>
   </entry>
   <entry id="212">
     <source>{f811}{0100}は{f801}ひるんだ!{f801}</source>
@@ -849,7 +849,7 @@
   </entry>
   <entry id="213">
     <source>{f811}{0000}の態勢が崩れ{f801}{f811}{0300}が解除された!{f801}</source>
-    <target>{f811}{0000}の態勢が崩れ{f801}{f811}{0300}が解除された!{f801}</target>
+    <target>{f811}{0000}的架势崩溃了，{f801}{f811}{0300}被解除了！{f801}</target>
   </entry>
   <entry id="214">
     <source>楽園への導き手が現れた!{f801}</source>
@@ -885,7 +885,7 @@
   </entry>
   <entry id="222">
     <source>{f811}{0100}は、{f801}勢いよく飛んで行った…{f801}</source>
-    <target>{f811}{0100}は、{f801}勢いよく飛んで行った…{f801}</target>
+    <target>{f811}{0100}{f801}猛地飞走了……{f801}</target>
   </entry>
   <entry id="223">
     <source>{f811}{0100}の{f801}{f811}{0200}耐性が上昇した!{f801}</source>
@@ -897,11 +897,11 @@
   </entry>
   <entry id="225">
     <source>{f811}{0100}は{f801}攻撃で砕かれてしまった!{f801}</source>
-    <target>{f811}{0100}は{f801}攻撃で砕かれてしまった!{f801}</target>
+    <target>{f811}{0100}{f801}被攻击击碎了！{f801}</target>
   </entry>
   <entry id="226">
     <source>{f811}{0000}は分裂した!!{f801}</source>
-    <target>{f811}{0000}は分裂した!!{f801}</target>
+    <target>{f811}{0000}分裂了！！{f801}</target>
   </entry>
   <entry id="227">
     <source>{f811}{0000}は{f801}モゾモゾ動き始めた…{f801}</source>
@@ -989,7 +989,7 @@
   </entry>
   <entry id="248">
     <source>{f811}{0100}はどこかへ{f801}飛んで行った…{f801}</source>
-    <target>{f811}{0100}はどこかへ{f801}飛んで行った…{f801}</target>
+    <target>{f811}{0100}{f801}不知道飞到哪儿去了……{f801}</target>
   </entry>
   <entry id="250">
     <source>味方全体が{f801}敵の攻撃を阻む光に包まれた!{f801}</source>
@@ -1057,11 +1057,11 @@
   </entry>
   <entry id="268">
     <source>コストカット発動!{f801}</source>
-    <target>コストカット発動!{f801}</target>
+    <target>コストカット发动！{f801}</target>
   </entry>
   <entry id="269">
     <source>{f811}{0000}は{f801}周囲に瘴気をまき散らした!{f801}</source>
-    <target>{f811}{0000}は{f801}周囲に瘴気をまき散らした!{f801}</target>
+    <target>{f811}{0000}{f801}向周围释放了瘴气！{f801}</target>
   </entry>
   <entry id="270">
     <source>{f811}{0000}の効果!{f801}</source>
@@ -1101,7 +1101,7 @@
   </entry>
   <entry id="279">
     <source>{f811}{0100}の{f801}ユニオンゲージが減少した!{f801}</source>
-    <target>{f811}{0100}の{f801}ユニオンゲージが減少した!{f801}</target>
+    <target>{f811}{0100}的{f801}协力槽减少了！{f801}</target>
   </entry>
   <entry id="280">
     <source>{f811}{0000}の砲剣が{f801}オーバーヒートした!{f801}</source>
@@ -1125,11 +1125,11 @@
   </entry>
   <entry id="285">
     <source>{f811}{0000}は様子を見ている{f801}</source>
-    <target>{f811}{0000}正在观察情况{f801}</target>
+    <target>{f811}{0000}正在观察情况。{f801}</target>
   </entry>
   <entry id="286">
     <source>{f811}{0000}はターゲットを探している{f801}</source>
-    <target>{f811}{0000}正在寻找目标{f801}</target>
+    <target>{f811}{0000}正在寻找目标。{f801}</target>
   </entry>
   <entry id="287">
     <source>{f811}{0000}は{f801}大きくふくれ上がった!{f801}</source>
@@ -1189,7 +1189,7 @@
   </entry>
   <entry id="301">
     <source>{f811}{0100}の{f801}氷属性耐性が上昇した!{f801}</source>
-    <target>{f811}{0100}的{f801}冰属性抗性提升!！{f801}</target>
+    <target>{f811}{0100}的{f801}冰属性抗性提升！！{f801}</target>
   </entry>
   <entry id="302">
     <source>{f811}{0100}の{f801}雷属性耐性が上昇した!{f801}</source>
@@ -1337,7 +1337,7 @@
   </entry>
   <entry id="404">
     <source>{f811}{0000}は、最後の力で{f801}{f811}{0100}を呼び出した!{f801}</source>
-    <target>{f811}{0000}は、最後の力で{f801}{f811}{0100}を呼び出した!{f801}</target>
+    <target>{f811}{0000}使出最后的力气，{f801}召唤出了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="405">
     <source>周囲のFOEが戸惑っている{f801}</source>
@@ -1349,7 +1349,7 @@
   </entry>
   <entry id="407">
     <source>{f811}{0000}は、{f801}翼を切り離した!{f801}</source>
-    <target>{f811}{0000}は、{f801}翼を切り離した!{f801}</target>
+    <target>{f811}{0000}{f801}斩断了翅膀！{f801}</target>
   </entry>
   <entry id="408">
     <source>{f811}{0100}発動!!{f801}{f811}{0000}のダメージは減少した!{f801}</source>
@@ -1425,7 +1425,7 @@
   </entry>
   <entry id="426">
     <source>{f811}{0100}は{f801}敵から狙われやすくなった!{f801}</source>
-    <target>{f811}{0100}{f801}更容易成为敌人的目标了！{f801}</target>
+    <target>{f811}{0100}{f801}变得更容易被敌人锁定！{f801}</target>
   </entry>
   <entry id="427">
     <source>{f811}{0100}の狙われる確率が上昇した!{f801}回避率が上昇した!{f801}</source>
@@ -1473,7 +1473,7 @@
   </entry>
   <entry id="438">
     <source>{f811}{0100}を図鑑に登録した!{f801}</source>
-    <target>已将{f811}{0100}登记到图鉴中！{f801}</target>
+    <target>已将{f811}{0100}登录到图鉴中！{f801}</target>
   </entry>
   <entry id="439">
     <source>しかし、{f811}{0100}は{f801}スタンしなかった{f801}</source>
@@ -1489,7 +1489,7 @@
   </entry>
   <entry id="442">
     <source>{f811}{0100}は{f801}{f811}{0000}の攻撃に耐えた!{f801}</source>
-    <target>{f811}{0100}顶住了{f801}{f811}{0000}的攻击！{f801}</target>
+    <target>{f811}{0100}{f801}承受住了{f811}{0000}的攻击！{f801}</target>
   </entry>
   <entry id="443">
     <source>しかし、{f811}{0300}は{f801}発動しなかった!{f801}</source>
@@ -1573,15 +1573,15 @@
   </entry>
   <entry id="464">
     <source>星喰は攻撃を受け流した!{f801}</source>
-    <target>星喰は攻撃を受け流した!{f801}</target>
+    <target>星喰は攻撃を受け流した！{f801}</target>
   </entry>
   <entry id="465">
     <source>エレメントデコイは{f801}攻撃を無効化した!{f801}</source>
-    <target>エレメントデコイは{f801}攻撃を無効化した!{f801}</target>
+    <target>因为エレメントデコイ{f801}免疫了攻击！{f801}</target>
   </entry>
   <entry id="466">
     <source>{f811}{0100}は{f801}{f811}{0300}を無効化した!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0300}を無効化した!{f801}</target>
+    <target>{f811}{0100}将{f801}{f811}{0300}无效化了！{f801}</target>
   </entry>
   <entry id="467">
     <source>{f811}{0000}は{f801}{f811}{0300}で反撃した!{f801}</source>
@@ -1589,11 +1589,11 @@
   </entry>
   <entry id="468">
     <source>{f811}{0000}は{f801}炎に驚いて構えをといた!{f801}</source>
-    <target>{f811}{0000}は{f801}炎に驚いて構えをといた!{f801}</target>
+    <target>{f811}{0000}被火吓了一跳，{f801}解除了架势！{f801}</target>
   </entry>
   <entry id="469">
     <source>{f811}{0000}は攻撃を受けすぎて{f801}腕がしびれてしまった!{f801}</source>
-    <target>{f811}{0000}は攻撃を受けすぎて{f801}腕がしびれてしまった!{f801}</target>
+    <target>由于承受了过多攻击，{f801}{f811}{0000}的手臂发麻了！{f801}</target>
   </entry>
   <entry id="470">
     <source>{f811}{0000}は{f801}{f811}{0300}で反撃した!{f801}</source>
@@ -1601,7 +1601,7 @@
   </entry>
   <entry id="471">
     <source>アリアドネの糸に火が燃え移ってしまった!{f801}</source>
-    <target>アリアドネの糸に火が燃え移ってしまった!{f801}</target>
+    <target>阿里阿德涅之线被火烧着了！{f801}</target>
   </entry>
   <entry id="472">
     <source>{f811}{0000}の全耐性が低下した!{f801}</source>
@@ -1625,7 +1625,7 @@
   </entry>
   <entry id="477">
     <source>{f811}{0300}は{f801}{f811}{0100}をかばった!{f801}</source>
-    <target>{f811}{0300}は{f801}{f811}{0100}をかばった!{f801}</target>
+    <target>{f811}{0300}{f801}保护了{f811}{0100}！{f801}</target>
   </entry>
   <entry id="478">
     <source>{f811}{0100}の状態異常と封じ付着は{f801}無効化された!{f801}</source>
@@ -1649,19 +1649,19 @@
   </entry>
   <entry id="483">
     <source>敵味方全ての{f801}強化・弱体の効果ターンを延長させた!{f801}</source>
-    <target>敵味方全ての{f801}強化・弱体の効果ターンを延長させた!{f801}</target>
+    <target>延长了敌我双方{f801}所有强化・弱化效果的有效回合数！{f801}</target>
   </entry>
   <entry id="484">
     <source>{f811}{0100}への攻撃は外れた!{f801}</source>
-    <target>{f811}{0100}への攻撃は外れた!{f801}</target>
+    <target>对{f811}{0100}的攻击落空了！{f801}</target>
   </entry>
   <entry id="491">
     <source>{f811}{0100}は既に図鑑登録されている{f801}</source>
-    <target>{f811}{0100}は既に図鑑登録されている{f801}</target>
+    <target>{f811}{0100}已登录在图鉴中。{f801}</target>
   </entry>
   <entry id="495">
     <source>{f811}{0100}を弱らせた{f801}</source>
-    <target>{f811}{0100}被削弱了{f801}</target>
+    <target>{f811}{0100}被削弱了。{f801}</target>
   </entry>
   <entry id="496">
     <source>{f811}{0100}の通常攻撃力が上昇した!{f801}通常攻撃が全体化した!{f801}</source>
@@ -1673,7 +1673,7 @@
   </entry>
   <entry id="498">
     <source>{f811}{0000}は{f801}{f811}{0200}をとった!{f801}</source>
-    <target>{f811}{0000}{f801}抓住了{f811}{0200}！{f801}</target>
+    <target>{f811}{0000}{f801}施展了{f811}{0200}！{f801}</target>
   </entry>
   <entry id="499">
     <source>{f811}{0000}は{f801}天高く矢を放った!{f801}</source>
@@ -1685,7 +1685,7 @@
   </entry>
   <entry id="501">
     <source>{f811}{0000}は{f801}身構え敵の動きを見守っている{f801}</source>
-    <target>{f811}{0000}摆好架势，{f801}注视着敌人的动向{f801}</target>
+    <target>{f811}{0000}摆好架势，{f801}注视着敌人的动向。{f801}</target>
   </entry>
   <entry id="502">
     <source>{f811}{0000}は{f801}{f811}{0300}を歌った!{f801}</source>
@@ -1845,7 +1845,7 @@
   </entry>
   <entry id="542">
     <source>{f811}{0100}の{f801}ユニオンゲージが増加した!{f801}</source>
-    <target>{f811}{0100}の{f801}ユニオンゲージが増加した!{f801}</target>
+    <target>{f811}{0100}的{f801}协力槽增加了！{f801}</target>
   </entry>
   <entry id="543">
     <source>{f811}{0100}の{f801}攻撃・防御力が上昇した!{f801}</source>
@@ -2061,19 +2061,19 @@
   </entry>
   <entry id="596">
     <source>ゴーレムとチビゴーレム{f801}</source>
-    <target>ゴーレムとチビゴーレム{f801}</target>
+    <target>魔像与小魔像{f801}</target>
   </entry>
   <entry id="597">
     <source>チビゴーレムたち{f801}</source>
-    <target>チビゴーレムたち{f801}</target>
+    <target>小魔像{f801}</target>
   </entry>
   <entry id="598">
     <source>ゴーレム{f801}</source>
-    <target>ゴーレム{f801}</target>
+    <target>魔像{f801}</target>
   </entry>
   <entry id="599">
     <source>ゴーレムを撃破した!{f801}</source>
-    <target>ゴーレムを撃破した!{f801}</target>
+    <target>击败了魔像！{f801}</target>
   </entry>
   <entry id="600">
     <source>{f811}{0100}は{f801}テラー状態になった!{f801}</source>
@@ -2081,51 +2081,51 @@
   </entry>
   <entry id="601">
     <source>{f811}{0100}は正気に戻った!{f801}</source>
-    <target>{f811}{0100}恢复正常了{f801}</target>
+    <target>{f811}{0100}恢复正常了！{f801}</target>
   </entry>
   <entry id="602">
     <source>アンデッドキングと屍兵{f801}</source>
-    <target>アンデッドキングと屍兵{f801}</target>
+    <target>不死之王与尸兵{f801}</target>
   </entry>
   <entry id="603">
     <source>アンデッドキングを撃破した!{f801}</source>
-    <target>アンデッドキングを撃破した!{f801}</target>
+    <target>击败了不死之王！{f801}</target>
   </entry>
   <entry id="604">
     <source>デッドソードマンたち{f801}</source>
-    <target>デッドソードマンたち{f801}</target>
+    <target>亡骸剑士{f801}</target>
   </entry>
   <entry id="605">
     <source>デッドボウマンたち{f801}</source>
-    <target>デッドボウマンたち{f801}</target>
+    <target>亡骸弓手{f801}</target>
   </entry>
   <entry id="606">
     <source>ラミアとバインドスネーク{f801}</source>
-    <target>ラミアとバインドスネーク{f801}</target>
+    <target>拉弥亚与束缚之蛇{f801}</target>
   </entry>
   <entry id="607">
     <source>ラミアを撃破した!{f801}</source>
-    <target>ラミアを撃破した!{f801}</target>
+    <target>击败了拉弥亚！{f801}</target>
   </entry>
   <entry id="608">
     <source>ゴーレムが現れた!{f801}</source>
-    <target>ゴーレムが現れた!{f801}</target>
+    <target>魔像出现了！{f801}</target>
   </entry>
   <entry id="609">
     <source>バインドスネークたち{f801}</source>
-    <target>バインドスネークたち{f801}</target>
+    <target>束缚之蛇{f801}</target>
   </entry>
   <entry id="610">
     <source>星喰と再生パーツ{f801}</source>
-    <target>星喰と再生パーツ{f801}</target>
+    <target>噬星者与再生零件{f801}</target>
   </entry>
   <entry id="611">
     <source>星喰を撃破した!{f801}</source>
-    <target>星喰を撃破した!{f801}</target>
+    <target>击败了噬星者！{f801}</target>
   </entry>
   <entry id="612">
     <source>ロケットエンジンとボムズチャンバー{f801}</source>
-    <target>ロケットエンジンとボムズチャンバー{f801}</target>
+    <target>火箭引擎与炸弹舱{f801}</target>
   </entry>
   <entry id="633">
     <source>モンスター達は{f801}次のターンの追撃に備えた!{f801}</source>
@@ -2169,7 +2169,7 @@
   </entry>
   <entry id="643">
     <source>体内から蛇を出した!{f801}</source>
-    <target>体内から蛇を出した!{f801}</target>
+    <target>从身体里释放出了蛇！{f801}</target>
   </entry>
   <entry id="644">
     <source>始原の幼子の精神体が具現化した!{f801}</source>
@@ -2185,7 +2185,7 @@
   </entry>
   <entry id="647">
     <source>{f811}{0000}は{f801}{f811}{0300}をとった!{f801}</source>
-    <target>{f811}{0000}{f801}抓住了{f811}{0300}！{f801}</target>
+    <target>{f811}{0000}{f801}施展了{f811}{0300}！{f801}</target>
   </entry>
   <entry id="648">
     <source>{f811}{0100}効果で先手をとった!{f801}</source>
@@ -2213,7 +2213,7 @@
   </entry>
   <entry id="654">
     <source>{f811}{0000}は{f801}牙を研ぎ始めた{f801}</source>
-    <target>{f811}{0000}开始磨牙{f801}</target>
+    <target>{f811}{0000}开始磨牙。{f801}</target>
   </entry>
   <entry id="655">
     <source>{f811}{0000}は大きく息を吸い込んだ!{f801}</source>
@@ -2245,7 +2245,7 @@
   </entry>
   <entry id="662">
     <source>{f811}{0100}の{f801}魔法属性耐性が低下した!{f801}</source>
-    <target>{f811}{0100}的{f801}魔法属性耐性下降！{f801}</target>
+    <target>{f811}{0100}的{f801}魔法属性抗性下降！{f801}</target>
   </entry>
   <entry id="663">
     <source>すべての耐性が低下した!{f801}</source>
@@ -2301,7 +2301,7 @@
   </entry>
   <entry id="676">
     <source>{f811}{0300}発動!{f801}</source>
-    <target>{f811}{0300}発動！{f801}</target>
+    <target>{f811}{0300}发动！{f801}</target>
   </entry>
   <entry id="677">
     <source>{f811}{0100}は{f801}攻撃に耐えた!{f801}</source>
@@ -2369,238 +2369,238 @@
   </entry>
   <entry id="694">
     <source>攻撃しようとしたが{f801}{f811}{0000}の脚はなかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}{f811}{0000}の脚はなかった!{f801}</target>
+    <target>试图发起攻击，{f801}可是{f811}{0000}没有腿部了！{f801}</target>
   </entry>
   <entry id="695">
     <source>攻撃しようとしたが{f801}{f811}{0000}の腕はなかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}{f811}{0000}の腕はなかった!{f801}</target>
+    <target>试图发起攻击，{f801}可是{f811}{0000}没有手臂了！{f801}</target>
   </entry>
   <entry id="696">
     <source>攻撃しようとしたが{f801}{f811}{0000}の頭はなかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}{f811}{0000}の頭はなかった!{f801}</target>
+    <target>试图发起攻击，{f801}可是{f811}{0000}没有头部了！{f801}</target>
   </entry>
   <entry id="697">
     <source>{f811}{0000}は{f801}警戒レベルを1に高めた!{f801}</source>
-    <target>{f811}{0000}は{f801}警戒レベルを1に高めた!{f801}</target>
+    <target>{f811}{0000}{f801}把警戒级别提高到了1！{f801}</target>
   </entry>
   <entry id="698">
     <source>{f811}{0000}は{f801}警戒レベルを2に高めた!{f801}</source>
-    <target>{f811}{0000}は{f801}警戒レベルを2に高めた!{f801}</target>
+    <target>{f811}{0000}{f801}把警戒级别提高到了2！{f801}</target>
   </entry>
   <entry id="699">
     <source>{f811}{0000}は{f801}警戒レベルを3に高めた!{f801}</source>
-    <target>{f811}{0000}は{f801}警戒レベルを3に高めた!{f801}</target>
+    <target>{f811}{0000}{f801}把警戒级别提高到了3！{f801}</target>
   </entry>
   <entry id="700">
     <source>{f811}{0000}の{f801}警戒レベルがMAXに達した!{f801}</source>
-    <target>{f811}{0000}の{f801}警戒レベルがMAXに達した!{f801}</target>
+    <target>{f811}{0000}{f801}把警戒级别提高到了MAX！{f801}</target>
   </entry>
   <entry id="701">
     <source>{f811}{0000}の{f801}警戒レベルはMAXに達している!{f801}</source>
-    <target>{f811}{0000}の{f801}警戒レベルはMAXに達している!{f801}</target>
+    <target>{f811}{0000}的{f801}警戒级别已到达MAX！{f801}</target>
   </entry>
   <entry id="702">
     <source>{f811}{0000}は{f801}ぼーっとしている…{f801}</source>
-    <target>{f811}{0000}は{f801}ぼーっとしている…{f801}</target>
+    <target>{f811}{0000}{f801}正在发呆……{f801}</target>
   </entry>
   <entry id="703">
     <source>{f811}{0000}は{f801}あらぬ方向を向いている…{f801}</source>
-    <target>{f811}{0000}は{f801}あらぬ方向を向いている…{f801}</target>
+    <target>{f811}{0000}{f801}看向了一个奇怪的方向……{f801}</target>
   </entry>
   <entry id="704">
     <source>ナイトレディは{f801}何かを呟いている!{f801}</source>
-    <target>ナイトレディは{f801}何かを呟いている!{f801}</target>
+    <target>暗夜女士{f801}正在低声念叨着什么！{f801}</target>
   </entry>
   <entry id="705">
     <source>瘴気が誘爆した!{f801}</source>
-    <target>瘴気が誘爆した!{f801}</target>
+    <target>瘴气引发了连锁爆炸！{f801}</target>
   </entry>
   <entry id="706">
     <source>竜の咆哮とともに瘴気が満ちた!{f801}</source>
-    <target>竜の咆哮とともに瘴気が満ちた!{f801}</target>
+    <target>伴随着龙的吼叫，瘴气充满了四周！{f801}</target>
   </entry>
   <entry id="707">
     <source>ダークヒール発動!{f801}</source>
-    <target>ダークヒール発動!{f801}</target>
+    <target>ダークヒール发动！{f801}</target>
   </entry>
   <entry id="708">
     <source>瘴気が晴れた!{f801}</source>
-    <target>瘴気が晴れた!{f801}</target>
+    <target>瘴气散去了！{f801}</target>
   </entry>
   <entry id="709">
     <source>仲間食いをしようとしたが{f801}お化けドングリが居なかった!{f801}</source>
-    <target>仲間食いをしようとしたが{f801}お化けドングリが居なかった!{f801}</target>
+    <target>想要吞噬同伴，{f801}但发现没有妖怪橡果了！{f801}</target>
   </entry>
   <entry id="710">
     <source>ミラーアイアイは{f801}猿走高飛を使った!{f801}</source>
-    <target>ミラーアイアイは{f801}猿走高飛を使った!{f801}</target>
+    <target>镜像指猴{f801}使用了猿走高飛！{f801}</target>
   </entry>
   <entry id="711">
     <source>反骨の針雀から{f801}無数の針が飛び出した!{f801}</source>
-    <target>反骨の針雀から{f801}無数の針が飛び出した!{f801}</target>
+    <target>从反骨针雀身上{f801}射出了无数的针！{f801}</target>
   </entry>
   <entry id="712">
     <source>{f811}{0100}の{f801}攻撃力と防御力と命中率が上昇した!{f801}</source>
-    <target>{f811}{0100}の{f801}攻撃力と防御力と命中率が上昇した!{f801}</target>
+    <target>{f811}{0100}的{f801}攻击力、防御力和命中率提升！{f801}</target>
   </entry>
   <entry id="713">
     <source>攻撃しようとしたが{f801}デッドソードマンが居なかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}デッドソードマンが居なかった!{f801}</target>
+    <target>试图发起攻击，{f801}可是没有亡骸剑士在！{f801}</target>
   </entry>
   <entry id="714">
     <source>攻撃しようとしたが{f801}デッドボウマンが居なかった!{f801}</source>
-    <target>攻撃しようとしたが{f801}デッドボウマンが居なかった!{f801}</target>
+    <target>试图发起攻击，{f801}可是没有亡骸弓手在！{f801}</target>
   </entry>
   <entry id="715">
     <source>{f811}{0100}の空蝉の衣が{f801}解除された!!{f801}</source>
-    <target>{f811}{0100}の空蝉の衣が{f801}解除された!!{f801}</target>
+    <target>{f811}{0100}的{f801}空蝉の衣解除了！！{f801}</target>
   </entry>
   <entry id="716">
     <source>{f811}{0000}は{f811}{0200}を{f801}生贄にしてモンスターを召喚した!{f801}</source>
-    <target>{f811}{0000}は{f811}{0200}を{f801}生贄にしてモンスターを召喚した!{f801}</target>
+    <target>{f811}{0000}将{f801}{f811}{0200}作为祭品，召唤了魔物！{f801}</target>
   </entry>
   <entry id="717">
     <source>グリムドッグの魂喰いが発動した!!{f801}</source>
-    <target>グリムドッグの魂喰いが発動した!!{f801}</target>
+    <target>冷酷猎犬的魂喰い发动了！！{f801}</target>
   </entry>
   <entry id="718">
     <source>星喰はロケットエンジンを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はロケットエンジンを修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复火箭引擎，{f801}然而火箭引擎并没有坏！！{f801}</target>
   </entry>
   <entry id="719">
     <source>星喰は機敏の光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰は機敏の光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复机敏的光剑，{f801}然而机敏的光剑并没有坏！！{f801}</target>
   </entry>
   <entry id="720">
     <source>星喰は大振りの光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰は大振りの光剣を修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复大抡的光剑，{f801}然而大抡的光剑并没有坏！！{f801}</target>
   </entry>
   <entry id="721">
     <source>星喰はサウンドカノンを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はサウンドカノンを修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复音波加农炮，{f801}然而音波加农炮并没有坏！！{f801}</target>
   </entry>
   <entry id="722">
     <source>星喰はエナジーチューブを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はエナジーチューブを修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复能量导管，{f801}然而能量导管并没有坏！！{f801}</target>
   </entry>
   <entry id="723">
     <source>星喰はボムズチャンバーを修復しようとしたが、{f801}壊れていなかった!!{f801}</source>
-    <target>星喰はボムズチャンバーを修復しようとしたが、{f801}壊れていなかった!!{f801}</target>
+    <target>噬星者试图修复炸弹舱，{f801}然而炸弹舱并没有坏！！{f801}</target>
   </entry>
   <entry id="724">
     <source>{f811}{0100}の{f801}封じ、状態異常耐性が低下した!{f801}</source>
-    <target>{f811}{0100}の{f801}封じ、状態異常耐性が低下した!{f801}</target>
+    <target>{f811}{0100}的{f801}封印、异常状态抗性下降！{f801}</target>
   </entry>
   <entry id="725">
     <source>首刈りの断罪者は{f801}次の攻撃に備えている!{f801}</source>
-    <target>首刈りの断罪者は{f801}次の攻撃に備えている!{f801}</target>
+    <target>斩首的断罪者{f801}正在为下一次攻击做准备！{f801}</target>
   </entry>
   <entry id="726">
     <source>周囲に満ちた瘴気が体を蝕んだ!{f801}</source>
-    <target>周囲に満ちた瘴気が体を蝕んだ!{f801}</target>
+    <target>周围弥漫的瘴气侵蚀了身体！{f801}</target>
   </entry>
   <entry id="727">
     <source>幽冥なる原初の主は{f801}周囲の瘴気を吸い込んだ!{f801}</source>
-    <target>幽冥なる原初の主は{f801}周囲の瘴気を吸い込んだ!{f801}</target>
+    <target>幽冥的原始之主{f801}吸入了周围的瘴气！{f801}</target>
   </entry>
   <entry id="728">
     <source>星喰は{f801}ロケットエンジンを再生させた!{f801}</source>
-    <target>星喰は{f801}ロケットエンジンを再生させた!{f801}</target>
+    <target>噬星者{f801}修复了火箭引擎！{f801}</target>
   </entry>
   <entry id="729">
     <source>星喰は{f801}機敏の光剣を再生させた!{f801}</source>
-    <target>星喰は{f801}機敏の光剣を再生させた!{f801}</target>
+    <target>噬星者{f801}修复了机敏的光剑！{f801}</target>
   </entry>
   <entry id="730">
     <source>星喰は{f801}大振りの光剣を再生させた!{f801}</source>
-    <target>星喰は{f801}大振りの光剣を再生させた!{f801}</target>
+    <target>噬星者{f801}修复了大抡的光剑！{f801}</target>
   </entry>
   <entry id="731">
     <source>星喰は{f801}サウンドカノンを再生させた!{f801}</source>
-    <target>星喰は{f801}サウンドカノンを再生させた!{f801}</target>
+    <target>噬星者{f801}修复了音波加农炮！{f801}</target>
   </entry>
   <entry id="732">
     <source>星喰は{f801}エナジーチューブを再生させた!{f801}</source>
-    <target>星喰は{f801}エナジーチューブを再生させた!{f801}</target>
+    <target>噬星者{f801}修复了能量导管！{f801}</target>
   </entry>
   <entry id="733">
     <source>星喰は{f801}ボムズチャンバーを再生させた!{f801}</source>
-    <target>星喰は{f801}ボムズチャンバーを再生させた!{f801}</target>
+    <target>噬星者{f801}修复了炸弹舱！{f801}</target>
   </entry>
   <entry id="734">
     <source>ロケットエンジンは行動できない!{f801}</source>
-    <target>ロケットエンジンは行動できない!{f801}</target>
+    <target>火箭引擎无法行动！{f801}</target>
   </entry>
   <entry id="735">
     <source>機敏の光剣は行動できない!{f801}</source>
-    <target>機敏の光剣は行動できない!{f801}</target>
+    <target>机敏的光剑无法行动！{f801}</target>
   </entry>
   <entry id="736">
     <source>大振りの光剣は行動できない!{f801}</source>
-    <target>大振りの光剣は行動できない!{f801}</target>
+    <target>大抡的光剑无法行动！{f801}</target>
   </entry>
   <entry id="737">
     <source>サウンドカノンは行動できない!{f801}</source>
-    <target>サウンドカノンは行動できない!{f801}</target>
+    <target>音波加农炮无法行动！{f801}</target>
   </entry>
   <entry id="738">
     <source>エナジーチューブは行動できない!{f801}</source>
-    <target>エナジーチューブは行動できない!{f801}</target>
+    <target>能量导管无法行动！{f801}</target>
   </entry>
   <entry id="739">
     <source>ボムズチャンバーは行動できない!{f801}</source>
-    <target>ボムズチャンバーは行動できない!{f801}</target>
+    <target>炸弹舱无法行动！{f801}</target>
   </entry>
   <entry id="740">
     <source>{f811}{0100}は{f801}不思議な香りに包まれた!{f801}</source>
-    <target>{f811}{0100}は{f801}不思議な香りに包まれた!{f801}</target>
+    <target>{f811}{0100}{f801}被不可思议的香气包围了！{f801}</target>
   </entry>
   <entry id="741">
     <source>{f811}{0100}は{f801}ハーブの香りに包まれた!{f801}</source>
-    <target>{f811}{0100}は{f801}ハーブの香りに包まれた!{f801}</target>
+    <target>{f811}{0100}{f801}被香草的香气包围了！{f801}</target>
   </entry>
   <entry id="742">
     <source>ヒポグリフは{f801}ウイングシールドを解除した!{f801}</source>
-    <target>ヒポグリフは{f801}ウイングシールドを解除した!{f801}</target>
+    <target>骏鹰{f801}解除了ウイングシールド！{f801}</target>
   </entry>
   <entry id="743">
     <source>水晶竜は{f801}モードチェンジをした!{f801}</source>
-    <target>水晶竜は{f801}モードチェンジをした!{f801}</target>
+    <target>水晶龙{f801}进行了モードチェンジ！{f801}</target>
   </entry>
   <entry id="744">
     <source>星喰は{f801}エネルギーを充填した!{f801}</source>
-    <target>星喰は{f801}エネルギーを充填した!{f801}</target>
+    <target>噬星者{f801}进行了エネルギー充填！{f801}</target>
   </entry>
   <entry id="745">
     <source>星喰は{f801}強壮剤を注入した!{f801}</source>
-    <target>星喰は{f801}強壮剤を注入した!{f801}</target>
+    <target>噬星者{f801}注射了强壮剂！{f801}</target>
   </entry>
   <entry id="746">
     <source>星喰は{f801}硬化剤を注入した!{f801}</source>
-    <target>星喰は{f801}硬化剤を注入した!{f801}</target>
+    <target>噬星者{f801}注射了硬化剂！{f801}</target>
   </entry>
   <entry id="747">
     <source>万物を刈りしものは{f801}逆切れした!{f801}</source>
-    <target>万物を刈りしものは{f801}逆切れした!{f801}</target>
+    <target>万物收割者{f801}恼羞成怒了！{f801}</target>
   </entry>
   <entry id="748">
     <source>ヒポグリフは休息した!{f801}</source>
-    <target>ヒポグリフは休息した!{f801}</target>
+    <target>骏鹰进行了休息！{f801}</target>
   </entry>
   <entry id="749">
     <source>アンデッドキングは翼を呼び寄せた!{f801}</source>
-    <target>アンデッドキングは翼を呼び寄せた!{f801}</target>
+    <target>不死之王召唤来了翅膀！{f801}</target>
   </entry>
   <entry id="750">
     <source>ドリアードは形態を変化させた!{f801}</source>
-    <target>ドリアードは形態を変化させた!{f801}</target>
+    <target>德律阿得斯改变了形态！{f801}</target>
   </entry>
   <entry id="751">
     <source>{f811}{0100}はチェインスキルの{f801}追撃率と攻撃力を高めた!{f801}</source>
-    <target>{f811}{0100}はチェインスキルの{f801}追撃率と攻撃力を高めた!{f801}</target>
+    <target>{f811}{0100}提高了{f801}连携技能的追击率和攻击力！{f801}</target>
   </entry>
   <entry id="752">
     <source>{f811}{0100}は{f801}{f811}{0300}の効果で無効化した!{f801}</source>
-    <target>{f811}{0100}は{f801}{f811}{0300}の効果で無効化した!{f801}</target>
+    <target>{f811}{0100}{f801}将{f811}{0300}的效果无效了！{f801}</target>
   </entry>
 </mbm>

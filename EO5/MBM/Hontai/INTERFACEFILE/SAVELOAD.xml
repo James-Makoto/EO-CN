@@ -221,7 +221,7 @@
   </entry>
   <entry id="112">
     <source>SDカードに必要な空き容量が{f801}ありません{f801}追加データの作成に失敗しました{f801}</source>
-    <target>SD卡必需空余容量不足。{f801}追加数据创建失败。{f801}</target>
+    <target>SD卡所需空余容量不足。{f801}追加数据创建失败。{f801}</target>
   </entry>
   <entry id="113">
     <source>エラーが発生し、作成が途中で{f801}中断されました{f801}追加データの作成に失敗しました{f801}</source>
@@ -269,7 +269,7 @@
   </entry>
   <entry id="136">
     <source>SDカードに必要な空き容量が{f801}ありません。SDカードへの{f801}書き込みに失敗しました{f801}</source>
-    <target>SD卡必需空余容量不足。{f801}SD卡写入失败。{f801}</target>
+    <target>SD卡所需空余容量不足。{f801}SD卡写入失败。{f801}</target>
   </entry>
   <entry id="137">
     <source>SDカードを認識できませんでした{f801}SDカードの読み込みに{f801}失敗しました{f801}</source>
@@ -313,7 +313,7 @@
   </entry>
   <entry id="162">
     <source>SDカードに必要な空き容量がありません{f801}SDカードへの書き込みに失敗しました{f801}</source>
-    <target>SD卡必需空余容量不足。{f801}SD卡写入失败。{f801}</target>
+    <target>SD卡所需空余容量不足。{f801}SD卡写入失败。{f801}</target>
   </entry>
   <entry id="170">
     <source>すれちがい通信にデータを{f801}反映しています{f801}</source>

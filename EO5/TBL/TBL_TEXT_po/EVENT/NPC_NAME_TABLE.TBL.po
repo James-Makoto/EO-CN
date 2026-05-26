@@ -21,7 +21,7 @@ msgstr "洁涅塔"
 
 msgctxt "2"
 msgid "セリク"
-msgstr "赛利克"
+msgstr "瑟里克"
 
 msgctxt "3"
 msgid "メリーナ"
@@ -29,11 +29,11 @@ msgstr "梅莉娜"
 
 msgctxt "4"
 msgid "エドガー"
-msgstr "艾德格"
+msgstr "埃德加"
 
 msgctxt "5"
 msgid "レムス"
-msgstr "雷姆斯"
+msgstr "雷穆斯"
 
 msgctxt "6"
 msgid "ソロル"
@@ -45,7 +45,7 @@ msgstr "莉莉"
 
 msgctxt "8"
 msgid "アルコン"
-msgstr "亚尔柯"
+msgstr "阿尔空"
 
 msgctxt "9"
 msgid "衛兵"

@@ -13,7 +13,7 @@
   </entry>
   <entry id="3">
     <source>秘宝・{f811}{0000}の情報を手に入れました!{f801}</source>
-    <target>秘宝・{f811}{0000}的情报入手了!{f801}</target>
+    <target>秘宝・{f811}{0000}的情报入手了！{f801}</target>
   </entry>
   <entry id="4">
     <source>条件を満たしていません。{f801}</source>
@@ -21,7 +21,7 @@
   </entry>
   <entry id="5">
     <source>このギルドカードを削除します{f801}よろしいですか?{f801}</source>
-    <target>将删除这个公会名片。{f801}确定吗?{f801}</target>
+    <target>将删除这个公会名片。{f801}确定吗？{f801}</target>
   </entry>
   <entry id="6">
     <source>ギルドカードを削除しました。{f801}</source>
@@ -41,11 +41,11 @@
   </entry>
   <entry id="10">
     <source>ギルドに登録しますか?{f801}</source>
-    <target>要注册到公会吗?{f801}</target>
+    <target>要注册到公会吗？{f801}</target>
   </entry>
   <entry id="11">
     <source>ゲームコイン20枚を使って{f801}このキャラクターをギルドに登録しますか。{f801}</source>
-    <target>要使用20枚游戏硬币{f801}来注册这个角色到公会中吗?{f801}</target>
+    <target>要使用20枚游戏硬币{f801}来注册这个角色到公会中吗？{f801}</target>
   </entry>
   <entry id="12">
     <source>ギルドに登録しました。{f801}</source>
@@ -57,7 +57,7 @@
   </entry>
   <entry id="14">
     <source>数字は5文字までしか入力できません。{f801}もう一度、入力してください。{f801}</source>
-    <target>不能输入超过5个的数字。{f801}请重新输入。{f801}</target>
+    <target>不能输入超过5位的数字。{f801}请重新输入。{f801}</target>
   </entry>
   <entry id="19">
     <source>{f804}{0500}他者を不快にしたり、その権利を侵害する{f801}文章{f804}{0000}や{f804}{0500}自身や他人のプライベートな情報{f804}{0000}は{f801}他人に渡したり公開しないでください{f801}</source>
@@ -69,7 +69,7 @@
   </entry>
   <entry id="21">
     <source>SDカードに出力してよろしいですか?{f801}</source>
-    <target>要导出到SD卡中吗?{f801}</target>
+    <target>要导出到SD卡中吗？{f801}</target>
   </entry>
   <entry id="22">
     <source>SDカードにアクセスできません。{f801}</source>
@@ -89,7 +89,7 @@
   </entry>
   <entry id="26">
     <source>ギルドカードのデータを画像データとして{f801}SDカードに出力してよろしいですか?{f801}</source>
-    <target>要将公会名片的数据以图像形式{f801}导出到SD卡中吗?{f801}</target>
+    <target>要将公会名片的数据以图像形式{f801}导出到SD卡中吗？{f801}</target>
   </entry>
   <entry id="27">
     <source>画像データの出力に失敗しました。{f801}</source>
@@ -101,7 +101,7 @@
   </entry>
   <entry id="29">
     <source>グリモアを生成しますか?{f801}</source>
-    <target>要生成魔导石吗?{f801}</target>
+    <target>要生成魔导石吗？{f801}</target>
   </entry>
   <entry id="30">
     <source>グリモアの生成は行えないようだ{f801}</source>
@@ -121,7 +121,7 @@
   </entry>
   <entry id="42">
     <source>トレード交渉しますか?{f801}</source>
-    <target>要进行交易交涉吗？?{f801}</target>
+    <target>要进行交易交涉吗？？{f801}</target>
   </entry>
   <entry id="43">
     <source>追加コンテンツのためトレードが行えません{f801}</source>
@@ -133,26 +133,26 @@
   </entry>
   <entry id="46">
     <source>ギルドカードの所持限界数を超えています{f801}ギルドカードを削除してください{f801}ギルドカードは40枚まで所持できます{f801}</source>
-    <target>ギルドカードの所持限界数を超えています{f801}ギルドカードを削除してください{f801}ギルドカードは40枚まで所持できます{f801}</target>
+    <target>因为会超出公会名片的登录数量上限，{f801}请删除公会名片。{f801}最多可登录40个公会名片。{f801}</target>
   </entry>
   <entry id="47">
     <source>新たに添付可能なキャラクターが{f801}ギルドに登録されていません{f801}</source>
-    <target>新たに添付可能なキャラクターが{f801}ギルドに登録されていません{f801}</target>
+    <target>公会中没有登录新的附加角色。{f801}</target>
   </entry>
   <entry id="48">
     <source>自分のギルドカードのキャラクターは{f801}スカウトできません{f801}</source>
-    <target>自分のギルドカードのキャラクターは{f801}スカウトできません{f801}</target>
+    <target>无法招募自己公会名片上的角色。{f801}</target>
   </entry>
   <entry id="49">
     <source>お気に入りのため削除できません。{f801}お気に入りを解除しますか?{f801}</source>
-    <target>お気に入りのため削除できません。{f801}お気に入りを解除しますか?{f801}</target>
+    <target>无法删除已收藏。{f801}是否解除收藏？{f801}</target>
   </entry>
   <entry id="50">
     <source>ギルドカードの所持限界を超えたので{f801}ギルドカードを削除してください{f801}ギルドカードは40枚まで所持できます{f801}</source>
-    <target>ギルドカードの所持限界を超えたので{f801}ギルドカードを削除してください{f801}ギルドカードは40枚まで所持できます{f801}</target>
+    <target>已超出公会名片的登录数量上限，{f801}请删除公会名片。{f801}最多可登录40个公会名片。{f801}</target>
   </entry>
   <entry id="51">
     <source>添付したキャラクターの装備から{f801}追加コンテンツ専用アイテムがはずれました{f801}</source>
-    <target>添付したキャラクターの装備から{f801}追加コンテンツ専用アイテムがはずれました{f801}</target>
+    <target>从附加角色的装备中，{f801}卸下了追加内容专用物品。{f801}</target>
   </entry>
 </mbm>

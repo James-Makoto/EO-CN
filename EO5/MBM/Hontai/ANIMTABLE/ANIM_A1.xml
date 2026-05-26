@@ -1,11 +1,11 @@
 <mbm>
   <entry id="1">
     <source>この樹海の美しい木々の向こうには{f801}</source>
-    <target>这片树海美丽林木的彼端{f801}</target>
+    <target>听说这片树海美丽林木的彼端{f801}</target>
   </entry>
   <entry id="2">
     <source>魔法の石像があると言う{f801}</source>
-    <target>听说有个魔法石像{f801}</target>
+    <target>有个魔法石像{f801}</target>
   </entry>
   <entry id="3">
     <source>その石像は人々を惑わせ{f801}</source>

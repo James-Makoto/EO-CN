@@ -357,7 +357,7 @@
   </entry>
   <entry id="91">
     <source>{f811}{0100}の肉体に{f801}力がみなぎっていく…{f801}</source>
-    <target>{f811}{0100}的肉体{f801}开始源源不绝地涌出力量……{f801}</target>
+    <target>{f811}{0100}的肉体{f801}开始源源不断地涌出力量……{f801}</target>
   </entry>
   <entry id="95">
     <source>{f811}{0100}の{f801}クリティカル率が低下した!{f801}</source>
@@ -1509,7 +1509,7 @@
   </entry>
   <entry id="453">
     <source>冒険者達に{f801}力がみなぎっていく・・・{f801}</source>
-    <target>冒险者们开始{f801}源源不绝地涌出力量・・・{f801}</target>
+    <target>冒险者们开始{f801}源源不断地涌出力量・・・{f801}</target>
   </entry>
   <entry id="454">
     <source>冒険者達の{f801}攻撃力が上昇した!{f801}</source>
@@ -2261,7 +2261,7 @@
   </entry>
   <entry id="654">
     <source>{f811}{0000}は{f801}牙を研ぎ始めた{f801}</source>
-    <target>{f811}{0000}开始磨牙{f801}</target>
+    <target>{f811}{0000}开始磨牙。{f801}</target>
   </entry>
   <entry id="655">
     <source>{f811}{0000}は大きく息を吸い込んだ!{f801}</source>

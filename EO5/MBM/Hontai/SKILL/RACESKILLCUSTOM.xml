@@ -521,7 +521,7 @@
   </entry>
   <entry id="130">
     <source>魔力の光で心を癒すスキル{f801}</source>
-    <target>用魔力之光治愈心灵技能f801}</target>
+    <target>用魔力之光治愈心灵技能{f801}</target>
   </entry>
   <entry id="131">
     <source>スキル習得{f801}</source>
@@ -809,7 +809,7 @@
   </entry>
   <entry id="202">
     <source>魔力の光で心を癒すスキル{f801}</source>
-    <target>用魔力之光治愈心灵技能f801}</target>
+    <target>用魔力之光治愈心灵技能{f801}</target>
   </entry>
   <entry id="203">
     <source>スキル習得{f801}</source>
@@ -1109,7 +1109,7 @@
   </entry>
   <entry id="277">
     <source>号令をかけて味方を統率するスキル{f801}同ターンに複数回スキルを使用しても{f801}軽減率は変化しない{f801}</source>
-    <target>发出号令统率友方的技能{f801}即便在同一回合内多次使用该技能{{f801}减轻率也不会发生变化{f801}</target>
+    <target>发出号令统率友方的技能{f801}即便在同一回合内多次使用该技能{f801}减轻率也不会发生变化{f801}</target>
   </entry>
   <entry id="278">
     <source>スキル習得{f801}</source>
@@ -1145,7 +1145,7 @@
   </entry>
   <entry id="286">
     <source>仲間たちと協力し、特別製の霊薬を作り{f801}味方を回復するスキル{f801}</source>
-    <target>与同伴们齐心协力，制作特制灵药{{f801}为友方回复的技能{f801}</target>
+    <target>与同伴们齐心协力，制作特制灵药{f801}为友方回复的技能{f801}</target>
   </entry>
   <entry id="287">
     <source>スキル習得{f801}</source>

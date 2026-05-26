@@ -65,7 +65,7 @@
   </entry>
   <entry id="16">
     <source>BGM音源を変更できます{f801}</source>
-    <target>可更改使用的BGM音源版本{f801}</target>
+    <target>可更改使用的BGM音源版本。{f801}</target>
   </entry>
   <entry id="17">
     <source>セーブデータが削除できます{f801}</source>
@@ -117,7 +117,7 @@
   </entry>
   <entry id="29">
     <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</source>
-    <target>可更改在迷宫内控制镜头时{f801}滑控钮上下操控的方式{f801}</target>
+    <target>可更改在迷宫内控制镜头时{f801}滑控钮上下操控的方式。{f801}</target>
   </entry>
   <entry id="30">
     <source>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</source>
@@ -161,7 +161,7 @@
   </entry>
   <entry id="40">
     <source>全てのデータを消去します{f801}よろしいですか?{f801}</source>
-    <target>要将删除全部的存档数据吗?{f801}</target>
+    <target>要删除全部的存档数据吗?{f801}</target>
   </entry>
   <entry id="41">
     <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
@@ -373,6 +373,6 @@
   </entry>
   <entry id="100">
     <source>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</source>
-    <target>体验版无法进行{f801}BGM音源切换{f801}</target>
+    <target>体验版无法进行BGM音源切换。{f801}</target>
   </entry>
 </mbm>

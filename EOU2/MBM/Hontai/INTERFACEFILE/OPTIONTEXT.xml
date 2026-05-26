@@ -73,7 +73,7 @@
   </entry>
   <entry id="18">
     <source>BGM音源を変更できます{f801}</source>
-    <target>可更改使用的BGM音源版本{f801}</target>
+    <target>可更改使用的BGM音源版本。{f801}</target>
   </entry>
   <entry id="19">
     <source>ゲームカードのセーブデータが削除できます{f801}</source>
@@ -137,7 +137,7 @@
   </entry>
   <entry id="41">
     <source>ダンジョン内でカメラを操作する際{f801}スライドパッドの上下入力の挙動を{f801}変更することができます{f801}</source>
-    <target>可更改在迷宫内控制镜头时{f801}滑控钮上下操控的方式{f801}</target>
+    <target>可更改在迷宫内控制镜头时{f801}滑控钮上下操控的方式。{f801}</target>
   </entry>
   <entry id="42">
     <source>踏破した床や周囲の壁が自動的に塗られる{f801}機能を変更することができます{f801}{f802}ONにすると歩いた床のみが自動的に塗られ{f801}OFFにすると自動的には塗られなくなり{f801}{f802}FULLにすると歩いた床と{f801}その周囲の壁が自動的に塗られます{f801}</source>
@@ -185,7 +185,7 @@
   </entry>
   <entry id="61">
     <source>ゲームカード内の全データを消去します{f801}よろしいですか?{f801}</source>
-    <target>确定要将删除全部的存档数据吗?{f801}</target>
+    <target>确定要删除全部的存档数据吗?{f801}</target>
   </entry>
   <entry id="62">
     <source>消去したデータは復元できませんが、{f801}本当によろしいですか?{f801}</source>
@@ -201,7 +201,7 @@
   </entry>
   <entry id="65">
     <source>体験版のセーブデータを消去します{f801}よろしいですか?{f801}</source>
-    <target>确定要将删除体验版的存档数据吗?{f801}</target>
+    <target>确定要删除体验版的存档数据吗?{f801}</target>
   </entry>
   <entry id="70">
     <source>BGMを無音にします{f801}</source>
@@ -329,7 +329,7 @@
   </entry>
   <entry id="151">
     <source>戦闘中のオートバトル選択時に確認を行いません{f801}</source>
-    <target>将在战斗中选择自动战斗时不显示确认提示{f801}</target>
+    <target>将在战斗中选择自动战斗时不显示确认提示。{f801}</target>
   </entry>
   <entry id="160">
     <source>戦闘中のコマンド入力終了時に確認を行います{f801}</source>
@@ -337,7 +337,7 @@
   </entry>
   <entry id="161">
     <source>戦闘中のコマンド入力終了時に確認を行いません{f801}</source>
-    <target>将在战斗中结束输入指令时不显示确认提示{f801}</target>
+    <target>将在战斗中结束输入指令时不显示确认提示。{f801}</target>
   </entry>
   <entry id="170">
     <source>操作と順方向にカメラを回転させます{f801}</source>
@@ -421,7 +421,7 @@
   </entry>
   <entry id="250">
     <source>体験版ではBGM音源を切り替える事は{f801}出来ません{f801}</source>
-    <target>体验版无法进行{f801}BGM音源切换{f801}</target>
+    <target>体验版无法进行BGM音源切换。{f801}</target>
   </entry>
   <entry id="251">
     <source>宿屋で宿泊時に自動でセーブが{f801}行えるように変更することができます{f801}{f802}ONにすると宿泊時に自動でセーブが行われ{f801}OFFにすると宿泊しても{f801}自動でセーブは行われないようになります{f801}{f802}体験版ではセーブが1つしかできませんが{f801}製品版ではSDカードに複数のセーブが{f801}行えるようになります{f801}</source>

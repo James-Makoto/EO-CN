@@ -1,43 +1,43 @@
 <mbm>
   <entry id="1">
     <source>{f804}{0200}フェンサー{f801}</source>
-    <target>{f804}{0200}フェンサー{f801}</target>
+    <target>{f804}{0200}击剑手{f801}</target>
   </entry>
   <entry id="2">
     <source>{f804}{0200}ドラグーン{f801}</source>
-    <target>{f804}{0200}ドラグーン{f801}</target>
+    <target>{f804}{0200}龙骑兵{f801}</target>
   </entry>
   <entry id="3">
     <source>{f804}{0200}ウォーロック{f801}</source>
-    <target>{f804}{0200}ウォーロック{f801}</target>
+    <target>{f804}{0200}魔导士{f801}</target>
   </entry>
   <entry id="4">
     <source>{f804}{0200}ハウンド{f801}</source>
-    <target>{f804}{0200}ハウンド{f801}</target>
+    <target>{f804}{0200}驱兽师{f801}</target>
   </entry>
   <entry id="5">
     <source>{f804}{0200}マスラオ{f801}</source>
-    <target>{f804}{0200}マスラオ{f801}</target>
+    <target>{f804}{0200}荒武士{f801}</target>
   </entry>
   <entry id="6">
     <source>{f804}{0200}シャーマン{f801}</source>
-    <target>{f804}{0200}シャーマン{f801}</target>
+    <target>{f804}{0200}萨满{f801}</target>
   </entry>
   <entry id="7">
     <source>{f804}{0200}ハーバリスト{f801}</source>
-    <target>{f804}{0200}ハーバリスト{f801}</target>
+    <target>{f804}{0200}草药医师{f801}</target>
   </entry>
   <entry id="8">
     <source>{f804}{0200}セスタス{f801}</source>
-    <target>{f804}{0200}セスタス{f801}</target>
+    <target>{f804}{0200}拳师{f801}</target>
   </entry>
   <entry id="9">
     <source>{f804}{0200}リーパー{f801}</source>
-    <target>{f804}{0200}リーパー{f801}</target>
+    <target>{f804}{0200}收割者{f801}</target>
   </entry>
   <entry id="10">
     <source>{f804}{0200}ネクロマンサー{f801}</source>
-    <target>{f804}{0200}ネクロマンサー{f801}</target>
+    <target>{f804}{0200}死灵术士{f801}</target>
   </entry>
   <entry id="11">
     <source>{f804}{0200}だみー{f801}</source>

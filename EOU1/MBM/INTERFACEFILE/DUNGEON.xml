@@ -93,7 +93,7 @@
   </entry>
   <entry id="38">
     <source>なんと、テントを蹴散らし{f801}襲撃者が現れた!{f801}</source>
-    <target>竟然，有袭击者踢翻了帐篷{f801}并发起了袭击!{f801}</target>
+    <target>竟然有袭击者踢翻了帐篷，{f801}并发起了袭击!{f801}</target>
   </entry>
   <entry id="39">
     <source>君達は十分に仮眠を取った。{f801}HPとTPが回復した。{f801}</source>
