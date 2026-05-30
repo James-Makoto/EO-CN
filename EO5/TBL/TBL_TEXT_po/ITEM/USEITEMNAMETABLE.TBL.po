@@ -2073,7 +2073,7 @@ msgstr "绘有纹章的头盔"
 
 msgctxt "515"
 msgid "爆発玉"
-msgstr "爆炸球"
+msgstr "爆破弹"
 
 msgctxt "516"
 msgid "エンペラーカブト"
