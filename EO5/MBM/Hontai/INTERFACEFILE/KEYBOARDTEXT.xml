@@ -41,10 +41,10 @@
   </entry>
   <entry id="11">
     <source>この二つ名でよろしいですか?{f801}</source>
-    <target>确定是这个称号吗？{f801}</target>
+    <target>确定是这个别名吗？{f801}</target>
   </entry>
   <entry id="12">
     <source>二つ名を名付けて下さい{f801}</source>
-    <target>请为称号取名。{f801}</target>
+    <target>请为别名取名。{f801}</target>
   </entry>
 </mbm>
