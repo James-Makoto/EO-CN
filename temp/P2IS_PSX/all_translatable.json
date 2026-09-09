@@ -2315,7 +2315,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ああ、先輩。<pause:10/>今はここ入れませんよ。<pause:15/>\n<SURNAME/>奇病対策の緊急会議をしてるそうです。<pause:15/>\n<SURNAME/>今更って感じですよね。",
-        "zh": "\n<SURNAME/>啊，前辈。<pause:10/>现在不能进来哦。<pause:15/>\n<SURNAME/>听说里面在开讨论怪病对策的紧急会议。<pause:15/>\n<SURNAME/>现在才开会，感觉也太迟了吧。"
+        "zh": "\n<SURNAME/>啊，前辈。<pause:10/>现在不能进去哦。<pause:15/>\n<SURNAME/>听说里面在开讨论怪病对策的紧急会议。<pause:15/>\n<SURNAME/>现在才开会，感觉也太迟了吧。"
       }
     ],
     "meta_jp": "男子生徒",
@@ -9438,7 +9438,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あるときは、熱血レポーター!\n<SURNAME/>あるときは、寡黙な編集者!\n<SURNAME/>しかしてその実体は…",
-        "zh": "\n<SURNAME/>有时是热血记者！\n<SURNAME/>有时是沉默的编辑！\n<SURNAME/>而其真面目是…"
+        "zh": "\n<SURNAME/>有时是热血的记者！\n<SURNAME/>有时是沉默的编辑！\n<SURNAME/>而其真面目是…"
       }
     ],
     "meta_jp": "???",
@@ -17000,7 +17000,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>デビュー曲もすごいのお!!\n<SURNAME/>バイリンガルなリサのためにねぇ、\n<SURNAME/>英語のソロパートガ入ってるんだから!\n",
-        "zh": "\n<SURNAME/>出道曲也超棒哦!!\n<SURNAME/>为了会bilingua的莉莎你呀\n<SURNAME/>专门加了英语solo part段呢!\n"
+        "zh": "\n<SURNAME/>出道曲也超棒哦!!\n<SURNAME/>为了会bilingual的莉莎你呀\n<SURNAME/>专门加了英语solo part段呢!\n"
       }
     ],
     "meta_jp": "未歩",
@@ -19850,7 +19850,7 @@
     "id": "script:226_8:diag1",
     "pages": [],
     "meta_jp": "桐島<SURNAME/>英理子(きりしま<SURNAME/>えりこ)\n<SURNAME/>女子大生モデルとして活躍する、ゆきのの親友。\n<SURNAME/>オカルトに精通する帰国子女で、\n<SURNAME/>高校時代にペルソナ使いとして覚醒している。",
-    "meta_zh": "桐岛<SURNAME/>艾莉\n<SURNAME/>大学生模特，雪野挚友。\n<SURNAME/>精通超自然的归国子女，\n<SURNAME/>高中时觉醒为Persona使者。"
+    "meta_zh": "桐岛<SURNAME/>艾莉\n<SURNAME/>大学生模特，雪野挚友。\n<SURNAME/>精通超自然的归国子女，\n<SURNAME/>高中时觉醒为人格面具使者。"
   },
   {
     "id": "script:226_8:diag2",
@@ -20624,7 +20624,7 @@
     "id": "script:232_8:diag24",
     "pages": [],
     "meta_jp": "イシュキック\n<SURNAME/>キング・レオに仕える、仮面党のペルソナ使い。\n<SURNAME/>一見、ただの元気ハツラツなコスプレ少女だガ、\n<SURNAME/>どうやら転生した戦士だと思い込んでいるらしい\n<c06/><c02/>",
-    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党Persona使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
+    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党人格面具使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
   },
   {
     "id": "script:232_8:diag25",
@@ -22843,7 +22843,7 @@
     "id": "script:249_8:diag2",
     "pages": [],
     "meta_jp": "イシュキック\n<SURNAME/>キング・レオに仕える、仮面党のペルソナ使い。\n<SURNAME/>一見、ただの元気ハツラツなコスプレ少女だガ、\n<SURNAME/>どうやら転生した戦士だと思い込んでいるらしい\n<c06/><c02/>",
-    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党Persona使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
+    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党人格面具使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
   },
   {
     "id": "script:249_8:diag3",
@@ -30028,7 +30028,7 @@
     "id": "script:304_8:diag13",
     "pages": [],
     "meta_jp": "<SURNAME/>サシの勝負は、ミッシェル様にまかせてくんな!!\n<option:5/>俺ガ一人でやる\n舞耶と組む\nギンコと組む\n栄吉と組む\nゆきのと組む\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>单挑的胜负，就交给米歇尔大人吧!!\n<option:5/>老子一个人干\n和舞耶组队\n和Ginko组队\n和荣吉组队\n和雪野组队\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>单挑的胜负，就交给米歇尔大人吧!!\n<option:5/>老子一个人干\n和舞耶组队\n和银子组队\n和荣吉组队\n和雪野组队\n<option_end/><c02/>"
   },
   {
     "id": "script:305_8:diag0",
@@ -47074,7 +47074,7 @@
     "id": "script:433_8:diag9",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:433_8:diag10",
@@ -54436,7 +54436,7 @@
     "id": "script:455_8:diag22",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:455_8:diag23",
@@ -65357,7 +65357,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>フフッ、思い切って買っちゃったぁ、このコート。<pause:15/>\n<SURNAME/>42万円!!<pause:15/><SURNAME/>アハァ、勿体無くて着れないわぁ。\n<SURNAME/>ずっと押し入れにしまっておこうかしらん。",
-        "zh": "\n<SURNAME/>呼呼，狠心买下了，这件大衣。<pause:15/>\n<SURNAME/>42万元！！<pause:15/><SURNAME/>啊哈，太可惜了，实舍不得穿啊。\n<SURNAME/>还是永远收在壁橱里吧。"
+        "zh": "\n<SURNAME/>呼呼，狠心买下了，这件大衣。<pause:15/>\n<SURNAME/>42万元！！<pause:15/><SURNAME/>啊哈，太可惜了，实在舍不得穿啊。\n<SURNAME/>还是永远收在壁橱里吧。"
       }
     ],
     "meta_jp": "OL",
@@ -73500,7 +73500,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ボクシングの…世界チャンプになりたかった…<pause:15/>\n<SURNAME/>この拳で、俺達を散々馬鹿にした連中を…<pause:15/>\n<SURNAME/>見返したかった…だけどもう…<pause:15/>どうでもいい…",
-        "zh": "\n<SURNAME/>拳击的…想成为世界冠军…<pause:15/>\n<SURNAME/>想用这拳头，让那些嘲笑我们的家伙…<pause:15/>\n<SURNAME/>好看…但已经…<pause:15/>无所谓了…"
+        "zh": "\n<SURNAME/>想成为…拳击的世界冠军…<pause:15/>\n<SURNAME/>想用这拳头，让那些嘲笑我们的家伙…<pause:15/>\n<SURNAME/>好看…但已经…<pause:15/>无所谓了…"
       }
     ],
     "meta_jp": "ケン",
@@ -74705,7 +74705,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>じゃあお礼に\n<SURNAME/><c1d:9/>フレイカード<c1d:1/>をあげるよ。\n<SURNAME/>コレクシヨンの一つなんだ。",
-        "zh": "\n<SURNAME/>那作为谢礼\n<SURNAME/><c1d:9/>这个芙雷卡<c1d:1/>送给你。\n<SURNAME/>是我的一个收藏。"
+        "zh": "\n<SURNAME/>那作为谢礼\n<SURNAME/>这个<c1d:9/>芙雷卡<c1d:1/>送给你。\n<SURNAME/>是我的一个收藏。"
       }
     ],
     "meta_jp": "マニア",
@@ -91145,7 +91145,7 @@
     "id": "script:514_8:diag39",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag40",
@@ -91184,7 +91184,7 @@
     "id": "script:514_8:diag43",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag44",
@@ -91256,7 +91256,7 @@
     "id": "script:514_8:diag50",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag51",
@@ -96975,7 +96975,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あっ、お待ちになって!<SURNAME/>そこから先は、\n<SURNAME/>噂屋の名にかけてチカリン自身で調べますう!\n<SURNAME/>ンだば、こちらの情報、発信しますよ。",
-        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的是，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
+        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的事，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -98403,7 +98403,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あっ、お待ちになって!<SURNAME/>そこから先は、\n<SURNAME/>噂屋の名にかけてチカリン自身で調べますう!\n<SURNAME/>ンだば、こちらの情報、発信しますよ。",
-        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的是，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
+        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的事，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -99783,7 +99783,7 @@
     "id": "script:527_8:diag36",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag37",
@@ -99839,7 +99839,7 @@
     "id": "script:527_8:diag42",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag43",
@@ -99900,7 +99900,7 @@
     "id": "script:527_8:diag48",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag49",
@@ -99983,7 +99983,7 @@
     "id": "script:527_8:diag56",
     "pages": [],
     "meta_jp": "黒須<SURNAME/>純子(くろす<SURNAME/>じゅんこ)\n<SURNAME/>10年ほど前に、マスコミを賑わせた噂の女優。\n<SURNAME/>あるスキャンダルで引退したガ、最近復帰した。\n<SURNAME/>美貌はなぜか当時と変わらない。",
-    "meta_zh": "黑须纯子（黑须纯子）\n<SURNAME/>大约10年前，轰动媒体的传闻女演员。\n<SURNAME/>因某丑闻引退，最近复出。\n<SURNAME/>美貌不知为何与当时无异。"
+    "meta_zh": "黑须纯子（Korosu Jyonko）\n<SURNAME/>大约10年前，轰动媒体的传闻女演员。\n<SURNAME/>因某丑闻引退，最近复出。\n<SURNAME/>美貌不知为何与当时无异。"
   },
   {
     "id": "script:527_8:diag57",
@@ -100672,7 +100672,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>…!<pause:20/><SURNAME/>ほら、ユッキーも!",
-        "zh": "\n<SURNAME/>…!<pause:20/><SURNAME/>快看，小雪也来!"
+        "zh": "\n<SURNAME/>…!<pause:20/><SURNAME/>嘿，小雪也来!"
       }
     ],
     "meta_jp": "舞耶",
@@ -112254,7 +112254,7 @@
     "id": "script:552_8:diag38",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag39",
@@ -112469,7 +112469,7 @@
     "id": "script:552_8:diag58",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag59",
@@ -112508,7 +112508,7 @@
     "id": "script:552_8:diag62",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag63",
@@ -116262,7 +116262,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ご指名して頂いてありガとうございます。\n<SURNAME/>今日もアニ…っ!<pause:15/><SURNAME/>ゴ木ッゴ木ッ。<pause:15/>\n<SURNAME/>な、何でもない。今のは忘れてくれ。",
-        "zh": "\n<SURNAME/>承蒙指名感激不尽。\n<SURNAME/>今日也为您…！<pause:15/><SURNAME/>咳咳）。<pause:15/>\n<SURNAME/>没、没什么。忘了刚才的话吧。"
+        "zh": "\n<SURNAME/>承蒙指名感激不尽。\n<SURNAME/>今日也为您…！<pause:15/><SURNAME/>咳咳。<pause:15/>\n<SURNAME/>没、没什么。忘了刚才的话吧。"
       }
     ],
     "meta_jp": "噂屋珠閒瑠ジプシー",
@@ -118734,7 +118734,7 @@
     "id": "script:558_8:diag19",
     "pages": [],
     "meta_jp": "<SURNAME/><keyitem:0/>円かかるけど、回復する?\n<option:2/>はい\nいいえ\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/><keyitem:0/>円要花，恢复吗？\n<option:2/>是\n否\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/><keyitem:0/>日元要花，恢复吗？\n<option:2/>是\n否\n<option_end/><c02/>"
   },
   {
     "id": "script:558_8:diag20",
