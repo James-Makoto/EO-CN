@@ -1517,7 +1517,7 @@ msgstr "ユニーク55"
 
 msgctxt "376"
 msgid "ルナリア銀貨"
-msgstr "露娜里亚银币"
+msgstr "月民银币"
 
 msgctxt "377"
 msgid "山都銅貨"
