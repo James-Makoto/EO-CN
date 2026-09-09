@@ -4373,7 +4373,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>これでクラスの連中の鼻をあかしてやるわ。\n<SURNAME/>だけどこれって、普通の名札に「ブキミ」って\n<SURNAME/>書いてるだけなのねぇ。信じてもらえるかしら…",
-        "zh": "\n<SURNAME/>这下能打班里那群人的脸啦。\n<SURNAME/>但这不就是普通名牌写着「怖奇美」\n<SURNAME/>而已嘛。能让人信服吗……"
+        "zh": "\n<SURNAME/>这下能打班里那群人的脸啦。\n<SURNAME/>但这不就是普通名牌写着「小诡异」\n<SURNAME/>而已嘛。能让人信服吗……"
       }
     ],
     "meta_jp": "ゲイの男子生徒",
@@ -4714,7 +4714,7 @@
     "id": "script:90_65:diag8",
     "pages": [],
     "meta_jp": "南条<SURNAME/>圭(なんじょう<SURNAME/>けい)\n<SURNAME/>留学中の英国から一時帰国した、ゆきのの親友。\n<SURNAME/>現在、日本一の男子になるべく修行中。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "南条<SURNAME/>圭(なんじょう<SURNAME/>けい)\n<SURNAME/>从英国留学暂时回国，雪野的挚友。\n<SURNAME/>目前正以成为日本第一男子为目标修行中。\n<SURNAME/>高中时代以 Persona 使者觉醒。"
+    "meta_zh": "南条<SURNAME/>圭(なんじょう<SURNAME/>けい)\n<SURNAME/>从英国留学暂时回国，雪野的挚友。\n<SURNAME/>目前正以成为日本第一男子为目标修行中。\n<SURNAME/>高中时代以 人格面具 使者觉醒。"
   },
   {
     "id": "script:90_65:diag9",
@@ -4858,7 +4858,7 @@
     "id": "script:90_66:diag9",
     "pages": [],
     "meta_jp": "城戸<SURNAME/>玲司(きど<SURNAME/>れいじ)\n<SURNAME/>ゆきのの親友のセールスマン。\n<SURNAME/>トロと同じ会社だガ、営業成績に悩んでいる様子。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "城户<SURNAME/>玲司(きど<SURNAME/>れいじ)\n<SURNAME/>雪野的挚友，推销员。\n<SURNAME/>跟金枪鱼在同一家公司，似乎为业绩烦恼。\n<SURNAME/>高中时代以 Persona 使者觉醒。"
+    "meta_zh": "城户<SURNAME/>玲司(きど<SURNAME/>れいじ)\n<SURNAME/>雪野的挚友，推销员。\n<SURNAME/>跟金枪鱼在同一家公司，似乎为业绩烦恼。\n<SURNAME/>高中时代以 人格面具 使者觉醒。"
   },
   {
     "id": "script:90_66:diag10",
@@ -5907,7 +5907,7 @@
       },
       {
         "jp": "<c1d:11/>破り捨てられた張り紙<c1d:1/>\n<SURNAME/>尚、当工場の業務事項は全て本社工場へ\n<SURNAME/>移転されましたので、関係各社の方々は\n<SURNAME/>ご足労ですガ本社窓口までご連絡下さい。",
-        "zh": "<c1d:11/>/被撕毁的告示<c1d:1/>\n<SURNAME/>再者，因本厂的业务已全数移交到总厂。\n<SURNAME/>烦请各公司的相关负责人士\n<SURNAME/>移步到总厂窗口办理申请。"
+        "zh": "<c1d:11/>被撕毁的告示<c1d:1/>\n<SURNAME/>再者，因本厂的业务已全数移交到总厂。\n<SURNAME/>烦请各公司的相关负责人士\n<SURNAME/>移步到总厂窗口办理申请。"
       }
     ],
     "meta_jp": "破り捨てられた張り紙",
@@ -8147,7 +8147,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>やっぱり…<pause:30/>\n<SURNAME/>見たよ…わたしも。\n<SURNAME/>あれ、ペルソナって…いうんでしょ?\n",
-        "zh": "\n<SURNAME/>果然…<pause:30/>\n<SURNAME/>我也看见了。\n<SURNAME/>那个，是叫 人格面具（PERSONA） 吧?\n"
+        "zh": "\n<SURNAME/>果然…<pause:30/>\n<SURNAME/>我也看见了。\n<SURNAME/>那个，是叫 人格面具（人格面具） 吧?\n"
       }
     ],
     "meta_jp": "リサ",
@@ -9240,7 +9240,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>オォケェイ!<SURNAME/>レッツゴゥ、エブリバデ!!\n<SURNAME/>いかにもボクは…",
-        "zh": "\n<SURNAME/>O~kay!<SURNAME/>Let's go \n<SURNAME/>everybody!!\n<SURNAME/>老子正是…"
+        "zh": "\n<SURNAME/>O~kay!<SURNAME/>Let's go\n<SURNAME/>everybody!!老子正是…"
       }
     ],
     "meta_jp": "栄吉",
@@ -9394,7 +9394,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>チャ〜オって…",
-        "zh": "\n<SURNAME/>Ci~ao，嘛…"
+        "zh": "\n<SURNAME/>Ci~ao…"
       }
     ],
     "meta_jp": "???",
@@ -9405,7 +9405,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ずいぶん険悪な雰囲気ねぇ。\n<SURNAME/>まぁまぁキミ達、痴話ゲンカはみっともないぞ!",
-        "zh": "\n<SURNAME/>气氛真是剑拔弩张呢。\n<SURNAME/>好啦好啦，你们俩，打情骂俏可不好看哦！"
+        "zh": "\n<SURNAME/>气氛真是有够剑拔弩张的呢。\n<SURNAME/>好啦好啦，打情骂俏可太难看了！"
       }
     ],
     "meta_jp": "???",
@@ -14451,7 +14451,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>それガ、<c13/>クンのお守りなんだ…<pause:30/>\n<SURNAME/>英語で、何か彫ってあるね…<pause:30/>\n<SURNAME/>「大切なことは、目に見えない」…\n",
-        "zh": "\n<SURNAME/>这是小<c13/>的护身符啊…<pause:30/>\n<SURNAME/>上面用英文刻着…<pause:30/>\n<SURNAME/>\"真正重要的东西，眼睛是看不见的\"…\n"
+        "zh": "\n<SURNAME/>这是小<c13/>的护身符啊…<pause:30/>\n<SURNAME/>上面用英文刻着…<pause:30/>\n<SURNAME/>\"重要的东西用眼睛是看不见的\"…\n"
       }
     ],
     "meta_jp": "舞耶",
@@ -14719,7 +14719,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>「大切なことは、目に見えない」って言うでしょ?\n<SURNAME/>ね、<c13/>クン?\n",
-        "zh": "\n<SURNAME/>不是有这么句话吗？“重要的事情，是看不见的”\n<SURNAME/>对吧，小<c13/>？\n"
+        "zh": "\n<SURNAME/>不是常说“重要的东西用眼睛是看不见的”\n<SURNAME/>对吧，<c13/>？\n"
       }
     ],
     "meta_jp": "舞耶",
@@ -15134,7 +15134,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>康夫のやつ何やってんだ!?\n<SURNAME/>あの髑髏は、ジヨーカーガ持ってたのと\n<SURNAME/>同じモンじゃねぇのか!?\n",
-        "zh": "\n<SURNAME/>那个康夫在搞什么!?\n<SURNAME/>那骷髅，不就是\n<SURNAME/>跟 JOKER 拿的那个一样吗!?\n"
+        "zh": "\n<SURNAME/>那个康夫在搞什么!?\n<SURNAME/>那骷髅，不就是\n<SURNAME/>跟JOKER拿的那个一样吗!?\n"
       }
     ],
     "meta_jp": "栄吉",
@@ -15958,7 +15958,7 @@
     "id": "script:208_8:diag27",
     "pages": [],
     "meta_jp": "キング・レオ\n<SURNAME/>ジヨーカーを長とする、仮面党の幹部。\n<SURNAME/>なにやら、舞耶に深い恨みを抱いているらしい、\n<SURNAME/>電波糸のキレた男。",
-    "meta_zh": "キング·レオ\n<SURNAME/>以Joker为首，假面党的干部。\n<SURNAME/>似乎对舞耶怀有深仇大恨，\n<SURNAME/>是个神经质的疯狂男人。"
+    "meta_zh": "狮子king\n<SURNAME/>以Joker为首，假面党的干部。\n<SURNAME/>似乎对舞耶怀有深仇大恨，\n<SURNAME/>是个神经质的疯狂男人。"
   },
   {
     "id": "script:208_8:diag28",
@@ -16284,7 +16284,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ねぇ、木ントに行くの?\n<SURNAME/>探偵事務所では、ああ言ったけどお…<pause:30/>\n<SURNAME/>やっぱやめない?\n",
-        "zh": "\n<SURNAME/>喂，真要去Mento?\n<SURNAME/>虽然在侦探事务所是那么说了啦…<pause:30/>\n<SURNAME/>还是别去了吧?\n"
+        "zh": "\n<SURNAME/>真的要去么?\n<SURNAME/>虽然在侦探事务所是那么说了啦…<pause:30/>\n<SURNAME/>还是别去了吧?\n"
       }
     ],
     "meta_jp": "ギンコ",
@@ -16365,7 +16365,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag20",
@@ -16376,7 +16376,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag21",
@@ -16387,7 +16387,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag22",
@@ -16398,7 +16398,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag23",
@@ -16409,7 +16409,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag24",
@@ -16420,7 +16420,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag25",
@@ -16431,7 +16431,7 @@
       }
     ],
     "meta_jp": "野次馬",
-    "meta_zh": "野次馬"
+    "meta_zh": "围观者"
   },
   {
     "id": "script:209_8:diag26",
@@ -16900,7 +16900,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>リサってば、今までどこ行ってたの?\n<SURNAME/>みーぽたち、ずーっと探してたんだからぁ!\n",
-        "zh": "\n<SURNAME/>莉莎你呀，这阵子跑到哪去啦?\n<SURNAME/>未步她们一直在找你呢!\n"
+        "zh": "\n<SURNAME/>莉莎你呀，这阵子跑到哪去啦?\n<SURNAME/>未步和大家一直在找你呢!\n"
       }
     ],
     "meta_jp": "未歩",
@@ -17044,7 +17044,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そんな…<pause:30/>リサひどいよお…\n<SURNAME/>みーぽたちのこと、嫌いになっちゃったの?\n",
-        "zh": "\n<SURNAME/>怎么这样…<pause:30/>莉莎太过分了…\n<SURNAME/>你讨厌未步她们了吗?\n"
+        "zh": "\n<SURNAME/>怎么这样…<pause:30/>莉莎太过分了…\n<SURNAME/>你讨厌未步和大家了吗?\n"
       }
     ],
     "meta_jp": "未歩",
@@ -17153,7 +17153,7 @@
     "id": "script:211_8:diag3",
     "pages": [],
     "meta_jp": "佐々木<SURNAME/>銀次(ささき<SURNAME/>ぎんじ)\n<SURNAME/>最近ブレイクした、キザな音楽プロデューサー。\n<SURNAME/>今でこそ名声をほしいままにしているガ、\n<SURNAME/>元は何年か前に1曲ヒットさせただけの一発屋。",
-    "meta_zh": "佐佐木<SURNAME/>银次(ささき<SURNAME/>ぎんじ)\n<SURNAME/>最近爆红的，做作的音乐制作人。\n<SURNAME/>如今名声响亮，\n<SURNAME/>原本只是几年前红过一首歌的过气艺人。"
+    "meta_zh": "佐佐木<SURNAME/>银次\n<SURNAME/>最近爆红的，做作的音乐制作人。\n<SURNAME/>如今名声响亮，\n<SURNAME/>原本只是几年前红过一首歌的过气艺人。"
   },
   {
     "id": "script:211_8:diag4",
@@ -17446,7 +17446,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>佐々木とMUSESガ向かったのは\n<SURNAME/>青華区の野外音楽堂ね。\n<SURNAME/>私たちも行くわよ、<c13/>クン!\n",
-        "zh": "\n<SURNAME/>佐佐木跟MUSES 去的，\n<SURNAME/>是青叶区的野外音乐厅。\n<SURNAME/>我们也过去吧，小<c13/>!\n"
+        "zh": "\n<SURNAME/>佐佐木跟MUSES 去的，\n<SURNAME/>是青叶区的野外音乐厅。\n<SURNAME/>我们也过去吧，<c13/>!\n"
       }
     ],
     "meta_jp": "舞耶",
@@ -19850,7 +19850,7 @@
     "id": "script:226_8:diag1",
     "pages": [],
     "meta_jp": "桐島<SURNAME/>英理子(きりしま<SURNAME/>えりこ)\n<SURNAME/>女子大生モデルとして活躍する、ゆきのの親友。\n<SURNAME/>オカルトに精通する帰国子女で、\n<SURNAME/>高校時代にペルソナ使いとして覚醒している。",
-    "meta_zh": "桐岛<SURNAME/>艾莉\n<SURNAME/>大学生模特，雪野挚友。\n<SURNAME/>精通超自然的归国子女，\n<SURNAME/>高中时觉醒为Persona使者。"
+    "meta_zh": "桐岛<SURNAME/>艾莉\n<SURNAME/>大学生模特，雪野挚友。\n<SURNAME/>精通超自然的归国子女，\n<SURNAME/>高中时觉醒为人格面具使者。"
   },
   {
     "id": "script:226_8:diag2",
@@ -20624,7 +20624,7 @@
     "id": "script:232_8:diag24",
     "pages": [],
     "meta_jp": "イシュキック\n<SURNAME/>キング・レオに仕える、仮面党のペルソナ使い。\n<SURNAME/>一見、ただの元気ハツラツなコスプレ少女だガ、\n<SURNAME/>どうやら転生した戦士だと思い込んでいるらしい\n<c06/><c02/>",
-    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党Persona使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
+    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党人格面具使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
   },
   {
     "id": "script:232_8:diag25",
@@ -22843,7 +22843,7 @@
     "id": "script:249_8:diag2",
     "pages": [],
     "meta_jp": "イシュキック\n<SURNAME/>キング・レオに仕える、仮面党のペルソナ使い。\n<SURNAME/>一見、ただの元気ハツラツなコスプレ少女だガ、\n<SURNAME/>どうやら転生した戦士だと思い込んでいるらしい\n<c06/><c02/>",
-    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党Persona使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
+    "meta_zh": "伊什基克\n<SURNAME/>效忠里奥王的假面党人格面具使者。\n<SURNAME/>看似元气Cosplay少女，\n<SURNAME/>实为深信自己乃转生战士之人\n<c06/><c02/>"
   },
   {
     "id": "script:249_8:diag3",
@@ -28946,7 +28946,7 @@
     "id": "script:294_8:diag16",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>新しいペルソナを編入します。\n<SURNAME/>整理してください。",
-    "meta_zh": "<SURNAME/><c1d:9/>将编入新Persona。\n<SURNAME/>请整理库存。"
+    "meta_zh": "<SURNAME/><c1d:9/>将编入新人格面具。\n<SURNAME/>请整理库存。"
   },
   {
     "id": "script:295_8:diag0",
@@ -29934,7 +29934,7 @@
     "id": "script:304_8:diag4",
     "pages": [],
     "meta_jp": "聖槍騎士団(ロンギヌス・サーティーン)\n<SURNAME/>マリオネッテイェーガー「ヒンメル・フォイアー」\n<SURNAME/>を駆る13人の騎士で構成された、\n<SURNAME/>ラスト・バタリオンのアンチ・ペルソナ部隊。",
-    "meta_zh": "圣枪骑士团（Longinus Thirteen）\n<SURNAME/>由驾驶Marionettejäger 'Himmel Feuer'的\n<SURNAME/>13名骑士组成，\n<SURNAME/>是最后营的反Persona部队。"
+    "meta_zh": "圣枪骑士团（Longinus Thirteen）\n<SURNAME/>由驾驶Marionettejäger 'Himmel Feuer'的\n<SURNAME/>13名骑士组成，\n<SURNAME/>是最后营的反人格面具部队。"
   },
   {
     "id": "script:304_8:diag5",
@@ -32770,7 +32770,7 @@
     "id": "script:323_8:diag51",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>パーティストック、\n<SURNAME/>ベルベットストックとも、空きガありません。\n<SURNAME/>いらないペルソナを削除してください。",
-    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的Persona。"
+    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的人格面具。"
   },
   {
     "id": "script:323_8:diag52",
@@ -32787,7 +32787,7 @@
     "id": "script:323_8:diag53",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>パーティストック、\n<SURNAME/>ベルベットストックとも、空きガありません。\n<SURNAME/>いらないペルソナを削除してください。",
-    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的Persona。"
+    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的人格面具。"
   },
   {
     "id": "script:323_8:diag54",
@@ -32804,7 +32804,7 @@
     "id": "script:323_8:diag55",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>パーティストック、\n<SURNAME/>ベルベットストックとも、空きガありません。\n<SURNAME/>いらないペルソナを削除してください。",
-    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的Persona。"
+    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的人格面具。"
   },
   {
     "id": "script:323_8:diag56",
@@ -32821,7 +32821,7 @@
     "id": "script:323_8:diag57",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>パーティストック、\n<SURNAME/>ベルベットストックとも、空きガありません。\n<SURNAME/>いらないペルソナを削除してください。",
-    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的Persona。"
+    "meta_zh": "<SURNAME/>队伍库存、\n<SURNAME/>天鹅绒库存均无空位。\n<SURNAME/>请删除不需要的人格面具。"
   },
   {
     "id": "script:323_8:diag58",
@@ -32855,7 +32855,7 @@
     "id": "script:323_8:diag61",
     "pages": [],
     "meta_jp": "<SURNAME/><c1d:9/>新しいペルソナを編入します。\n<SURNAME/>整理してください。",
-    "meta_zh": "<SURNAME/><c1d:9/>将编入新Persona。\n<SURNAME/>请整理库存。"
+    "meta_zh": "<SURNAME/><c1d:9/>将编入新人格面具。\n<SURNAME/>请整理库存。"
   },
   {
     "id": "script:324_8:diag0",
@@ -47074,7 +47074,7 @@
     "id": "script:433_8:diag9",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:433_8:diag10",
@@ -48038,7 +48038,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>夢を叶えてもらって、\n<SURNAME/>やっとレギュラーになったのに〜\n<SURNAME/>これじゃ、プロ野球も女子アナも夢のまた夢だ〜",
-        "zh": "\n<SURNAME/>好不容易实现梦想，当上正式队员了呢〜\n<SURNAME/>这下子，职业棒球手和女主播的\n<SURNAME/>美梦都成了泡影了呢〜"
+        "zh": "\n<SURNAME/>好不容易实现梦想，当上正式队员了呢〜\n<SURNAME/>这下子，职业棒球手和女主播的\n<SURNAME/>美梦都成泡影了呢〜"
       }
     ],
     "meta_jp": "発病してしまった野球部員",
@@ -48071,7 +48071,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あ、あの人…カス校の番長じゃないですか?\n<SURNAME/>も、もしかして、殴り込みに来たとか…\n<SURNAME/>あの間の抜けた顔…先輩、私、気持ち悪い!!",
-        "zh": "\n<SURNAME/>那、那个人…不是渣高的番长吗？该、该不会\n<SURNAME/>是来打架的吧… 一看到他那张\n<SURNAME/>傻里傻气的脸… 前辈，我，感觉好恶心!!"
+        "zh": "\n<SURNAME/>那、那个人…不是渣高的番长吗？该、该不会\n<SURNAME/>是来打架的吧… 一看到他那张\n<SURNAME/>傻气的脸… 前辈，我，感觉好恶心!!"
       }
     ],
     "meta_jp": "女子生徒",
@@ -48500,7 +48500,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>リサの広東語講座、その4〜!!<pause:30/>\n<SURNAME/>好傷呀(木ゥシヨンア)は、つらい…とか、\n<SURNAME/>悲しいって意味。あまり言わせないでね♥",
-        "zh": "\n<SURNAME/>莉莎的粤语讲座，第4期〜!!<pause:30/>\n<SURNAME/>好傷呀指的是好痛苦呀…\n<SURNAME/>是用来表达悲伤的说法。别让我解释太多次哦♥"
+        "zh": "\n<SURNAME/>莉莎的粤语讲座，第4期〜!!<pause:30/>\n<SURNAME/>好傷呀指的是好难过呀…\n<SURNAME/>是用来表达悲伤的说法。别让我解释太多次哦♥"
       }
     ],
     "meta_jp": "ギンコ",
@@ -49477,7 +49477,7 @@
     "id": "script:442_8:diag10",
     "pages": [],
     "meta_jp": "横内<SURNAME/>健太(よこうち<SURNAME/>けんた)\n<SURNAME/>エルミン学園の卒業生。\n<SURNAME/>噂に詳しい、訪問販売のトップセールスマン。\n<SURNAME/>営業成績は、実はペルソナの賜物らしい。",
-    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是Persona的恩赐。"
+    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是人格面具的恩赐。"
   },
   {
     "id": "script:442_8:diag11",
@@ -49518,7 +49518,7 @@
     "id": "script:442_8:diag16",
     "pages": [],
     "meta_jp": "<SURNAME/>何の話ガ聞きたい?\n<option:4/><c10:1138/>雑誌懸賞の噂\n<c10:1139/>ムー大陸の噂\n<c10:1140/>伝説の武器の噂\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>穆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>姆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
   },
   {
     "id": "script:442_8:diag17",
@@ -49954,7 +49954,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>MUSESはまだ3人目を隠してるんスね。\n<SURNAME/>謎に興味を抱くは人の性。<pause:15/>\n<SURNAME/>上手い売り込み方をするもんッスよ。",
-        "zh": "\n<SURNAME/>缪斯还在隐瞒第三个人呢。\n<SURNAME/>人对谜题总是充满兴趣。<pause:15/>\n<SURNAME/>这宣传手法真高明啊。"
+        "zh": "\n<SURNAME/>MUSES还在隐瞒第三个人呢。\n<SURNAME/>人对谜题总是充满兴趣。<pause:15/>\n<SURNAME/>这宣传手法真高明啊。"
       }
     ],
     "meta_jp": "寿司貴族",
@@ -54436,7 +54436,7 @@
     "id": "script:455_8:diag22",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:455_8:diag23",
@@ -57367,7 +57367,7 @@
     "id": "script:462_8:diag94",
     "pages": [],
     "meta_jp": "<SURNAME/>何の話ガ聞きたいかな?\n<option:4/><c10:1138/>雑誌懸賞の噂\n<c10:1139/>ムー大陸の噂\n<c10:1140/>伝説の武器の噂\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>想听什么话题呢？\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>穆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不问\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>想听什么话题呢？\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>姆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不问\n<option_end/><c02/>"
   },
   {
     "id": "script:462_8:diag95",
@@ -59528,7 +59528,7 @@
     "pages": [
       {
         "jp": "\n<NAME/><NAME/>ボクら、ミッシェルさんのバンド、\n<NAME/><NAME/>「ガスチェンバー」のメンバー、\n<NAME/><NAME/>探してたんですう。",
-        "zh": "\n<NAME/><NAME/>我们，在找米歇尔大人的乐队、\n<NAME/><NAME/>「毒气室」的成员，\n<NAME/><NAME/>来着。"
+        "zh": "\n<NAME/><NAME/>我们，在找米歇尔大人的乐队、\n<NAME/><NAME/>「毒气室乐队」的成员，\n<NAME/><NAME/>来着。"
       },
       {
         "jp": "<c1d:11/>タケシ<c1d:1/>\n<NAME/><NAME/>ちゃんと言いつけどおり…\n<NAME/><NAME/>「そこそこカッコ良くて、でもボクほどじゃない」\n<NAME/><NAME/>ってヤツ。",
@@ -60362,7 +60362,7 @@
     "id": "script:466_8:diag18",
     "pages": [],
     "meta_jp": "<SURNAME/>何の話ガ聞きたいかな?\n<option:4/><c10:1138/>雑誌懸賞の噂\n<c10:1139/>ムー大陸の噂\n<c10:1140/>伝説の武器の噂\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>想听什么话题呢？\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>穆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不问\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>想听什么话题呢？\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>姆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不问\n<option_end/><c02/>"
   },
   {
     "id": "script:466_8:diag19",
@@ -63828,7 +63828,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>まずは年代物の柱時計でも買って、\n<SURNAME/>装いもそれらしくしないとね〜<pause:30/>\n<SURNAME/>うげ、これ高いわねぇ!<pause:30/><SURNAME/>あ、私お金持ちだった",
-        "zh": "\n<SURNAME/>先买台古董落地钟，\n<SURNAME/>打扮也得配得上身份嘛～<pause:30/>\n<SURNAME/>呜哇，这价格吓死人了啊!<pause:30/><SURNAME/>啊对，老娘现在有钱啦"
+        "zh": "\n<SURNAME/>先买台古董落地钟，\n<SURNAME/>打扮也得配得上身份嘛～<pause:30/>\n<SURNAME/>哇，这价格吓死人了啊!<pause:30/><SURNAME/>啊对，老娘现在有钱啦"
       }
     ],
     "meta_jp": "成り金オバサン",
@@ -66252,7 +66252,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag27",
@@ -66263,7 +66263,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag28",
@@ -66274,7 +66274,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag29",
@@ -66285,7 +66285,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag30",
@@ -66296,7 +66296,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag31",
@@ -66307,7 +66307,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag32",
@@ -66318,7 +66318,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag33",
@@ -66329,7 +66329,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag34",
@@ -66340,7 +66340,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag35",
@@ -66351,7 +66351,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:473_8:diag36",
@@ -66494,7 +66494,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag0",
@@ -66615,7 +66615,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag11",
@@ -66626,7 +66626,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag12",
@@ -66637,7 +66637,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag13",
@@ -66648,7 +66648,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag14",
@@ -66659,7 +66659,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag15",
@@ -66670,7 +66670,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:474_8:diag16",
@@ -66791,7 +66791,7 @@
       }
     ],
     "meta_jp": "オバサン・三女",
-    "meta_zh": "阿姨·三女"
+    "meta_zh": "阿姨・三姐"
   },
   {
     "id": "script:475_8:diag0",
@@ -66996,7 +66996,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>確か、エリーガアロマテラピーにはまってたね。\n<SURNAME/>せっかくだからこの店、教えといてやろうかな。\n<SURNAME/>飛んでくるだろうね。",
-        "zh": "\n<SURNAME/>确实，艾莉沉迷于芳香疗法呢。\n<SURNAME/>难得的机会，告诉她这家店吧。\n<SURNAME/>她会飞奔而来的吧。"
+        "zh": "\n<SURNAME/>没记错的话，艾莉好像挺迷芳香疗法的。\n<SURNAME/>既然机会难得，不如把这家店告诉她吧。\n<SURNAME/>估计立马就会飞奔过来吧。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -68183,7 +68183,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ん〜、ピアノってのもいいねぇ…<pause:15/>\n<SURNAME/>Mr.ナナシを、ガスチェンバーの\n<SURNAME/>メンバーにスカウトしようか。",
-        "zh": "\n<SURNAME/>嗯～，钢琴也不错呢…<pause:15/>\n<SURNAME/>把Mr.无名，挖来当毒气室\n<SURNAME/>的成员吧。"
+        "zh": "\n<SURNAME/>嗯～，钢琴也不错呢…<pause:15/>\n<SURNAME/>把Mr.无名，挖来当毒气室乐队\n<SURNAME/>的成员吧。"
       }
     ],
     "meta_jp": "栄吉",
@@ -68359,7 +68359,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>よくよく考えりゃ、淳をガスチェンバーに\n<SURNAME/>加えるってのもいいな。<c14/>も加われば\n<SURNAME/>スーパービジュアル糸バンドの完成でないの!",
-        "zh": "\n<SURNAME/>仔细想想，把淳拉进毒气室\n<SURNAME/>也不错啊。<c14/>也加入的话\n<SURNAME/>超级视觉系乐队就组成了！"
+        "zh": "\n<SURNAME/>仔细想想，把淳拉进毒气室乐队\n<SURNAME/>也不错啊。<c14/>也加入的话\n<SURNAME/>超级视觉系乐队就组成了！"
       }
     ],
     "meta_jp": "栄吉",
@@ -68381,7 +68381,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>う〜ん、ガスチェンバーを結成するにしても、\n<SURNAME/>楽器の使える奴を集めないとなぁ…\n<SURNAME/>淳はキーボードガ弾けるみたいだけど…",
-        "zh": "\n<SURNAME/>唔～要成立毒气室的话，\n<SURNAME/>得先找会乐器的家伙…\n<SURNAME/>淳好像会弹键盘…"
+        "zh": "\n<SURNAME/>唔～要成立毒气室乐队的话，\n<SURNAME/>得先找会乐器的家伙…\n<SURNAME/>淳好像会弹键盘…"
       }
     ],
     "meta_jp": "栄吉",
@@ -69134,7 +69134,7 @@
     "id": "script:477_8:diag88",
     "pages": [],
     "meta_jp": "<SURNAME/>何なりと御質問を。\n<option:6/>タロットカード\nペルソナカード\n降魔と発動\nペルソナの成長\nペルソナとの相性\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\nPersona卡\n降魔与发动\nPersona的成长\n与Persona的相性\n什么也不问\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\n人格面具卡\n降魔与发动\n人格面具的成长\n与人格面具的相性\n什么也不问\n<option_end/><c02/>"
   },
   {
     "id": "script:477_8:diag89",
@@ -73247,7 +73247,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>こいつ等…<pause:15/>俺の為に<c12/>をここに呼んだんだ…<pause:15/>\n<SURNAME/>俺の夢…ガスチェンバーの為に…<pause:15/>\n<SURNAME/>なのに俺は、こいつらを助けてやれなかった。",
-        "zh": "\n<SURNAME/>这些家伙…<pause:15/>为了我把<c12/>叫来这里…<pause:15/>\n<SURNAME/>为了我的梦想…毒气室…<pause:15/>\n<SURNAME/>可是我却没能帮到他们。"
+        "zh": "\n<SURNAME/>这些家伙…<pause:15/>为了我把<c12/>叫来这里…<pause:15/>\n<SURNAME/>为了我的梦想…毒气室乐队…<pause:15/>\n<SURNAME/>可是我却没能帮到他们。"
       }
     ],
     "meta_jp": "栄吉",
@@ -75707,7 +75707,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>明日の為にその2!!\n<SURNAME/>戦いに備えては、防御をおこたるな。\n<SURNAME/>いい防具を揃えるべし。",
-        "zh": "\n<SURNAME/>为了明天其二!!\n<SURNAME/>备战之时，不可疏忽防御。\n<SURNAME/>务必备齐好的防具。"
+        "zh": "\n<SURNAME/>为了明天之其二!!\n<SURNAME/>备战之时，不可疏忽防御。\n<SURNAME/>务必备齐好的防具。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -76499,7 +76499,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ン?<SURNAME/>おっと邪魔しないでくれ。\n<SURNAME/>今、ガスチェンバーのデビューを飾るに相応しい\n<SURNAME/>グレイトな曲をスィンキング中なのさ。",
-        "zh": "\n<SURNAME/>嗯？<SURNAME/>别打扰老子。\n<SURNAME/>我正在思考适合毒气室乐队\n<SURNAME/>出道的神曲呢。"
+        "zh": "\n<SURNAME/>嗯？<SURNAME/>别打扰老子。\n<SURNAME/>我正在思考适合毒气室乐队乐队\n<SURNAME/>出道的神曲呢。"
       }
     ],
     "meta_jp": "栄吉",
@@ -76855,7 +76855,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag34",
@@ -76866,7 +76866,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag35",
@@ -76877,7 +76877,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag36",
@@ -76888,7 +76888,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag37",
@@ -76899,7 +76899,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag38",
@@ -76910,7 +76910,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag39",
@@ -76921,7 +76921,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag40",
@@ -76932,7 +76932,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag41",
@@ -76943,7 +76943,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag42",
@@ -76954,7 +76954,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag43",
@@ -76965,7 +76965,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag44",
@@ -76976,7 +76976,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag45",
@@ -76987,7 +76987,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag46",
@@ -77229,7 +77229,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag68",
@@ -77240,7 +77240,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:496_8:diag69",
@@ -77372,7 +77372,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:497_8:diag6",
@@ -77383,7 +77383,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:497_8:diag7",
@@ -77394,7 +77394,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:497_8:diag8",
@@ -77405,7 +77405,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:497_8:diag9",
@@ -77449,7 +77449,7 @@
       }
     ],
     "meta_jp": "オバサン・五女",
-    "meta_zh": "阿姨（五姐妹）"
+    "meta_zh": "阿姨・五姐"
   },
   {
     "id": "script:498_8:diag0",
@@ -78698,7 +78698,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>舞耶ネェもゆきのの姐さんもいるしよ…<pause:30/>\n<SURNAME/>5人でかかりゃあ、何とかなるんじゃねぇか?",
-        "zh": "\n<SURNAME/>舞耶姐和雪野的大姐也在…<pause:30/>\n<SURNAME/>五人一起上，总会有办法吧?\n<SURNAME/>"
+        "zh": "\n<SURNAME/>舞耶姐和雪野大姐也在…<pause:30/>\n<SURNAME/>咱们五人一起上，总会有办法吧?\n<SURNAME/>"
       }
     ],
     "meta_jp": "栄吉",
@@ -79127,7 +79127,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ただしのヤツ、またポスターはガしてきたね…<pause:15/>\n<SURNAME/>たまきガ見たら怒るよきっと。",
-        "zh": "\n<SURNAME/>阿直那家伙，又把海报弄坏了呢…\n<SURNAME/><pause:15/>\n<SURNAME/>环看到肯定会发火。"
+        "zh": "\n<SURNAME/>阿直那家伙，又把海报弄坏了呢…<pause:15/>\n<SURNAME/>环看到肯定会发火。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -79149,7 +79149,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c12/>にはやたら積極的なのに、\n<SURNAME/>他の友達の事になると途端に冷たいんだねぇ。<pause:15/>\n<SURNAME/>どっちガ木ントのあの子なのかな…",
-        "zh": "\n<SURNAME/>明明对<c12/>特别主动，\n<SURNAME/>可一提到其他朋友就突然冷淡呢\n<SURNAME/><pause:15/>\n<SURNAME/>到底哪边才是真正的她呢……"
+        "zh": "\n<SURNAME/>明明对<c12/>特别主动，\n<SURNAME/>可一提到其他朋友就突然冷淡呢<pause:15/>\n<SURNAME/>到底哪边才是真正的她呢……"
       }
     ],
     "meta_jp": "ゆきの",
@@ -79414,7 +79414,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>どうやら、ただしの奴も、\n<SURNAME/>秘密のメニューを頼んだみたいね…<pause:15/>\n<SURNAME/>ったく、そういうのは抜け目無いんだから。",
-        "zh": "\n<SURNAME/>看来，直那家伙也\n<SURNAME/>点了秘密菜单呢…<pause:15/>\n<SURNAME/>真是的，那种事上倒是不吃亏。"
+        "zh": "\n<SURNAME/>看来直那家伙\n<SURNAME/>好像也点了秘密菜单呢…<pause:15/>\n<SURNAME/>真是的，在那种事上倒是精明得很。"
       }
     ],
     "meta_jp": "たまきちゃん",
@@ -79579,7 +79579,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>MUSESかぁ…<pause:15/>可愛いなぁ…<pause:15/>\n<SURNAME/>だけど真ん中の3人目はどんな子なんだろう?<pause:15/>\n<SURNAME/>いや、待てよ、このシルエットから推理するに…",
-        "zh": "\n<SURNAME/>缪斯啊…<pause:15/>真可爱呢…<pause:15/>\n<SURNAME/>但中间第三个人是什么样的女孩呢？<pause:15/>\n<SURNAME/>不，等等，从这个剪影来推理的话…"
+        "zh": "\n<SURNAME/>MUSES啊…<pause:15/>真可爱呢…<pause:15/>\n<SURNAME/>但中间第三个人是什么样的女孩呢？<pause:15/>\n<SURNAME/>不，等等，从这个剪影来推理的话…"
       }
     ],
     "meta_jp": "ただしくん",
@@ -79612,7 +79612,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>フフフ…やはりあのリサちゃんガ、MUSESの\n<SURNAME/>3人目だったんだな。まさに僕の推理通り…<pause:15/>\n<SURNAME/>って、サイン貰っときゃ良かったぁぁ!",
-        "zh": "\n<SURNAME/>呵呵呵…果然小莉莎就是缪斯的\n<SURNAME/>第三个人啊。完全符合我的推理…<pause:15/>\n<SURNAME/>啊，早知道要个签名就好了！"
+        "zh": "\n<SURNAME/>呵呵呵…果然小莉莎就是MUSES的\n<SURNAME/>第三个人啊。完全符合我的推理…<pause:15/>\n<SURNAME/>啊，早知道要个签名就好了！"
       }
     ],
     "meta_jp": "ただしくん",
@@ -80579,7 +80579,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>まったく、いい歳して\n<SURNAME/>ポスターはガして来るなよなァ…<pause:15/>\n<SURNAME/>きっと欲しいものは我慢できないんだぜ。",
-        "zh": "\n<SURNAME/>真是的，一把年纪了\n<SURNAME/>还来贴海报啊…<pause:15/>\n<SURNAME/>肯定是想要的东西憋不住吧。"
+        "zh": "\n<SURNAME/>真是的，一把年纪了\n<SURNAME/>可别把海报撕下来带过来啊…<pause:15/>\n<SURNAME/>肯定只要是想要的东西，就根本忍不住吧。"
       }
     ],
     "meta_jp": "栄吉",
@@ -80623,7 +80623,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>MUSESガムー大陸で\n<SURNAME/>ビデオクリップのロケをしてるのよね。\n<SURNAME/>そこに行けば、リサの友達にも会えるかしら。",
-        "zh": "\n<SURNAME/>缪斯乐队正在姆大陆\n<SURNAME/>拍摄MV外景呢。\n<SURNAME/>去那儿或许能见到莉莎的朋友。"
+        "zh": "\n<SURNAME/>MUSES乐队正在姆大陆\n<SURNAME/>拍摄MV外景呢。\n<SURNAME/>去那儿或许能见到莉莎的朋友。"
       }
     ],
     "meta_jp": "舞耶",
@@ -82703,7 +82703,7 @@
     "id": "script:503_8:diag23",
     "pages": [],
     "meta_jp": "<SURNAME/>何なりと御質問を。\n<option:6/>タロットカード\nペルソナカード\n降魔と発動\nペルソナの成長\nペルソナとの相性\nなにも聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\nPersona卡片\n降魔与发动\nPersona的成长\n与Persona的相性\n什么也不问\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\n人格面具卡片\n降魔与发动\n人格面具的成长\n与人格面具的相性\n什么也不问\n<option_end/><c02/>"
   },
   {
     "id": "script:503_8:diag24",
@@ -83444,25 +83444,25 @@
     "id": "script:504_8:diag0",
     "pages": [],
     "meta_jp": "ぶわーん!\n主人公ペルソナ<c06/><c02/>",
-    "meta_zh": "嗡！\n主角Persona<c06/><c02/>"
+    "meta_zh": "嗡！\n主角人格面具<c06/><c02/>"
   },
   {
     "id": "script:504_8:diag1",
     "pages": [],
     "meta_jp": "でたぁ!!\nギンコペルソナ<c06/><c02/>",
-    "meta_zh": "出现啦!!\n银子Persona<c06/><c02/>"
+    "meta_zh": "出现啦!!\n银子人格面具<c06/><c02/>"
   },
   {
     "id": "script:504_8:diag2",
     "pages": [],
     "meta_jp": "くそ!\n栄吉ペルソナ<c06/><c02/>",
-    "meta_zh": "可恶!\n荣吉Persona<c06/><c02/>"
+    "meta_zh": "可恶!\n荣吉人格面具<c06/><c02/>"
   },
   {
     "id": "script:504_8:diag3",
     "pages": [],
     "meta_jp": "元気?\n舞耶ペルソナ<c06/><c02/>",
-    "meta_zh": "还好吗?\n舞耶Persona<c06/><c02/>"
+    "meta_zh": "还好吗?\n舞耶人格面具<c06/><c02/>"
   },
   {
     "id": "script:504_8:diag4",
@@ -83474,7 +83474,7 @@
     "id": "script:504_8:diag5",
     "pages": [],
     "meta_jp": "ペルソナを諦めます。よろしいですか?\n<option:2/>はい\nいいえ\n<option_end/><c02/>",
-    "meta_zh": "要放弃Persona吗？确定吗?\n<option:2/>是\n否\n<option_end/><c02/>"
+    "meta_zh": "要放弃人格面具吗？确定吗?\n<option:2/>是\n否\n<option_end/><c02/>"
   },
   {
     "id": "script:504_8:diag6",
@@ -83486,7 +83486,7 @@
     "id": "script:504_8:diag7",
     "pages": [],
     "meta_jp": "ペルソナ追加\n<option:6/>1\n3\n5\n7\n9\nしない\n<option_end/><c02/>",
-    "meta_zh": "追加Persona\n<option:6/>1\n3\n5\n7\n9\n不追加\n<option_end/><c02/>"
+    "meta_zh": "追加人格面具\n<option:6/>1\n3\n5\n7\n9\n不追加\n<option_end/><c02/>"
   },
   {
     "id": "script:505_8:diag0",
@@ -84549,7 +84549,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>さすガに今度デビューするアイドルグループの事は\n<SURNAME/>ここまで聞こえてきたぜ。えーと、ミューズだろ?<pause:15/>\n<SURNAME/>なんでい、洗剤みてぇな名前だな。",
-        "zh": "\n<SURNAME/>连这次要出道的偶像团体的事\n<SURNAME/>都传到这里来了。呃，是缪斯吧？<pause:15/>\n<SURNAME/>真是的，像洗衣粉一样的名字啊。"
+        "zh": "\n<SURNAME/>连这次要出道的偶像团体的事\n<SURNAME/>都传到这里来了。呃，是MUSES吧？<pause:15/>\n<SURNAME/>真是的，像洗衣粉一样的名字啊。"
       }
     ],
     "meta_jp": "栄吉の親父",
@@ -84702,7 +84702,7 @@
     "id": "script:505_8:diag110",
     "pages": [],
     "meta_jp": "横内<SURNAME/>健太(よこうち<SURNAME/>けんた)\n<SURNAME/>エルミン学園の卒業生。\n<SURNAME/>噂に詳しい、訪問販売のトップセールスマン。\n<SURNAME/>営業成績は、実はペルソナの賜物らしい。",
-    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是Persona的恩赐。"
+    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是人格面具的恩赐。"
   },
   {
     "id": "script:505_8:diag111",
@@ -84743,7 +84743,7 @@
     "id": "script:505_8:diag116",
     "pages": [],
     "meta_jp": "<SURNAME/>何の話ガ聞きたい?\n<option:4/><c10:1138/>雑誌懸賞の噂\n<c10:1139/>ムー大陸の噂\n<c10:1140/>伝説の武器の噂\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>穆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>姆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
   },
   {
     "id": "script:505_8:diag117",
@@ -85806,7 +85806,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あのアニマムンディで\n<SURNAME/>本物の防具ガ買えてしまうんスか?\n<SURNAME/>品質は良いガ値段ガ高いと聞いたッスガ。",
-        "zh": "\n<SURNAME/>那个世界之灵\n<SURNAME/>居然能买到真防具吗？\n<SURNAME/>质量不错但但价格听说高的说的说。"
+        "zh": "\n<SURNAME/>那个世界之灵\n<SURNAME/>居然能买到真防具吗？\n<SURNAME/>质量不错但但价格听说高的说。"
       }
     ],
     "meta_jp": "寿司貴族",
@@ -86364,7 +86364,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>いいとも。\n<SURNAME/>じゃ、まずそっちのネタを教えてよ。",
-        "zh": "\n<SURNAME/>当然好。\n<SURNAME/>那，先告诉我你那边的料吧。"
+        "zh": "\n<SURNAME/>当然好。\n<SURNAME/>那么，先告诉我你那边的料吧。"
       }
     ],
     "meta_jp": "噂屋トロ",
@@ -87651,7 +87651,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あの受付の人も、噂の力で出てきたのかしら…<pause:15/>\n<SURNAME/>普通の人に見えるけど…",
-        "zh": "\n<SURNAME/>那个接待员也是传闻的力量召唤出来的吗…\n<SURNAME/><pause:15/>\n<SURNAME/>看起来倒像普通人…"
+        "zh": "\n<SURNAME/>那个接待员也是传闻的力量召唤出来的吗…<pause:15/>\n<SURNAME/>看起来倒像普通人…"
       }
     ],
     "meta_jp": "舞耶",
@@ -89567,7 +89567,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>激氣!(ケッへイ)きっと、知ってるのに\n<SURNAME/>黙ってるんだよっ。超ムカ!",
-        "zh": "\n<SURNAME/>激氣!(激氣)肯定知道却\n<SURNAME/>瞒着我。超火大！"
+        "zh": "\n<SURNAME/>激氣!明明肯定知道\n<SURNAME/>却偏偏瞒着不说。超火大！"
       }
     ],
     "meta_jp": "ギンコ",
@@ -89743,7 +89743,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>寒外、プリクラでデビューできる噂自体\n<SURNAME/>仮面党ガ仕組んだ物だったかも知れないわね。<pause:15/>\n<SURNAME/>もしそうなら、これで終わるはずガ無い。",
-        "zh": "\n<SURNAME/>说不定，能靠大头贴出道的传闻\n<SURNAME/>本身就是假面党安排的呢。\n<SURNAME/><pause:15/>\n<SURNAME/>如果真是那样，事情绝不会就此结束。"
+        "zh": "\n<SURNAME/>说不定，能靠大头贴出道的传闻\n<SURNAME/>本身就是假面党安排的呢。<pause:15/>\n<SURNAME/>如果真是那样，事情绝不会就此结束。"
       }
     ],
     "meta_jp": "舞耶",
@@ -89765,7 +89765,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>やっぱり一人で行かせるべきじゃなかったかな…<pause:15/>\n<SURNAME/>リサ、大丈夫かしら?",
-        "zh": "\n<SURNAME/>果然不该让她一个人去吗…\n<SURNAME/><pause:15/>\n<SURNAME/>莉莎，不要紧吧？"
+        "zh": "\n<SURNAME/>果然不该让她一个人去吗…<pause:15/>\n<SURNAME/>莉莎不要紧吧？"
       }
     ],
     "meta_jp": "舞耶",
@@ -90150,7 +90150,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ボクぐらいコアなファンになると、\n<SURNAME/>当然CDも全購入、しかも2枚ズツ。\n<SURNAME/>鑑賞用と保存用だね、これ常識。",
-        "zh": "\n<SURNAME/>像我这样铁杆的粉丝，\n<SURNAME/>当然 CD 全都买齐，而且每张两份。\n<SURNAME/>一张用欣赏用一张收藏用，这可是常识。"
+        "zh": "\n<SURNAME/>像我这样铁杆的粉丝，\n<SURNAME/>当然CD全都买齐，而且每张两份。\n<SURNAME/>一张用欣赏用一张收藏用，这可是常识。"
       }
     ],
     "meta_jp": "トニー",
@@ -90458,7 +90458,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ムー大陸でMUSESのビデオクリップロケを\n<SURNAME/>してるらしいんですよっ。ぼ、僕はすぐにでも見に\n<SURNAME/>行きたいんだけど、彼女ガ嫌ガっちゃって…",
-        "zh": "\n<SURNAME/>好像在姆大陆进行缪斯的视频拍摄。\n<SURNAME/>我、我超想马上去看，\n<SURNAME/>但她不愿意…"
+        "zh": "\n<SURNAME/>好像在姆大陆进行MUSES的视频拍摄。\n<SURNAME/>我、我超想马上去看，\n<SURNAME/>但她不愿意…"
       }
     ],
     "meta_jp": "パピー",
@@ -91145,7 +91145,7 @@
     "id": "script:514_8:diag39",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag40",
@@ -91184,7 +91184,7 @@
     "id": "script:514_8:diag43",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag44",
@@ -91256,7 +91256,7 @@
     "id": "script:514_8:diag50",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag51",
@@ -91676,7 +91676,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>リサ、どうしてあんな言い方するのかしら…<pause:15/>\n<SURNAME/>あの2人は、リサにとって大切な友達の筈よ。\n<SURNAME/>なぜそうまで、友達を嫌うんだろう…",
-        "zh": "\n<SURNAME/>莉莎为什么要那样说呢…\n<SURNAME/><pause:15/>\n<SURNAME/>那两个人，对莉莎来说应该是很重要的朋友。\n<SURNAME/>她为什么会那么讨厌朋友呢…"
+        "zh": "\n<SURNAME/>莉莎为什么要那样说呢…<pause:15/>\n<SURNAME/>那两个人，对莉莎来说应该是很重要的朋友。\n<SURNAME/>她为什么会那么讨厌朋友呢…"
       }
     ],
     "meta_jp": "舞耶",
@@ -91687,7 +91687,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>私、リサガデビューを嫌ガったのは、\n<SURNAME/>仮面党のせいばかりでもないと思うの。<pause:15/>\n<SURNAME/>もちろん、あの2人の友達のせいでもない…",
-        "zh": "\n<SURNAME/>我觉得莉莎不想出道，\n<SURNAME/>并不全是假面党的错。\n<SURNAME/><pause:15/>\n<SURNAME/>当然，也不是那两个朋友的错…"
+        "zh": "\n<SURNAME/>我觉得莉莎不想出道，\n<SURNAME/>并不全是假面党的错。<pause:15/>\n<SURNAME/>当然，也不是那两个朋友的错…"
       }
     ],
     "meta_jp": "舞耶",
@@ -91852,7 +91852,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんだか、あの2人ガ可哀相になってきたね。\n<SURNAME/>悪気ガあってこうなった訳でもないんだろ?<pause:15/>\n<SURNAME/>ああまで言われちゃ立つ瀬ガ無いよ。",
-        "zh": "\n<SURNAME/>总觉得那两个人也挺可怜的。\n<SURNAME/>她们也不是存心才变成这样的吧？\n<SURNAME/><pause:15/>\n<SURNAME/>被说成那样，真是无地自容啊。"
+        "zh": "\n<SURNAME/>总觉得那两个人也挺可怜的。\n<SURNAME/>她们也不是存心才变成这样的吧？<pause:15/>\n<SURNAME/>被说成那样，真是无地自容啊。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -92171,7 +92171,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そう思うと、私なんか怖くて夜も眠れない…<pause:15/>\n<SURNAME/>ううん…きっと深い事情ガあるのよね。\n<SURNAME/>だから私は防具を作って、あなたを守るの。",
-        "zh": "\n<SURNAME/>一想到这个，我就怕得晚上都睡不着…\n<SURNAME/><pause:15/>\n<SURNAME/>不…你一定有很深的苦衷吧。\n<SURNAME/>所以我要做防具保护你。"
+        "zh": "\n<SURNAME/>一想到这个，我就怕得晚上都睡不着…<pause:15/>\n<SURNAME/>不…你一定有很深的苦衷吧。\n<SURNAME/>所以我要做防具保护你。"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92578,7 +92578,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>私い、佐々木<SURNAME/>銀次の大ファンだしい。<pause:15/>\n<SURNAME/>だって彼の曲って超イカしてるじゃん。<pause:15/>\n<SURNAME/>MUSESも超期待よねぇ。",
-        "zh": "\n<SURNAME/>我可是佐佐木<SURNAME/>银次的超级粉丝哦。<pause:15/>\n<SURNAME/>因为他的曲子超有型嘛。\n<SURNAME/><pause:15/>\n<SURNAME/>MUSES 也超让人期待呢。"
+        "zh": "\n<SURNAME/>我可是佐佐木<SURNAME/>银次的超级粉丝哦。<pause:15/>\n<SURNAME/>因为他的曲子超有型嘛。<pause:15/>\n<SURNAME/>MUSES也超让人期待呢。"
       }
     ],
     "meta_jp": "サチコ",
@@ -92776,7 +92776,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>またサチコ、チケット買いそびれたのっ?<pause:15/>\n<SURNAME/>信じられなぁい、またアタシ達乗り遅れ?<pause:15/>\n<SURNAME/>もう、サチコなんか信用しなぁい。",
-        "zh": "\n<SURNAME/>幸子又没买到票吗？\n<SURNAME/><pause:15/>\n<SURNAME/>不敢相信，我们又赶不上了？<pause:15/>命运\n<SURNAME/>真是的，再也不信幸子了。"
+        "zh": "\n<SURNAME/>幸子又没买到票吗？<pause:15/>\n<SURNAME/>不敢相信，我们又赶不上了？<pause:15/>\n<SURNAME/>真是的，再也不信幸子了。"
       }
     ],
     "meta_jp": "ミカ",
@@ -92963,7 +92963,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>JOKERには英語のソロパートガあるんでしょ?\n<SURNAME/>私も英語は得意だけど…<pause:15/>喋れない…<pause:15/>\n<SURNAME/>3人目…さすガね…<pause:15/>うふふふ。",
-        "zh": "\n<SURNAME/> 英文独唱部分不是有JOKER吗？\n<SURNAME/>我英语也算拿手…<pause:15/>可说不出口…<pause:15/>\n<SURNAME/>第3个人…真厉害呢…<pause:15/>呵呵呵。"
+        "zh": "\n<SURNAME/>英文独唱部分不是有JOKER吗？\n<SURNAME/>我英语也算拿手…<pause:15/>可说不出口…<pause:15/>\n<SURNAME/>第3个人…真厉害呢…<pause:15/>呵呵呵。"
       }
     ],
     "meta_jp": "アケミ",
@@ -93909,7 +93909,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ウ、ウウウ…やっと3人目ガ発表されたのに…<pause:15/>\n<SURNAME/>その子もう…好きな人ガいるらしいんだぁ…<pause:10/>\n<SURNAME/>ウウゥゥ…なんか悔しいよお…",
-        "zh": "\n<SURNAME/>呜、呜呜呜…第3个人终于公布了…\n<SURNAME/><pause:15/>\n<SURNAME/>可那孩子好像…已经有喜欢的人了…<pause:10/>\n<SURNAME/>呜呜呜…总觉得好不甘心…"
+        "zh": "\n<SURNAME/>呜、呜呜呜…第3个人终于公布了…<pause:15/>\n<SURNAME/>可那孩子好像…已经有喜欢的人了…<pause:10/>\n<SURNAME/>呜呜呜…总觉得好不甘心…"
       }
     ],
     "meta_jp": "泣き虫君",
@@ -94012,7 +94012,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag64",
@@ -94023,7 +94023,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag65",
@@ -94034,7 +94034,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag66",
@@ -94045,7 +94045,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag67",
@@ -94056,7 +94056,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag68",
@@ -94067,7 +94067,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag69",
@@ -94078,18 +94078,18 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag70",
     "pages": [
       {
         "jp": "\n<SURNAME/>うひょひょ、あの佐々木<SURNAME/>銀次に\n<SURNAME/>ここのBGM、作ってもらえないかしらねぇ〜<pause:15/>\n<SURNAME/>そしたら全国制覇も簡単なのにねぇ〜",
-        "zh": "\n<SURNAME/>呜哟哟，要是能让佐佐木<SURNAME/>银次\n<SURNAME/>来给这里做 BGM 就好了呢～\n<SURNAME/><pause:15/>\n<SURNAME/>那样称霸全国也轻轻松松啦～"
+        "zh": "\n<SURNAME/>呜哟哟，要是能让佐佐木<SURNAME/>银次\n<SURNAME/>来给这里做BGM就好了呢～<pause:15/>\n<SURNAME/>那样称霸全国也轻轻松松啦～"
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag71",
@@ -94100,7 +94100,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag72",
@@ -94111,7 +94111,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag73",
@@ -94122,7 +94122,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag74",
@@ -94133,7 +94133,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag75",
@@ -94144,7 +94144,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag76",
@@ -94155,7 +94155,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag77",
@@ -94166,7 +94166,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag78",
@@ -94177,7 +94177,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag79",
@@ -94188,7 +94188,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag80",
@@ -94199,7 +94199,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag81",
@@ -94210,7 +94210,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag82",
@@ -94221,7 +94221,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:517_8:diag83",
@@ -94496,7 +94496,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:518_8:diag7",
@@ -94507,7 +94507,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:518_8:diag8",
@@ -94518,7 +94518,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:518_8:diag9",
@@ -94529,7 +94529,7 @@
       }
     ],
     "meta_jp": "オバサン・四女",
-    "meta_zh": "四女大婶"
+    "meta_zh": "阿姨・四姐"
   },
   {
     "id": "script:518_8:diag10",
@@ -94602,7 +94602,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>姐さんはああ言ってるけど、<c12/>どう思う?<pause:15/>\n<SURNAME/>ギンコガペルソナ使いでカンフー使いの、\n<SURNAME/>ダブルシヨックって事は奴等も知ってるだろ?",
-        "zh": "\n<SURNAME/>大姐是那么说，<c12/>你怎么看？\n<SURNAME/><pause:15/>\n<SURNAME/>银子既是人格面具使者，又会功夫，\n<SURNAME/>他们也该知道这Double Shock吧？"
+        "zh": "\n<SURNAME/>大姐是那么说，<c12/>你怎么看？<pause:15/>\n<SURNAME/>银子既是人格面具使者，又会功夫，\n<SURNAME/>他们也该知道这Double Shock吧？"
       }
     ],
     "meta_jp": "栄吉",
@@ -94822,7 +94822,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>仮面党の目的は、イデアルエナジーの回収と\n<SURNAME/>託宣の成就…このデビュー話も、それに関係あると\n<SURNAME/>考えるのガ妥当だけど…",
-        "zh": "\n<SURNAME/>假面党的目的，是回收 Ideal Energy，\n<SURNAME/>以及让神谕成真…这次出道的事，\n<SURNAME/>也该和那些有关吧…"
+        "zh": "\n<SURNAME/>假面党的目的，是回收理想能量，\n<SURNAME/>以及让神谕成真…这次出道的事，\n<SURNAME/>也该和那些有关吧…"
       }
     ],
     "meta_jp": "舞耶",
@@ -96252,7 +96252,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c13/>!<SURNAME/>あんな二人放っておこうよ!<pause:15/>\n<SURNAME/>わたし絶対行かないからね!",
-        "zh": "\n<SURNAME/><c13/>！<SURNAME/>别管那两个人了！\n<SURNAME/><pause:15/>\n<SURNAME/>我绝对不会去的！"
+        "zh": "\n<SURNAME/><c13/>！<SURNAME/>别管那两个人了！<pause:15/>\n<SURNAME/>我绝对不会去的！"
       }
     ],
     "meta_jp": "ギンコ",
@@ -96428,7 +96428,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>正面から入れないなら柵を乗り越えるまでよ!<pause:15/>\n<SURNAME/>どんな事をしてでもリサのいる所まで\n<SURNAME/>辿り着かなくちゃ。",
-        "zh": "\n<SURNAME/>正面进不去的话，就翻围栏进去好了！\n<SURNAME/><pause:15/>\n<SURNAME/>不管用什么办法，\n<SURNAME/>都必须赶到莉莎身边。"
+        "zh": "\n<SURNAME/>正面进不去的话，就翻围栏进去好了！<pause:15/>\n<SURNAME/>不管用什么办法，\n<SURNAME/>都必须赶到莉莎身边。"
       }
     ],
     "meta_jp": "舞耶",
@@ -96582,7 +96582,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>場合によっちゃ、リサの友達もその場で\n<SURNAME/>助け出さなきゃならなくなるかもねぇ。<pause:15/>\n<SURNAME/>ちょいと忙しくなりそうだ。",
-        "zh": "\n<SURNAME/>看情况，说不定莉莎的朋友也得当场\n<SURNAME/>救出来才行呢。\n<SURNAME/><pause:15/>\n<SURNAME/>看来要忙起来了。"
+        "zh": "\n<SURNAME/>看情况，说不定莉莎的朋友也得当场\n<SURNAME/>救出来才行呢。<pause:15/>\n<SURNAME/>看来要忙起来了。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -97162,7 +97162,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>リサさんガMUSESだったそうじゃないですか。<pause:15/>\n<SURNAME/>皆さんどうして教えてくれなかったんですかぁ?\n<SURNAME/>独占インタビューできてたかも、しれないのにい",
-        "zh": "\n<SURNAME/>听说莉莎小姐原来是MUSES的一员啊。\n<SURNAME/><pause:15/>\n<SURNAME/>大家为什么不告诉我呢？\n<SURNAME/>明明说不定能做独家采访的。"
+        "zh": "\n<SURNAME/>听说莉莎小姐原来是MUSES的一员啊。<pause:15/>\n<SURNAME/>大家为什么不告诉我呢？\n<SURNAME/>明明说不定能做独家采访的。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -97239,7 +97239,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>木ントだって。なんでもあのトニーって奴ガ\n<SURNAME/>武器の密輸をしててさ、あの店でそれを\n<SURNAME/>売り捌いてるらしいんだ。",
-        "zh": "\n<SURNAME/>是真的啦。听说那个叫 托尼 的家伙\n<SURNAME/>在走私武器\n<SURNAME/>还在那家店里卖呢。"
+        "zh": "\n<SURNAME/>是真的啦。听说那个叫托尼的家伙\n<SURNAME/>在走私武器\n<SURNAME/>还在那家店里卖呢。"
       }
     ],
     "meta_jp": "カズヤ",
@@ -97261,7 +97261,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>それって青華区にあるクレール・ド・リュンヌの話\n<SURNAME/>じゃないの?<SURNAME/><pause:15/>あそこで本物の武器を売ってるって\n<SURNAME/>噂なら聞いたことあるけど。",
-        "zh": "\n<SURNAME/>那说的是青叶区的\n<SURNAME/>月光吧？<SURNAME/><pause:15/>/我倒听过那里在卖真枪实弹\n<SURNAME/>这样的传闻。"
+        "zh": "\n<SURNAME/>那说的是青叶区的\n<SURNAME/>月光吧？<SURNAME/><pause:15/>我倒听过那里在卖真枪实弹\n<SURNAME/>这样的传闻。"
       }
     ],
     "meta_jp": "カズヤ",
@@ -97448,7 +97448,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あっ、リサ!<SURNAME/>見たわよあのポスター!\n<SURNAME/>もうっ、シルエットなんかで、もったいつけてぇ。<pause:15/>\n<SURNAME/>だけど私、一発で見抜いちゃったもんねぇ。",
-        "zh": "\n<SURNAME/>啊，莉莎！<SURNAME/>我看到那张海报了！\n<SURNAME/>真是的，还用剪影卖关子。\n<SURNAME/><pause:15/>\n<SURNAME/>不过我可是一眼就看出来了哦。"
+        "zh": "\n<SURNAME/>啊，莉莎！<SURNAME/>我看到那张海报了！\n<SURNAME/>真是的，还用剪影卖关子。<pause:15/>\n<SURNAME/>不过我可是一眼就看出来了哦。"
       }
     ],
     "meta_jp": "女子生徒",
@@ -97845,7 +97845,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>それガし、基本的に演歌好きなのでござるガ、\n<SURNAME/>佐々木<SURNAME/>銀次殿の曲だけは別でござる。\n<SURNAME/>あの方は、なかなかに良い歌を作られる。",
-        "zh": "\n<SURNAME/>不过，在下基本喜欢演歌，\n<SURNAME/>唯独佐々木<SURNAME/>银次大人的曲子例外。\n<SURNAME/>那位作的歌，着实动听。"
+        "zh": "\n<SURNAME/>不过，在下基本喜欢演歌，\n<SURNAME/>唯独佐佐木<SURNAME/>银次大人的曲子例外。\n<SURNAME/>那位作的歌，着实动听。"
       }
     ],
     "meta_jp": "アルバイター",
@@ -99783,7 +99783,7 @@
     "id": "script:527_8:diag36",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag37",
@@ -99839,7 +99839,7 @@
     "id": "script:527_8:diag42",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag43",
@@ -99900,7 +99900,7 @@
     "id": "script:527_8:diag48",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为Persona使者觉醒。"
+    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag49",
@@ -107921,7 +107921,7 @@
     "id": "script:542_8:diag1",
     "pages": [],
     "meta_jp": "<c12/><SURNAME/>克哉(かつや)\n<SURNAME/>港南署の刑事で、<c13/>の実の兄。\n<SURNAME/>頭ガ切れ行動力もあり、人一倍犯罪(特に放火)を\n<SURNAME/>憎む正義感。少々苦労性でもある。",
-    "meta_zh": "<c12/><SURNAME/>克哉(克也)\n<SURNAME/>是港南署的刑警，<c13/>的亲哥哥。\n<SURNAME/>头脑聪明行动力强，比常人更憎恨犯罪（特别是纵火）\n<SURNAME/>的正义感。也有点爱操心。"
+    "meta_zh": "<c12/><SURNAME/>克哉\n<SURNAME/>是港南署的刑警，亦是<c13/>的亲哥哥。\n<SURNAME/>头脑敏锐且极具行动力，对犯罪（尤其是纵火）\n<SURNAME/>深恶痛绝，正义感远胜常人。多少有点爱操心。"
   },
   {
     "id": "script:542_8:diag2",
@@ -108148,7 +108148,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あ!<SURNAME/>それってもしかして、ばばあのきりだんす?\n<SURNAME/>うわぁ!<SURNAME/>お兄ちゃん、とってきてくれたの?\n<SURNAME/>やったぁー!<SURNAME/>サンキュー!!",
-        "zh": "\n<SURNAME/>啊！<SURNAME/>那个难道是婆婆的桐木衣柜？\n<SURNAME/>哇啊！<SURNAME/>大哥哥，你帮我拿来了？\n<SURNAME/>太棒了！<SURNAME/>谢谢！！"
+        "zh": "\n<SURNAME/>啊！<SURNAME/>那个难道是老太婆的桐木柜？\n<SURNAME/>哇啊！<SURNAME/>大哥哥，你帮我拿来了？\n<SURNAME/>太棒了！<SURNAME/>谢谢！！"
       }
     ],
     "meta_jp": "ちい坊",
@@ -109142,7 +109142,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんか、木ントに船に乗ってるみたいだね。\n<SURNAME/>あーぁ、一度でいいから、情人(チンヤン)と\n<SURNAME/>こんな船に乗って旅行とか行きたいなァ。",
-        "zh": "\n<SURNAME/>感觉真的像在坐船一样呢。\n\n<SURNAME/>啊—— 哪怕只有一次也好，真想和\n<SURNAME/>情人一起，坐这种船去旅行啊。"
+        "zh": "\n<SURNAME/>感觉真的像在坐船一样呢。\n<SURNAME/>啊—— 哪怕只有一次也好，真想和\n<SURNAME/>情人一起，坐这种船去旅行啊。"
       }
     ],
     "meta_jp": "ギンコ",
@@ -110396,7 +110396,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>私も絵描きとして彼のファンだったのですガ…<pause:15/>\n<SURNAME/>悪魔絵師はもう何十年も昔に失踪してしまい、\n<SURNAME/>未だ行方知れずなのです。",
-        "zh": "\n<SURNAME/>作为一名画家，我原本也是他的粉丝…\n<SURNAME/><pause:15/>\n<SURNAME/>那位“恶魔绘师”早在几十年前就失踪了，\n<SURNAME/>至今下落不明。"
+        "zh": "\n<SURNAME/>作为一名画家，我原本也是他的粉丝…<pause:15/>\n<SURNAME/>那位“恶魔绘师”早在几十年前就失踪了，\n<SURNAME/>至今下落不明。"
       }
     ],
     "meta_jp": "初老の画家",
@@ -111012,7 +111012,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>るるる〜♪<SURNAME/>ルル〜〜♪<pause:15/>\n<SURNAME/>フフン、なかなかいかしたメロディだろお?\n<SURNAME/>ガスチェンバーの新曲を考えてたのさ。",
-        "zh": "\n<SURNAME/>噜噜噜〜♪<SURNAME/>噜噜〜♪<pause:15/>\n<SURNAME/>哼哼，这旋律挺不错的吧?\n<SURNAME/>我刚才在琢磨毒气室的新歌呢。"
+        "zh": "\n<SURNAME/>噜噜噜〜♪<SURNAME/>噜噜〜♪<pause:15/>\n<SURNAME/>哼哼，这旋律挺不错的吧?\n<SURNAME/>我刚才在琢磨毒气室乐队的新歌呢。"
       }
     ],
     "meta_jp": "栄吉",
@@ -112222,7 +112222,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うん。カウンセリングの勉強も兼ねて、\n<SURNAME/>ここで手伝いをさせてもらってるの。\n<SURNAME/>ゆきのさんも元気そうで良かったわ。",
-        "zh": "\n<SURNAME/>嗯。我也想顺便学习一下心理咨询，\n<SURNAME/>所以才在这里帮忙的。\n<SURNAME/>看到雪野这么精神，我也就放心了。。"
+        "zh": "\n<SURNAME/>嗯。我也想顺便学习一下心理咨询，\n<SURNAME/>所以才在这里帮忙的。\n<SURNAME/>看到雪野这么精神，我也就放心了。"
       }
     ],
     "meta_jp": "???",
@@ -112254,7 +112254,7 @@
     "id": "script:552_8:diag38",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag39",
@@ -112283,7 +112283,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ここの内装もその為。童話の和やかな世界観を\n<SURNAME/>使って、患者さんの心を落ち着かせるんだって。\n<SURNAME/>わたしも先生の事、凄く尊敬してるの。",
-        "zh": "\n<SURNAME/>这里的装潢也是为了这个。利用童话般温馨的世界观，\n<SURNAME/>来让患者的心情平静下来。\n<SURNAME/>我也非常尊敬老师呢。"
+        "zh": "\n<SURNAME/>这里的装潢也是为了这个。用童话般温馨的世界观，\n<SURNAME/>来让患者的心情平静下来。\n<SURNAME/>我也非常尊敬老师呢。"
       }
     ],
     "meta_jp": "麻希",
@@ -112469,7 +112469,7 @@
     "id": "script:552_8:diag58",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag59",
@@ -112508,7 +112508,7 @@
     "id": "script:552_8:diag62",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为Persona使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(sonomura<SURNAME/>maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag63",
@@ -114309,7 +114309,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>いいとも。\n<SURNAME/>じゃ、まずそっちのネタを教えてよ。",
-        "zh": "\n<SURNAME/>当然好。\n<SURNAME/>那，先告诉我你那边的料吧。"
+        "zh": "\n<SURNAME/>当然好。\n<SURNAME/>那么，先告诉我你那边的料吧。"
       }
     ],
     "meta_jp": "噂屋トロ",
@@ -118963,7 +118963,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>激氣!!(ケッへイ)うるさいなあ!!<pause:30/>\n<SURNAME/>我翻嚟嘞(ゴーファーンライラ)<pause:30/>た・<pause:10/>だ・<pause:10/>い・<pause:10/>ま!<pause:30/>\n<SURNAME/>これでいいんでしょ!?",
-        "zh": "\n<SURNAME/>激氣!!吵死了!!<pause:30/>\n<SURNAME/>我回来了<pause:30/>现·<pause:10/>在·<pause:10/>回·<pause:10/>来!<pause:30/>\n<SURNAME/>这样行了吧?!"
+        "zh": "\n<SURNAME/>激氣!!吵死了!!<pause:30/>\n<SURNAME/>我翻嚟嘞<pause:30/>现·<pause:10/>在·<pause:10/>回·<pause:10/>来!<pause:30/>\n<SURNAME/>这样行了吧?!"
       }
     ],
     "meta_jp": "リサ",
@@ -119463,7 +119463,7 @@
     "id": "script:560_8:diag20",
     "pages": [],
     "meta_jp": "<SURNAME/>何なりと御質問を。\n<option:6/>タロットカード\nペルソナカード\n降魔と発動\nペルソナの成長\nペルソナとの相性\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\nPersona卡\n降魔与发动\nPersona的成长\n与Persona的相性\n什么也不问\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>请尽管提问。\n<option:6/>塔罗牌\n人格面具卡\n降魔与发动\n人格面具的成长\n与人格面具的相性\n什么也不问\n<option_end/><c02/>"
   },
   {
     "id": "script:560_8:diag21",
@@ -121215,7 +121215,7 @@
     "id": "script:563_8:diag32",
     "pages": [],
     "meta_jp": "横内<SURNAME/>健太(よこうち<SURNAME/>けんた)\n<SURNAME/>エルミン学園の卒業生。\n<SURNAME/>噂に詳しい、訪問販売のトップセールスマン。\n<SURNAME/>営業成績は、実はペルソナの賜物らしい。",
-    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是Persona的恩赐。"
+    "meta_zh": "横内 健太\n<SURNAME/>艾尔敏学园的毕业生。\n<SURNAME/>熟悉传闻，上门销售的顶级销售员。\n<SURNAME/>销售成绩，其实是人格面具的恩赐。"
   },
   {
     "id": "script:563_8:diag33",
@@ -121256,7 +121256,7 @@
     "id": "script:563_8:diag38",
     "pages": [],
     "meta_jp": "<SURNAME/>何の話ガ聞きたい?\n<option:4/><c10:1138/>雑誌懸賞の噂\n<c10:1139/>ムー大陸の噂\n<c10:1140/>伝説の武器の噂\n何も聞かない\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>穆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>想听什么故事?\n<option:4/><c10:1138/>杂志悬赏的传闻\n<c10:1139/>姆大陆的传闻\n<c10:1140/>传说武器的传闻\n什么都不听\n<option_end/><c02/>"
   },
   {
     "id": "script:563_8:diag39",
@@ -126452,7 +126452,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ねぇえ、だからぁ…<pause:30/>\n<SURNAME/>どんな関係なのか教えてよお。",
-        "zh": "\n<SURNAME/>呐，我说…<pause:30/> \n<SURNAME/>你就告诉我你们是什么关系嘛。"
+        "zh": "\n<SURNAME/>那个，我说…<pause:30/>\n<SURNAME/>你就告诉我他们是什么关系嘛。"
       }
     ],
     "meta_jp": "リサ",
@@ -161513,7 +161513,7 @@
     "id": "strtbl:160_0_0:293",
     "pages": [
       {
-        "jp": "<pause:0/><c1e:0/>e_se126k_personahatudo/ペルソナ発動",
+        "jp": "<pause:0/><c1e:0/>e_se126k_人格面具hatudo/ペルソナ発動",
         "zh": ""
       }
     ]
@@ -162125,7 +162125,7 @@
     "id": "strtbl:160_0_0:361",
     "pages": [
       {
-        "jp": "<pause:0/><c1e:0/>e_se502k_personahatud1/ペルソナ発動セットエナジー吸収",
+        "jp": "<pause:0/><c1e:0/>e_se502k_人格面具hatud1/ペルソナ発動セットエナジー吸収",
         "zh": ""
       }
     ]
@@ -167642,7 +167642,7 @@
     "id": "strtbl:163_0_0:293",
     "pages": [
       {
-        "jp": "<pause:0/><c1e:0/>e_se126k_personahatudo/ペルソナ発動",
+        "jp": "<pause:0/><c1e:0/>e_se126k_人格面具hatudo/ペルソナ発動",
         "zh": ""
       }
     ]
@@ -168254,7 +168254,7 @@
     "id": "strtbl:163_0_0:361",
     "pages": [
       {
-        "jp": "<pause:0/><c1e:0/>e_se502k_personahatud1/ペルソナ発動セットエナジー吸収",
+        "jp": "<pause:0/><c1e:0/>e_se502k_人格面具hatud1/ペルソナ発動セットエナジー吸収",
         "zh": ""
       }
     ]
