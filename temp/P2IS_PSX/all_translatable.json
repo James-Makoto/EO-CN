@@ -2315,7 +2315,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ああ、先輩。<pause:10/>今はここ入れませんよ。<pause:15/>\n<SURNAME/>奇病対策の緊急会議をしてるそうです。<pause:15/>\n<SURNAME/>今更って感じですよね。",
-        "zh": "\n<SURNAME/>啊，前辈。<pause:10/>现在不能进来哦。<pause:15/>\n<SURNAME/>听说里面在开讨论怪病对策的紧急会议。<pause:15/>\n<SURNAME/>现在才开会，感觉也太迟了吧。"
+        "zh": "\n<SURNAME/>啊，前辈。<pause:10/>现在不能进去哦。<pause:15/>\n<SURNAME/>听说里面在开讨论怪病对策的紧急会议。<pause:15/>\n<SURNAME/>现在才开会，感觉也太迟了吧。"
       }
     ],
     "meta_jp": "男子生徒",
@@ -9394,7 +9394,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>チャ〜オって…",
-        "zh": "\n<SURNAME/>Ci~ao…"
+        "zh": "\n<SURNAME/>Ci~ao~…"
       }
     ],
     "meta_jp": "???",
@@ -9438,7 +9438,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あるときは、熱血レポーター!\n<SURNAME/>あるときは、寡黙な編集者!\n<SURNAME/>しかしてその実体は…",
-        "zh": "\n<SURNAME/>有时是热血记者！\n<SURNAME/>有时是沉默的编辑！\n<SURNAME/>而其真面目是…"
+        "zh": "\n<SURNAME/>有时是热血的记者！\n<SURNAME/>有时是沉默的编辑！\n<SURNAME/>而其真面目是…"
       }
     ],
     "meta_jp": "???",
@@ -17000,7 +17000,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>デビュー曲もすごいのお!!\n<SURNAME/>バイリンガルなリサのためにねぇ、\n<SURNAME/>英語のソロパートガ入ってるんだから!\n",
-        "zh": "\n<SURNAME/>出道曲也超棒哦!!\n<SURNAME/>为了会bilingua的莉莎你呀\n<SURNAME/>专门加了英语solo part段呢!\n"
+        "zh": "\n<SURNAME/>出道曲也超棒哦!!\n<SURNAME/>为了会bilingual的莉莎你呀\n<SURNAME/>专门加了英语solo part段呢!\n"
       }
     ],
     "meta_jp": "未歩",
@@ -30028,7 +30028,7 @@
     "id": "script:304_8:diag13",
     "pages": [],
     "meta_jp": "<SURNAME/>サシの勝負は、ミッシェル様にまかせてくんな!!\n<option:5/>俺ガ一人でやる\n舞耶と組む\nギンコと組む\n栄吉と組む\nゆきのと組む\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/>单挑的胜负，就交给米歇尔大人吧!!\n<option:5/>老子一个人干\n和舞耶组队\n和Ginko组队\n和荣吉组队\n和雪野组队\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/>单挑的胜负，就交给米歇尔大人吧!!\n<option:5/>老子一个人干\n和舞耶组队\n和银子组队\n和荣吉组队\n和雪野组队\n<option_end/><c02/>"
   },
   {
     "id": "script:305_8:diag0",
@@ -47074,7 +47074,7 @@
     "id": "script:433_8:diag9",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:433_8:diag10",
@@ -55137,7 +55137,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>その犯人なんだけど、\n<SURNAME/>実はここの生徒じゃないかって、噂ガあったのよ…\n<SURNAME/>でね、その生徒の名前…",
-        "zh": "\n<SURNAME/>听说说那个犯人啊， \n<SURNAME/>其实是这里的学生哦… \n<SURNAME/>而且，那个学生的名字…"
+        "zh": "\n<SURNAME/>听说那个犯人啊， \n<SURNAME/>其实是这里的学生哦… \n<SURNAME/>而且，那个学生的名字…"
       }
     ],
     "meta_jp": "木ラーな女子生徒",
@@ -65357,7 +65357,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>フフッ、思い切って買っちゃったぁ、このコート。<pause:15/>\n<SURNAME/>42万円!!<pause:15/><SURNAME/>アハァ、勿体無くて着れないわぁ。\n<SURNAME/>ずっと押し入れにしまっておこうかしらん。",
-        "zh": "\n<SURNAME/>呼呼，狠心买下了，这件大衣。<pause:15/>\n<SURNAME/>42万元！！<pause:15/><SURNAME/>啊哈，太可惜了，实舍不得穿啊。\n<SURNAME/>还是永远收在壁橱里吧。"
+        "zh": "\n<SURNAME/>呼呼，狠心买下了，这件大衣。<pause:15/>\n<SURNAME/>42万元！！<pause:15/><SURNAME/>啊哈，太可惜了，实在舍不得穿啊。\n<SURNAME/>还是永远收在壁橱里吧。"
       }
     ],
     "meta_jp": "OL",
@@ -73500,7 +73500,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ボクシングの…世界チャンプになりたかった…<pause:15/>\n<SURNAME/>この拳で、俺達を散々馬鹿にした連中を…<pause:15/>\n<SURNAME/>見返したかった…だけどもう…<pause:15/>どうでもいい…",
-        "zh": "\n<SURNAME/>拳击的…想成为世界冠军…<pause:15/>\n<SURNAME/>想用这拳头，让那些嘲笑我们的家伙…<pause:15/>\n<SURNAME/>好看…但已经…<pause:15/>无所谓了…"
+        "zh": "\n<SURNAME/>想成为…拳击的世界冠军…<pause:15/>\n<SURNAME/>想用这拳头，让那些嘲笑我们的家伙…<pause:15/>\n<SURNAME/>好看…但已经…<pause:15/>无所谓了…"
       }
     ],
     "meta_jp": "ケン",
@@ -74705,7 +74705,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>じゃあお礼に\n<SURNAME/><c1d:9/>フレイカード<c1d:1/>をあげるよ。\n<SURNAME/>コレクシヨンの一つなんだ。",
-        "zh": "\n<SURNAME/>那作为谢礼\n<SURNAME/><c1d:9/>这个芙雷卡<c1d:1/>送给你。\n<SURNAME/>是我的一个收藏。"
+        "zh": "\n<SURNAME/>那作为谢礼\n<SURNAME/>这个<c1d:9/>芙雷卡<c1d:1/>送给你。\n<SURNAME/>是我的一个收藏。"
       }
     ],
     "meta_jp": "マニア",
@@ -79017,7 +79017,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あのプロデューサーガペルソナ使いってこと、\n<SURNAME/>きっとリサも共鳴で気付いてるはずだけど…<pause:15/>\n<SURNAME/>大丈夫かしら…",
-        "zh": "\n<SURNAME/>那个制作人是人格面具使者的事，\n<SURNAME/>莉莎应该也通过共鸣察觉到了…\n<SURNAME/><pause:15/>\n<SURNAME/>不要紧吗…"
+        "zh": "\n<SURNAME/>那个制作人是人格面具使者的事，\n<SURNAME/>莉莎应该也通过共鸣察觉到了…<pause:15/>\n<SURNAME/>不要紧吗…"
       }
     ],
     "meta_jp": "舞耶",
@@ -79072,7 +79072,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>抑圧された感情は、塞き止められた川と同じ。<pause:15/>\n<SURNAME/>水は濁り、溢れ出し、最後には堤防を破壊する…<pause:15/>\n<SURNAME/>ふふふ…",
-        "zh": "\n<SURNAME/>被压抑的感情，就像堵住的河流。<pause:15/>\n<SURNAME/>水会浑浊、泛滥，最后冲毁堤坝…\n<SURNAME/><pause:15/>\n<SURNAME/>呵呵呵…"
+        "zh": "\n<SURNAME/>被压抑的感情，就像堵住的河流。<pause:15/>\n<SURNAME/>水会浑浊、泛滥，最后冲毁堤坝…<pause:15/>\n<SURNAME/>呵呵呵…"
       }
     ],
     "meta_jp": "舞耶",
@@ -79215,7 +79215,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そうなれって言ってるんじゃないんだ。<pause:15/>\n<SURNAME/>ただね、アイツに出来たのなら、<c12/>にだって\n<SURNAME/>それガ出来るような気ガしてさ。",
-        "zh": "\n<SURNAME/>我不是要你变成他那样。\n<SURNAME/><pause:15/>\n<SURNAME/>只是啊，既然那家伙做得到，\n<SURNAME/>我就觉得<c12/>你也做得到。"
+        "zh": "\n<SURNAME/>我不是要你变成他那样。<pause:15/>\n<SURNAME/>只是啊，既然那家伙做得到，\n<SURNAME/>我就觉得<c12/>你也做得到。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -79226,7 +79226,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>リサも栄吉も、10年前ガどうとかって…<pause:15/>\n<SURNAME/>いったいどうしちまったんだい?\n<SURNAME/>らしくないねぇ。",
-        "zh": "\n<SURNAME/>莉莎和荣吉都在说什么十年前…\n<SURNAME/><pause:15/>\n<SURNAME/>他们到底是怎么了？\n<SURNAME/>真不像他们啊。"
+        "zh": "\n<SURNAME/>莉莎和荣吉都在说什么十年前…<pause:15/>\n<SURNAME/>他们到底是怎么了？\n<SURNAME/>真不像他们啊。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -79248,7 +79248,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>俊介さんは、アタシに星を掴めと言った…<pause:15/>\n<SURNAME/>誰の物でもない、アタシだけの星を…<pause:15/>\n<SURNAME/>あの人は、ずっとそれを望んでたんだ。",
-        "zh": "\n<SURNAME/>俊介先生叫我去抓住星星…\n<SURNAME/><pause:15/>\n<SURNAME/>抓住不属于任何人，只属于我的星…<pause:15/>\n<SURNAME/>那个人，一直都希望我这么做。"
+        "zh": "\n<SURNAME/>俊介先生叫我去抓住星星…<pause:15/>\n<SURNAME/>抓住不属于任何人，只属于我的星…<pause:15/>\n<SURNAME/>那个人，一直都希望我这么做。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -79755,7 +79755,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>戦いに必要なのは徹底した現実主義と冷静な判断。\n<SURNAME/>若さに任せて無茶をするのは馬鹿な証拠だ。<pause:15/>\n<SURNAME/>精々気をつけるんだな。",
-        "zh": "\n<SURNAME/>战斗需要的是彻底的现实主义和冷静的判断。\n<SURNAME/>仗着年轻就乱来是愚蠢的证明。\n<SURNAME/><pause:15/>\n<SURNAME/>你们最好多加小心。"
+        "zh": "\n<SURNAME/>战斗需要的是彻底的现实主义和冷静的判断。\n<SURNAME/>仗着年轻就乱来是愚蠢的证明。<pause:15/>\n<SURNAME/>你们最好多加小心。"
       }
     ],
     "meta_jp": "轟所長",
@@ -81384,7 +81384,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c13/>クンからも、たまきさんに、\n<SURNAME/>あまり気にしないように言っておいて。<pause:15/>\n<SURNAME/>後は私達ガなんとかするし。",
-        "zh": "\n<SURNAME/>也请转告小<c13/>，让他告诉环小姐，\n<SURNAME/>叫她别太放在心上。\n<SURNAME/><pause:15/>\n<SURNAME/>之后我们会想办法的。"
+        "zh": "\n<SURNAME/>也请转告小<c13/>，让他告诉环小姐，\n<SURNAME/>叫她别太放在心上。<pause:15/>\n<SURNAME/>之后我们会想办法的。"
       }
     ],
     "meta_jp": "舞耶",
@@ -86191,7 +86191,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>平坂区には宝瓶宮ガ現れてるはずだ。\n<SURNAME/>あそこの水晶髑髏はまだ手に入れてないよ。<pause:15/>\n<SURNAME/>早く奴等から取り上げないと。",
-        "zh": "\n<SURNAME/>宝瓶宫应该已经出现在平坂区了。\n<SURNAME/>那里的水晶骷髅还没到手呢。\n<SURNAME/><pause:15/>\n<SURNAME/>得赶紧从那帮人手里夺过来才行。"
+        "zh": "\n<SURNAME/>宝瓶宫应该已经出现在平坂区了。\n<SURNAME/>那里的水晶骷髅还没到手呢。<pause:15/>\n<SURNAME/>得赶紧从那帮人手里夺过来才行。"
       }
     ],
     "meta_jp": "淳",
@@ -86268,7 +86268,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>実は、ありゃ全部俺ガ奴に言った嘘なんだよ。<pause:15/>\n<SURNAME/>段なんざ、一つも持ちあわしちゃいねぇ。\n<SURNAME/>思い当たるものったらソロバンガ3級って程度よ",
-        "zh": "\n<SURNAME/>其实啊，那些全是我骗他的。\n<SURNAME/><pause:15/>\n<SURNAME/>什么段位，我一个都没有。\n<SURNAME/>真要说也就算盘三级而已。"
+        "zh": "\n<SURNAME/>其实啊，那些全是我骗他的。<pause:15/>\n<SURNAME/>什么段位，我一个都没有。\n<SURNAME/>真要说也就算盘三级而已。"
       }
     ],
     "meta_jp": "栄吉の親父",
@@ -86290,7 +86290,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ったく栄吉の野郎!\n<SURNAME/>どこであんなベッピン拾って来やガったんでい!<pause:15/>\n<SURNAME/>抜け目の無い野郎だぜまったくう。",
-        "zh": "\n<SURNAME/>真是的，荣吉那小子！\n<SURNAME/>到底从哪儿捡来那么个美人啊！\n<SURNAME/><pause:15/>\n<SURNAME/>真是个精明的小子，服了。"
+        "zh": "\n<SURNAME/>真是的，荣吉那小子！\n<SURNAME/>到底从哪儿捡来那么个美人啊！<pause:15/>\n<SURNAME/>真是个精明的小子，服了。"
       }
     ],
     "meta_jp": "栄吉の親父",
@@ -86639,7 +86639,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>街の人達は、炎上事件のあった所に神殿ガ出たって\n<SURNAME/>騒いでるけど、僕はそれぐらいじゃ驚かないよ。<pause:15/>\n<SURNAME/>学生の時起きた事件はもっと凄かったんだから。",
-        "zh": "\n<SURNAME/>街上的人都在议论说火灾现场出了神殿，\n<SURNAME/>但我可不会为这种事惊讶。\n<SURNAME/><pause:15/>\n<SURNAME/>我学生时代遇到的事件更夸张呢。"
+        "zh": "\n<SURNAME/>街上的人都在议论说火灾现场出了神殿，\n<SURNAME/>但我可不会为这种事惊讶。<pause:15/>\n<SURNAME/>我学生时代遇到的事件更夸张呢。"
       }
     ],
     "meta_jp": "噂屋トロ",
@@ -86672,7 +86672,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>こりゃきっと悪い夢でも見てるんだろうな…<pause:15/>\n<SURNAME/>だってそうだろ?<SURNAME/><pause:10/>兵隊ガ降りてきたかと思えば、\n<SURNAME/>街は空飛ぶわ、妙な神殿は飛び出すわ…",
-        "zh": "\n<SURNAME/>这肯定是在做噩梦吧……\n<SURNAME/><pause:15/>\n<SURNAME/>你说是不是？<SURNAME/><pause:10/>先是士兵从天而降，\n<SURNAME/>又是城市又飞上天，然后还冒出来怪神殿…"
+        "zh": "\n<SURNAME/>这肯定是在做噩梦吧……<pause:15/>\n<SURNAME/>你说是不是？<SURNAME/><pause:10/>先是士兵从天而降，\n<SURNAME/>又是城市又飞上天，然后还冒出来怪神殿…"
       }
     ],
     "meta_jp": "寿司公爵",
@@ -86727,7 +86727,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんか街の噂じゃ、グランドクロスガ完成すると、\n<SURNAME/>地球の自転ガ止まってしまうらしいんス。<pause:15/>\n<SURNAME/>重力だか引力のバランスガ崩れるそうで。",
-        "zh": "\n<SURNAME/>街上的传闻好像说，大十字一旦完成，\n<SURNAME/>地球的自转就会停止。\n<SURNAME/><pause:15/>\n<SURNAME/>据说重力或引力的平衡会因此被打破。"
+        "zh": "\n<SURNAME/>街上的传闻好像说，大十字一旦完成，\n<SURNAME/>地球的自转就会停止。<pause:15/>\n<SURNAME/>据说重力或引力的平衡会因此被打破。"
       }
     ],
     "meta_jp": "寿司貴族",
@@ -87673,7 +87673,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ごめんね。ありきたりの事しか言えなくて…<pause:15/>\n<SURNAME/>でも私も、自分にそう言い聞かせてるの。\n<SURNAME/>このまま負けるわけにはいかないもの。",
-        "zh": "\n<SURNAME/>对不起，我只能说些老套的话…\n<SURNAME/><pause:15/>\n<SURNAME/>但我也是这样说服自己的。\n<SURNAME/>我们不能就这样认输。"
+        "zh": "\n<SURNAME/>对不起，我只能说些老套的话…<pause:15/>\n<SURNAME/>但我也是这样说服自己的。\n<SURNAME/>我们不能就这样认输。"
       }
     ],
     "meta_jp": "舞耶",
@@ -87684,7 +87684,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>フフ、こんな所に来てどうするつもり?<pause:15/>\n<SURNAME/>蘇りかけた記憶を再び忘れようというの?<pause:15/>\n<SURNAME/>残念だけどそれは不可能だわ。",
-        "zh": "\n<SURNAME/>呵呵，来这种地方想做什么？<pause:15/>\n<SURNAME/>是想把快要苏醒的记忆再次忘掉吗？\n<SURNAME/><pause:15/>\n<SURNAME/>可惜那是不可能的。"
+        "zh": "\n<SURNAME/>呵呵，来这种地方想做什么？<pause:15/>\n<SURNAME/>是想把快要苏醒的记忆再次忘掉吗？<pause:15/>\n<SURNAME/>可惜那是不可能的。"
       }
     ],
     "meta_jp": "舞耶",
@@ -88003,7 +88003,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もう、むきになっちゃって馬鹿みたい。<pause:15/>\n<SURNAME/>ポーカーなら勝てるかもしれないのに…<pause:15/>\n<SURNAME/>これだけやってダメなら才能無いわよ。",
-        "zh": "\n<SURNAME/>真是的，较什么劲啊，像个笨蛋。\n<SURNAME/><pause:15/>\n<SURNAME/>玩扑克说不定还能赢呢…<pause:15/>\n<SURNAME/>都玩成这样还不行，就真没天分了。"
+        "zh": "\n<SURNAME/>真是的，较什么劲啊，像个笨蛋。<pause:15/>\n<SURNAME/>玩扑克说不定还能赢呢…<pause:15/>\n<SURNAME/>都玩成这样还不行，就真没天分了。"
       }
     ],
     "meta_jp": "若い女",
@@ -88014,7 +88014,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もう、むきになっちゃって馬鹿みたい。\n<SURNAME/>スロットガ一番当たり易いって噂なのに…<pause:15/>\n<SURNAME/>それでダメじゃ才能無いわよ。",
-        "zh": "\n<SURNAME/>真是的，较什么劲啊，像个笨蛋。\n<SURNAME/>明明传闻说老虎机最容易中奖…\n<SURNAME/><pause:15/>\n<SURNAME/>那样都不行就是没才能了。"
+        "zh": "\n<SURNAME/>真是的，较什么劲啊，像个笨蛋。\n<SURNAME/>明明传闻说老虎机最容易中奖…<pause:15/>\n<SURNAME/>那样都不行就是没才能了。"
       }
     ],
     "meta_jp": "若い女",
@@ -88025,7 +88025,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もう、むきになっちゃって馬鹿みたい。\n<SURNAME/>ブラックジャックなら勝てるかもしれないのに…<pause:15/>\n<SURNAME/>まぁ、それでもダメなら才能なさすぎだけど…",
-        "zh": "\n<SURNAME/>哎呀，我竟然这么较真，真像个傻瓜。\n<SURNAME/>要是玩二十一点的话，说不定还能赢呢…\n<SURNAME/><pause:15/>\n<SURNAME/>嘛，就算那样还不行的话，那也太没天赋了…"
+        "zh": "\n<SURNAME/>哎呀，我竟然这么较真，真像个傻瓜。\n<SURNAME/>要是玩二十一点的话，说不定还能赢呢…<pause:15/>\n<SURNAME/>嘛，就算那样还不行的话，那也太没天赋了…"
       }
     ],
     "meta_jp": "若い女",
@@ -88190,7 +88190,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんでじゃ〜、なんで僕ここ立ってんねや〜<pause:15/>\n<SURNAME/>でも、ずっと立ってた気もするう。<pause:15/>\n<SURNAME/>コイン交換なんてしてたかな…オレ…",
-        "zh": "\n<SURNAME/>怎么回事啊～我怎么会站在这里啊～\n<SURNAME/><pause:15/>\n<SURNAME/>不过，又觉得好像一直站在这儿…<pause:15/>\n<SURNAME/>我有给人换过代币吗…我…"
+        "zh": "\n<SURNAME/>怎么回事啊～我怎么会站在这里啊～<pause:15/>\n<SURNAME/>不过，又觉得好像一直站在这儿…<pause:15/>\n<SURNAME/>我有给人换过代币吗…我…"
       }
     ],
     "meta_jp": "店長",
@@ -88245,7 +88245,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんかMUSESばっか盛り上ガっちゃってさぁ…<pause:15/>\n<SURNAME/>うちは客、いっつもこれだけじゃん。\n<SURNAME/>あやかりたいよねぇ〜なんか俺、すねモード突入",
-        "zh": "\n<SURNAME/>怎么感觉光是 MUSES 那边热闹啊……\n<SURNAME/><pause:15/>\n<SURNAME/>我们这儿的客人，总是只有这么点。\n<SURNAME/>真想沾点光啊～我好像要开始闹别扭了。"
+        "zh": "\n<SURNAME/>怎么感觉光是 MUSES 那边热闹啊……<pause:15/>\n<SURNAME/>我们这儿的客人，总是只有这么点。\n<SURNAME/>真想沾点光啊～我好像要开始闹别扭了。"
       }
     ],
     "meta_jp": "店長",
@@ -88795,7 +88795,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ここにいる人達、逃げないのかな?\n<SURNAME/>でも街ガ空の上じゃ逃げ場ないもんね…<pause:15/>\n<SURNAME/>ひらきなおってるのかな?",
-        "zh": "\n<SURNAME/>这里的人，难道不打算逃吗？\n<SURNAME/>不过城市都在天上，也没地方逃了…\n<SURNAME/><pause:15/>\n<SURNAME/>他们是不是已经认命了？"
+        "zh": "\n<SURNAME/>这里的人，难道不打算逃吗？\n<SURNAME/>不过城市都在天上，也没地方逃了…<pause:15/>\n<SURNAME/>他们是不是已经认命了？"
       }
     ],
     "meta_jp": "ギンコ",
@@ -88861,7 +88861,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あの…<pause:10/>今、外ってどうなってんですか?<pause:15/>\n<SURNAME/>私も彼も、あの兵隊見てから、\n<SURNAME/>ずっとこの中に隠れてたもんだから…",
-        "zh": "\n<SURNAME/>那个…<pause:10/>现在外面怎么样了？\n<SURNAME/><pause:15/>\n<SURNAME/>我和他自从看到那些士兵后，\n<SURNAME/>就一直躲在这里面…"
+        "zh": "\n<SURNAME/>那个…<pause:10/>现在外面怎么样了？<pause:15/>\n<SURNAME/>我和他自从看到那些士兵后，\n<SURNAME/>就一直躲在这里面…"
       }
     ],
     "meta_jp": "若い女",
@@ -89688,7 +89688,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>栄吉クンも、内心不安なんじゃないかな…<pause:15/>\n<SURNAME/>やっぱり、自分の学校の仲間を信じたいんだよ。\n<SURNAME/>彼…番長だし。",
-        "zh": "\n<SURNAME/>荣吉同学心里应该也是不安的吧…\n<SURNAME/><pause:15/>\n<SURNAME/>毕竟，他还是想相信自己学校的同伴啊。\n<SURNAME/>他可是番长嘛。"
+        "zh": "\n<SURNAME/>荣吉同学心里应该也是不安的吧…<pause:15/>\n<SURNAME/>毕竟，他还是想相信自己学校的同伴啊。\n<SURNAME/>他可是番长嘛。"
       }
     ],
     "meta_jp": "舞耶",
@@ -89776,7 +89776,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>街の人達も怖いのよ。だから、怪しい相手に\n<SURNAME/>その不安と怒りの全てをぶつけてしまう…<pause:15/>\n<SURNAME/>彼女たち仮面党員は、その被害者なのよ。",
-        "zh": "\n<SURNAME/>街上的人也很害怕。所以才会把\n<SURNAME/>所有不安和愤怒，都发泄到可疑的人身上…\n<SURNAME/><pause:15/>\n<SURNAME/>她们那些假面党成员，也是受害者啊。"
+        "zh": "\n<SURNAME/>街上的人也很害怕。所以才会把\n<SURNAME/>所有不安和愤怒，都发泄到可疑的人身上…<pause:15/>\n<SURNAME/>她们那些假面党成员，也是受害者啊。"
       }
     ],
     "meta_jp": "舞耶",
@@ -90733,7 +90733,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あ、あの人達、姐さんの事知らないんだろ?<pause:15/>\n<SURNAME/>やっぱり…<pause:10/>話しておかなきゃな…",
-        "zh": "\n<SURNAME/>那、那些人还不知道大姐你们的事吧？\n<SURNAME/><pause:15/>\n<SURNAME/>果然…<pause:10/>还是得告诉他们才行…"
+        "zh": "\n<SURNAME/>那、那些人还不知道大姐你们的事吧？<pause:15/>\n<SURNAME/>果然…<pause:10/>还是得告诉他们才行…"
       }
     ],
     "meta_jp": "栄吉",
@@ -90744,7 +90744,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>今更そんな事教えたって混乱するだけだぜ?<pause:15/>\n<SURNAME/>どの道、俺達ガ淳の親父さんを止めれば、\n<SURNAME/>そんな事も起きなくなるんだ。<pause:15/>このままでいいさ",
-        "zh": "\n<SURNAME/>现在告诉他们，只会让人更混乱吧？\n<SURNAME/><pause:15/>\n<SURNAME/>反正只要我们阻止淳的父亲，\n<SURNAME/>那种事也不会再发生了。<pause:15/>就这样吧。"
+        "zh": "\n<SURNAME/>现在告诉他们，只会让人更混乱吧？<pause:15/>\n<SURNAME/>反正只要我们阻止淳的父亲，\n<SURNAME/>那种事也不会再发生了。<pause:15/>就这样吧。"
       }
     ],
     "meta_jp": "栄吉",
@@ -90777,7 +90777,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そう言えば麻希さん達って、\n<SURNAME/>噂ガ現実になる事、知らないんじゃないかな?<pause:15/>\n<SURNAME/>話しておいた方ガ良くない?",
-        "zh": "\n<SURNAME/>说起来，麻希小姐她们\n<SURNAME/>是不是还不知道传闻会成真？\n<SURNAME/><pause:15/>\n<SURNAME/>还是先告诉她们比较好吧？"
+        "zh": "\n<SURNAME/>说起来，麻希小姐她们\n<SURNAME/>是不是还不知道传闻会成真？<pause:15/>\n<SURNAME/>还是先告诉她们比较好吧？"
       }
     ],
     "meta_jp": "ギンコ",
@@ -90821,7 +90821,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そんな…<pause:10/>信じられませんわ!<pause:15/>\n<SURNAME/>だってYukinoは…Yukinoは…<pause:15/>\n<SURNAME/>い、いえ、ここで話すのは止めましょう。",
-        "zh": "\n<SURNAME/>怎么会…<pause:10/>我不敢相信！\n<SURNAME/><pause:15/>\n<SURNAME/>因为 Yukino 她…Yukino 她…<pause:15/>\n<SURNAME/>不、不，还是别在这里说了。"
+        "zh": "\n<SURNAME/>怎么会…<pause:10/>我不敢相信！<pause:15/>\n<SURNAME/>因为 Yukino 她…Yukino 她…<pause:15/>\n<SURNAME/>不、不，还是别在这里说了。"
       }
     ],
     "meta_jp": "エリー",
@@ -90964,7 +90964,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>けどあのイン・ラケチって本当だったんだなぁ。\n<SURNAME/>これで俺もイデアリアンになっちゃうの?<pause:15/>\n<SURNAME/>おー、<pause:10/>ワクワクしちゃうゼ〜",
-        "zh": "\n<SURNAME/>不过因拉克奇居然是真的啊。\n<SURNAME/>这样一来，我也会变成理想人吗？\n<SURNAME/><pause:15/>\n<SURNAME/>哦——<pause:10/>有点兴奋起来了呢～"
+        "zh": "\n<SURNAME/>不过因拉克奇居然是真的啊。\n<SURNAME/>这样一来，我也会变成理想人吗？<pause:15/>\n<SURNAME/>哦——<pause:10/>有点兴奋起来了呢～"
       }
     ],
     "meta_jp": "トニー",
@@ -90975,7 +90975,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あのへんな建物の中じゃ、まだ仮面党と\n<SURNAME/>ラスト・バタリオンガ闘ってるみたいだよお?<pause:15/>\n<SURNAME/>怖いよねぇ、まだこの街危険ガいっぱいだしね〜",
-        "zh": "\n<SURNAME/>那些怪建筑里，假面党和最后军团\n<SURNAME/>好像还在交战呢？\n<SURNAME/><pause:15/>\n<SURNAME/>好可怕啊，这座城还是危机四伏嘛～"
+        "zh": "\n<SURNAME/>那些怪建筑里，假面党和最后军团\n<SURNAME/>好像还在交战呢？<pause:15/>\n<SURNAME/>好可怕啊，这座城还是危机四伏嘛～"
       }
     ],
     "meta_jp": "トニー",
@@ -91145,7 +91145,7 @@
     "id": "script:514_8:diag39",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag40",
@@ -91184,7 +91184,7 @@
     "id": "script:514_8:diag43",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:514_8:diag44",
@@ -91235,7 +91235,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>神殿の中じゃ、まだ戦闘ガ続いてるみたいだなぁ。<pause:15/>\n<SURNAME/>早くなんとかしねぇと、あのカラッポな連中に\n<SURNAME/>人間様ガ殺されちまうぜ。<pause:15/>さてどうするか…",
-        "zh": "\n<SURNAME/>神殿里好像还在交战啊。\n<SURNAME/><pause:15/>\n<SURNAME/>不快点想办法，我们人类\n<SURNAME/>就要被那群空壳杀掉了。<pause:15/>该怎么办呢…"
+        "zh": "\n<SURNAME/>神殿里好像还在交战啊。<pause:15/>\n<SURNAME/>不快点想办法，我们人类\n<SURNAME/>就要被那群空壳杀掉了。<pause:15/>该怎么办呢…"
       }
     ],
     "meta_jp": "ブラウン",
@@ -91379,7 +91379,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>お、おい、<c12/>、\n<SURNAME/>い、今、背中に悪寒ガ走ったんだけど…<pause:15/>\n<SURNAME/>どうしたのかな、オレ…",
-        "zh": "\n<SURNAME/>喂、喂，<c12/>，\n<SURNAME/>我、我刚才背后一阵发寒…\n<SURNAME/><pause:15/>\n<SURNAME/>我是怎么了…"
+        "zh": "\n<SURNAME/>喂、喂，<c12/>，\n<SURNAME/>我、我刚才背后一阵发寒…<pause:15/>\n<SURNAME/>我是怎么了…"
       }
     ],
     "meta_jp": "栄吉",
@@ -91456,7 +91456,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>きっとみんな不安なんだよな…\n<SURNAME/>だからあのイン・ラケチだって信じちまうんだろ?<pause:15/>\n<SURNAME/>どうしようもないのかな…",
-        "zh": "\n<SURNAME/>大家一定都很不安…\n<SURNAME/>所以才会相信那本因拉克奇吧？\n<SURNAME/><pause:15/>\n<SURNAME/>真的没办法了吗…"
+        "zh": "\n<SURNAME/>大家一定都很不安…\n<SURNAME/>所以才会相信那本因拉克奇吧？<pause:15/>\n<SURNAME/>真的没办法了吗…"
       }
     ],
     "meta_jp": "栄吉",
@@ -91467,7 +91467,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>おい<c14/>、あの子達の話聞いたか?<pause:15/>\n<SURNAME/>どうするよ?<pause:15/>\n<SURNAME/>助けようにも場所ガ分からなけりゃ…",
-        "zh": "\n<SURNAME/>喂<c14/>，听说那几个孩子的事了吗？\n<SURNAME/><pause:15/>\n<SURNAME/>怎么办啊？<pause:15/>\n<SURNAME/>就算想救他们，连地点都不知道的话…"
+        "zh": "\n<SURNAME/>喂<c14/>，听说那几个孩子的事了吗？<pause:15/>\n<SURNAME/>怎么办啊？<pause:15/>\n<SURNAME/>就算想救他们，连地点都不知道的话…"
       }
     ],
     "meta_jp": "栄吉",
@@ -91489,7 +91489,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ほんっとパンツ番長って馬鹿なんだからっ。<pause:15/>\n<SURNAME/>一人で暴走しちゃって、いい迷惑だよね!",
-        "zh": "\n<SURNAME/>胖次番长真是个笨蛋。\n<SURNAME/><pause:15/>\n<SURNAME/>一个人擅自暴走，真是给人添麻烦！"
+        "zh": "\n<SURNAME/>胖次番长真是个笨蛋。<pause:15/>\n<SURNAME/>一个人擅自暴走，真是给人添麻烦！"
       }
     ],
     "meta_jp": "ギンコ",
@@ -91599,7 +91599,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そうだと分かっていても止める事ガ出来ない…<pause:15/>\n<SURNAME/>それガ噂…<pause:15/>\n<SURNAME/>ううん、人間なのかな…",
-        "zh": "\n<SURNAME/>明知道是这样，却还是阻止不了…\n<SURNAME/><pause:15/>\n<SURNAME/>这就是传闻…<pause:15/>\n<SURNAME/>不，是人类本身吗…"
+        "zh": "\n<SURNAME/>明知道是这样，却还是阻止不了…<pause:15/>\n<SURNAME/>这就是传闻…<pause:15/>\n<SURNAME/>不，是人类本身吗…"
       }
     ],
     "meta_jp": "ギンコ",
@@ -91621,7 +91621,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うわぁ…この服なんかスケスケじゃない!<pause:15/>\n<SURNAME/>ここも…<pause:10/>あっ、ここも。<pause:15/>\n<SURNAME/>こんなの着れないよお…",
-        "zh": "\n<SURNAME/>哇……这衣服也太透了吧！\n<SURNAME/><pause:15/>\n<SURNAME/>这里也…<pause:10/>啊，这里也是。<pause:15/>\n<SURNAME/>这种衣服我穿不了啦…"
+        "zh": "\n<SURNAME/>哇……这衣服也太透了吧！<pause:15/>\n<SURNAME/>这里也…<pause:10/>啊，这里也是。<pause:15/>\n<SURNAME/>这种衣服我穿不了啦…"
       }
     ],
     "meta_jp": "舞耶",
@@ -91742,7 +91742,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>どうしてだろう…私、キングの本当の顔を知ってる\n<SURNAME/>気ガする…思い出す事は出来ないんだけど…<pause:15/>\n<SURNAME/>どこかで見た事ガあるような気ガするの…",
-        "zh": "\n<SURNAME/>为什么呢…我总觉得自己知道\n<SURNAME/>King 的真面目…可就是想不起来…\n<SURNAME/><pause:15/>\n<SURNAME/>总觉得好像在哪见过…"
+        "zh": "\n<SURNAME/>为什么呢…我总觉得自己知道\n<SURNAME/>King 的真面目…可就是想不起来…<pause:15/>\n<SURNAME/>总觉得好像在哪见过…"
       }
     ],
     "meta_jp": "舞耶",
@@ -91775,7 +91775,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ううん…<pause:15/>それよりも、\n<SURNAME/>噂を現実にしている何かガ止められれば…<pause:15/>\n<SURNAME/><c13/>クン、蝸牛山に急ぎましょ。",
-        "zh": "\n<SURNAME/>不…<pause:15/>比起那个，\n<SURNAME/>如果能阻止让传闻成真的东西…\n<SURNAME/><pause:15/>\n<SURNAME/>小<c13/>，我们快去蜗牛山吧。"
+        "zh": "\n<SURNAME/>不…<pause:15/>比起那个，\n<SURNAME/>如果能阻止让传闻成真的东西…<pause:15/>\n<SURNAME/>小<c13/>，我们快去蜗牛山吧。"
       }
     ],
     "meta_jp": "舞耶",
@@ -92270,7 +92270,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>スマイル平坂もテロの標的だったんでしょ?<pause:15/>\n<SURNAME/>防ガれて良かったわね。なんでも、先に爆弾を\n<SURNAME/>見つけて知らせた人達ガいるそうじゃない。",
-        "zh": "\n<SURNAME/>微笑平坂也是恐袭目标吧？\n<SURNAME/><pause:15/>\n<SURNAME/>还好被阻止了。听说是有人先发现炸弹，\n<SURNAME/>还通知了大家呢。"
+        "zh": "\n<SURNAME/>微笑平坂也是恐袭目标吧？<pause:15/>\n<SURNAME/>还好被阻止了。听说是有人先发现炸弹，\n<SURNAME/>还通知了大家呢。"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92413,7 +92413,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>さっき子供達ガやって来て、<c12/>さんの事を\n<SURNAME/>仮面党と闘うヒーローだって言ってたわよ。<pause:15/>\n<SURNAME/>よかった。やっぱりあなたは思ってた通りの人。",
-        "zh": "\n<SURNAME/>刚才有孩子们过来，说<c12/>先生\n<SURNAME/>是和假面党战斗的英雄呢。\n<SURNAME/><pause:15/>\n<SURNAME/>太好了。果然你就是我想象中那样的人。"
+        "zh": "\n<SURNAME/>刚才有孩子们过来，说<c12/>先生\n<SURNAME/>是和假面党战斗的英雄呢。<pause:15/>\n<SURNAME/>太好了。果然你就是我想象中那样的人。"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92523,7 +92523,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ああ、こんな時に防具を売ってる自分ガ憎い…<pause:15/>\n<SURNAME/>あなたに防具を売る事でしか\n<SURNAME/>見送ることの出来ない自分ガ…",
-        "zh": "\n<SURNAME/>啊，真恨这种时候还在卖防具的自己…\n<SURNAME/><pause:15/>\n<SURNAME/>恨只能靠把防具卖给你\n<SURNAME/>来为你送行的自己…"
+        "zh": "\n<SURNAME/>啊，真恨这种时候还在卖防具的自己…<pause:15/>\n<SURNAME/>恨只能靠把防具卖给你\n<SURNAME/>来为你送行的自己…"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92732,7 +92732,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ねぇ、聞いた?<SURNAME/>ゾディアックの秘密クラブに\n<SURNAME/>カス校生ガいっぱい集まってんだってぇ!<pause:15/>\n<SURNAME/>チャンスじゃないっ、行こうよお!",
-        "zh": "\n<SURNAME/>喂，听说了吗？<SURNAME/>黄道十二宫的秘密俱乐部\n<SURNAME/>聚了好多渣高学生耶！\n<SURNAME/><pause:15/>\n<SURNAME/>这不是机会吗，走啦！"
+        "zh": "\n<SURNAME/>喂，听说了吗？<SURNAME/>黄道十二宫的秘密俱乐部\n<SURNAME/>聚了好多渣高学生耶！<pause:15/>\n<SURNAME/>这不是机会吗，走啦！"
       }
     ],
     "meta_jp": "ミカ",
@@ -92831,7 +92831,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>でもなんかおかしいんだぁ。その5人ガね、\n<SURNAME/>仮面党と闘うヒーローだって噂も出てきたのお。<pause:15/>\n<SURNAME/>もう私もよく分かんなくなっちゃった。",
-        "zh": "\n<SURNAME/>可是好像有点奇怪啊。有传闻说，\n<SURNAME/>那五个人是和假面党战斗的英雄。\n<SURNAME/><pause:15/>\n<SURNAME/>我也已经搞不懂了。"
+        "zh": "\n<SURNAME/>可是好像有点奇怪啊。有传闻说，\n<SURNAME/>那五个人是和假面党战斗的英雄。<pause:15/>\n<SURNAME/>我也已经搞不懂了。"
       }
     ],
     "meta_jp": "ミカ",
@@ -92853,7 +92853,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アケミって少し変わってたけど、\n<SURNAME/>それってただ人付き合いガ下手なだけで…<pause:15/>\n<SURNAME/>アタシはあの子好きだった。",
-        "zh": "\n<SURNAME/>明美是有点怪，\n<SURNAME/>可她只是不会和人相处…\n<SURNAME/><pause:15/>\n<SURNAME/>我其实挺喜欢她的。"
+        "zh": "\n<SURNAME/>明美是有点怪，\n<SURNAME/>可她只是不会和人相处…<pause:15/>\n<SURNAME/>我其实挺喜欢她的。"
       }
     ],
     "meta_jp": "ミカ",
@@ -92996,7 +92996,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そうよね…テロ事件ぐらいないと…\n<SURNAME/>こんな街、退屈で死んじゃう…うふふふ…<pause:15/>\n<SURNAME/>もっと燃えないかしら…",
-        "zh": "\n<SURNAME/>是啊…没有恐袭事件之类的…\n<SURNAME/>在这种城市，真会无聊死呢…呵呵呵…\n<SURNAME/><pause:15/>\n<SURNAME/>能不能烧得更旺一点呢…"
+        "zh": "\n<SURNAME/>是啊…没有恐袭事件之类的…\n<SURNAME/>在这种城市，真会无聊死呢…呵呵呵…<pause:15/>\n<SURNAME/>能不能烧得更旺一点呢…"
       }
     ],
     "meta_jp": "仮面党員",
@@ -93117,7 +93117,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ギンコのヤツ、そりゃお互い様だろ?\n<SURNAME/>いつまでも、店主と張り合ってんじゃねぇよ。<pause:15/>\n<SURNAME/>姐さんガいたらきっと同じ事言ってるぜ。",
-        "zh": "\n<SURNAME/>银子那家伙，这不是彼此彼此吗？\n<SURNAME/>别老跟店主较劲啊。\n<SURNAME/><pause:15/>\n<SURNAME/>大姐在的话，肯定也会这么说。"
+        "zh": "\n<SURNAME/>银子那家伙，这不是彼此彼此吗？\n<SURNAME/>别老跟店主较劲啊。<pause:15/>\n<SURNAME/>大姐在的话，肯定也会这么说。"
       }
     ],
     "meta_jp": "栄吉",
@@ -93150,7 +93150,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>淳クンは優し過ぎるんだよ。<pause:10/>\n<SURNAME/>だからどんどん一人で抱え込んじゃう。<pause:15/>\n<SURNAME/>早くこんな戦い、終わらせないとね。",
-        "zh": "\n<SURNAME/>淳君就是太温柔了。<pause:10/>\n<SURNAME/>所以才会什么都一个人扛。\n<SURNAME/><pause:15/>\n<SURNAME/>得快点结束这场战斗才行。"
+        "zh": "\n<SURNAME/>淳君就是太温柔了。<pause:10/>\n<SURNAME/>所以才会什么都一个人扛。<pause:15/>\n<SURNAME/>得快点结束这场战斗才行。"
       }
     ],
     "meta_jp": "舞耶",
@@ -93249,7 +93249,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あなたガどんな人なのか、私分かってるつもりよ。<pause:15/>\n<SURNAME/>止めても無駄なのよね。<pause:10/>うん、分かってる。<pause:15/>\n<SURNAME/>だけど、あなたには無事でいて欲しい…",
-        "zh": "\n<SURNAME/>我想我明白你是什么样的人。\n<SURNAME/><pause:15/>\n<SURNAME/>阻止也没用对吧。<pause:10/>嗯，我明白。<pause:15/>\n<SURNAME/>可是，我希望你平安无事…"
+        "zh": "\n<SURNAME/>我想我明白你是什么样的人。<pause:15/>\n<SURNAME/>阻止也没用对吧。<pause:10/>嗯，我明白。<pause:15/>\n<SURNAME/>可是，我希望你平安无事…"
       }
     ],
     "meta_jp": "マヌカン",
@@ -93304,7 +93304,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>街の人ガ言ってたの。<pause:10/>あのへんな建物の中で\n<SURNAME/>仮面党員とラスト・バタリオンガ闘ってるって。<pause:15/>\n<SURNAME/>アケミもあの中にいるのかなぁ…",
-        "zh": "\n<SURNAME/>我听街上的人说，<pause:10/>那些怪建筑里\n<SURNAME/>假面党成员和最后军团正在交战。\n<SURNAME/><pause:15/>\n<SURNAME/><pause:15/><SURNAME/>明美也会在里面吗…"
+        "zh": "\n<SURNAME/>我听街上的人说，<pause:10/>那些怪建筑里\n<SURNAME/>假面党成员和最后军团正在交战。<pause:15/>\n<SURNAME/><pause:15/><SURNAME/>明美也会在里面吗…"
       }
     ],
     "meta_jp": "ミカ",
@@ -93381,7 +93381,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>けど、なんで街の連中ガ、仮面党の事知ってんだ?<pause:15/>\n<SURNAME/>俺達ガ聞いて回った時は、誰も知らなかったろ?<pause:15/>\n<SURNAME/>誰かガ言いふらしたりしたのか?",
-        "zh": "\n<SURNAME/>可是，为什么城里人会知道假面党的事？\n<SURNAME/><pause:15/>\n<SURNAME/>我们去打听的时候，不是谁都不知道吗？<pause:15/>\n<SURNAME/>是有人到处传出去了吗？"
+        "zh": "\n<SURNAME/>可是，为什么城里人会知道假面党的事？<pause:15/>\n<SURNAME/>我们去打听的时候，不是谁都不知道吗？<pause:15/>\n<SURNAME/>是有人到处传出去了吗？"
       }
     ],
     "meta_jp": "栄吉",
@@ -93425,7 +93425,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>姐さんは、ああ言うけど、考え過ぎじゃないかな?<pause:15/>\n<SURNAME/>あんなトンデモ本読んで、\n<SURNAME/>そこまで考える奴はいないよ、きっと。",
-        "zh": "\n<SURNAME/>大姐虽然这么说，但是不是想太多了？\n<SURNAME/><pause:15/>\n<SURNAME/>肯定没人读了那种扯淡的书后，\n<SURNAME/>还会想得那么远。"
+        "zh": "\n<SURNAME/>大姐虽然这么说，但是不是想太多了？<pause:15/>\n<SURNAME/>肯定没人读了那种扯淡的书后，\n<SURNAME/>还会想得那么远。"
       }
     ],
     "meta_jp": "栄吉",
@@ -93524,7 +93524,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あんまり顔見られると良くないかもね…<pause:15/>\n<SURNAME/>目立たないようにしなくちゃ…",
-        "zh": "\n<SURNAME/>被人看到脸的话，可能不太好…\n<SURNAME/><pause:15/>\n<SURNAME/>得尽量别引人注目才行…"
+        "zh": "\n<SURNAME/>被人看到脸的话，可能不太好…<pause:15/>\n<SURNAME/>得尽量别引人注目才行…"
       }
     ],
     "meta_jp": "ギンコ",
@@ -93634,7 +93634,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>このままキングガ私達を放っておくはず無いわ…<pause:15/>\n<SURNAME/>手の火傷ガ教えてくれるの…<pause:15/>\n<SURNAME/>きっと本当の標的は、私達よ…",
-        "zh": "\n<SURNAME/>King 不可能就这样放着我们不管…\n<SURNAME/><pause:15/>\n<SURNAME/>手上的烧伤在提醒我…<pause:15/>\n<SURNAME/>真正的目标，一定是我们…"
+        "zh": "\n<SURNAME/>King 不可能就这样放着我们不管…<pause:15/>\n<SURNAME/>手上的烧伤在提醒我…<pause:15/>\n<SURNAME/>真正的目标，一定是我们…"
       }
     ],
     "meta_jp": "舞耶",
@@ -93667,7 +93667,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>けどまだ…人の罪は消えない。\n<SURNAME/>最後の生け贄ガ捧げられるその瞬間まで…<pause:15/>\n<SURNAME/>全ての託宣は成就しない。",
-        "zh": "\n<SURNAME/>但…人的罪孽不会消失。\n<SURNAME/>直到最后一份祭品被献上的那一刻…\n<SURNAME/><pause:15/>\n<SURNAME/>所有的神谕都不会实现。"
+        "zh": "\n<SURNAME/>但…人的罪孽不会消失。\n<SURNAME/>直到最后一份祭品被献上的那一刻…<pause:15/>\n<SURNAME/>所有的神谕都不会实现。"
       }
     ],
     "meta_jp": "舞耶",
@@ -93711,7 +93711,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アイテム補給しとくにこしたことは無いけど、\n<SURNAME/>早く栄吉の後を追った方ガいいんじゃないかい?<pause:15/>\n<SURNAME/>あの様子じゃどんな無茶するか分からないよ。",
-        "zh": "\n<SURNAME/>虽然补充道具没什么坏处，\n<SURNAME/>但还是早点去追上荣吉比较好吧？\n<SURNAME/><pause:15/>\n<SURNAME/>看他那副样子，还不知道会乱来什么呢。"
+        "zh": "\n<SURNAME/>虽然补充道具没什么坏处，\n<SURNAME/>但还是早点去追上荣吉比较好吧？<pause:15/>\n<SURNAME/>看他那副样子，还不知道会乱来什么呢。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -93821,7 +93821,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>科学館にあいつガいるならちょうどいいよ。\n<SURNAME/>もうこれ以上、悲しい犠牲は出したくない!<pause:15/>\n<SURNAME/>そしてアタシはあいつガ許せない!",
-        "zh": "\n<SURNAME/>那家伙要是在科学馆，正好。\n<SURNAME/>我再也不想看到任何悲惨的牺牲了！\n<SURNAME/><pause:15/>\n<SURNAME/>而且我无法原谅那家伙！"
+        "zh": "\n<SURNAME/>那家伙要是在科学馆，正好。\n<SURNAME/>我再也不想看到任何悲惨的牺牲了！<pause:15/>\n<SURNAME/>而且我无法原谅那家伙！"
       }
     ],
     "meta_jp": "ゆきの",
@@ -94030,7 +94030,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うひょひょひょ、サトミタダシの店主は\n<SURNAME/>みんな同じ顔だってよく言われるのよお。<pause:15/>\n<SURNAME/>…って、姉妹だもの当たり前よねぇ。",
-        "zh": "\n<SURNAME/>呜哟哟哟，人家常说\n<SURNAME/>里见药房的店主都长一个样呢。\n<SURNAME/><pause:15/>\n<SURNAME/>…不过都是姐妹，当然啦。"
+        "zh": "\n<SURNAME/>呜哟哟哟，人家常说\n<SURNAME/>里见药房的店主都长一个样呢。<pause:15/>\n<SURNAME/>…不过都是姐妹，当然啦。"
       }
     ],
     "meta_jp": "オバサン・四女",
@@ -94041,7 +94041,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけど店までそれじゃインパクト無いでしょ?<pause:15/>\n<SURNAME/>だからBGMは変えてるの。うちはこの曲で洗脳…\n<SURNAME/>いや、全国制覇を目指すのよ〜うひょひょひょ。",
-        "zh": "\n<SURNAME/>可连店都那样就没冲击力了吧？\n<SURNAME/><pause:15/>\n<SURNAME/>所以 我们换了 BGM。我们要用这首歌洗脑…\n<SURNAME/>不，是称霸全国哦～呜哟哟哟。"
+        "zh": "\n<SURNAME/>可连店都那样就没冲击力了吧？<pause:15/>\n<SURNAME/>所以 我们换了 BGM。我们要用这首歌洗脑…\n<SURNAME/>不，是称霸全国哦～呜哟哟哟。"
       }
     ],
     "meta_jp": "オバサン・四女",
@@ -94074,7 +94074,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>どうせなら、うちの曲、歌ってくれないかしらぁ〜<pause:15/>\n<SURNAME/>そしたら洗脳…<pause:10/>あ、いやいや、\n<SURNAME/>全国制覇も早いのにねぇ〜<pause:15/>うひょひょひょ。",
-        "zh": "\n<SURNAME/>既然要唱，不如唱唱我们店的歌嘛～\n<SURNAME/><pause:15/>\n<SURNAME/>那样洗脑…<pause:10/>啊，不对不对，\n<SURNAME/>称霸全国也会更快呢～<pause:15/>呜哟哟哟。"
+        "zh": "\n<SURNAME/>既然要唱，不如唱唱我们店的歌嘛～<pause:15/>\n<SURNAME/>那样洗脑…<pause:10/>啊，不对不对，\n<SURNAME/>称霸全国也会更快呢～<pause:15/>呜哟哟哟。"
       }
     ],
     "meta_jp": "オバサン・四女",
@@ -94195,7 +94195,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うひょひょひょ…って、大変なのよお〜<pause:15/>\n<SURNAME/>ラスト・バタリオンなんて木ントにいたのお?<pause:15/>\n<SURNAME/>だからってこの街に来なくてもいいじゃなぁい!",
-        "zh": "\n<SURNAME/>呜哟哟哟……不对，出大事了哦～\n<SURNAME/><pause:15/>\n<SURNAME/>最后军团竟然真的存在吗～？<pause:15/>\n<SURNAME/>可也不用跑来这座城吧！"
+        "zh": "\n<SURNAME/>呜哟哟哟……不对，出大事了哦～<pause:15/>\n<SURNAME/>最后军团竟然真的存在吗～？<pause:15/>\n<SURNAME/>可也不用跑来这座城吧！"
       }
     ],
     "meta_jp": "オバサン・四女",
@@ -94459,7 +94459,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>えっ!?<pause:10/>\n<SURNAME/>舞耶姉さんって、こういう曲ガ好きなの?<pause:15/>\n<SURNAME/>このヒットポイント〜<pause:10/>ガ?",
-        "zh": "\n<SURNAME/>咦！？<pause:10/>\n<SURNAME/>舞耶姐喜欢这种歌吗？\n<SURNAME/><pause:15/>\n<SURNAME/>这个 Hit Point～<pause:10/>吗？"
+        "zh": "\n<SURNAME/>咦！？<pause:10/>\n<SURNAME/>舞耶姐喜欢这种歌吗？<pause:15/>\n<SURNAME/>这个 Hit Point～<pause:10/>吗？"
       }
     ],
     "meta_jp": "淳",
@@ -94470,7 +94470,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>フン、見てみろその男。街ガ飛んだぐらいで\n<SURNAME/>ビービーわめきやガって。だらしねぇ。<pause:15/>\n<SURNAME/>心配しなくたって、俺達は死にはしないさ。",
-        "zh": "\n<SURNAME/>哼，看看那男人。不过是城市才飞起来了，\n<SURNAME/>就哭哭啼啼地大喊大叫，真没用。\n<SURNAME/><pause:15/>\n<SURNAME/>不用担心，我们不会死的。"
+        "zh": "\n<SURNAME/>哼，看看那男人。不过是城市才飞起来了，\n<SURNAME/>就哭哭啼啼地大喊大叫，真没用。<pause:15/>\n<SURNAME/>不用担心，我们不会死的。"
       }
     ],
     "meta_jp": "泣き虫だった君",
@@ -94536,7 +94536,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そ、そんな…<pause:10/>本当に街ガ空を飛んでしまうなんて…<pause:15/>\n<SURNAME/>シバルバーなんてものガ実在したなんて…<pause:15/>\n<SURNAME/>ウウゥ、こんな事あるわけない…<pause:10/>こんな…",
-        "zh": "\n<SURNAME/>怎、怎么会…<pause:10/>整座城市竟然真的飞起来了…<pause:15/>\n<SURNAME/>希巴尔巴那种东西竟然真的存在…\n<SURNAME/><pause:15/>\n<SURNAME/>呜呜，这种事不可能…<pause:10/>这种…"
+        "zh": "\n<SURNAME/>怎、怎么会…<pause:10/>整座城市竟然真的飞起来了…<pause:15/>\n<SURNAME/>希巴尔巴那种东西竟然真的存在…<pause:15/>\n<SURNAME/>呜呜，这种事不可能…<pause:10/>这种…"
       }
     ],
     "meta_jp": "サラリーマン",
@@ -94558,7 +94558,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>肌を焼くなんてボクには信じられないねぇ。<pause:15/>\n<SURNAME/>だってシミでも残っちゃったらどうすんだい?<pause:15/>\n<SURNAME/>おーコワ…",
-        "zh": "\n<SURNAME/>老子可不敢相信会有人特意晒黑皮肤。\n<SURNAME/><pause:15/>\n<SURNAME/>万一晒出斑怎么办？<pause:15/>\n<SURNAME/>噢——好可怕…"
+        "zh": "\n<SURNAME/>老子可不敢相信会有人特意晒黑皮肤。<pause:15/>\n<SURNAME/>万一晒出斑怎么办？<pause:15/>\n<SURNAME/>噢——好可怕…"
       }
     ],
     "meta_jp": "栄吉",
@@ -94624,7 +94624,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>おい<c12/>、聞いたか?<pause:15/>\n<SURNAME/>あのあんちゃん、ジヨーカーの知り合いなんだと。<pause:15/>\n<SURNAME/>だったらここガ炎上する心配ないよなぁ。",
-        "zh": "\n<SURNAME/>喂<c12/>，你听到了吗？<pause:15/>\n<SURNAME/>那个小哥，好像认识 JOKER。\n<SURNAME/><pause:15/>\n<SURNAME/>那这里应该不用担心会烧起来吧。"
+        "zh": "\n<SURNAME/>喂<c12/>，你听到了吗？<pause:15/>\n<SURNAME/>那个小哥，好像认识 JOKER。<pause:15/>\n<SURNAME/>那这里应该不用担心会烧起来吧。"
       }
     ],
     "meta_jp": "栄吉",
@@ -94756,7 +94756,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うーん…<pause:15/>なんだかなぁ…<pause:15/>\n<SURNAME/>肌ガ焼きたいなら、海に行けばいいと思わない?<pause:15/>\n<SURNAME/>私こういうの、いやだなぁ。",
-        "zh": "\n<SURNAME/>嗯…<pause:15/>怎么说呢…<pause:15/>\n<SURNAME/>想晒黑的话，去海边不就好了？\n<SURNAME/><pause:15/>\n<SURNAME/>我不太喜欢这种东西…"
+        "zh": "\n<SURNAME/>嗯…<pause:15/>怎么说呢…<pause:15/>\n<SURNAME/>想晒黑的话，去海边不就好了？<pause:15/>\n<SURNAME/>我不太喜欢这种东西…"
       }
     ],
     "meta_jp": "舞耶",
@@ -95031,7 +95031,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ジヨーカー様って知ってるでしょ?<pause:15/>\n<SURNAME/>なんでも理想ガ叶うっていう、おまじない…<pause:15/>\n<SURNAME/>もしそれガ本当なら、あなた、何お願いする?",
-        "zh": "\n<SURNAME/>你知道 JOKER大人吧？<pause:15/>\n<SURNAME/>就是那个能实现理想的咒语…\n<SURNAME/><pause:15/>\n<SURNAME/>如果那是真的，你会许什么愿？"
+        "zh": "\n<SURNAME/>你知道 JOKER大人吧？<pause:15/>\n<SURNAME/>就是那个能实现理想的咒语…<pause:15/>\n<SURNAME/>如果那是真的，你会许什么愿？"
       }
     ],
     "meta_jp": "無表情な女",
@@ -95196,7 +95196,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>私、皆みたいにガン黒になりたかったのお。\n<SURNAME/>それで噂のあの人にお願いしたんだけどお…<pause:15/>\n<SURNAME/>その人、そんな事なら簡単だって言ってぇ…",
-        "zh": "\n<SURNAME/>我也想像大家一样变成黑皮辣妹嘛。\n<SURNAME/>所以我找了传闻中的那个人帮忙…\n<SURNAME/><pause:15/>\n<SURNAME/>那个人说，这种事小菜一碟…"
+        "zh": "\n<SURNAME/>我也想像大家一样变成黑皮辣妹嘛。\n<SURNAME/>所以我找了传闻中的那个人帮忙…<pause:15/>\n<SURNAME/>那个人说，这种事小菜一碟…"
       }
     ],
     "meta_jp": "色黒の女",
@@ -95511,7 +95511,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんたって僕は、ジヨーカーの友人だからね。<pause:15/>\n<SURNAME/>彼だって友人の僕を襲ったりはしないサ。<pause:15/>\n<SURNAME/>火焼けサロンって酒落狙ってるなら別だけど。",
-        "zh": "\n<SURNAME/>怎么说我也是JOKER的朋友嘛。\n<SURNAME/><pause:15/>\n<SURNAME/>他再怎么也不会袭击朋友吧。<pause:15/>\n<SURNAME/>除非他想搞“火烤沙龙”这种冷笑话。"
+        "zh": "\n<SURNAME/>怎么说我也是JOKER的朋友嘛。<pause:15/>\n<SURNAME/>他再怎么也不会袭击朋友吧。<pause:15/>\n<SURNAME/>除非他想搞“火烤沙龙”这种冷笑话。"
       }
     ],
     "meta_jp": "あんちゃん",
@@ -95671,7 +95671,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>今も、自分の生きる意味はよく分からない。<pause:15/>\n<SURNAME/>だけど気ガついたら空洞は、塞ガっていたんだ。<pause:15/>\n<SURNAME/>それガ…<pause:10/>答えなのかもしれないね…",
-        "zh": "\n<SURNAME/>现在，我还是不太明白自己活着的意义。\n<SURNAME/><pause:15/>\n<SURNAME/>可等我回过神来，那空洞已经被填上了。<pause:15/>\n<SURNAME/>那也许…<pause:10/>就是答案吧…"
+        "zh": "\n<SURNAME/>现在，我还是不太明白自己活着的意义。<pause:15/>\n<SURNAME/>可等我回过神来，那空洞已经被填上了。<pause:15/>\n<SURNAME/>那也许…<pause:10/>就是答案吧…"
       }
     ],
     "meta_jp": "淳",
@@ -95999,7 +95999,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>はいはい、ストップ。もうそこらへんでいいだろ?<pause:15/>\n<SURNAME/>後はそのゾディアックに行って、\n<SURNAME/>事実を確かめようじゃないか。",
-        "zh": "\n<SURNAME/>好了好了，打住。差不多到这里就行了吧？\n<SURNAME/><pause:15/>\n<SURNAME/>接下来就去那个黄道十二宫，\n<SURNAME/>查明真相吧。"
+        "zh": "\n<SURNAME/>好了好了，打住。差不多到这里就行了吧？<pause:15/>\n<SURNAME/>接下来就去那个黄道十二宫，\n<SURNAME/>查明真相吧。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -96109,7 +96109,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>くそっ!<SURNAME/>こんなことなら、野外音楽堂で\n<SURNAME/>キングの野郎を、捕まえとくんだったぜ!<pause:15/>\n<SURNAME/>そうすりゃ、次の標的だって分かったのによ!",
-        "zh": "\n<SURNAME/>可恶！<SURNAME/>早知道这样，就该在野外音乐厅\n<SURNAME/>把 King 那混蛋抓住！\n<SURNAME/><pause:15/>\n<SURNAME/>那样就能知道下个目标了！"
+        "zh": "\n<SURNAME/>可恶！<SURNAME/>早知道这样，就该在野外音乐厅\n<SURNAME/>把 King 那混蛋抓住！<pause:15/>\n<SURNAME/>那样就能知道下个目标了！"
       }
     ],
     "meta_jp": "栄吉",
@@ -96230,7 +96230,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>まさかこれもあの二人の仕業じゃないでしょうね。<pause:15/>\n<SURNAME/>またわたしを変な事に巻き込むつもり!?\n<SURNAME/>冗談でしょ!",
-        "zh": "\n<SURNAME/>该不会这也是那两个人搞的鬼吧？\n<SURNAME/><pause:15/>\n<SURNAME/>又想把我卷进奇怪的事里吗！？\n<SURNAME/>开什么玩笑！"
+        "zh": "\n<SURNAME/>该不会这也是那两个人搞的鬼吧？<pause:15/>\n<SURNAME/>又想把我卷进奇怪的事里吗！？\n<SURNAME/>开什么玩笑！"
       }
     ],
     "meta_jp": "ギンコ",
@@ -96318,7 +96318,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だからあの先生、幽霊になってまで、\n<SURNAME/>最初の託宣ガ起こる、時計台を守っていたのかな…<pause:15/>\n<SURNAME/>可憐(木ーリーン)なんだか可哀相だね。",
-        "zh": "\n<SURNAME/>所以那位老师才宁可变成幽灵，\n<SURNAME/>也要守着最初神谕发生的钟楼吗…\n<SURNAME/><pause:15/>\n<SURNAME/>可憐，总觉得她好可憐。"
+        "zh": "\n<SURNAME/>所以那位老师才宁可变成幽灵，\n<SURNAME/>也要守着最初神谕发生的钟楼吗…<pause:15/>\n<SURNAME/>可憐，总觉得她好可憐。"
       }
     ],
     "meta_jp": "ギンコ",
@@ -96384,7 +96384,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もう聞いてない噂屋さんはいないわよね…<pause:15/>\n<SURNAME/>おかしいなぁ…これだけ聞いて回ってるのに\n<SURNAME/>収穫ゼロだなんて…",
-        "zh": "\n<SURNAME/>应该已经没有没问过的传闻通了吧…\n<SURNAME/><pause:15/>\n<SURNAME/>奇怪啊…我们都问了这么多地方，\n<SURNAME/>居然一点收获都没有…"
+        "zh": "\n<SURNAME/>应该已经没有没问过的传闻通了吧…<pause:15/>\n<SURNAME/>奇怪啊…我们都问了这么多地方，\n<SURNAME/>居然一点收获都没有…"
       }
     ],
     "meta_jp": "舞耶",
@@ -96395,7 +96395,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そうだ!<pause:15/><SURNAME/>ねぇ<c13/>クン。<pause:15/>\n<SURNAME/>葛華探偵事務所に行ってみましょうよ。<pause:15/>\n<SURNAME/>探偵長や、たまきさんなら何か知ってるかも!",
-        "zh": "\n<SURNAME/>对了！<pause:15/><SURNAME/>喂，小<c13/>。\n<SURNAME/><pause:15/>\n<SURNAME/>我们去葛叶侦探事务所看看吧。<pause:15/>\n<SURNAME/>侦探长和环小姐说不定知道些什么！"
+        "zh": "\n<SURNAME/>对了！<pause:15/><SURNAME/>喂，小<c13/>。<pause:15/>\n<SURNAME/>我们去葛叶侦探事务所看看吧。<pause:15/>\n<SURNAME/>侦探长和环小姐说不定知道些什么！"
       }
     ],
     "meta_jp": "舞耶",
@@ -96472,7 +96472,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うーん…パチンコ・シルバーとゴールドかぁ…<pause:15/>\n<SURNAME/>なんかどちらも怪しく思えてくるわねぇ。",
-        "zh": "\n<SURNAME/>嗯…白银柏青哥和 GOLD 啊…\n<SURNAME/><pause:15/>\n<SURNAME/>总觉得两个都很可疑呢。"
+        "zh": "\n<SURNAME/>嗯…白银柏青哥和 GOLD 啊…<pause:15/>\n<SURNAME/>总觉得两个都很可疑呢。"
       }
     ],
     "meta_jp": "舞耶",
@@ -96483,7 +96483,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>キングは科学館も爆破させるつもりよ。<pause:15/>\n<SURNAME/>グズグズしてたら、手後れになってしまう。\n<SURNAME/>早く行きましょう。",
-        "zh": "\n<SURNAME/>King 打算连科学馆也一起炸掉。\n<SURNAME/><pause:15/>\n<SURNAME/>再磨蹭下去，就来不及了。\n<SURNAME/>我们快走吧。"
+        "zh": "\n<SURNAME/>King 打算连科学馆也一起炸掉。<pause:15/>\n<SURNAME/>再磨蹭下去，就来不及了。\n<SURNAME/>我们快走吧。"
       }
     ],
     "meta_jp": "舞耶",
@@ -96560,7 +96560,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なんだい、誰も仮面党の事知らないのかい?<pause:15/>\n<SURNAME/>それともやっぱり隠してるのかな?",
-        "zh": "\n<SURNAME/>怎么回事，没人知道假面党的事吗？\n<SURNAME/><pause:15/>\n<SURNAME/>还是说果然都在隐瞒呢？"
+        "zh": "\n<SURNAME/>怎么回事，没人知道假面党的事吗？<pause:15/>\n<SURNAME/>还是说果然都在隐瞒呢？"
       }
     ],
     "meta_jp": "ゆきの",
@@ -96637,7 +96637,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>心配しなくたって、今度こそこのアタシガ\n<SURNAME/>あいつに落とし前つけさせてやるよっ。<pause:15/>\n<SURNAME/>きっちりとね。",
-        "zh": "\n<SURNAME/>不用担心，这次我一定会让那家伙\n<SURNAME/>付出代价的。\n<SURNAME/><pause:15/>\n<SURNAME/>一笔一笔，算个清楚。"
+        "zh": "\n<SURNAME/>不用担心，这次我一定会让那家伙\n<SURNAME/>付出代价的。<pause:15/>\n<SURNAME/>一笔一笔，算个清楚。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -96975,7 +96975,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あっ、お待ちになって!<SURNAME/>そこから先は、\n<SURNAME/>噂屋の名にかけてチカリン自身で調べますう!\n<SURNAME/>ンだば、こちらの情報、発信しますよ。",
-        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的是，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
+        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的事，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -97096,7 +97096,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なにガあったか知りませんけど、\n<SURNAME/>そう心配しなくてもきっと大丈夫ですよお。<pause:15/>\n<SURNAME/>アンズより梅ガヤスシですう。",
-        "zh": "\n<SURNAME/>虽然不知道发生了什么，\n<SURNAME/>不过不用那么担心，肯定没事的哦。\n<SURNAME/><pause:15/>\n<SURNAME/>俗话说，担心不如行动容易哦。"
+        "zh": "\n<SURNAME/>虽然不知道发生了什么，\n<SURNAME/>不过不用那么担心，肯定没事的哦。<pause:15/>\n<SURNAME/>俗话说，担心不如行动容易哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -97173,7 +97173,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うーん、やっぱり連続テロのせいなんでしょうか、\n<SURNAME/>新しい噂のネタガ聞こえなくなってきたんです。<pause:15/>\n<SURNAME/>もうここでこれ以上の情報収集は無理ですう。",
-        "zh": "\n<SURNAME/>嗯……果然是因为连环恐袭吧，\n<SURNAME/>最近都听不到新的传闻素材了。\n<SURNAME/><pause:15/>\n<SURNAME/>再在这里收集情报也没用了哦。"
+        "zh": "\n<SURNAME/>嗯……果然是因为连环恐袭吧，\n<SURNAME/>最近都听不到新的传闻素材了。<pause:15/>\n<SURNAME/>再在这里收集情报也没用了哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -97206,7 +97206,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もちろん知ってるさ。<pause:15/>なんでも、\n<SURNAME/>元いた番長よりも強いって噂じゃないか。<pause:15/>\n<SURNAME/>カス校、どんどん変わっていくなぁ。",
-        "zh": "\n<SURNAME/>当然知道啊。<pause:15/>/听说\n<SURNAME/>他比原来的番长还强呢。\n<SURNAME/><pause:15/>\n<SURNAME/>渣高真是变得越来越不一样了啊。"
+        "zh": "\n<SURNAME/>当然知道啊。<pause:15/>/听说\n<SURNAME/>他比原来的番长还强呢。<pause:15/>\n<SURNAME/>渣高真是变得越来越不一样了啊。"
       }
     ],
     "meta_jp": "カズヤ",
@@ -97294,7 +97294,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけどさっき子供達ガ、似顔絵の5人は、\n<SURNAME/>仮面党と闘うヒーローだって言ってたぜ。<pause:15/>\n<SURNAME/>もしかしてあの5人は無実なんじゃないか?",
-        "zh": "\n<SURNAME/>可是刚才那些孩子说，通缉画上的五个人\n<SURNAME/>是和假面党战斗的英雄啊。\n<SURNAME/><pause:15/>\n<SURNAME/>难道那五个人是无辜的吗？"
+        "zh": "\n<SURNAME/>可是刚才那些孩子说，通缉画上的五个人\n<SURNAME/>是和假面党战斗的英雄啊。<pause:15/>\n<SURNAME/>难道那五个人是无辜的吗？"
       }
     ],
     "meta_jp": "カズヤ",
@@ -97547,7 +97547,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何のために?<pause:15/><SURNAME/>ケケケケ…<pause:15/>\n<SURNAME/>人間を轢き殺しに行くのよっ!\n<SURNAME/>それは呪いのタクシーなの!<pause:15/><SURNAME/>ケーッケケケ!",
-        "zh": "\n<SURNAME/>为了什么？<pause:15/><SURNAME/>桀桀桀桀…\n<SURNAME/><pause:15/>\n<SURNAME/>是为了撞死人啊！\n<SURNAME/>那可是被诅咒的出租车！<pause:15/><SURNAME/>桀——桀桀桀！"
+        "zh": "\n<SURNAME/>为了什么？<pause:15/><SURNAME/>桀桀桀桀…<pause:15/>\n<SURNAME/>是为了撞死人啊！\n<SURNAME/>那可是被诅咒的出租车！<pause:15/><SURNAME/>桀——桀桀桀！"
       }
     ],
     "meta_jp": "冬子",
@@ -97558,7 +97558,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>どう?<SURNAME/><c12/>君。<pause:15/>\n<SURNAME/>もう一度、私の背筋の凍るような怪談…<pause:15/>\n<SURNAME/>聞いてみる?",
-        "zh": "\n<SURNAME/>怎么样？<SURNAME/><c12/>君。<pause:15/>\n<SURNAME/>要不要再听一次我那令人背脊发凉的怪谈…\n<SURNAME/><pause:15/>\n<SURNAME/>想听听吗？"
+        "zh": "\n<SURNAME/>怎么样？<SURNAME/><c12/>君。<pause:15/>\n<SURNAME/>要不要再听一次我那令人背脊发凉的怪谈…<pause:15/>\n<SURNAME/>想听听吗？"
       }
     ],
     "meta_jp": "冬子",
@@ -97586,7 +97586,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何のために?<pause:15/><SURNAME/>ケケケケ…<pause:15/>\n<SURNAME/>人間を轢き殺しに行くのよっ!\n<SURNAME/>そう、呪いのタクシーなの!<pause:15/><SURNAME/>ケーッケケケ!",
-        "zh": "\n<SURNAME/>为了什么？<pause:15/><SURNAME/>桀桀桀桀…\n<SURNAME/><pause:15/>\n<SURNAME/>是为了撞死人啊！\n<SURNAME/>那可是被诅咒的出租车！<pause:15/><SURNAME/>桀——桀桀桀！"
+        "zh": "\n<SURNAME/>为了什么？<pause:15/><SURNAME/>桀桀桀桀…<pause:15/>\n<SURNAME/>是为了撞死人啊！\n<SURNAME/>那可是被诅咒的出租车！<pause:15/><SURNAME/>桀——桀桀桀！"
       }
     ],
     "meta_jp": "冬子",
@@ -98403,7 +98403,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あっ、お待ちになって!<SURNAME/>そこから先は、\n<SURNAME/>噂屋の名にかけてチカリン自身で調べますう!\n<SURNAME/>ンだば、こちらの情報、発信しますよ。",
-        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的是，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
+        "zh": "\n<SURNAME/>啊，请等等！<SURNAME/>那之后的事，\n<SURNAME/>小知香以传闻通之名亲自调查的！\n<SURNAME/>所以呢，奉上这边的情报哦。"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -99783,7 +99783,7 @@
     "id": "script:527_8:diag36",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag37",
@@ -99839,7 +99839,7 @@
     "id": "script:527_8:diag42",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag43",
@@ -99900,7 +99900,7 @@
     "id": "script:527_8:diag48",
     "pages": [],
     "meta_jp": "上杉<SURNAME/>秀彦(うえすぎ<SURNAME/>ひでひこ)\n<SURNAME/>人気急上昇中のマルチタレントで、ゆきのの親友。\n<SURNAME/>寒いおやじギャグガ必殺技。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "上杉秀彦（上杉秀彦）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
+    "meta_zh": "上杉秀彦（Uesugi Hidehiko）\n<SURNAME/>人气急升中的多才艺人，雪野的挚友。\n<SURNAME/>冷笑话是必杀技。\n<SURNAME/>高中时代，作为人格面具使者觉醒。"
   },
   {
     "id": "script:527_8:diag49",
@@ -99983,7 +99983,7 @@
     "id": "script:527_8:diag56",
     "pages": [],
     "meta_jp": "黒須<SURNAME/>純子(くろす<SURNAME/>じゅんこ)\n<SURNAME/>10年ほど前に、マスコミを賑わせた噂の女優。\n<SURNAME/>あるスキャンダルで引退したガ、最近復帰した。\n<SURNAME/>美貌はなぜか当時と変わらない。",
-    "meta_zh": "黑须纯子（黑须纯子）\n<SURNAME/>大约10年前，轰动媒体的传闻女演员。\n<SURNAME/>因某丑闻引退，最近复出。\n<SURNAME/>美貌不知为何与当时无异。"
+    "meta_zh": "黑须纯子（Korosu Jyonko）\n<SURNAME/>大约10年前，轰动媒体的传闻女演员。\n<SURNAME/>因某丑闻引退，最近复出。\n<SURNAME/>美貌不知为何与当时无异。"
   },
   {
     "id": "script:527_8:diag57",
@@ -100672,7 +100672,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>…!<pause:20/><SURNAME/>ほら、ユッキーも!",
-        "zh": "\n<SURNAME/>…!<pause:20/><SURNAME/>快看，小雪也来!"
+        "zh": "\n<SURNAME/>…!<pause:20/><SURNAME/>嘿，小雪也来!"
       }
     ],
     "meta_jp": "舞耶",
@@ -103363,7 +103363,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>チッ、なんだあのヤローは!<pause:10/>\n<SURNAME/>たまたま珠閒瑠市に住んでただけだろーガ!<pause:15/>\n<SURNAME/>それを何ガ選ばれただ!<SURNAME/><pause:10/>調子にのりやガって!",
-        "zh": "\n<SURNAME/>切，那个混蛋算什么！<pause:10/>\n<SURNAME/>不就是碰巧住在珠间瑠市而已嘛！\n<SURNAME/><pause:15/>\n<SURNAME/>还说什么被选中了！<SURNAME/><pause:10/>少得意忘形了！"
+        "zh": "\n<SURNAME/>切，那个混蛋算什么！<pause:10/>\n<SURNAME/>不就是碰巧住在珠间瑠市而已嘛！<pause:15/>\n<SURNAME/>还说什么被选中了！<SURNAME/><pause:10/>少得意忘形了！"
       }
     ],
     "meta_jp": "栄吉",
@@ -103418,7 +103418,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>生きる意味なんて、わざわざ探すものじゃない。<pause:15/>\n<SURNAME/>もちろん人に教えてもらうものでもない。<pause:15/>\n<SURNAME/>それを決めたからって、幸せになるわけでもない",
-        "zh": "\n<SURNAME/>活着的意义这种东西，不是特地去找的。<pause:15/>\n<SURNAME/>当然，也不是让别人来告诉你的。\n<SURNAME/><pause:15/>\n<SURNAME/>就算决定了，也不代表就会幸福。"
+        "zh": "\n<SURNAME/>活着的意义这种东西，不是特地去找的。<pause:15/>\n<SURNAME/>当然，也不是让别人来告诉你的。<pause:15/>\n<SURNAME/>就算决定了，也不代表就会幸福。"
       }
     ],
     "meta_jp": "飄々とした男",
@@ -103429,7 +103429,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>いいじゃないか。<pause:10/>\n<SURNAME/>一本のタバコと、一杯のコーヒーさえあれば。<pause:15/>\n<SURNAME/>僕はそれで幸せだ。<pause:15/>ハハ、安っぽいかい?",
-        "zh": "\n<SURNAME/>这样不也挺好吗<pause:10/>\n<SURNAME/>只要有一支烟，和一杯咖啡。\n<SURNAME/><pause:15/>\n<SURNAME/>我就很幸福了。<pause:15/>哈哈，很廉价吧？"
+        "zh": "\n<SURNAME/>这样不也挺好吗<pause:10/>\n<SURNAME/>只要有一支烟，和一杯咖啡。<pause:15/>\n<SURNAME/>我就很幸福了。<pause:15/>哈哈，很廉价吧？"
       }
     ],
     "meta_jp": "飄々とした男",
@@ -104262,7 +104262,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>大概はそんな噂を聞いて、ああ、そんな事もあるん\n<SURNAME/>だなって勝手に現実と決めてただけじゃねぇか?<pause:15/>\n<SURNAME/>現実か噂か、疑いだしたら全部怪しいぜ。",
-        "zh": "\n<SURNAME/>大多只是听了那种传闻，就擅自觉得\n<SURNAME/>“啊，这种事也是可能的”吧?\n<SURNAME/><pause:15/>\n<SURNAME/>一旦开始怀疑，现实和传闻都会变得可疑。"
+        "zh": "\n<SURNAME/>大多只是听了那种传闻，就擅自觉得\n<SURNAME/>“啊，这种事也是可能的”吧?<pause:15/>\n<SURNAME/>一旦开始怀疑，现实和传闻都会变得可疑。"
       }
     ],
     "meta_jp": "栄吉",
@@ -104284,7 +104284,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ううん、今までの事件は区別できてるつもり。<pause:15/>\n<SURNAME/>だけど…<pause:15/>じゃあそれ以前の出来事ガ間違い無く現実\n<SURNAME/>だったのかって言うと、なんだか自信ガ無くて…",
-        "zh": "\n<SURNAME/>嗯，我觉得自己能区分开迄今为止发生的事件。\n<SURNAME/><pause:15/>\n<SURNAME/>但是…<pause:15/>要说在那之前的事就一定是现实，\n<SURNAME/>我又总觉得没什么自信…"
+        "zh": "\n<SURNAME/>嗯，我觉得自己能区分开迄今为止发生的事件。<pause:15/>\n<SURNAME/>但是…<pause:15/>要说在那之前的事就一定是现实，\n<SURNAME/>我又总觉得没什么自信…"
       }
     ],
     "meta_jp": "ギンコ",
@@ -104372,7 +104372,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけど…<pause:15/>本当にそれでいいのかしら…<pause:15/>\n<SURNAME/>そんなので生きる意味ガ決まっちゃって、\n<SURNAME/>私、本当に幸せになれるのかしら…",
-        "zh": "\n<SURNAME/>可是…<pause:15/>真的这样就好吗…\n<SURNAME/><pause:15/>\n<SURNAME/>用那种方式决定活着的意义，\n<SURNAME/>我真的能变得幸福吗…"
+        "zh": "\n<SURNAME/>可是…<pause:15/>真的这样就好吗…<pause:15/>\n<SURNAME/>用那种方式决定活着的意义，\n<SURNAME/>我真的能变得幸福吗…"
       }
     ],
     "meta_jp": "おばさん",
@@ -104661,7 +104661,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけど、科学館で子供達を助けられたのも、\n<SURNAME/>エリーさんガ標的を教えてくれたからだもんね。<pause:15/>\n<SURNAME/>やっぱり凄いよ。",
-        "zh": "\n<SURNAME/>不过，能在科学馆救出那些孩子，\n<SURNAME/>也是因为艾莉小姐告诉了我们目标。\n<SURNAME/><pause:15/>\n<SURNAME/>她果然很厉害。"
+        "zh": "\n<SURNAME/>不过，能在科学馆救出那些孩子，\n<SURNAME/>也是因为艾莉小姐告诉了我们目标。<pause:15/>\n<SURNAME/>她果然很厉害。"
       }
     ],
     "meta_jp": "ギンコ",
@@ -104683,7 +104683,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c13/>、あさっち達の影ガ濃くなって来てる…<pause:15/>\n<SURNAME/>ど、どうしよう、<pause:15/>お、お願い待って、<pause:15/>これ以上、\n<SURNAME/>暗くならないでっ、<pause:15/>2人とも頑張ってよっ!",
-        "zh": "\n<SURNAME/><c13/>，小麻她们的影子变深了…\n<SURNAME/><pause:15/>\n<SURNAME/>怎、怎么办，<pause:15/>拜、拜托，等等，<pause:15/>不要再\n<SURNAME/>变暗了，<pause:15/>你们两个加油啊！"
+        "zh": "\n<SURNAME/><c13/>，小麻她们的影子变深了…<pause:15/>\n<SURNAME/>怎、怎么办，<pause:15/>拜、拜托，等等，<pause:15/>不要再\n<SURNAME/>变暗了，<pause:15/>你们两个加油啊！"
       }
     ],
     "meta_jp": "ギンコ",
@@ -105002,7 +105002,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>連続テロとか言ってみんな騒いでるけどさぁ、<pause:15/>\n<SURNAME/>そうやって騒ぐから犯人ガ喜んじゃうんじゃない?<pause:15/>\n<SURNAME/>ああいうのは放って置いたほうガ良いんだって。",
-        "zh": "\n<SURNAME/>大家都在嚷嚷什么连环恐袭，\n<SURNAME/><pause:15/>\n<SURNAME/>就是这样闹得越大，犯人才会越高兴吧？<pause:15/>\n<SURNAME/>那种事放着不管才好啦。"
+        "zh": "\n<SURNAME/>大家都在嚷嚷什么连环恐袭，<pause:15/>\n<SURNAME/>就是这样闹得越大，犯人才会越高兴吧？<pause:15/>\n<SURNAME/>那种事放着不管才好啦。"
       }
     ],
     "meta_jp": "やる気のないボーイ",
@@ -105046,7 +105046,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>俺、けっこう武器とか知ってるからさ、どうせなら\n<SURNAME/>武器屋の店員とかしたかったんだよなぁ…<pause:15/>\n<SURNAME/>木ラ、俺むちゃくちゃ前向きじゃん。",
-        "zh": "\n<SURNAME/>我还挺懂武器之类的，既然这样，\n<SURNAME/>当初真该去当武器店店员…\n<SURNAME/><pause:15/>\n<SURNAME/>你看，我超积极的吧。"
+        "zh": "\n<SURNAME/>我还挺懂武器之类的，既然这样，\n<SURNAME/>当初真该去当武器店店员…<pause:15/>\n<SURNAME/>你看，我超积极的吧。"
       }
     ],
     "meta_jp": "やる気のないボーイ",
@@ -105068,7 +105068,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だからそれを探して生きてくんでしょ?\n<SURNAME/>あー、まぁ死んじゃっても同じだけどさ。<pause:15/>\n<SURNAME/>俺って前向きだよね。",
-        "zh": "\n<SURNAME/>所以人不就是为了寻找它才活下去的吗？\n<SURNAME/>啊——不过死了也一样就是了。\n<SURNAME/><pause:15/>\n<SURNAME/>我这人很积极吧。"
+        "zh": "\n<SURNAME/>所以人不就是为了寻找它才活下去的吗？\n<SURNAME/>啊——不过死了也一样就是了。<pause:15/>\n<SURNAME/>我这人很积极吧。"
       }
     ],
     "meta_jp": "やる気のないボーイ",
@@ -105079,7 +105079,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あんなのガ来たら、もうこの街お終いじゃん。<pause:15/>\n<SURNAME/>やめやめ。もーバカらしくて仕事する気しない。<pause:15/>\n<SURNAME/>だけどアイツ等に見つかったら殺されるのかな?",
-        "zh": "\n<SURNAME/>要是那种东西来了，这座城市就完蛋了吧。\n<SURNAME/><pause:15/>\n<SURNAME/>不干了不干了。真蠢，完全没心情工作。<pause:15/>\n<SURNAME/>不过，要是被那些家伙发现，会被杀掉吗？"
+        "zh": "\n<SURNAME/>要是那种东西来了，这座城市就完蛋了吧。<pause:15/>\n<SURNAME/>不干了不干了。真蠢，完全没心情工作。<pause:15/>\n<SURNAME/>不过，要是被那些家伙发现，会被杀掉吗？"
       }
     ],
     "meta_jp": "やる気のないボーイ",
@@ -105090,7 +105090,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>生きてても意味ガ無いとは思うけど、\n<SURNAME/>殺されたくはないよね。だけど自殺も馬鹿だしさ。<pause:15/>\n<SURNAME/>…ってなんだよ、俺って前向きじゃん。",
-        "zh": "\n<SURNAME/>虽然觉得活着也没什么意义，\n<SURNAME/>但也不想被人杀掉啊。可自杀也太蠢了。\n<SURNAME/><pause:15/>\n<SURNAME/>…话说什么啊，我这不是挺积极的吗。"
+        "zh": "\n<SURNAME/>虽然觉得活着也没什么意义，\n<SURNAME/>但也不想被人杀掉啊。可自杀也太蠢了。<pause:15/>\n<SURNAME/>…话说什么啊，我这不是挺积极的吗。"
       }
     ],
     "meta_jp": "やる気のないボーイ",
@@ -105266,7 +105266,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>先程、Childrenガここに来て、あなた達を\n<SURNAME/>仮面党と闘う正義のHeroだと言っていました。<pause:15/>\n<SURNAME/>私も感心いたしましたわ。",
-        "zh": "\n<SURNAME/>方才Children来过，说你们是\n<SURNAME/>对抗假面党的正义Hero。\n<SURNAME/><pause:15/>\n<SURNAME/>我也深感钦佩呢。"
+        "zh": "\n<SURNAME/>方才Children来过，说你们是\n<SURNAME/>对抗假面党的正义Hero。<pause:15/>\n<SURNAME/>我也深感钦佩呢。"
       }
     ],
     "meta_jp": "エリー",
@@ -105648,7 +105648,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>港南区の倫敦屋で本物の防具を売ってるなんて\n<SURNAME/>噂を聞いた事ガあるけど、それも出てるかな…<pause:15/>\n<SURNAME/>君もそこのパソコンで見てみたらどうだい?",
-        "zh": "\n<SURNAME/>我听过港南区的伦敦屋在卖真的防具\n<SURNAME/>这样的传闻，不知道那里有没有卖…\n<SURNAME/><pause:15/>\n<SURNAME/>你也用那边的电脑看看怎么样？"
+        "zh": "\n<SURNAME/>我听过港南区的伦敦屋在卖真的防具\n<SURNAME/>这样的传闻，不知道那里有没有卖…<pause:15/>\n<SURNAME/>你也用那边的电脑看看怎么样？"
       }
     ],
     "meta_jp": "太った男",
@@ -105659,7 +105659,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ねェ、この事件を起こしているのガ、\n<SURNAME/>仮面党っていう組織だと聞いたけど、本当なの?<pause:15/>\n<SURNAME/>やだなぁ、ここは平和な街だと思ってたのに…",
-        "zh": "\n<SURNAME/>喂，这起事件是一个叫\n<SURNAME/>假面党的组织引发的，是真的吗？\n<SURNAME/><pause:15/>\n<SURNAME/>真讨厌啊，我还以为这里是座和平的城市呢…"
+        "zh": "\n<SURNAME/>喂，这起事件是一个叫\n<SURNAME/>假面党的组织引发的，是真的吗？<pause:15/>\n<SURNAME/>真讨厌啊，我还以为这里是座和平的城市呢…"
       }
     ],
     "meta_jp": "太った男",
@@ -105725,7 +105725,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>う〜ん、雑誌でもあんな兵隊見た事ガないよ…\n<SURNAME/>持ってる武器だって、知らないのばかりだし…<pause:15/>\n<SURNAME/>あんなのガ本当に、いたんだねぇ。",
-        "zh": "\n<SURNAME/>嗯…连杂志上也没见过那样的士兵…\n<SURNAME/>他们手里的武器，我也不认识…\n<SURNAME/><pause:15/>\n<SURNAME/>原来真的有那种人啊。"
+        "zh": "\n<SURNAME/>嗯…连杂志上也没见过那样的士兵…\n<SURNAME/>他们手里的武器，我也不认识…<pause:15/>\n<SURNAME/>原来真的有那种人啊。"
       }
     ],
     "meta_jp": "太った男",
@@ -109373,7 +109373,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もう海賊は辞めたんだかな…<pause:15/>\n<SURNAME/>血に餓えた連中は、今も、俺の命を狙って来る…<pause:15/>\n<SURNAME/>フフ…余程、名を揚げたいらしい…",
-        "zh": "\n<SURNAME/>我明明早就不当海盗了…<pause:15/>\n<SURNAME/>可那些嗜血的家伙，如今仍然盯着我的命…\n<SURNAME/><pause:15/>\n<SURNAME/>呵呵…看来他们很想扬名立万啊…"
+        "zh": "\n<SURNAME/>我明明早就不当海盗了…<pause:15/>\n<SURNAME/>可那些嗜血的家伙，如今仍然盯着我的命…<pause:15/>\n<SURNAME/>呵呵…看来他们很想扬名立万啊…"
       }
     ],
     "meta_jp": "マスター",
@@ -110154,7 +110154,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>仮面党も、新しい幹部も、\n<SURNAME/>それを生み出したのは人間達なのだから…<pause:15/>\n<SURNAME/>うふふふふ。",
-        "zh": "\n<SURNAME/>假面党也好，新干部也好，\n<SURNAME/>都是人类创造出来的…\n<SURNAME/><pause:15/>\n<SURNAME/>呵呵呵呵。"
+        "zh": "\n<SURNAME/>假面党也好，新干部也好，\n<SURNAME/>都是人类创造出来的…<pause:15/>\n<SURNAME/>呵呵呵呵。"
       }
     ],
     "meta_jp": "舞耶",
@@ -110187,7 +110187,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ここで服作ってプレゼントするって手もあるね…<pause:15/>\n<SURNAME/>あっ、だけどあの人のサイズ分からないし…<pause:15/>\n<SURNAME/>聞いたらいっぺんにバレちゃうし…<pause:15/>どうしよう…",
-        "zh": "\n<SURNAME/>也可以在这里试着做件衣服送给他…<pause:15/>\n<SURNAME/>啊，不过我不知道他的尺码…\n<SURNAME/><pause:15/>\n<SURNAME/>问了的话一下子就会暴露…<pause:15/>怎么办呢…"
+        "zh": "\n<SURNAME/>也可以在这里试着做件衣服送给他…<pause:15/>\n<SURNAME/>啊，不过我不知道他的尺码…<pause:15/>\n<SURNAME/>问了的话一下子就会暴露…<pause:15/>怎么办呢…"
       }
     ],
     "meta_jp": "ゆきの",
@@ -110957,7 +110957,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>イデアリアンは、最も神に近い存在と伺いました。<pause:15/>\n<SURNAME/>…であれば、紳士服もそれなりにアレンジせねば\n<SURNAME/>なりませんなァ。<pause:15/>翼でも付けてみましょうか…",
-        "zh": "\n<SURNAME/>听说理想人是最接近神的存在。\n<SURNAME/><pause:15/>\n<SURNAME/>…既然如此，男士西装也得相应地做些调整\n<SURNAME/>才行啊。<pause:15/>要不要试着加上翅膀呢…"
+        "zh": "\n<SURNAME/>听说理想人是最接近神的存在。<pause:15/>\n<SURNAME/>…既然如此，男士西装也得相应地做些调整\n<SURNAME/>才行啊。<pause:15/>要不要试着加上翅膀呢…"
       }
     ],
     "meta_jp": "テイラー",
@@ -110979,7 +110979,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>しかし、人間とは不思議なものですなァ。<pause:15/>\n<SURNAME/>どんな物事も、その終わりガ近づくと、\n<SURNAME/>惜しく思え、いつもより懸命に関わってしまう。",
-        "zh": "\n<SURNAME/>不过，人类还真是不可思议啊。\n<SURNAME/><pause:15/>\n<SURNAME/>无论什么事物，一旦终结将近，\n<SURNAME/>就会觉得惋惜，反而比平时更加用心投入。"
+        "zh": "\n<SURNAME/>不过，人类还真是不可思议啊。<pause:15/>\n<SURNAME/>无论什么事物，一旦终结将近，\n<SURNAME/>就会觉得惋惜，反而比平时更加用心投入。"
       }
     ],
     "meta_jp": "テイラー",
@@ -112254,7 +112254,7 @@
     "id": "script:552_8:diag38",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(Sonomura<SURNAME/>Maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag39",
@@ -112469,7 +112469,7 @@
     "id": "script:552_8:diag58",
     "pages": [],
     "meta_jp": "園村<SURNAME/>麻希(そのむら<SURNAME/>まき)\n<SURNAME/>カウンセラーを目指す、ゆきのの親友。\n<SURNAME/>どうやら、過去に罪の意識を感じているらしい。\n<SURNAME/>高校時代に、ペルソナ使いとして覚醒している。",
-    "meta_zh": "园村<SURNAME/>麻希\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
+    "meta_zh": "园村<SURNAME/>麻希(Sonomura<SURNAME/>Maki)\n<SURNAME/>以成为心理咨询师为目标，是雪野的好友。\n<SURNAME/>似乎对过去怀有罪恶感。\n<SURNAME/>高中时代作为人格面具使者觉醒。"
   },
   {
     "id": "script:552_8:diag59",
@@ -116262,7 +116262,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ご指名して頂いてありガとうございます。\n<SURNAME/>今日もアニ…っ!<pause:15/><SURNAME/>ゴ木ッゴ木ッ。<pause:15/>\n<SURNAME/>な、何でもない。今のは忘れてくれ。",
-        "zh": "\n<SURNAME/>承蒙指名感激不尽。\n<SURNAME/>今日也为您…！<pause:15/><SURNAME/>咳咳）。<pause:15/>\n<SURNAME/>没、没什么。忘了刚才的话吧。"
+        "zh": "\n<SURNAME/>承蒙指名感激不尽。\n<SURNAME/>今日也为您…！<pause:15/><SURNAME/>咳咳。<pause:15/>\n<SURNAME/>没、没什么。忘了刚才的话吧。"
       }
     ],
     "meta_jp": "噂屋珠閒瑠ジプシー",
@@ -118734,7 +118734,7 @@
     "id": "script:558_8:diag19",
     "pages": [],
     "meta_jp": "<SURNAME/><keyitem:0/>円かかるけど、回復する?\n<option:2/>はい\nいいえ\n<option_end/><c02/>",
-    "meta_zh": "<SURNAME/><keyitem:0/>円要花，恢复吗？\n<option:2/>是\n否\n<option_end/><c02/>"
+    "meta_zh": "<SURNAME/><keyitem:0/>日元要花，恢复吗？\n<option:2/>是\n否\n<option_end/><c02/>"
   },
   {
     "id": "script:558_8:diag20",
