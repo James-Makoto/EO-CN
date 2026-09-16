@@ -5481,7 +5481,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>哎呀〜(アイヤー)まだあるのお〜?\n<SURNAME/>なんか飽きてきたよお〜\n<SURNAME/>どうする〜情人?(チンヤン)\n",
-        "zh": "\n<SURNAME/>哎呀（aij aa）~怎么还有啊~?\n<SURNAME/>我已经有点腻了~\n<SURNAME/>怎么办~情人?\n"
+        "zh": "\n<SURNAME/>哎呀~怎么还有啊~?\n<SURNAME/>我已经有点腻了~\n<SURNAME/>怎么办~情人?\n"
       }
     ],
     "meta_jp": "ギンコ",
@@ -18200,7 +18200,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>俺の役目は、星辰ガ示す地に\n<SURNAME/>「睹罪の迎え火」を灯すこと…<pause:30/>\n<SURNAME/>火柱は4つ上ガるぞお…<pause:30/>\n",
-        "zh": "\n<SURNAME/>我的任务是在星辰指引之地\n<SURNAME/>点亮「睹罪之迎火」…<pause:30/>\n<SURNAME/>火柱会升起四道啊…<pause:30/>\n"
+        "zh": "\n<SURNAME/>我的任务是在星辰指引之地\n<SURNAME/>点亮「赎罪之迎火」…<pause:30/>\n<SURNAME/>火柱会升起四道啊…<pause:30/>\n"
       }
     ],
     "meta_jp": "キング・レオ",
@@ -19351,7 +19351,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>俺の役目は、星辰ガ示す地に\n<SURNAME/>「睹罪の迎え火」を灯すこと…<pause:30/>\n<SURNAME/>火柱は、4つ上ガるぞ…\n",
-        "zh": "\n<SURNAME/>我的使命是在星辰所示之地\n<SURNAME/>点燃「睹罪之迎火」…<pause:30/>\n<SURNAME/>火柱将燃起四道…\n"
+        "zh": "\n<SURNAME/>我的使命是在星辰所示之地\n<SURNAME/>点燃「赎罪之迎火」…<pause:30/>\n<SURNAME/>火柱将燃起四道…\n"
       }
     ],
     "meta_jp": "キング・レオ",
@@ -19719,7 +19719,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>「異国の詠」…「睹罪の迎え火」…<pause:30/>\n<SURNAME/>マイヤの託宣に間違いないわ…!!\n<SURNAME/>い、一体誰ガっ!?\n",
-        "zh": "\n<SURNAME/>「异国之咏」…「睹罪之迎火」…<pause:30/>\n<SURNAME/>这绝对是迈雅的神谕…!!\n<SURNAME/>到、到底是谁干的!?"
+        "zh": "\n<SURNAME/>「异国之咏」…「赎罪之迎火」…<pause:30/>\n<SURNAME/>这绝对是迈雅的神谕…!!\n<SURNAME/>到、到底是谁干的!?"
       }
     ],
     "meta_jp": "イデアル先生",
@@ -37635,7 +37635,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>舞耶姉さん、いつ、操船なんて覚えたの?\n",
-        "zh": "\n<SURNAME/>舞耶姐姐，你什么时候学会开船的？\n"
+        "zh": "\n<SURNAME/>舞耶姐，你什么时候学会开船的？\n"
       }
     ],
     "meta_jp": "淳",
@@ -37760,7 +37760,7 @@
       }
     ],
     "meta_jp": "ギンコ<SURNAME/><c13/><SURNAME/>淳<SURNAME/>栄吉",
-    "meta_zh": "银子 黛淳 荣吉"
+    "meta_zh": "银子<SURNAME/><c13/><SURNAME/>淳<SURNAME/>荣吉"
   },
   {
     "id": "script:357_8:diag0",
@@ -51969,7 +51969,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あれっ?<pause:10/>\n<SURNAME/>またハンニャ校長…",
-        "zh": "\n<SURNAME/>啊咧？<pause:10/>\n<SURNAME/>又是般若校长…"
+        "zh": "\n<SURNAME/>咦?<pause:10/>\n<SURNAME/>又是般若校长…"
       }
     ],
     "meta_jp": "ギンコ",
@@ -52134,7 +52134,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>こここ、校長先生って、つつ、強かったんですね。<pause:15/>\n<SURNAME/>ラスト・バタリオンを、ちち、千切っては投げ、\n<SURNAME/>千切っては投げ…<pause:15/>さささ、最強って感じ…",
-        "zh": "\n<SURNAME/>校...校长先生，强...强得离谱啊。<pause:15/>\n<SURNAME/>把最后军团...撕碎了扔出去，\n<SURNAME/>撕碎了扔出去...<pause:15/>有...有种是最强的感觉..."
+        "zh": "\n<SURNAME/>校…校长先生，强…强得离谱啊。<pause:15/>\n<SURNAME/>把最后军团…撕碎了扔出去，\n<SURNAME/>撕碎了扔出去…<pause:15/>有…有种是最强的感觉…"
       }
     ],
     "meta_jp": "男子生徒",
@@ -60743,7 +60743,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>噂というのは本来正しくない情報の事だガ…<pause:15/>\n<SURNAME/>言い方ガ変われば印象も変わるもので、<pause:15/>\n<SURNAME/>口コミと聞けば信じるし、デマと聞けば信じない",
-        "zh": "\n<SURNAME/>传闻本来就不是什么靠谱消息…<pause:15/>\n<SURNAME/>说法一变印象就会跟着变，<pause:15/>\n<SURNAME/>听到是口碑传言就会相信，一听说是传闻就不会相信。"
+        "zh": "\n<SURNAME/>传闻本来就不是什么靠谱消息…<pause:15/>\n<SURNAME/>说法一变印象就会跟着变，听到是口碑传言<pause:15/>\n<SURNAME/>就会相信，一听说是传闻就不会相信。"
       }
     ],
     "meta_jp": "噂屋トクさん",
@@ -65709,7 +65709,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あの神殿の中じゃ、今も戦争ガ続いているそうよ。\n<SURNAME/>まだ外は危険ね。<pause:15/>\n<SURNAME/>進化を目前にして死んじゃ、目も当てられないわ\n",
-        "zh": "\n<SURNAME/>听说在那个神殿里，战争还在持续呢。\n<SURNAME/>外面还很危险呢。<pause:15/>\n<SURNAME/>进化近在眼前，死掉的话可真是惨不忍睹啊\n"
+        "zh": "\n<SURNAME/>听说在那座神殿里，战争还在持续呢。\n<SURNAME/>外面还很危险呢。<pause:15/>\n<SURNAME/>进化近在眼前，死掉的话可真是惨不忍睹啊\n"
       }
     ],
     "meta_jp": "マヌカン",
@@ -67735,7 +67735,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ラスト・バタリオンや仮面党の連中まで、\n<SURNAME/>あの神殿の中にいるのか…<pause:15/>\n<SURNAME/>こりゃ、ちょいと手を焼きそうだな。",
-        "zh": "\n<SURNAME/>连最后军团和假面党那帮家伙，\n<SURNAME/>都在那神殿里啊…<pause:15/>\n<SURNAME/>这下可有点棘手了。"
+        "zh": "\n<SURNAME/>连最后军团和假面党那帮家伙，\n<SURNAME/>都在那座神殿里啊…<pause:15/>\n<SURNAME/>这下可有点棘手了。"
       }
     ],
     "meta_jp": "栄吉",
@@ -74881,7 +74881,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c1d:13/>ラーメンしらいしで伝説のギターケースを\n<SURNAME/>売ってるらしい<c1d:1/>ってんでしょ〜<pause:15/>\n<SURNAME/>なんでそんな噂ガ流れるかね〜",
-        "zh": "\n<SURNAME/><c1d:13/>听说在拉面白石有卖传说吉他盒\n<SURNAME/>呢<c1d:1/>对吧〜<pause:15/>\n<SURNAME/>为啥会传这种传闻呢〜"
+        "zh": "\n<SURNAME/><c1d:13/>听说在白石拉面有卖传说吉他盒\n<SURNAME/>呢<c1d:1/>对吧〜<pause:15/>\n<SURNAME/>为啥会传这种传闻呢〜"
       }
     ],
     "meta_jp": "おばちゃん",
@@ -75762,7 +75762,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>キングは睹罪の迎え火を灯すのガ自分の役目だって\n<SURNAME/>言ってたからね。もしかしたらこの炎上事件も\n<SURNAME/>例の託宣と関係ガあるかもしれないよ。",
-        "zh": "\n<SURNAME/>KING说过点燃睹罪之迎火是自己的职责。\n<SURNAME/>所以说不定这次的纵火事件\n<SURNAME/>也和那个神谕有关呢。"
+        "zh": "\n<SURNAME/>KING说过点燃赎罪之迎火是自己的职责。\n<SURNAME/>所以说不定这次的纵火事件\n<SURNAME/>也和那个神谕有关呢。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -76433,7 +76433,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>仲間達は今も、あの神殿の中で\n<SURNAME/>ラスト・バタリオン相手に闘ってるようだな。<pause:15/>\n<SURNAME/>早くこの俺も応援に行かねば!",
-        "zh": "\n<SURNAME/>同伴们还在那个神殿里\n<SURNAME/>和最后军团战斗呢。<pause:15/>\n<SURNAME/>老子也得赶快过去支援啊！"
+        "zh": "\n<SURNAME/>同伴们还在那座神殿里\n<SURNAME/>和最后军团战斗呢。<pause:15/>\n<SURNAME/>老子也得赶快过去支援啊！"
       }
     ],
     "meta_jp": "仮面党員",
@@ -86617,7 +86617,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>じゃあやっぱり、託宣にあった睹罪の迎え火って、\n<SURNAME/>あの連続テロの事だったのかな…<pause:15/>\n<SURNAME/>まぁいいや。じゃあこっちの情報を教えるね。",
-        "zh": "\n<SURNAME/>那神谕里说的睹罪之迎火，\n<SURNAME/>果然就是那场连环恐袭吗…<pause:15/>\n<SURNAME/>算了。那我也告诉你这边的情报吧。"
+        "zh": "\n<SURNAME/>那神谕里说的赎罪之迎火，\n<SURNAME/>果然就是那场连环恐袭吗…<pause:15/>\n<SURNAME/>算了。那我也告诉你这边的情报吧。"
       }
     ],
     "meta_jp": "噂屋トロ",
@@ -93656,7 +93656,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>人はまず己の罪を償わねばならない。\n<SURNAME/>睹罪の迎え火に包まれた人々は、\n<SURNAME/>当然の罰を受けたの。",
-        "zh": "\n<SURNAME/>人类首先必须偿还自己的罪。\n<SURNAME/>被睹罪之迎火吞没的人们，\n<SURNAME/>只是受到了应有的惩罚。"
+        "zh": "\n<SURNAME/>人类首先必须偿还自己的罪。\n<SURNAME/>被赎罪之迎火吞没的人们，\n<SURNAME/>只是受到了应有的惩罚。"
       }
     ],
     "meta_jp": "舞耶",
@@ -97305,7 +97305,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>あのイン・ラケチに書かれてた託宣でさ、\n<SURNAME/>睹罪の迎え火ってのガあるだろ?<pause:15/>\n<SURNAME/>それってもしかして連続テロの事じゃないか?",
-        "zh": "\n<SURNAME/>因·拉克奇里写的神谕中，\n<SURNAME/>有睹罪之迎火吧？<pause:15/>\n<SURNAME/>那会不会指的就是连环恐袭？"
+        "zh": "\n<SURNAME/>因·拉克奇里写的神谕中，\n<SURNAME/>有赎罪之迎火吧？<pause:15/>\n<SURNAME/>那会不会指的就是连环恐袭？"
       }
     ],
     "meta_jp": "カズヤ",
@@ -97316,7 +97316,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>もし連続テロガ睹罪の迎え火だったとすると…\n<SURNAME/>次の託宣は、「獅子の咆哮はあまねく響く」だ…\n<SURNAME/>これって獅子座流星群の事じゃないか?",
-        "zh": "\n<SURNAME/>如果连环恐袭就是睹罪之迎火的话…\n<SURNAME/>下一条神谕就是“狮子的咆哮响彻四方”…\n<SURNAME/>这会不会指的就是狮子座流星雨？"
+        "zh": "\n<SURNAME/>如果连环恐袭就是赎罪之迎火的话…\n<SURNAME/>下一条神谕就是“狮子的咆哮响彻四方”…\n<SURNAME/>这会不会指的就是狮子座流星雨？"
       }
     ],
     "meta_jp": "カズヤ",
@@ -98458,7 +98458,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ええっ!?<pause:15/>\n<SURNAME/>なんですって、連続テロは、\n<SURNAME/>あの神殿を出現させる為のものだったんですの?",
-        "zh": "\n<SURNAME/>诶诶!?<pause:15/>\n<SURNAME/>什么，连续恐怖袭击，\n<SURNAME/>是为了让那个神殿出现才这么做的吗？"
+        "zh": "\n<SURNAME/>诶诶!?<pause:15/>\n<SURNAME/>什么，连续恐怖袭击，\n<SURNAME/>是为了让那座神殿出现才这么做的吗？"
       }
     ],
     "meta_jp": "噂屋チカリン",
@@ -104892,7 +104892,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そう言えば、キングガ\n<SURNAME/>睹罪の迎え火は、グランドクロスの為の\n<SURNAME/>下準備だと言ってたねぇ。",
-        "zh": "\n<SURNAME/>说起来，KING说过，\n<SURNAME/>睹罪之迎火是为大十字做的\n<SURNAME/>准备呢。"
+        "zh": "\n<SURNAME/>说起来，KING说过，\n<SURNAME/>赎罪之迎火是为大十字做的\n<SURNAME/>准备呢。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -111650,7 +111650,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ねぇ、あの本に書いてあった「睹罪の迎え火」って\n<SURNAME/>連続テロの事だったんじゃないかしらねぇ〜\n<SURNAME/>よくよく考えてみると、そんな気ガしない?",
-        "zh": "\n<SURNAME/>诶，那本书上写的“睹罪之迎火”\n<SURNAME/>不就是连续恐怖袭击的事吗？\n<SURNAME/>仔细想想，不就是这样的吗？"
+        "zh": "\n<SURNAME/>诶，那本书上写的“赎罪之迎火”\n<SURNAME/>不就是连续恐怖袭击的事吗？\n<SURNAME/>仔细想想，不就是这样的吗？"
       }
     ],
     "meta_jp": "オバサン・次女",
@@ -118172,7 +118172,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>なに?<pause:15/>\n<SURNAME/>連続テロガ、あの奇怪な建物を\n<SURNAME/>出現させる為のものだったというのか?",
-        "zh": "\n<SURNAME/>什么?<pause:15/>\n<SURNAME/>连续恐怖袭击，竟是为让\n<SURNAME/>那怪异建筑出现?"
+        "zh": "\n<SURNAME/>什么?<pause:15/>\n<SURNAME/>连续恐怖袭击，竟是为让\n<SURNAME/>那座怪异建筑出现?"
       }
     ],
     "meta_jp": "珠閒瑠ジプシー",
@@ -143687,7 +143687,7 @@
     "pages": [
       {
         "jp": "店主ガプレゼントに使ったらしい\n",
-        "zh": "听说店主把它当作礼物用了\n"
+        "zh": "听说店主把它当作礼物了\n"
       }
     ],
     "meta_jp": "",
