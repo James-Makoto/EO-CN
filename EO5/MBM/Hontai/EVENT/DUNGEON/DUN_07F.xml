@@ -225,7 +225,7 @@
   </entry>
   <entry id="366">
     <source>{f804}{0300}新たな目的地が表示されました!{f804}{0000}{f801}</source>
-    <target>{f804}{0300}新たな目的地が表示されました!{f804}{0000}{f801}</target>
+    <target>{f804}{0300}已标注新的目的地！{f804}{0000}{f801}</target>
   </entry>
   <entry id="368">
     <source>花と亡者{f801}</source>

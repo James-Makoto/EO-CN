@@ -1,7 +1,7 @@
 <mbm>
   <entry id="1">
     <source>ルナリアのサディアス{f801}</source>
-    <target>露娜里亚族的撒狄斯{f801}</target>
+    <target>月民一族的撒狄斯{f801}</target>
   </entry>
   <entry id="2">
     <source>大きな本を持った女の子{f801}</source>
@@ -9,7 +9,7 @@
   </entry>
   <entry id="3">
     <source>やせたルナリア族の女性{f801}</source>
-    <target>消瘦的露娜里亚族女性{f801}</target>
+    <target>消瘦的女性月民{f801}</target>
   </entry>
   <entry id="4">
     <source>蒼髪のモノクルの紳士{f801}</source>
@@ -29,11 +29,11 @@
   </entry>
   <entry id="8">
     <source>ルナリアのサディアス{f801}</source>
-    <target>露娜里亚族的撒狄斯{f801}</target>
+    <target>月民一族的撒狄斯{f801}</target>
   </entry>
   <entry id="9">
     <source>セリアンのミア{f801}</source>
-    <target>赛利昂族的米娅{f801}</target>
+    <target>兽民一族的米娅{f801}</target>
   </entry>
   <entry id="10">
     <source>ミアの父{f801}</source>
@@ -41,11 +41,11 @@
   </entry>
   <entry id="11">
     <source>きょろきょろしているアースラン{f801}</source>
-    <target>东张西望的俄斯朗族人{f801}</target>
+    <target>东张西望的地民{f801}</target>
   </entry>
   <entry id="12">
     <source>ルナリアのサディアス{f801}</source>
-    <target>露娜里亚族的撒狄斯{f801}</target>
+    <target>月民一族的撒狄斯{f801}</target>
   </entry>
   <entry id="13">
     <source>昆虫学者のヴァーノン{f801}</source>
@@ -61,7 +61,7 @@
   </entry>
   <entry id="16">
     <source>そわそわしているルナリアの少女{f801}</source>
-    <target>心神不宁的露娜里亚族少女{f801}</target>
+    <target>心神不宁的月民少女{f801}</target>
   </entry>
   <entry id="17">
     <source>バケツ型の兜をかぶった竜騎士{f801}</source>
@@ -69,7 +69,7 @@
   </entry>
   <entry id="18">
     <source>くたびれた服を着たブラニー{f801}</source>
-    <target>穿着破旧衣服的布拉尼族人{f801}</target>
+    <target>穿着破旧衣服的玲民{f801}</target>
   </entry>
   <entry id="19">
     <source>料理のメニューを見ている男{f801}</source>
@@ -77,15 +77,15 @@
   </entry>
   <entry id="20">
     <source>炭鉱夫然としたセリアン{f801}</source>
-    <target>看起来像个矿工的赛利昂族人{f801}</target>
+    <target>看起来像个矿工的兽民{f801}</target>
   </entry>
   <entry id="23">
     <source>セリアンのミア{f801}</source>
-    <target>赛利昂族的米娅{f801}</target>
+    <target>兽民一族的米娅{f801}</target>
   </entry>
   <entry id="24">
     <source>ベリーをカゴに入れたブラニー{f801}</source>
-    <target>将浆果装入篮中的布拉尼族人{f801}</target>
+    <target>将浆果装入篮中的玲民{f801}</target>
   </entry>
   <entry id="25">
     <source>ベリー販売員のデール{f801}</source>
@@ -93,7 +93,7 @@
   </entry>
   <entry id="26">
     <source>狩人然としたセリアン{f801}</source>
-    <target>看起来像个猎人的赛利昂族人{f801}</target>
+    <target>看起来像个猎人的兽民{f801}</target>
   </entry>
   <entry id="27">
     <source>狩人のジェイミー{f801}</source>
@@ -101,7 +101,7 @@
   </entry>
   <entry id="28">
     <source>つなぎを着たアースラン{f801}</source>
-    <target>穿连身工作服的俄斯朗族人{f801}</target>
+    <target>穿连身工作服的地民{f801}</target>
   </entry>
   <entry id="29">
     <source>農家のマーティン{f801}</source>
@@ -109,7 +109,7 @@
   </entry>
   <entry id="30">
     <source>ルナリアの老学者{f801}</source>
-    <target>露娜里亚族的老学者{f801}</target>
+    <target>月民一族的老学者{f801}</target>
   </entry>
   <entry id="41">
     <source>孤高のケヴィン{f801}</source>
@@ -137,7 +137,7 @@
   </entry>
   <entry id="104">
     <source>配給係のアースラン少女{f801}</source>
-    <target>担任配给员的俄斯朗族少女{f801}</target>
+    <target>担任配给员的地民少女{f801}</target>
   </entry>
   <entry id="105">
     <source>小太りの新米冒険者{f801}</source>
@@ -205,11 +205,11 @@
   </entry>
   <entry id="121">
     <source>肩を窄めた中年男性{f801}</source>
-    <target>缩着肩膀的中年男性{f801}</target>
+    <target>缩着肩膀的中年男子{f801}</target>
   </entry>
   <entry id="122">
     <source>王都護衛盾術の男{f801}</source>
-    <target>王都护卫盾术的男性{f801}</target>
+    <target>王都护卫盾术的男子{f801}</target>
   </entry>
   <entry id="123">
     <source>正眼一刀流の女性{f801}</source>
@@ -241,11 +241,11 @@
   </entry>
   <entry id="130">
     <source>厄祓祈祷師の男{f801}</source>
-    <target>厄祓祈祷师的男性{f801}</target>
+    <target>厄祓祈祷师的男子{f801}</target>
   </entry>
   <entry id="131">
     <source>鍵を磨く長髪男性{f801}</source>
-    <target>擦拭钥匙的长发男性{f801}</target>
+    <target>擦拭钥匙的长发男子{f801}</target>
   </entry>
   <entry id="132">
     <source>青髪の冒険者{f801}</source>
@@ -257,7 +257,7 @@
   </entry>
   <entry id="134">
     <source>童話集を読む男性{f801}</source>
-    <target>在读童话集的男性{f801}</target>
+    <target>在读童话集的男子{f801}</target>
   </entry>
   <entry id="135">
     <source>青白い顔の祈祷師{f801}</source>
@@ -277,11 +277,11 @@
   </entry>
   <entry id="139">
     <source>への字口のブラニー族{f801}</source>
-    <target>嘴角向下撇的布拉尼族人{f801}</target>
+    <target>嘴角向下撇的玲民{f801}</target>
   </entry>
   <entry id="140">
     <source>落ち着きのないアースラン族{f801}</source>
-    <target>坐立不安的俄斯朗族人{f801}</target>
+    <target>坐立不安的地民{f801}</target>
   </entry>
   <entry id="141">
     <source>王立図書館の学者{f801}</source>
