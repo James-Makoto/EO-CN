@@ -21351,7 +21351,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag21",
@@ -21362,7 +21362,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag22",
@@ -21373,7 +21373,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag23",
@@ -21384,7 +21384,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag24",
@@ -21395,7 +21395,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:237_8:diag0",
@@ -26295,7 +26295,7 @@
     "pages": [
       {
         "jp": "\n<option:6/>報告書を読む\n日記1を読む\n日記2を読む\n日記3を読む\n日記4を読む\n放っておく\n<option_end/>",
-        "zh": "\n<option:6/>阅读报告\n阅读日记1\n阅读日记2\n阅读日记3\n阅读日记4\n不管它\n<option_end/>"
+        "zh": "\n<option:6/>阅读报告书\n阅读日记1\n阅读日记2\n阅读日记3\n阅读日记4\n不予理会\n<option_end/>"
       }
     ],
     "meta_jp": "<SURNAME/><c1d:9/>調査報告書と日記ガある。",
@@ -26306,19 +26306,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>依頼者<SURNAME/>:橿原<SURNAME/>純子\n<SURNAME/>調査内容:夫、橿原<SURNAME/>明成の素行調査\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫、橿原<SURNAME/>明成的品行调查\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日生成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫橿原<SURNAME/>明成品行调查\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>調査対象の素行を2週間に渡り調査した結果、\n<SURNAME/>依頼者の危惧する結果は得られなかった。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>经过两周对调查对象的品行调查，\n<SURNAME/>未发现委托人所担忧的结果。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>经两周跟踪调查对象品行，\n<SURNAME/>未发现委托人担忧之结果。\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>対象ガ職場外で接触したのは、\n<SURNAME/>岡村という同僚教諭と須藤という生徒のみであり、\n<SURNAME/>岡村との間にも、男女の関係は見られなかった。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>对象在职场外接触的，\n<SURNAME/>只有名为冈村的同事教师和须藤这名学生，\n<SURNAME/>与冈村之间也未发现男女关系。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>对象于职场外接触者，\n<SURNAME/>仅同事冈村教师与须藤学生二人，\n<SURNAME/>与冈村间亦未见男女关系迹象。\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>但し、同3名は人目を避けるように、\n<SURNAME/>市内の文化遺産や蝸牛山を探索するなど、\n<SURNAME/>幾つか奇異な点ガ見られた。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>但同三人避开他人视线，\n<SURNAME/>在市内文化遗产和蜗牛山探索等，\n<SURNAME/>发现了几处可疑之处。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>然此三人行为存疑点，\n<SURNAME/>如避人耳目探索市内文化遗产与蜗牛山，\n<SURNAME/>举动颇为异常。\n"
       }
     ],
     "meta_jp": "調査報告書No.32",
@@ -26329,15 +26329,15 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>腹ぺこの中、我ガ輩、本日も橿原の調査を行う。\n<SURNAME/>岡村という女ガ愛人かと睨んだガ、違う様子。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>饿着肚子，吾辈今日也调查橿原。\n<SURNAME/>怀疑冈村这女人是情人，但似乎不对。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>饥肠辘辘中，吾辈今日续查橿原。\n<SURNAME/>原疑冈村女子为情妇，实非如此。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>あの美人の奥方ガ言う様な、\n<SURNAME/>浮気の兆候は見られない。\n<SURNAME/>大体、あんな気の弱そうな男に浮気などできまい\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>没发现那位美丽妇人所说的，\n<SURNAME/>外遇的迹象。\n<SURNAME/>大概，那种懦弱的男人也搞不了外遇吧\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>未见美艳夫人所述之\n<SURNAME/>外遇征兆。\n<SURNAME/>那般怯懦男子岂有偷情胆量\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、今日も喫茶店で、\n<SURNAME/>岡村とシルバーガどうした、マヤガどうしたと\n<SURNAME/>熱っぽく語ると、家に帰っていった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -26348,15 +26348,15 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>曇り\n<SURNAME/>我ガ輩、本日も橿原の調査を行う。\n<SURNAME/>依頼の前金は、儚く銀玉の夢と消えた…\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>阴\n<SURNAME/>吾辈今日也调查橿原。\n<SURNAME/>委托的定金，如梦幻泡影般消失了…\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>阴\n<SURNAME/>吾辈今日续查橿原。\n<SURNAME/>预付金已如银珠美梦消散…\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>我ガ輩ガ腹ぺこだというのに、\n<SURNAME/>橿原は、岡村と蝸牛山へハイキングに行く様子。\n<SURNAME/>決定的な現場かと思ったガ、違かった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>吾辈明明饿着肚子，\n<SURNAME/>橿原却似乎要和冈村去蜗牛山远足。\n<SURNAME/>以为是决定性现场，但错了。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>吾辈腹中空空如也，\n<SURNAME/>橿原却与冈村同游蜗牛山。\n<SURNAME/>本以为是捉奸现场，然非也。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>二人は、変な岩や地形を調べると、\n<SURNAME/>興奮した様子で下山した。\n<SURNAME/>もしかして、埋蔵金でも調べているのだろうか。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>二人调查了奇怪的岩石和地形，\n<SURNAME/>兴奋地下山了。\n<SURNAME/>莫非是在找埋藏金吧。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>二人调查怪岩地形后，\n<SURNAME/>兴奋下山。\n<SURNAME/>莫非在搜寻埋藏金？\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -26367,19 +26367,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>我ガ輩、本日も橿原の調査。\n<SURNAME/>先日の登山調査で、持病の腰痛ガひどい。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>吾辈今日也调查橿原。\n<SURNAME/>因前几天的登山调查，老毛病腰痛加剧。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>吾辈今日续查橿原。\n<SURNAME/>前日登山调查致腰痛旧疾加剧。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、夕方まで七夕川で何やらやっていたガ、\n<SURNAME/>慌てた様子の岡村ガやってくると、\n<SURNAME/>興奮して七姉妹学園に戻って行った。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>父兄を装い潜入すると、中庭の石の周りで、\n<SURNAME/>又してもシルバーガどうしたと話し込んでいる。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>やはり、埋蔵金を探しているに違いない。\n<SURNAME/>もしそうなら、我ガ輩の夢も\n<SURNAME/>ついでに叶えてもらいたい。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>果然，一定是在找埋藏金。\n<SURNAME/>如果那样，吾辈的梦想\n<SURNAME/>也顺便想实现呢。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>必是在寻埋藏金无疑。\n<SURNAME/>若如此，吾辈美梦\n<SURNAME/>或可顺带成真矣。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -26390,19 +26390,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>本日で、橿原の調査も終了。\n<SURNAME/>ついでに、奥方ガ女優だと、今日知った。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>今日橿原的调查也结束。\n<SURNAME/>顺便，今日知道夫人是女演员。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>橿原调查今告终。\n<SURNAME/>顺带方知其妻为女优。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>学校での一件以来、橿原は外出しなくなった。\n<SURNAME/>奥方の話だと、熱心に何やら執筆しているらしい。\n<SURNAME/>だガ、今日は息子と外出するようだ。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>学校那件事以来，橿原不再外出。\n<SURNAME/>据夫人说，似乎在热心撰写什么。\n<SURNAME/>但今天似乎要和儿子外出。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>学园事件后，橿原足不出户。\n<SURNAME/>据其妻言，似在热衷执笔写作。\n<SURNAME/>然今日携子外出。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、息子と七姉妹学園まで来ると、\n<SURNAME/>我ガ輩に気づき、慌てて学校の敷地に消えた。\n<SURNAME/>我ガ輩の天才的尾行術に気づくとは!!\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>仕方ないので、付近に隠れ待つことにしたガ、\n<SURNAME/>まさかあんな形で橿原ガ事故死するとは\n<SURNAME/>思わなかった…依頼の後金、もらってないのに…\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>无奈，决定躲藏附近等待，\n<SURNAME/>没想到橿原竟那样事故死了…\n<SURNAME/>委托的尾款还没收到呢…\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>无奈隐于附近守候，\n<SURNAME/>未料橿原竟意外身亡…\n<SURNAME/>尾款尚未收取啊…\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -36078,7 +36078,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アハハハ!\n<SURNAME/>有意志!!(ヤウイーシ)おかしー!\n<SURNAME/>なんか、全然当たってなくない!?\n",
-        "zh": "\n<SURNAME/>啊哈哈哈！\n<SURNAME/>有意志!!太逗啦!!\n<SURNAME/>怎么感觉根本就没算准嘛！？\n"
+        "zh": "\n<SURNAME/>啊哈哈哈！\n<SURNAME/>有意思!!太逗啦!!\n<SURNAME/>怎么感觉根本就没算准嘛！？\n"
       }
     ],
     "meta_jp": "ギンコ",
@@ -37111,7 +37111,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>宝瓶宮…<pause:30/>\n<SURNAME/>風のエレメントを抱く、革命と破壊、\n<SURNAME/>進化と博愛の象徴…\n",
-        "zh": "\n<SURNAME/>宝瓶宫…<pause:30/>\n<SURNAME/>怀抱风之元素，革命与破坏、\n<SURNAME/>进化与博爱的象征…\n"
+        "zh": "\n<SURNAME/>水瓶座…<pause:30/>\n<SURNAME/>怀抱风之元素，革命与破坏、\n<SURNAME/>进化与博爱的象征…\n"
       }
     ],
     "meta_jp": "淳",
@@ -66633,7 +66633,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>これじゃあ、私達の野望も果せないじゃない。<pause:10/>\n<SURNAME/>これっていつまで飛んでるの?\n<SURNAME/>もしかして飛びっぱなし?<SURNAME/><pause:15/>シクー",
-        "zh": "\n<SURNAME/>这样我们野望还怎么实现啊？<pause:10/>\n<SURNAME/>这要飞多久啊？\n<SURNAME/>该不会一直飞下去吧？<SURNAME/><pause:15/>呜噫——"
+        "zh": "\n<SURNAME/>这样下去，我们的野心不就根本没法实现了吗。<pause:10/>\n<SURNAME/>这要飞多久啊？\n<SURNAME/>该不会一直飞下去吧？<SURNAME/><pause:15/>呜噫——"
       }
     ],
     "meta_jp": "オバサン・三女",
@@ -78896,7 +78896,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけどあの子、ペルソナや部下の悪魔まで\n<SURNAME/>従えてたでしょ?\n<SURNAME/>それって幹部クラスって事じゃない?",
-        "zh": "\n<SURNAME/>但那家伙不是能使用人格面具，\n<SURNAME/>甚至连手下的恶魔都听他指挥吗？\n<SURNAME/>这不就说明他是干部级别的吗？"
+        "zh": "\n<SURNAME/>但那家伙不是能使用人格面具，\n<SURNAME/>甚至连手下的恶魔都听她指挥吗？\n<SURNAME/>这不就说明她是干部级别的吗？"
       }
     ],
     "meta_jp": "ギンコ",
@@ -80472,7 +80472,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>依頼者<SURNAME/>:橿原<SURNAME/>純子\n<SURNAME/>調査内容:夫、橿原<SURNAME/>明成の素行調査\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫橿原<SURNAME/>明成品行调查\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日生成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫橿原<SURNAME/>明成品行调查\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>調査対象の素行を2週間に渡り調査した結果、\n<SURNAME/>依頼者の危惧する結果は得られなかった。\n",
@@ -80499,11 +80499,11 @@
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>あの美人の奥方ガ言う様な、\n<SURNAME/>浮気の兆候は見られない。\n<SURNAME/>大体、あんな気の弱そうな男に浮気などできまい\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>未见美艳夫人所述之\n<SURNAME/>外遇征兆。\n<SURNAME/>那般怯懦男子岂有偷情胆量\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>未见美艳夫人所述之\n<SURNAME/>外遇征兆。\n<SURNAME/>那般怯懦男子岂有偷情胆量\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、今日も喫茶店で、\n<SURNAME/>岡村とシルバーガどうした、マヤガどうしたと\n<SURNAME/>熱っぽく語ると、家に帰っていった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -80518,11 +80518,11 @@
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>我ガ輩ガ腹ぺこだというのに、\n<SURNAME/>橿原は、岡村と蝸牛山へハイキングに行く様子。\n<SURNAME/>決定的な現場かと思ったガ、違かった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>吾辈腹中空空如也，\n<SURNAME/>橿原却与冈村同游蜗牛山。\n<SURNAME/>本以为是捉奸现场，然非也。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>吾辈腹中空空如也，\n<SURNAME/>橿原却与冈村同游蜗牛山。\n<SURNAME/>本以为是捉奸现场，然非也。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>二人は、変な岩や地形を調べると、\n<SURNAME/>興奮した様子で下山した。\n<SURNAME/>もしかして、埋蔵金でも調べているのだろうか。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>二人调查怪岩地形后，\n<SURNAME/>兴奋下山。\n<SURNAME/>莫非在搜寻埋藏金？\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>二人调查怪岩地形后，\n<SURNAME/>兴奋下山。\n<SURNAME/>莫非在搜寻埋藏金？\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -80537,15 +80537,15 @@
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、夕方まで七夕川で何やらやっていたガ、\n<SURNAME/>慌てた様子の岡村ガやってくると、\n<SURNAME/>興奮して七姉妹学園に戻って行った。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>父兄を装い潜入すると、中庭の石の周りで、\n<SURNAME/>又してもシルバーガどうしたと話し込んでいる。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>やはり、埋蔵金を探しているに違いない。\n<SURNAME/>もしそうなら、我ガ輩の夢も\n<SURNAME/>ついでに叶えてもらいたい。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>必是在寻埋藏金无疑。\n<SURNAME/>若如此，吾辈美梦\n<SURNAME/>或可顺带成真矣。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>必是在寻埋藏金无疑。\n<SURNAME/>若如此，吾辈美梦\n<SURNAME/>或可顺带成真矣。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -80560,15 +80560,15 @@
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>学校での一件以来、橿原は外出しなくなった。\n<SURNAME/>奥方の話だと、熱心に何やら執筆しているらしい。\n<SURNAME/>だガ、今日は息子と外出するようだ。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>学园事件后，橿原足不出户。\n<SURNAME/>据其妻言，似在热衷执笔写作。\n<SURNAME/>然今日携子外出。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>学园事件后，橿原足不出户。\n<SURNAME/>据其妻言，似在热衷执笔写作。\n<SURNAME/>然今日携子外出。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、息子と七姉妹学園まで来ると、\n<SURNAME/>我ガ輩に気づき、慌てて学校の敷地に消えた。\n<SURNAME/>我ガ輩の天才的尾行術に気づくとは!!\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>仕方ないので、付近に隠れ待つことにしたガ、\n<SURNAME/>まさかあんな形で橿原ガ事故死するとは\n<SURNAME/>思わなかった…依頼の後金、もらってないのに…\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>无奈隐于附近守候，\n<SURNAME/>未料橿原竟意外身亡…\n<SURNAME/>尾款尚未收取啊…\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>无奈隐于附近守候，\n<SURNAME/>未料橿原竟意外身亡…\n<SURNAME/>尾款尚未收取啊…\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -82333,7 +82333,7 @@
     "pages": [
       {
         "jp": "\n<option:6/>報告書を読む\n日記1を読む\n日記2を読む\n日記3を読む\n日記4を読む\n放っておく\n<option_end/>",
-        "zh": "\n<option:6/>阅读报告\n阅读日记1\n阅读日记2\n阅读日记3\n阅读日记4\n放着不管\n<option_end/>"
+        "zh": "\n<option:6/>阅读报告书\n阅读日记1\n阅读日记2\n阅读日记3\n阅读日记4\n不予理会\n<option_end/>"
       }
     ],
     "meta_jp": "<SURNAME/><c1d:9/>調査報告書と日記ガある。",
@@ -82344,19 +82344,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>依頼者<SURNAME/>:橿原<SURNAME/>純子\n<SURNAME/>調査内容:夫、橿原<SURNAME/>明成の素行調査\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日作成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫、橿原<SURNAME/>明成的品行调查\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>X月X日生成\n<SURNAME/>委托人<SURNAME/>:橿原<SURNAME/>纯子\n<SURNAME/>调查内容:丈夫橿原<SURNAME/>明成品行调查\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>調査対象の素行を2週間に渡り調査した結果、\n<SURNAME/>依頼者の危惧する結果は得られなかった。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>经过两周对调查对象的品行调查，\n<SURNAME/>没有获得委托人担忧的结果。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>经两周跟踪调查对象品行，\n<SURNAME/>未发现委托人担忧之结果。\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>対象ガ職場外で接触したのは、\n<SURNAME/>岡村という同僚教諭と須藤という生徒のみであり、\n<SURNAME/>岡村との間にも、男女の関係は見られなかった。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>对象在职场外接触的，\n<SURNAME/>只有名为冈村的同事教师和名为须藤的学生，\n<SURNAME/>与冈村之间也没有男女关系。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>对象于职场外接触者，\n<SURNAME/>仅同事冈村教师与须藤学生二人，\n<SURNAME/>与冈村间亦未见男女关系迹象。\n"
       },
       {
         "jp": "<c1d:11/>調査報告書No.32<c1d:1/>\n<SURNAME/>但し、同3名は人目を避けるように、\n<SURNAME/>市内の文化遺産や蝸牛山を探索するなど、\n<SURNAME/>幾つか奇異な点ガ見られた。\n",
-        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>但是，这三人似乎避开他人视线，\n<SURNAME/>探索市内的文化遗产和蜗牛山等，\n<SURNAME/>发现了一些奇异之处。\n"
+        "zh": "<c1d:11/>调查报告No.32<c1d:1/>\n<SURNAME/>然此三人行为存疑点，\n<SURNAME/>如避人耳目探索市内文化遗产与蜗牛山，\n<SURNAME/>举动颇为异常。\n"
       }
     ],
     "meta_jp": "調査報告書No.32",
@@ -82367,15 +82367,15 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>腹ぺこの中、我ガ輩、本日も橿原の調査を行う。\n<SURNAME/>岡村という女ガ愛人かと睨んだガ、違う様子。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>在饥饿中，吾辈今天也进行橿原的调查。\n<SURNAME/>本以为叫冈村的女人是情妇，但似乎不是。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>○月○○日<SURNAME/>晴\n<SURNAME/>饥肠辘辘中，吾辈今日续查橿原。\n<SURNAME/>原疑冈村女子为情妇，实非如此。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>あの美人の奥方ガ言う様な、\n<SURNAME/>浮気の兆候は見られない。\n<SURNAME/>大体、あんな気の弱そうな男に浮気などできまい\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>没有看到那位美丽夫人所说的，\n<SURNAME/>出轨的迹象。\n<SURNAME/>大概，那种懦弱的男人不可能出轨吧\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>未见美艳夫人所述之\n<SURNAME/>外遇征兆。\n<SURNAME/>那般怯懦男子岂有偷情胆量\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、今日も喫茶店で、\n<SURNAME/>岡村とシルバーガどうした、マヤガどうしたと\n<SURNAME/>熱っぽく語ると、家に帰っていった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原今日仍在咖啡馆，\n<SURNAME/>与冈村热切谈论希尔巴如何、玛雅如何，\n<SURNAME/>后返家而去。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -82386,15 +82386,15 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>曇り\n<SURNAME/>我ガ輩、本日も橿原の調査を行う。\n<SURNAME/>依頼の前金は、儚く銀玉の夢と消えた…\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>阴天\n<SURNAME/>吾辈今天也进行橿原的调查。\n<SURNAME/>委托的预付款，已如银弹之梦般消散…\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>X月XX日<SURNAME/>阴\n<SURNAME/>吾辈今日续查橿原。\n<SURNAME/>预付金已如银珠美梦消散…\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>我ガ輩ガ腹ぺこだというのに、\n<SURNAME/>橿原は、岡村と蝸牛山へハイキングに行く様子。\n<SURNAME/>決定的な現場かと思ったガ、違かった。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>吾辈正饿着肚子，\n<SURNAME/>橿原却和冈村去蜗牛山远足的样子。\n<SURNAME/>本以为会是决定性现场，但并非如此。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>吾辈腹中空空如也，\n<SURNAME/>橿原却与冈村同游蜗牛山。\n<SURNAME/>本以为是捉奸现场，然非也。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>二人は、変な岩や地形を調べると、\n<SURNAME/>興奮した様子で下山した。\n<SURNAME/>もしかして、埋蔵金でも調べているのだろうか。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>两人调查了奇怪的岩石和地形，\n<SURNAME/>兴奋地下山了。\n<SURNAME/>莫非是在寻找埋藏金吧。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>二人调查怪岩地形后，\n<SURNAME/>兴奋下山。\n<SURNAME/>莫非在搜寻埋藏金？\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -82405,19 +82405,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>我ガ輩、本日も橿原の調査。\n<SURNAME/>先日の登山調査で、持病の腰痛ガひどい。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>吾辈今天也进行橿原的调查。\n<SURNAME/>前几天的登山调查，让老毛病腰痛加剧了。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>△月△△日<SURNAME/>晴\n<SURNAME/>吾辈今日续查橿原。\n<SURNAME/>前日登山调查致腰痛旧疾加剧。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、夕方まで七夕川で何やらやっていたガ、\n<SURNAME/>慌てた様子の岡村ガやってくると、\n<SURNAME/>興奮して七姉妹学園に戻って行った。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原于七夕川行动至傍晚，\n<SURNAME/>见冈村慌张赶来后，\n<SURNAME/>激动返回七姐妹学园。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>父兄を装い潜入すると、中庭の石の周りで、\n<SURNAME/>又してもシルバーガどうしたと話し込んでいる。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>乔装家长潜入，见其于中庭石旁，\n<SURNAME/>再度热议希尔巴如何云云。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>やはり、埋蔵金を探しているに違いない。\n<SURNAME/>もしそうなら、我ガ輩の夢も\n<SURNAME/>ついでに叶えてもらいたい。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>果然，一定是在寻找埋藏金。\n<SURNAME/>如果那样，希望吾辈的梦想\n<SURNAME/>也能顺便实现。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>必是在寻埋藏金无疑。\n<SURNAME/>若如此，吾辈美梦\n<SURNAME/>或可顺带成真矣。\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -82428,19 +82428,19 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>本日で、橿原の調査も終了。\n<SURNAME/>ついでに、奥方ガ女優だと、今日知った。\n",
-        "zh": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>今天，橿原的调查也结束了。\n<SURNAME/>顺便，今天才知道夫人是女演员。\n"
+        "zh": "\n<SURNAME/>1989年<SURNAME/>□月□□日<SURNAME/>雨\n<SURNAME/>橿原调查今告终。\n<SURNAME/>顺带方知其妻为女优。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>学校での一件以来、橿原は外出しなくなった。\n<SURNAME/>奥方の話だと、熱心に何やら執筆しているらしい。\n<SURNAME/>だガ、今日は息子と外出するようだ。\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>学校事件后，橿原不再外出。\n<SURNAME/>据夫人说，似乎在热心地写作什么。\n<SURNAME/>但今天要和儿子外出。\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>学园事件后，橿原足不出户。\n<SURNAME/>据其妻言，似在热衷执笔写作。\n<SURNAME/>然今日携子外出。\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>橿原は、息子と七姉妹学園まで来ると、\n<SURNAME/>我ガ輩に気づき、慌てて学校の敷地に消えた。\n<SURNAME/>我ガ輩の天才的尾行術に気づくとは!!\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>橿原携子至七姐妹学园，\n<SURNAME/>察觉吾辈后仓皇遁入校地。\n<SURNAME/>竟识破吾辈天才尾行术!!\n"
       },
       {
         "jp": "<c1d:11/>轟<SURNAME/>大助の日記<c1d:1/>\n<SURNAME/>仕方ないので、付近に隠れ待つことにしたガ、\n<SURNAME/>まさかあんな形で橿原ガ事故死するとは\n<SURNAME/>思わなかった…依頼の後金、もらってないのに…\n",
-        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>无奈只好躲藏等待，\n<SURNAME/>没想到橿原竟以那种方式事故死…\n<SURNAME/>委托的尾款还没收到呢…\n"
+        "zh": "<c1d:11/>轰<SURNAME/>大助的日记<c1d:1/>\n<SURNAME/>无奈隐于附近守候，\n<SURNAME/>未料橿原竟意外身亡…\n<SURNAME/>尾款尚未收取啊…\n"
       }
     ],
     "meta_jp": "轟<SURNAME/>大助の日記",
@@ -84263,7 +84263,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アタシはゴールドガ怪しいと思うんだけどさぁ。\n<SURNAME/>こんな事言って、みんなを混乱させても悪いし、\n<SURNAME/>やっぱり<c12/>ガ決めておくれよ。",
-        "zh": "\n<SURNAME/>我觉得Gold很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
+        "zh": "\n<SURNAME/>我觉得GOLD很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -86191,7 +86191,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>平坂区には宝瓶宮ガ現れてるはずだ。\n<SURNAME/>あそこの水晶髑髏はまだ手に入れてないよ。<pause:15/>\n<SURNAME/>早く奴等から取り上げないと。",
-        "zh": "\n<SURNAME/>宝瓶宫应该已经出现在平坂区了。\n<SURNAME/>那里的水晶骷髅还没到手呢。<pause:15/>\n<SURNAME/>得赶紧从那帮人手里夺过来才行。"
+        "zh": "\n<SURNAME/>水瓶座应该已经出现在平坂区了。\n<SURNAME/>那里的水晶骷髅还没到手呢。<pause:15/>\n<SURNAME/>得赶紧从那帮人手里夺过来才行。"
       }
     ],
     "meta_jp": "淳",
@@ -86202,7 +86202,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>平坂区の宝瓶宮の髑髏は手に入れたよ。\n<SURNAME/>だけどラスト・バタリオンガ変な事言ってたよね。\n<SURNAME/>本当はあそこに誰ガいるべきだったのか…",
-        "zh": "\n<SURNAME/>平坂区宝瓶宫的骷髅已经到手了。\n<SURNAME/>不过最后军团说了些奇怪的话吧。\n<SURNAME/>本来该在那里的人，到底是谁呢…"
+        "zh": "\n<SURNAME/>平坂区水瓶座的骷髅已经到手了。\n<SURNAME/>不过最后军团说了些奇怪的话吧。\n<SURNAME/>本来该在那里的人，到底是谁呢…"
       }
     ],
     "meta_jp": "淳",
@@ -90513,7 +90513,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何言ってるんだ、ゴールドまで狙われてたんだよ?\n<SURNAME/>ここだって危ないじゃないかっ。\n<SURNAME/>早く、街の外に逃げよう!",
-        "zh": "\n<SURNAME/>你在说什么，连 GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
+        "zh": "\n<SURNAME/>你在说什么，连GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
       }
     ],
     "meta_jp": "パピー",
@@ -90524,7 +90524,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何言ってるんだ!<SURNAME/>ゴールドまで炎上したんだよ?\n<SURNAME/>ここだって危ないじゃないか!\n<SURNAME/>早く、街の外に逃げようっ!",
-        "zh": "\n<SURNAME/>你在说什么，<SURNAME/>连 GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
+        "zh": "\n<SURNAME/>你在说什么，<SURNAME/>连GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
       }
     ],
     "meta_jp": "パピー",
@@ -92314,7 +92314,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c12/>君、聞いた?<pause:15/>\n<SURNAME/>ゴールドにまで爆弾ガ仕掛けられてたんですって。\n<SURNAME/>爆発する前に見つかって良かったわ。",
-        "zh": "\n<SURNAME/><c12/>，听说了吗？<pause:15/>\n<SURNAME/>据说连 GOLD都被装了炸弹。\n<SURNAME/>还好在爆炸前被发现了。"
+        "zh": "\n<SURNAME/><c12/>，听说了吗？<pause:15/>\n<SURNAME/>据说连GOLD都被装了炸弹。\n<SURNAME/>还好在爆炸前被发现了。"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92358,7 +92358,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そんなぁー!<SURNAME/>ゴールドまで焼けちゃうなんてぇ…<pause:15/>\n<SURNAME/>私、あそこの会員だったのよ。\n<SURNAME/>高い料金払ってたのに…",
-        "zh": "\n<SURNAME/>怎么会——！<SURNAME/>连 GOLD都烧毁了…<pause:15/>\n<SURNAME/>我可是那里的会员啊。\n<SURNAME/>明明交了那么贵的会费…"
+        "zh": "\n<SURNAME/>怎么会——！<SURNAME/>连GOLD都烧毁了…<pause:15/>\n<SURNAME/>我可是那里的会员啊。\n<SURNAME/>明明交了那么贵的会费…"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92644,7 +92644,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ちょっとお、ゴールドまで燃えちゃったよお。\n<SURNAME/>どうすんの、この街激ヤバじゃん。\n<SURNAME/>しかも犯人ってラスト・バタリオンなんでしょ?",
-        "zh": "\n<SURNAME/>喂，连 GOLD都烧起来了耶。\n<SURNAME/>这下怎么办啊，这座城市简直太危险了。\n<SURNAME/>而且犯人是最后军团，对吧？"
+        "zh": "\n<SURNAME/>喂，连GOLD都烧起来了耶。\n<SURNAME/>这下怎么办啊，这座城市简直太危险了。\n<SURNAME/>而且犯人是最后军团，对吧？"
       }
     ],
     "meta_jp": "サチコ",
@@ -93029,7 +93029,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うふふ…とうとうゴールドまで燃えてしまった…\n<SURNAME/>この調子なら、街の全てガ灰になる日も近いわ…",
-        "zh": "\n<SURNAME/>呵呵呵…终于连 GOLD都烧起来了…\n<SURNAME/>照这样下去，整座城化为灰烬的日子也不远了…"
+        "zh": "\n<SURNAME/>呵呵呵…终于连GOLD都烧起来了…\n<SURNAME/>照这样下去，整座城化为灰烬的日子也不远了…"
       }
     ],
     "meta_jp": "仮面党員",
@@ -106715,7 +106715,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>宝瓶宮にあった風の水晶髑髏は手に入れたよ。<pause:15/>\n<SURNAME/>みんなに、夢見る心を返してあげるためなら…<pause:15/>\n<SURNAME/>たとえこの身ガ滅んでも…\n",
-        "zh": "\n<SURNAME/>宝瓶宫里的风之水晶骷髅已经拿到了。<pause:15/>\n<SURNAME/>为了把梦想之心还给大家…<pause:15/>\n<SURNAME/>即使此身毁灭…\n"
+        "zh": "\n<SURNAME/>水瓶座里的风之水晶骷髅已经拿到了。<pause:15/>\n<SURNAME/>为了把梦想之心还给大家…<pause:15/>\n<SURNAME/>即使此身毁灭…\n"
       }
     ],
     "meta_jp": "淳",
@@ -113850,7 +113850,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アタシはゴールドガ怪しいと思うんだけどさぁ。\n<SURNAME/>こんな事言って、みんなを混乱させても悪いし、\n<SURNAME/>やっぱり<c12/>ガ決めておくれよ。",
-        "zh": "\n<SURNAME/>我觉得Gold很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
+        "zh": "\n<SURNAME/>我觉得GOLD很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -117597,7 +117597,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>宝瓶宮…<pause:15/>風の水晶髑髏か…<pause:15/>\n<SURNAME/>天の髑髏と一緒に、聖槍騎士団に寧われたんだ。\n<SURNAME/>いるとすれば、奴らだな…\n",
-        "zh": "\n<SURNAME/>宝瓶宫…<pause:15/>风之水晶骷髅啊…<pause:15/>\n<SURNAME/>和天之骷髅一起，被圣枪骑士团抢走了。\n<SURNAME/>要说真有谁在的话，也就是那帮家伙了了…\n"
+        "zh": "\n<SURNAME/>水瓶座…<pause:15/>风之水晶骷髅啊…<pause:15/>\n<SURNAME/>和天之骷髅一起，被圣枪骑士团抢走了。\n<SURNAME/>要说真有谁在的话，也就是那帮家伙了了…\n"
       }
     ],
     "meta_jp": "淳",
@@ -117608,7 +117608,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>宝瓶宮の風の水晶髑髏はもう手に入れている。<pause:15/>\n<SURNAME/>早く、残りの水晶髑髏も集めてしまわないと…",
-        "zh": "\n<SURNAME/>宝瓶宫的风之水晶骷髅已经拿到了。<pause:15/>\n<SURNAME/>得快点收集剩下的水晶骷髅才行…"
+        "zh": "\n<SURNAME/>水瓶座的风之水晶骷髅已经拿到了。<pause:15/>\n<SURNAME/>得快点收集剩下的水晶骷髅才行…"
       }
     ],
     "meta_jp": "淳",
