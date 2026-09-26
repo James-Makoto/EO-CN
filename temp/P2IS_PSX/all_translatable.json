@@ -21351,7 +21351,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag21",
@@ -21362,7 +21362,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag22",
@@ -21373,7 +21373,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag23",
@@ -21384,7 +21384,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:236_8:diag24",
@@ -21395,7 +21395,7 @@
       }
     ],
     "meta_jp": "ゴールドのスタッフ",
-    "meta_zh": "金发员工"
+    "meta_zh": "GOLD员工"
   },
   {
     "id": "script:237_8:diag0",
@@ -78896,7 +78896,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>だけどあの子、ペルソナや部下の悪魔まで\n<SURNAME/>従えてたでしょ?\n<SURNAME/>それって幹部クラスって事じゃない?",
-        "zh": "\n<SURNAME/>但那家伙不是能使用人格面具，\n<SURNAME/>甚至连手下的恶魔都听他指挥吗？\n<SURNAME/>这不就说明他是干部级别的吗？"
+        "zh": "\n<SURNAME/>但那家伙不是能使用人格面具，\n<SURNAME/>甚至连手下的恶魔都听她指挥吗？\n<SURNAME/>这不就说明她是干部级别的吗？"
       }
     ],
     "meta_jp": "ギンコ",
@@ -84263,7 +84263,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アタシはゴールドガ怪しいと思うんだけどさぁ。\n<SURNAME/>こんな事言って、みんなを混乱させても悪いし、\n<SURNAME/>やっぱり<c12/>ガ決めておくれよ。",
-        "zh": "\n<SURNAME/>我觉得Gold很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
+        "zh": "\n<SURNAME/>我觉得GOLD很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
       }
     ],
     "meta_jp": "ゆきの",
@@ -90513,7 +90513,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何言ってるんだ、ゴールドまで狙われてたんだよ?\n<SURNAME/>ここだって危ないじゃないかっ。\n<SURNAME/>早く、街の外に逃げよう!",
-        "zh": "\n<SURNAME/>你在说什么，连 GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
+        "zh": "\n<SURNAME/>你在说什么，连GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
       }
     ],
     "meta_jp": "パピー",
@@ -90524,7 +90524,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>何言ってるんだ!<SURNAME/>ゴールドまで炎上したんだよ?\n<SURNAME/>ここだって危ないじゃないか!\n<SURNAME/>早く、街の外に逃げようっ!",
-        "zh": "\n<SURNAME/>你在说什么，<SURNAME/>连 GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
+        "zh": "\n<SURNAME/>你在说什么，<SURNAME/>连GOLD都被盯上了啊？\n<SURNAME/>这里也很危险吧！\n<SURNAME/>快逃到城外去吧！"
       }
     ],
     "meta_jp": "パピー",
@@ -92314,7 +92314,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/><c12/>君、聞いた?<pause:15/>\n<SURNAME/>ゴールドにまで爆弾ガ仕掛けられてたんですって。\n<SURNAME/>爆発する前に見つかって良かったわ。",
-        "zh": "\n<SURNAME/><c12/>，听说了吗？<pause:15/>\n<SURNAME/>据说连 GOLD都被装了炸弹。\n<SURNAME/>还好在爆炸前被发现了。"
+        "zh": "\n<SURNAME/><c12/>，听说了吗？<pause:15/>\n<SURNAME/>据说连GOLD都被装了炸弹。\n<SURNAME/>还好在爆炸前被发现了。"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92358,7 +92358,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>そんなぁー!<SURNAME/>ゴールドまで焼けちゃうなんてぇ…<pause:15/>\n<SURNAME/>私、あそこの会員だったのよ。\n<SURNAME/>高い料金払ってたのに…",
-        "zh": "\n<SURNAME/>怎么会——！<SURNAME/>连 GOLD都烧毁了…<pause:15/>\n<SURNAME/>我可是那里的会员啊。\n<SURNAME/>明明交了那么贵的会费…"
+        "zh": "\n<SURNAME/>怎么会——！<SURNAME/>连GOLD都烧毁了…<pause:15/>\n<SURNAME/>我可是那里的会员啊。\n<SURNAME/>明明交了那么贵的会费…"
       }
     ],
     "meta_jp": "マヌカン",
@@ -92644,7 +92644,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>ちょっとお、ゴールドまで燃えちゃったよお。\n<SURNAME/>どうすんの、この街激ヤバじゃん。\n<SURNAME/>しかも犯人ってラスト・バタリオンなんでしょ?",
-        "zh": "\n<SURNAME/>喂，连 GOLD都烧起来了耶。\n<SURNAME/>这下怎么办啊，这座城市简直太危险了。\n<SURNAME/>而且犯人是最后军团，对吧？"
+        "zh": "\n<SURNAME/>喂，连GOLD都烧起来了耶。\n<SURNAME/>这下怎么办啊，这座城市简直太危险了。\n<SURNAME/>而且犯人是最后军团，对吧？"
       }
     ],
     "meta_jp": "サチコ",
@@ -93029,7 +93029,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>うふふ…とうとうゴールドまで燃えてしまった…\n<SURNAME/>この調子なら、街の全てガ灰になる日も近いわ…",
-        "zh": "\n<SURNAME/>呵呵呵…终于连 GOLD都烧起来了…\n<SURNAME/>照这样下去，整座城化为灰烬的日子也不远了…"
+        "zh": "\n<SURNAME/>呵呵呵…终于连GOLD都烧起来了…\n<SURNAME/>照这样下去，整座城化为灰烬的日子也不远了…"
       }
     ],
     "meta_jp": "仮面党員",
@@ -113850,7 +113850,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>アタシはゴールドガ怪しいと思うんだけどさぁ。\n<SURNAME/>こんな事言って、みんなを混乱させても悪いし、\n<SURNAME/>やっぱり<c12/>ガ決めておくれよ。",
-        "zh": "\n<SURNAME/>我觉得Gold很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
+        "zh": "\n<SURNAME/>我觉得GOLD很可疑。\n<SURNAME/>但是说这种话让大家混乱也不好，\n<SURNAME/>还是由<c12/>决定吧。"
       }
     ],
     "meta_jp": "ゆきの",
