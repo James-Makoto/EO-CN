@@ -6087,11 +6087,11 @@
       },
       {
         "jp": "<c1d:11/>立て看板<c1d:1/>\n<SURNAME/>昼を開くは<SURNAME/>日の光\n<SURNAME/>夜を開くは<SURNAME/>天の星\n<SURNAME/>並び並びて指し示す",
-        "zh": "<c1d:11/>告示牌<c1d:1/>\n<SURNAME/>白昼开启者<SURNAME/>乃太阳之光\n<SURNAME/>黑夜开启者<SURNAME/>乃苍穹之星\n<SURNAME/>并排并排指路向"
+        "zh": "<c1d:11/>告示牌<c1d:1/>\n<SURNAME/>白昼开启者<SURNAME/>乃日光\n<SURNAME/>黑夜开启者<SURNAME/>乃天星\n<SURNAME/>并排并排指路向"
       },
       {
         "jp": "<c1d:11/>立て看板<c1d:1/>\n<SURNAME/>其は<SURNAME/>迷い子達の<SURNAME/>道しるべ\n<SURNAME/>其は<SURNAME/>在らぬ言華の<SURNAME/>深き愛",
-        "zh": "<c1d:11/>告示牌<c1d:1/>\n<SURNAME/>此乃<SURNAME/>迷途童子们<SURNAME/>之路标\n<SURNAME/>此乃<SURNAME/>无言花语<SURNAME/>之深爱"
+        "zh": "<c1d:11/>告示牌<c1d:1/>\n<SURNAME/>此乃<SURNAME/>迷途童子们<SURNAME/>之路标\n<SURNAME/>此乃<SURNAME/>无言话语<SURNAME/>之深爱"
       },
       {
         "jp": "<c1d:11/>立て看板<c1d:1/>\n<SURNAME/>語らぬ<SURNAME/>地蔵ガ<SURNAME/>示す先\n<SURNAME/>はるかな<SURNAME/>はるかな<SURNAME/>森は開けり",
@@ -6118,7 +6118,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>深き<SURNAME/>深き<SURNAME/>御山の森に\n<SURNAME/>招きざる子ガ<SURNAME/>迷い来る",
-        "zh": "\n<SURNAME/>幽深<SURNAME/>幽深<SURNAME/>神山之森\n<SURNAME/>无召童子<SURNAME/>迷途而至"
+        "zh": "\n<SURNAME/>幽深<SURNAME/>幽深<SURNAME/>御山之森\n<SURNAME/>无召童子<SURNAME/>迷途而至"
       }
     ],
     "meta_jp": "地蔵",
@@ -6162,7 +6162,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>其は<SURNAME/>在らぬ言華の<SURNAME/>深き愛",
-        "zh": "\n<SURNAME/>此乃<SURNAME/>无言花语<SURNAME/>之深爱"
+        "zh": "\n<SURNAME/>此乃<SURNAME/>无言话语<SURNAME/>之深爱"
       }
     ],
     "meta_jp": "地蔵",
@@ -6195,7 +6195,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>深き<SURNAME/>深き<SURNAME/>お山の森に\n<SURNAME/>まねきざる子ガ<SURNAME/>迷いくる",
-        "zh": "\n<SURNAME/>幽深<SURNAME/>幽深<SURNAME/>御山之森\n<SURNAME/>无招之子<SURNAME/>迷途而来"
+        "zh": "\n<SURNAME/>幽深<SURNAME/>幽深<SURNAME/>神山之森\n<SURNAME/>无招之子<SURNAME/>迷途而来"
       }
     ],
     "meta_jp": "地蔵",
@@ -6228,7 +6228,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>昼を開くは<SURNAME/>白の光",
-        "zh": "\n<SURNAME/>白昼开启者<SURNAME/>乃日光"
+        "zh": "\n<SURNAME/>白昼开启者<SURNAME/>乃白光"
       }
     ],
     "meta_jp": "地蔵",
@@ -6272,7 +6272,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>並び並びて指し示す\n<SURNAME/>棋は<SURNAME/>迷い子達の<SURNAME/>道しるべ",
-        "zh": "\n<SURNAME/>并排并排指路向\n<SURNAME/>此乃<SURNAME/>迷途童子们<SURNAME/>之路标"
+        "zh": "\n<SURNAME/>并排并排指路向\n<SURNAME/>其乃<SURNAME/>迷途童子们<SURNAME/>之路标"
       }
     ],
     "meta_jp": "地蔵",
@@ -6283,7 +6283,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>並び並びて指し示す\n<SURNAME/>其は<SURNAME/>迷い子達の<SURNAME/>道しるへ",
-        "zh": "\n<SURNAME/>并排并排指路向\n<SURNAME/>此乃<SURNAME/>迷途童子们<SURNAME/>之路标"
+        "zh": "\n<SURNAME/>并排并排指路向\n<SURNAME/>此乃<SURNAME/>迷途童子们<SURNAME/>之路示"
       }
     ],
     "meta_jp": "地蔵",
@@ -6294,7 +6294,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>其は<SURNAME/>在らぬ言華の<SURNAME/>深い愛",
-        "zh": "\n<SURNAME/>此乃<SURNAME/>无言花语<SURNAME/>之深爱"
+        "zh": "\n<SURNAME/>此乃<SURNAME/>无言话语<SURNAME/>之深爱"
       }
     ],
     "meta_jp": "地蔵",
@@ -6305,7 +6305,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>其は<SURNAME/>在らぬ言華と<SURNAME/>深き愛",
-        "zh": "\n<SURNAME/>此乃<SURNAME/>无言花语<SURNAME/>与深爱"
+        "zh": "\n<SURNAME/>此乃<SURNAME/>无言话语<SURNAME/>与厚爱"
       }
     ],
     "meta_jp": "地蔵",
@@ -6316,7 +6316,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>其は<SURNAME/>有らぬ言華の<SURNAME/>深き愛",
-        "zh": "\n<SURNAME/>此乃<SURNAME/>无言花语<SURNAME/>之深爱"
+        "zh": "\n<SURNAME/>此乃<SURNAME/>无言话语<SURNAME/>之厚爱"
       }
     ],
     "meta_jp": "地蔵",
@@ -6338,7 +6338,7 @@
     "pages": [
       {
         "jp": "\n<SURNAME/>語らぬ<SURNAME/>地臓ガ<SURNAME/>示す先\n<SURNAME/>はるかな<SURNAME/>はるかな<SURNAME/>森は開けり",
-        "zh": "\n<SURNAME/>缄默<SURNAME/>地臧<SURNAME/>所示前方\n<SURNAME/>遥遥<SURNAME/>遥遥<SURNAME/>森扉洞开"
+        "zh": "\n<SURNAME/>缄默<SURNAME/>地臧<SURNAME/>所示前方\n<SURNAME/>遥遥<SURNAME/>遥遥<SURNAME/>森扉同开"
       }
     ],
     "meta_jp": "地蔵",
